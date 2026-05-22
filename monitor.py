@@ -97,7 +97,65 @@ mapping = {
     "不當解約": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U9",
     "法律聲明": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
     "法務": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
-    "官方聲明": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1"
+    "官方聲明": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1",
+
+    # === 5. 專屬補充：熱門事件主角與知名創作者 ===
+    "老高": "https://ui-avatars.com/api/?name=老高&background=facc15&color=a16207&size=128",
+    "小茉": "https://ui-avatars.com/api/?name=小茉&background=facc15&color=a16207&size=128",
+    "晚安小雞": "https://ui-avatars.com/api/?name=小雞&background=713f12&color=fff&size=128",
+    "峰哥": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
+    "錫蘭": "https://ui-avatars.com/api/?name=Cey&background=dc2626&color=fff&size=128",
+    "Ceylan": "https://ui-avatars.com/api/?name=Cey&background=dc2626&color=fff&size=128",
+    "愛莉莎莎": "https://ui-avatars.com/api/?name=莎莎&background=fbcfe8&color=db2777&size=128",
+    "阿滴": "https://ui-avatars.com/api/?name=阿滴&background=ef4444&color=fff&size=128",
+    "志祺": "https://ui-avatars.com/api/?name=志祺&background=111827&color=fff&size=128",
+
+    # === 6. 經典/頂流 Twitch 實況主 ===
+    "史丹利": "https://ui-avatars.com/api/?name=丹利&background=dc2626&color=fff&size=128",
+    "Stanley": "https://ui-avatars.com/api/?name=丹利&background=dc2626&color=fff&size=128",
+    "NL": "https://ui-avatars.com/api/?name=NL&background=0ea5e9&color=fff&size=128",
+    "六嘆": "https://ui-avatars.com/api/?name=6tan&background=16a34a&color=fff&size=128",
+    "鳥屎": "https://ui-avatars.com/api/?name=鳥屎&background=57534e&color=fff&size=128",
+    "老皮": "https://ui-avatars.com/api/?name=老皮&background=d97706&color=fff&size=128",
+    "大丸": "https://ui-avatars.com/api/?name=大丸&background=f97316&color=fff&size=128",
+    "Winds": "https://ui-avatars.com/api/?name=大丸&background=f97316&color=fff&size=128",
+    "龜狗": "https://ui-avatars.com/api/?name=龜狗&background=84cc16&color=fff&size=128",
+    "冠緯": "https://ui-avatars.com/api/?name=冠緯&background=3b82f6&color=fff&size=128",
+    "RB": "https://ui-avatars.com/api/?name=RB&background=6366f1&color=fff&size=128",
+    
+    # === 7. 人氣女實況主 / VType ===
+    "貝莉莓": "https://ui-avatars.com/api/?name=莓&background=be185d&color=fff&size=128",
+    "依渟": "https://ui-avatars.com/api/?name=ET&background=fbcfe8&color=db2777&size=128",
+    "赤鬼伯伯": "https://ui-avatars.com/api/?name=赤鬼&background=9f1239&color=fff&size=128",
+    "林襄": "https://ui-avatars.com/api/?name=林襄&background=fecdd3&color=e11d48&size=128",
+    "李多慧": "https://ui-avatars.com/api/?name=多慧&background=fecdd3&color=e11d48&size=128",
+
+    # === 8. 更多潛力/話題 VTuber ===
+    "洛可洛斯特": "https://ui-avatars.com/api/?name=洛可&background=93c5fd&color=1e3a8a&size=128",
+    "兔姬": "https://ui-avatars.com/api/?name=兔姬&background=f9a8d4&color=9d174d&size=128",
+    "李聽": "https://ui-avatars.com/api/?name=李聽&background=cbd5e1&color=334155&size=128",
+    "塔芭絲可": "https://ui-avatars.com/api/?name=塔&background=ef4444&color=fff&size=128",
+    "冰霧": "https://ui-avatars.com/api/?name=冰霧&background=cffafe&color=0891b2&size=128",
+    "希翁": "https://ui-avatars.com/api/?name=希翁&background=d8b4fe&color=6b21a8&size=128",
+
+    # === 9. 新增企業與品牌 ===
+    "極深空計畫": "https://ui-avatars.com/api/?name=深空&background=312e81&color=fff&size=128",
+    "魔競娛樂": "https://ui-avatars.com/api/?name=魔競&background=b91c1c&color=fff&size=128",
+
+    # === 10. 更多人氣/潛力 VTuber ===
+    "璐洛洛": "https://ui-avatars.com/api/?name=Lolo&background=a7f3d0&color=065f46&size=128",
+    "洛洛": "https://ui-avatars.com/api/?name=Lolo&background=a7f3d0&color=065f46&size=128",
+    "煙花蹦蹦蹦": "https://ui-avatars.com/api/?name=Fire&background=fde047&color=78350f&size=128",
+    "魔理花": "https://ui-avatars.com/api/?name=Mari&background=f43f5e&color=fff&size=128",
+    "鳥羽樂奈": "https://ui-avatars.com/api/?name=Rana&background=f87171&color=fff&size=128",
+    "瑞斯帝亞": "https://ui-avatars.com/api/?name=Rres&background=1e3a8a&color=fff&size=128",
+    "Rrestia": "https://ui-avatars.com/api/?name=Rres&background=1e3a8a&color=fff&size=128",
+
+    # === 11. 通用災難/事件關鍵字 (防呆觸發) ===
+    "炎上": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "道歉": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "聲明": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "抵制": "https://ui-avatars.com/api/?name=⛔&background=991b1b&color=fff&size=128"
 }
 
 AVATAR_DICT = mapping
@@ -490,7 +548,7 @@ for ev in active_events:
     card_html = f"""
         <div class="event-card {cat_class}" data-category="{cat}">
             <div class="avatar-container">
-                <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy">
+                <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
             </div>
             <div class="card-content">
                 <div class="card-header">
