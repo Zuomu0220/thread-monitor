@@ -1,26 +1,74 @@
 [
   {
-    "category": "STREAMER",
-    "date": "2026/05/21",
-    "title": "實況主熱門討論",
-    "summary": "統神今天在實況上又開噴了！聽說是因為評論最近的熱門社會時事，觀點太過偏激，結果導致原本合作的廠商紛紛發聲明終止代言合作。底下一堆人在吵，有人說只是做效果，有人說太扯了。",
-    "image_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500",
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam《戰鎚 40K：角鬥士》限免",
+    "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
+    "image_url": null,
     "days_left": 6
   },
   {
-    "category": "VTUBER",
-    "date": "2026/05/20",
-    "title": "VTuber畢業消息",
-    "summary": "天啊！知名VTuber「櫻花奈奈」今天宣佈即將在月底舉辦畢業直播... 粉絲群整個炸開了，大家都無法接受這個突如其來的消息，有人猜測是不是跟營運合約談不攏，還是有其他生涯規劃？",
-    "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500",
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "像素 Roguelite 射擊《DDoD：紫霧》釋出Demo",
+    "summary": "俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。",
+    "image_url": null,
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "海盜冒險《鹽 2：黃金海岸》特惠五折",
+    "summary": "開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。",
+    "image_url": null,
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/05/21",
+    "title": "老高無預警取消直播惹議",
+    "summary": "YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。",
+    "image_url": null,
     "days_left": 5
   },
   {
     "category": "GAME",
-    "date": "2026/05/19",
-    "title": "遊戲特惠情報",
-    "summary": "知名獨立遊戲《星空探險記》今天在 Steam 開啟限時免費下載活動！只要在 5/25 前加入收藏庫就能永久保留，大家快搶啊！",
-    "image_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500",
+    "date": "2026/05/21",
+    "title": "Six One Indie 遊戲節 Demo 大量釋出",
+    "summary": "知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。",
+    "image_url": null,
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/20",
+    "title": "貓宮結乃起訴網路人身攻擊",
+    "summary": "台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。",
+    "image_url": null,
     "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/19",
+    "title": "ORI央莉直播提及他V引發風波",
+    "summary": "VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。",
+    "image_url": null,
+    "days_left": 3
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/05/18",
+    "title": "晚安小雞私闖民宅遭起訴",
+    "summary": "網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。",
+    "image_url": null,
+    "days_left": 2
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/18",
+    "title": "浠Mizuki失言遭禁言兩個月",
+    "summary": "台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。",
+    "image_url": null,
+    "days_left": 2
   }
 ]
