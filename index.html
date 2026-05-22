@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔥 網路輿情炎上觀測站</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --container-bg: rgba(22, 27, 34, 0.7);
+            --card-bg: #161b22;
+            --card-border: #30363d;
+            --text-primary: #f0f6fc;
+            --text-secondary: #8b949e;
+            
+            --streamer-color: #a582ff;
+            --streamer-glow: rgba(165, 130, 255, 0.15);
+            --vtuber-color: #ff82b2;
+            --vtuber-glow: rgba(255, 130, 178, 0.15);
+            --game-color: #3fb950;
+            --game-glow: rgba(63, 185, 80, 0.15);
+            
+            --warning-color: #f0883e;
+            --info-color: #58a6ff;
+            --active-tab-bg: #21262d;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', 'Noto Sans TC', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: radial-gradient(circle at top, #161b22 0%, #0d1117 100%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            padding: 40px 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 900px;
+            background: var(--container-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--card-border);
+            border-radius: 24px;
+            padding: 40px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 1px solid var(--card-border);
+            padding-bottom: 30px;
+            position: relative;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #ff82b2 0%, #a582ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        header p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            margin: 5px 0;
+        }
+
+        .time-badge {
+            display: inline-block;
+            background: #21262d;
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 6px 16px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--text-primary);
+            margin-top: 15px;
+        }
+
+        /* 統計狀態欄 */
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: rgba(22, 27, 34, 0.5);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 15px;
+            text-align: center;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .stat-card:hover {
+            transform: translateY(-2px);
+            background: rgba(33, 38, 45, 0.5);
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .stat-val {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        .stat-streamer { color: var(--streamer-color); }
+        .stat-vtuber { color: var(--vtuber-color); }
+        .stat-game { color: var(--game-color); }
+
+        /* 分類選擇頁籤 */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 1px solid var(--card-border);
+            padding-bottom: 15px;
+            overflow-x: auto;
+        }
+
+        .tab-btn {
+            background: transparent;
+            border: 1px solid transparent;
+            color: var(--text-secondary);
+            padding: 10px 20px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.95rem;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .tab-btn.active {
+            background: var(--active-tab-bg);
+            border-color: var(--card-border);
+            color: var(--text-primary);
+        }
+
+        /* 事件清單 */
+        .events-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .event-card {
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 24px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            display: block;
+        }
+
+        .event-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+        }
+
+        .event-card.streamer::before { background: var(--streamer-color); }
+        .event-card.vtuber::before { background: var(--vtuber-color); }
+        .event-card.game::before { background: var(--game-color); }
+
+        .event-card.streamer:hover {
+            box-shadow: 0 8px 30px var(--streamer-glow);
+            border-color: rgba(165, 130, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .event-card.vtuber:hover {
+            box-shadow: 0 8px 30px var(--vtuber-glow);
+            border-color: rgba(255, 130, 178, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .event-card.game:hover {
+            box-shadow: 0 8px 30px var(--game-glow);
+            border-color: rgba(63, 185, 80, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .cat-label {
+            font-size: 0.8rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 8px;
+        }
+
+        .cat-streamer {
+            background: rgba(165, 130, 255, 0.15);
+            color: var(--streamer-color);
+        }
+
+        .cat-vtuber {
+            background: rgba(255, 130, 178, 0.15);
+            color: var(--vtuber-color);
+        }
+
+        .cat-game {
+            background: rgba(63, 185, 80, 0.15);
+            color: var(--game-color);
+        }
+
+        .card-meta {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .event-date {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .badge {
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 3px 8px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+        }
+
+        .badge-warning {
+            background: rgba(240, 136, 62, 0.15);
+            color: var(--warning-color);
+        }
+
+        .badge-info {
+            background: rgba(88, 166, 255, 0.15);
+            color: var(--info-color);
+        }
+
+        .event-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+
+        .event-summary {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .event-image {
+            display: block;
+            width: 100%;
+            max-height: 380px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-top: 15px;
+            border: 1px solid var(--card-border);
+            background: #000;
+        }
+
+        .no-events {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-secondary);
+            font-size: 1rem;
+            border: 1px dashed var(--card-border);
+            border-radius: 16px;
+        }
+
+        .readonly-notice {
+            text-align: center;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-top: 40px;
+            letter-spacing: 1px;
+            border-top: 1px solid var(--card-border);
+            padding-top: 25px;
+        }
+
+        /* 響應式優化 */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                border-radius: 16px;
+            }
+            header h1 {
+                font-size: 1.8rem;
+            }
+            .stats-bar {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            .card-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+            .card-meta {
+                width: 100%;
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔥 網路輿情炎上觀測站</h1>
+            <p>🕒 自動化監控 · 僅保留 6 天內最新事件 · 屆滿自動淘汰清空</p>
+            <div class="time-badge">當前觀測時間：2026/05/21</div>
+        </header>
+
+        <!-- 狀態統計欄 -->
+        <div class="stats-bar">
+            <div class="stat-card">
+                <span class="stat-label">🎮 實況主事件</span>
+                <span class="stat-val stat-streamer" id="stats-streamer">1</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">🔮 VTuber 事件</span>
+                <span class="stat-val stat-vtuber" id="stats-vtuber">1</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">🕹️ 遊戲情報</span>
+                <span class="stat-val stat-game" id="stats-game">1</span>
+            </div>
+        </div>
+
+        <!-- 篩選頁籤 -->
+        <div class="tabs">
+            <button class="tab-btn active" data-filter="ALL">📱 全部 (實況主/VTuber)</button>
+            <button class="tab-btn" data-filter="STREAMER">🎮 實況主區</button>
+            <button class="tab-btn" data-filter="VTUBER">🔮 VTuber 區</button>
+            <button class="tab-btn" data-filter="GAME">🕹️ 遊戲情報特區</button>
+        </div>
+
+        <!-- 事件清單 -->
+        <div class="events-list" id="events-container">
+            
+        <div class="event-card streamer" data-category="STREAMER">
+            <div class="card-header">
+                <span class="cat-label cat-streamer">🎮 實況主</span>
+                <div class="card-meta">
+                    <span class="event-date">5月21日</span>
+                    <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                </div>
+            </div>
+            <h3 class="event-title">實況主熱門討論</h3>
+            <p class="event-summary">統神今天在實況上又開噴了！聽說是因為評論最近的熱門社會時事，觀點太過偏激，結果導致原本合作的廠商紛紛發聲明終止代言合作。底下一堆人在吵，有人說只是做效果，有人說太扯了。</p>
+            <img class="event-image" src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500" alt="事件圖片" loading="lazy">
+        </div>
+        
+
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="card-header">
+                <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                <div class="card-meta">
+                    <span class="event-date">5月20日</span>
+                    <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
+                </div>
+            </div>
+            <h3 class="event-title">VTuber畢業消息</h3>
+            <p class="event-summary">天啊！知名VTuber「櫻花奈奈」今天宣佈即將在月底舉辦畢業直播... 粉絲群整個炸開了，大家都無法接受這個突如其來的消息，有人猜測是不是跟營運合約談不攏，還是有其他生涯規劃？</p>
+            <img class="event-image" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500" alt="事件圖片" loading="lazy">
+        </div>
+        
+
+        <div class="event-card game" data-category="GAME">
+            <div class="card-header">
+                <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                <div class="card-meta">
+                    <span class="event-date">5月19日</span>
+                    <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                </div>
+            </div>
+            <h3 class="event-title">遊戲特惠情報</h3>
+            <p class="event-summary">知名獨立遊戲《星空探險記》今天在 Steam 開啟限時免費下載活動！只要在 5/25 前加入收藏庫就能永久保留，大家快搶啊！</p>
+            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
+        </div>
+        
+        </div>
+
+        <div class="readonly-notice">🔒 BOARD STATUS: READ-ONLY (唯讀看板)</div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tabs = document.querySelectorAll('.tab-btn');
+            const cards = document.querySelectorAll('.event-card');
+            const container = document.getElementById('events-container');
+
+            function filterCategory(filterValue) {
+                let matchCount = 0;
+                cards.forEach(card => {
+                    const cardCat = card.getAttribute('data-category');
+                    if (filterValue === 'ALL') {
+                        // "ALL" 頁籤精準呈現 實況主區(STREAMER) 與 VTuber區(VTUBER)，排除遊戲區(GAME)
+                        if (cardCat === 'STREAMER' || cardCat === 'VTUBER') {
+                            card.style.display = 'block';
+                            matchCount++;
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    } else {
+                        // 各別分頁顯示對應類別
+                        if (cardCat === filterValue) {
+                            card.style.display = 'block';
+                            matchCount++;
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    }
+                });
+
+                // 如果該分類下沒有任何卡片，顯示無事件提示
+                const existingNoEvents = container.querySelector('.no-events-temp');
+                if (existingNoEvents) {
+                    existingNoEvents.remove();
+                }
+
+                if (matchCount === 0) {
+                    const noEventsDiv = document.createElement('div');
+                    noEventsDiv.className = 'no-events no-events-temp';
+                    noEventsDiv.innerText = '📡 此分類下目前無 6 天內的監測事件。';
+                    container.appendChild(noEventsDiv);
+                }
+            }
+
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    tabs.forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    filterCategory(tab.getAttribute('data-filter'));
+                });
+            });
+
+            // 預設初始化為全部 (實況主/VTuber)
+            filterCategory('ALL');
+        });
+    </script>
+</body>
+</html>

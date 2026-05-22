@@ -1,0 +1,26 @@
+[
+  {
+    "category": "STREAMER",
+    "date": "2026/05/21",
+    "title": "實況主熱門討論",
+    "summary": "統神今天在實況上又開噴了！聽說是因為評論最近的熱門社會時事，觀點太過偏激，結果導致原本合作的廠商紛紛發聲明終止代言合作。底下一堆人在吵，有人說只是做效果，有人說太扯了。",
+    "image_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/20",
+    "title": "VTuber畢業消息",
+    "summary": "天啊！知名VTuber「櫻花奈奈」今天宣佈即將在月底舉辦畢業直播... 粉絲群整個炸開了，大家都無法接受這個突如其來的消息，有人猜測是不是跟營運合約談不攏，還是有其他生涯規劃？",
+    "image_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/19",
+    "title": "遊戲特惠情報",
+    "summary": "知名獨立遊戲《星空探險記》今天在 Steam 開啟限時免費下載活動！只要在 5/25 前加入收藏庫就能永久保留，大家快搶啊！",
+    "image_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500",
+    "days_left": 4
+  }
+]
