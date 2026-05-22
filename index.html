@@ -222,9 +222,9 @@
         /* 頭像區域樣式 */
         .avatar-container {
             flex-shrink: 0;
-            width: 72px;
-            height: 72px;
-            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            border-radius: 16px;
             overflow: hidden;
             border: 2px solid var(--card-border);
             background: rgba(255, 255, 255, 0.05);
@@ -365,8 +365,9 @@
                 gap: 15px;
             }
             .avatar-container {
-                width: 60px;
-                height: 60px;
+                width: 64px;
+                height: 64px;
+                border-radius: 12px;
             }
             .card-header {
                 flex-direction: column;
@@ -393,15 +394,15 @@
         <div class="stats-bar">
             <div class="stat-card">
                 <span class="stat-label">🎮 實況主事件</span>
-                <span class="stat-val stat-streamer" id="stats-streamer">2</span>
+                <span class="stat-val stat-streamer" id="stats-streamer">3</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🔮 VTuber 事件</span>
-                <span class="stat-val stat-vtuber" id="stats-vtuber">1</span>
+                <span class="stat-val stat-vtuber" id="stats-vtuber">6</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🕹️ 遊戲情報</span>
-                <span class="stat-val stat-game" id="stats-game">4</span>
+                <span class="stat-val stat-game" id="stats-game">13</span>
             </div>
         </div>
 
@@ -433,9 +434,26 @@
             </div>
         </div>
 
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月22日</span>
+                        <span class="badge badge-info">⏰ 剩餘 7 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Hololive りりーか「豆乳ウニ豆腐丼」外觀引發熱議</h3>
+                <p class="event-summary">Hololive 旗下 VTuber りりーか（Ririka）在直播中製作了一道名為「豆乳ウニ豆腐丼」（豆漿海膽豆腐丼）的料理，然而其成品外觀因酷似排泄物，在日本 VTuber 社群中迅速成為廣受討論的話題。</p>
+            </div>
+        </div>
+
         <div class="event-card streamer" data-category="STREAMER">
             <div class="avatar-container">
-                <img class="event-avatar" src="https://i.imgur.com/t1_doran_fan_controversy.jpg" alt="頭像" loading="lazy">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=150&q=80" alt="頭像" loading="lazy">
             </div>
             <div class="card-content">
                 <div class="card-header">
@@ -447,6 +465,57 @@
                 </div>
                 <h3 class="event-title">《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議</h3>
                 <p class="event-summary">一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。</p>
+            </div>
+        </div>
+
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=150&q=80" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月21日</span>
+                        <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">台V圈爭議：ORI央莉與艾美麗的合約與隱私風波</h3>
+                <p class="event-summary">台灣VTuber「ORI央莉」與一家廠商因活動結束後的結算物料與請款流程出現時間差，產生合約糾紛。ORI央莉在直播中檢視廠商資訊並質疑其誠信，間接引發對VTuber「艾美麗」是否與該廠商有特殊利益關係的討論。艾美麗隨後在社群平台X上回應，稱自己遭到「衝塔」（真實身份遭曝光），強調隱私權受侵害，並極力撇清與廠商的利益關係。此事件在社群上引發兩極討論，部分輿論認為艾美麗的回應模糊了廠商失約的核心問題。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月21日</span>
+                        <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Six One Indie Showcase 獨立遊戲發表會回歸</h3>
+                <p class="event-summary">Six One Indie Showcase 於 5 月 21 日再次登場，此發表會將帶來多款獨立遊戲的最新預告片、全球首映內容以及豐富的活動，為獨立遊戲愛好者提供最新情報。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://p2.bahamut.com.tw/B/2KU/75/7f422894344429e20a70f61d2d1q1qf5.JPG" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月21日</span>
+                        <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">免費動作新作《HoRoyal〜Hololive 大逃殺〜》Steam上市</h3>
+                <p class="event-summary">COVER旗下專營hololive二次元遊戲品牌「holo Indie」的子公司CCMC宣布，由wai開發的大逃殺動作遊戲《HoRoyal〜Hololive 大逃殺〜》今日起在Steam平台免費遊玩。遊戲收錄超過一萬個實況語音，玩家可與30多位Hololive成員一同享受大逃殺樂趣。</p>
             </div>
         </div>
 
@@ -469,7 +538,7 @@
 
         <div class="event-card streamer" data-category="STREAMER">
             <div class="avatar-container">
-                <img class="event-avatar" src="https://i.imgur.com/example_streamer_fan_controversy.jpg" alt="頭像" loading="lazy">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy">
             </div>
             <div class="card-content">
                 <div class="card-header">
@@ -484,9 +553,43 @@
             </div>
         </div>
 
+        <div class="event-card streamer" data-category="STREAMER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-streamer">🎮 實況主</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月19日</span>
+                        <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">峰哥討論VTuber浠Mizuki中之人訊息引發爭議</h3>
+                <p class="event-summary">知名YouTuber峰哥在直播或社群上討論VTuber浠Mizuki的「中之人」（幕後扮演者）訊息，此舉在VTuber粉絲圈及網路社群引發高度討論與不滿，被視為揭露個人隱私的行為。</p>
+            </div>
+        </div>
+
         <div class="event-card vtuber" data-category="VTUBER">
             <div class="avatar-container">
-                <img class="event-avatar" src="https://i.imgur.com/ximizuki_vtuber.jpg" alt="頭像" loading="lazy">
+                <img class="event-avatar" src="https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月19日</span>
+                        <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">浠Mizuki中之人訊息遭外洩並引發社群熱議</h3>
+                <p class="event-summary">VTuber浠Mizuki的「中之人」訊息在社群平台上被發現，導致粉絲熱烈討論，此事件隨後演變成高度關注的爭議話題。</p>
+            </div>
+        </div>
+
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png" alt="頭像" loading="lazy">
             </div>
             <div class="card-content">
                 <div class="card-header">
@@ -520,6 +623,91 @@
 
         <div class="event-card game" data-category="GAME">
             <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn.akamai.steamstatic.com/steam/clusters/sale_ocean_festival/capsules/main_586x272.jpg" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月18日</span>
+                        <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Steam 海洋節主題特賣活動開跑</h3>
+                <p class="event-summary">Steam 平台於 5 月 18 日至 5 月 25 日期間舉辦「海洋節」主題特賣活動。此活動將聚焦於所有與海洋相關的遊戲，無論是水上或水下題材，預計將提供折扣或相關活動。</p>
+            </div>
+        </div>
+
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月18日</span>
+                        <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">子午計畫對浠Mizuki處以停工處分</h3>
+                <p class="event-summary">因應中之人訊息外洩爭議，VTuber經紀公司子午計畫宣布對旗下VTuber浠Mizuki正式處以停工。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://p2.bahamut.com.tw/B/2KU/89/a24d5507ee504179e8a77f24791q2o25.JPG" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月18日</span>
+                        <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">國產動作遊戲《死深Die Deep》試玩版於Steam釋出</h3>
+                <p class="event-summary">台灣獨立遊戲團隊PINIX公布，其最新動作遊戲《死深Die Deep》的試玩版已於Steam平台開放下載，同時釋出BitSummit Demo的實機遊玩影片，展示以「捨棄探索、純粹戰鬥」為特色的玩法。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn.akamai.steamstatic.com/steam/apps/2849400/header.jpg" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月17日</span>
+                        <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Steam 免費遊戲庫擴充 8 款作品</h3>
+                <p class="event-summary">Steam 平台近日擴充了免費遊戲庫，新增 8 款作品，其中部分遊戲於 2026 年 4 月下旬至 5 月上架，且多款作品獲得玩家好評率超過 85%。值得關注的遊戲包括經營冒險模擬遊戲《Tales of Terrarum》、物理跳躍遊戲《Ecto》、恐龍主題自動戰鬥卡牌遊戲《Prehistoric Pack》、機甲動作遊戲《S.O.R.N.》等。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn1.epicgames.com/salesEvent/salesEvent/MEGA_Sale_2026_KeyArt_1200x675.jpg" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月16日</span>
+                        <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Epic Games MEGA Sale 2026 熱烈進行中</h3>
+                <p class="event-summary">Epic Games Store 的年度大型促銷活動「MEGA Sale 2026」現正熱烈進行中，活動將持續至 6 月 11 日。本次特賣提供各大 3A 大作與獨立遊戲佳作最高可享 75% 的折扣，並在活動期間持續輪替提供免費遊戲。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
                 <img class="event-avatar" src="https://i.imgur.com/terrors_to_unveil_day_off.jpg" alt="頭像" loading="lazy">
             </div>
             <div class="card-content">
@@ -532,6 +720,74 @@
                 </div>
                 <h3 class="event-title">心理恐怖遊戲《Terrors to Unveil - Day Off》Steam限時免費領取</h3>
                 <p class="event-summary">獨立遊戲團隊Psycho宣布，旗下的心理恐怖遊戲《Terrors to Unveil - Day Off》即日起至5月20日凌晨1時在Steam平台開放限時免費領取，領取後可永久保留。遊戲以森林小木屋為背景，講述主角在休假期間捲入夢魘的故事情節，採用復古視覺風格並有多重結局。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月15日</span>
+                        <span class="badge badge-info">⏰ 最後一天上架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Steam 免費週末與多款遊戲特價</h3>
+                <p class="event-summary">Steam 平台推出為期至 5 月 18 日的免費週末活動，玩家可限時免費暢玩多款遊戲，包括吸血鬼主題生存動作 RPG《V Rising》、動作 Roguelite《Astral Ascent》、奇幻 RPG《GreedFall》、合作生存遊戲《MISERY》以及混亂多人派對遊戲《Make Way》。同時，這些遊戲也提供優惠折扣。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BatmanTheTelltaleSeries_TelltaleGames_S3_2560x1440-a3930b80544573173d1f057885b5d15a" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月15日</span>
+                        <span class="badge badge-info">⏰ 最後一天上架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">Epic Games Store 限時免費遊戲釋出</h3>
+                <p class="event-summary">Epic Games Store 宣布公開兩款限時免費遊戲，玩家可在 5 月 21 日前免費領取。包含主打合作遊玩的回合制 RPG《Sunderfolk》以及收錄《Batman: The Telltale Series》與《Batman: The Enemy Within》兩款作品及其 DLC 的《Telltale Batman Shadows Edition》。</p>
+            </div>
+        </div>
+
+        <div class="event-card vtuber" data-category="VTUBER">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月15日</span>
+                        <span class="badge badge-info">⏰ 最後一天上架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">台灣VTuber盜圖爭議浮上檯面</h3>
+                <p class="event-summary">有台灣VTuber在網路上被指控盜用圖片，此事在社群間引發公審，支持與反對的兩派聲音在各大論壇上形成爭論。</p>
+            </div>
+        </div>
+
+        <div class="event-card game" data-category="GAME">
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://cdn.akamai.steamstatic.com/steam/apps/3587490/header.jpg" alt="頭像" loading="lazy">
+            </div>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月15日</span>
+                        <span class="badge badge-info">⏰ 最後一天上架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">心理恐怖遊戲《Terrors to Unveil - Day Off》限時免費領取</h3>
+                <p class="event-summary">獨立遊戲團隊Psycho宣布，心理恐怖遊戲《Terrors to Unveil - Day Off》即日起至2026年5月20日凌晨1時，在Steam平台開放限時限量免費領取，領取後可永久保留遊戲。</p>
             </div>
         </div>
         </div>

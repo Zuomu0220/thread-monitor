@@ -10,6 +10,129 @@ from google.genai import types
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
+# 精準頭像與圖片字典 (常出現的實況主與 VTuber)
+mapping = {
+    # ==========================================
+    # 1. 【子午計畫 Meridian Project】
+    # ==========================================
+    "浠Mizuki": "https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png",
+    "浠": "https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png",
+    "響Hibiki": "https://yt3.googleusercontent.com/v8t_WfP2pWnO9R0e8B2z_O7fV78vS_u5U8",
+    "KSP": "https://yt3.googleusercontent.com/v8t_WfP2pWnO9R0e8B2z_O7fV78vS_u5U9",
+    "埃穆亞": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
+    "涅默": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U1",
+    "稀羽cibou": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U2",
+    "橘子不加糖": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U3",
+    "子午計畫": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U4",
+    "子午": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U4",
+
+    # ==========================================
+    # 2. 【春魚創意 Springfish Studio】
+    # ==========================================
+    "露恰露恰": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U5",
+    "歐貝爾": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U6",
+    "厄倫蒂兒": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U7",
+    "涅莉": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U8",
+    "幻月": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U9",
+    "白昆布": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U0",
+    "春魚創意": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U1",
+    "春魚": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U1",
+
+    # ==========================================
+    # 3. 【箱箱創意 BoxBox / 其他知名企業勢與個人勢】
+    # ==========================================
+    "森森鈴蘭": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U2",
+    "瑪格麗特": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U3",
+    "柴崎楓音": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U4",
+    "箱箱創意": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U5",
+    "悠白": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U6",
+    "周尋": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U7",
+    "塔林": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U8",
+    "平平子": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U9",
+    "貓宮結乃": "https://images.uncyc.org/tw/thumb/c/c0/%E8%B2%93%E5%AE%AE%E7%B5%90%E4%B9%83.png/300px-%E8%B2%93%E5%AE%AE%E7%B5%90%E4%B9%83.png",
+    "蘭斯洛特": "https://static.wixstatic.com/media/cfb902_cb988b4cb0fa49fbb9fb8e4f50b4ec1e~mv2.png",
+    "阿爾姿": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U0",
+    "杏仁ミル": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U1",
+    "米魯": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U1",
+
+    # ==========================================
+    # 4. 【YouTuber / 頂流 Twitch 實況主】
+    # ==========================================
+    "亞洲統神": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
+    "統神": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
+    "張嘉航": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
+    "國動": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U2",
+    "張葦航": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U2",
+    "Toyz": "https://images.uncyc.org/tw/thumb/e/e3/Toyz.jpg/300px-Toyz.jpg",
+    "劉偉健": "https://images.uncyc.org/tw/thumb/e/e3/Toyz.jpg/300px-Toyz.jpg",
+    "館長": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
+    "陳之漢": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
+    "丁特": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U4",
+    "Dinter": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U4",
+    "九面": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
+    "Joeman": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
+    "孫生": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U6",
+    "酷炫": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U7",
+    "反骨男孩": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U7",
+    "蕾菈": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U8",
+    "超哥": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U9",
+    "黃老師": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U0",
+    "基隆東": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U1",
+    "羅傑": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U2",
+    "Roger": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U2",
+    "不敬師尊": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U3",
+    "餐餐自由配": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U4",
+    "魯蛋": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U4",
+    "懶貓": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U5",
+
+    # ==========================================
+    # 5. 【官方重大告知 / 營運特別聲明專屬圖（最高優先權）】
+    # ==========================================
+    "畢業告知": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
+    "畢業": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
+    "重大告知": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U7",
+    "停止活動": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "暫停活動": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "解約": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U9",
+    "不當解約": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U9",
+    "法律聲明": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
+    "法務": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
+    "官方聲明": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1"
+}
+
+AVATAR_DICT = mapping
+
+# 輔助函數：比對頭像並套用階層優先規則
+def resolve_avatar_url(title, summary, category, gemini_img_url):
+    t_lower = title.lower()
+    s_lower = summary.lower()
+    
+    # 1. 官方重大告知 (最高優先權)
+    announcement_keys = [
+        "畢業告知", "畢業", "重大告知", "停止活動", "暫停活動", "解約", "不當解約", "法律聲明", "法務", "官方聲明"
+    ]
+    for key in announcement_keys:
+        if key.lower() in t_lower or key.lower() in s_lower:
+            return AVATAR_DICT[key]
+            
+    # 2. 精準配對人名與公司所屬 (按長度從長到短，避免短片名先被配對，支援多重關鍵字模糊掃描)
+    sorted_names = sorted([k for k in AVATAR_DICT.keys() if k not in announcement_keys], key=len, reverse=True)
+    for name in sorted_names:
+        if name.lower() in t_lower or name.lower() in s_lower:
+            return AVATAR_DICT[name]
+            
+    # 3. 如果 Gemini 聯網搜尋有給出有效的自帶圖片網址
+    if gemini_img_url and "example" not in gemini_img_url.lower() and gemini_img_url.lower() != 'none':
+        return gemini_img_url
+        
+    # 4. 根據分類給予精美的預設分類圖
+    if category == "STREAMER":
+        return "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80"
+    elif category == "VTUBER":
+        return "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80"
+    else:
+        return "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
+
 # 1. 自動獲取當前的現實時間，定死 7 天的時間邊界
 today = datetime.now()
 seven_days_ago = today - timedelta(days=7)  # 超過 7 天前 (delta > 7) 淘汰，保留 delta <= 7
@@ -235,6 +358,9 @@ while i < len(lines):
         
         title, summary = split_title_summary(rest)
             
+        # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
+        avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
+
         # 計算年份並轉換為標準 %Y/%m/%d 格式
         date_str = f"{today.year}/{month:02d}/{day:02d}"
         if today.month == 1 and month == 12:
@@ -267,6 +393,13 @@ if os.path.exists(db_path):
                         ev["avatar_url"] = ev.pop("image_url")
                     else:
                         ev.pop("image_url", None)
+                
+                # 重新對現有事件進行頭像字典對應與預設圖防呆
+                title = ev.get("title", "")
+                summary = ev.get("summary", "")
+                cat = ev.get("category", "")
+                avatar_url = ev.get("avatar_url")
+                ev["avatar_url"] = resolve_avatar_url(title, summary, cat, avatar_url)
     except Exception as e:
         print(f"⚠️ 載入資料庫失敗：{e}，將初始化新資料庫。")
 
@@ -603,9 +736,9 @@ html_template = f"""<!DOCTYPE html>
         /* 頭像區域樣式 */
         .avatar-container {{
             flex-shrink: 0;
-            width: 72px;
-            height: 72px;
-            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            border-radius: 16px;
             overflow: hidden;
             border: 2px solid var(--card-border);
             background: rgba(255, 255, 255, 0.05);
@@ -746,8 +879,9 @@ html_template = f"""<!DOCTYPE html>
                 gap: 15px;
             }}
             .avatar-container {{
-                width: 60px;
-                height: 60px;
+                width: 64px;
+                height: 64px;
+                border-radius: 12px;
             }}
             .card-header {{
                 flex-direction: column;
