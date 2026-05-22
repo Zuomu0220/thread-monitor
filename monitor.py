@@ -15,8 +15,8 @@ mapping = {
     # ==========================================
     # 1. 【子午計畫 Meridian Project】
     # ==========================================
-    "浠Mizuki": "https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png",
-    "浠": "https://images.uncyc.org/tw/thumb/2/25/%E6%B5%A0Mizuki.png/300px-%E6%B5%A0Mizuki.png",
+    "浠Mizuki": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
+    "浠": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
     "響Hibiki": "https://yt3.googleusercontent.com/v8t_WfP2pWnO9R0e8B2z_O7fV78vS_u5U8",
     "KSP": "https://yt3.googleusercontent.com/v8t_WfP2pWnO9R0e8B2z_O7fV78vS_u5U9",
     "埃穆亞": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
@@ -49,7 +49,7 @@ mapping = {
     "周尋": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U7",
     "塔林": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U8",
     "平平子": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U9",
-    "貓宮結乃": "https://images.uncyc.org/tw/thumb/c/c0/%E8%B2%93%E5%AE%AE%E7%B5%90%E4%B9%83.png/300px-%E8%B2%93%E5%AE%AE%E7%B5%90%E4%B9%83.png",
+    "貓宮結乃": "https://prd.resource-api.lit.link/images/creator/0d440944-01f8-46ef-b365-c017c7aeed93/ebc45843-fde8-4981-8c3b-be913587fb79.jpg",
     "蘭斯洛特": "https://static.wixstatic.com/media/cfb902_cb988b4cb0fa49fbb9fb8e4f50b4ec1e~mv2.png",
     "阿爾姿": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U0",
     "杏仁ミル": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U1",
@@ -58,13 +58,13 @@ mapping = {
     # ==========================================
     # 4. 【YouTuber / 頂流 Twitch 實況主】
     # ==========================================
-    "亞洲統神": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
-    "統神": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
-    "張嘉航": "https://images.uncyc.org/tw/thumb/f/f3/%E7%B5%B1%E7%A5%9E.jpg/300px-%E7%B5%B1%E7%A5%9E.jpg",
+    "亞洲統神": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
+    "統神": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
+    "張嘉航": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
     "國動": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U2",
     "張葦航": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U2",
-    "Toyz": "https://images.uncyc.org/tw/thumb/e/e3/Toyz.jpg/300px-Toyz.jpg",
-    "劉偉健": "https://images.uncyc.org/tw/thumb/e/e3/Toyz.jpg/300px-Toyz.jpg",
+    "Toyz": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kurtis_%2522Toyz%2522_Lau_Wai-kin_%2528April_2020%2529.jpg",
+    "劉偉健": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kurtis_%2522Toyz%2522_Lau_Wai-kin_%2528April_2020%2529.jpg",
     "館長": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
     "陳之漢": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
     "丁特": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U4",
@@ -545,11 +545,17 @@ for ev in active_events:
         else:
             avatar_url = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
 
-    card_html = f"""
-        <div class="event-card {cat_class}" data-category="{cat}">
+    if cat == "GAME":
+        avatar_html = ""
+    else:
+        avatar_html = f"""
             <div class="avatar-container">
                 <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
-            </div>
+            </div>"""
+
+    card_html = f"""
+        <div class="event-card {cat_class}" data-category="{cat}">
+            {avatar_html}
             <div class="card-content">
                 <div class="card-header">
                     {cat_label}
