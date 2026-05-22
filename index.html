@@ -183,7 +183,9 @@
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
-            display: block;
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
         }
 
         .event-card::before {
@@ -217,11 +219,47 @@
             transform: translateY(-2px);
         }
 
+        /* 頭像區域樣式 */
+        .avatar-container {
+            flex-shrink: 0;
+            width: 72px;
+            height: 72px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid var(--card-border);
+            background: rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+
+        .event-card:hover .avatar-container {
+            transform: scale(1.05);
+        }
+
+        .event-card.streamer:hover .avatar-container { border-color: var(--streamer-color); }
+        .event-card.vtuber:hover .avatar-container { border-color: var(--vtuber-color); }
+        .event-card.game:hover .avatar-container { border-color: var(--game-color); }
+
+        .event-avatar {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* 右側內容區 */
+        .card-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
         .card-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 15px;
         }
 
         .cat-label {
@@ -280,25 +318,14 @@
         .event-title {
             font-size: 1.25rem;
             font-weight: 700;
-            margin-bottom: 10px;
             line-height: 1.4;
+            color: var(--text-primary);
         }
 
         .event-summary {
             font-size: 0.95rem;
             color: var(--text-secondary);
             line-height: 1.6;
-        }
-
-        .event-image {
-            display: block;
-            width: 100%;
-            max-height: 380px;
-            object-fit: cover;
-            border-radius: 12px;
-            margin-top: 15px;
-            border: 1px solid var(--card-border);
-            background: #000;
         }
 
         .no-events {
@@ -333,10 +360,19 @@
                 grid-template-columns: 1fr;
                 gap: 10px;
             }
+            .event-card {
+                flex-direction: column;
+                gap: 15px;
+            }
+            .avatar-container {
+                width: 60px;
+                height: 60px;
+            }
             .card-header {
                 flex-direction: column;
                 align-items: flex-start;
                 gap: 8px;
+                width: 100%;
             }
             .card-meta {
                 width: 100%;
@@ -349,7 +385,7 @@
     <div class="container">
         <header>
             <h1>🔥 網路輿情炎上觀測站</h1>
-            <p>🕒 自動化監控 · 僅保留 6 天內最新事件 · 屆滿自動淘汰清空</p>
+            <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
             <div class="time-badge">當前觀測時間：2026/05/22</div>
         </header>
 
@@ -361,11 +397,11 @@
             </div>
             <div class="stat-card">
                 <span class="stat-label">🔮 VTuber 事件</span>
-                <span class="stat-val stat-vtuber" id="stats-vtuber">3</span>
+                <span class="stat-val stat-vtuber" id="stats-vtuber">1</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🕹️ 遊戲情報</span>
-                <span class="stat-val stat-game" id="stats-game">8</span>
+                <span class="stat-val stat-game" id="stats-game">4</span>
             </div>
         </div>
 
@@ -381,185 +417,122 @@
         <div class="events-list" id="events-container">
 
         <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月22日</span>
-                    <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/palworld_pocketpair.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">Steam《戰鎚 40K：角鬥士》限免</h3>
-            <p class="event-summary">4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月22日</span>
-                    <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月22日</span>
+                        <span class="badge badge-info">⏰ 剩餘 7 天下架</span>
+                    </div>
                 </div>
+                <h3 class="event-title">Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩</h3>
+                <p class="event-summary">開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。</p>
             </div>
-            <h3 class="event-title">像素 Roguelite 射擊《DDoD：紫霧》釋出Demo</h3>
-            <p class="event-summary">俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月22日</span>
-                    <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
-                </div>
-            </div>
-            <h3 class="event-title">海盜冒險《鹽 2：黃金海岸》特惠五折</h3>
-            <p class="event-summary">開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
         </div>
 
         <div class="event-card streamer" data-category="STREAMER">
-            <div class="card-header">
-                <span class="cat-label cat-streamer">🎮 實況主</span>
-                <div class="card-meta">
-                    <span class="event-date">5月21日</span>
-                    <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/t1_doran_fan_controversy.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">老高無預警取消直播惹議</h3>
-            <p class="event-summary">YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500" alt="事件圖片" loading="lazy">
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-streamer">🎮 實況主</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月21日</span>
+                        <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議</h3>
+                <p class="event-summary">一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。</p>
+            </div>
         </div>
 
         <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月21日</span>
-                    <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/awakening_beauty.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">Six One Indie 遊戲節 Demo 大量釋出</h3>
-            <p class="event-summary">知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card vtuber" data-category="VTUBER">
-            <div class="card-header">
-                <span class="cat-label cat-vtuber">🔮 VTuber</span>
-                <div class="card-meta">
-                    <span class="event-date">5月20日</span>
-                    <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月20日</span>
+                        <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
+                    </div>
                 </div>
+                <h3 class="event-title">台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH</h3>
+                <p class="event-summary">來自台灣的獨立遊戲團隊「葉開罐工作室」宣布，旗下開發中作品《夢閃少女Awaking Beauty》已正式入選日本最大獨立遊戲展「BitSummit PUNCH 2026」，並旋風釋出全新預告片與Steam試玩版大更新。</p>
             </div>
-            <h3 class="event-title">貓宮結乃起訴網路人身攻擊</h3>
-            <p class="event-summary">台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card vtuber" data-category="VTUBER">
-            <div class="card-header">
-                <span class="cat-label cat-vtuber">🔮 VTuber</span>
-                <div class="card-meta">
-                    <span class="event-date">5月19日</span>
-                    <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
-                </div>
-            </div>
-            <h3 class="event-title">ORI央莉直播提及他V引發風波</h3>
-            <p class="event-summary">VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月19日</span>
-                    <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
-                </div>
-            </div>
-            <h3 class="event-title">AquaDream Soundtrack 《水之夢》原聲帶</h3>
-            <p class="event-summary">Steam 平台提供免費限時領取，活動期間為 2026/05/19 01:00 至 2026/05/26 01:00。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
-        </div>
-
-        <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月19日</span>
-                    <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
-                </div>
-            </div>
-            <h3 class="event-title">BROTHER!!! Save him!</h3>
-            <p class="event-summary">Steam 平台有資訊指出此遊戲於 2026 年 5 月 19 日前後提供限時免費領取。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
         </div>
 
         <div class="event-card streamer" data-category="STREAMER">
-            <div class="card-header">
-                <span class="cat-label cat-streamer">🎮 實況主</span>
-                <div class="card-meta">
-                    <span class="event-date">5月18日</span>
-                    <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/example_streamer_fan_controversy.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">晚安小雞私闖民宅遭起訴</h3>
-            <p class="event-summary">網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500" alt="事件圖片" loading="lazy">
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-streamer">🎮 實況主</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月19日</span>
+                        <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">實況「火山孝子」心態崩塌引發熱議</h3>
+                <p class="event-summary">社群平台Threads上流傳一名觀眾因過度投入追隨實況主，導致情緒崩潰的事件。該事件引發網友對於「火山孝子」現象以及實況主與觀眾界線的廣泛討論。網友們紛紛分享類似經驗，並探討如何理性應對追星文化，避免過度沉迷導致身心受創。</p>
+            </div>
         </div>
 
         <div class="event-card vtuber" data-category="VTUBER">
-            <div class="card-header">
-                <span class="cat-label cat-vtuber">🔮 VTuber</span>
-                <div class="card-meta">
-                    <span class="event-date">5月18日</span>
-                    <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/ximizuki_vtuber.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">浠Mizuki失言遭禁言兩個月</h3>
-            <p class="event-summary">台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500" alt="事件圖片" loading="lazy">
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月18日</span>
+                        <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">VTuber「浠Mizuki」中之人曝光後續爭議延燒</h3>
+                <p class="event-summary">「子午計畫」VTuber浠Mizuki因疑似「中之人」照片意外曝光，引發網路社群高度討論與爭議。知名實況主「峰哥」在直播中提及此事件後，更在Threads上引起VTuber粉絲（VT豚）破防開噴。據悉，事件爆發後浠Mizuki的粉絲人數有明顯下滑，外界持續關注此風波的後續發展。</p>
+            </div>
         </div>
 
         <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月16日</span>
-                    <span class="badge badge-info">⏰ 最後一天上架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/diedeep_game.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">Dino running from a FURRY</h3>
-            <p class="event-summary">GAMESFORFARM：Steam 平台提供免費限時領取，活動期間為 2026/05/16 01:00 至 2026/05/31 01:00。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月18日</span>
+                        <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">台灣國產動作遊戲《死深Die Deep》Steam試玩版釋出</h3>
+                <p class="event-summary">台灣獨立遊戲團隊PINIX宣布，旗下動作遊戲新作《死深Die Deep》試玩版於今日在Steam平台釋出。該作主打「捨棄探索、純粹戰鬥」的核心玩法，玩家將體驗高難度純粹敵我對峙的戰鬥。同時，《死深Die Deep》將連續第二年參展日本獨立遊戲展BitSummit PUNCH，現場也將提供Demo試玩。</p>
+            </div>
         </div>
 
         <div class="event-card game" data-category="GAME">
-            <div class="card-header">
-                <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                <div class="card-meta">
-                    <span class="event-date">5月16日</span>
-                    <span class="badge badge-info">⏰ 最後一天上架</span>
-                </div>
+            <div class="avatar-container">
+                <img class="event-avatar" src="https://i.imgur.com/terrors_to_unveil_day_off.jpg" alt="頭像" loading="lazy">
             </div>
-            <h3 class="event-title">Terrors to Unveil - Day Off</h3>
-            <p class="event-summary">Steam 平台提供免費限時領取，活動期間為 2026/05/15 01:00 至 2026/05/20 01:00。此活動在 05/16 至 05/20 期間仍可領取。</p>
-            
-            <img class="event-image" src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500" alt="事件圖片" loading="lazy">
+            <div class="card-content">
+                <div class="card-header">
+                    <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                    <div class="card-meta">
+                        <span class="event-date">5月15日</span>
+                        <span class="badge badge-info">⏰ 最後一天上架</span>
+                    </div>
+                </div>
+                <h3 class="event-title">心理恐怖遊戲《Terrors to Unveil - Day Off》Steam限時免費領取</h3>
+                <p class="event-summary">獨立遊戲團隊Psycho宣布，旗下的心理恐怖遊戲《Terrors to Unveil - Day Off》即日起至5月20日凌晨1時在Steam平台開放限時免費領取，領取後可永久保留。遊戲以森林小木屋為背景，講述主角在休假期間捲入夢魘的故事情節，採用復古視覺風格並有多重結局。</p>
+            </div>
         </div>
         </div>
 
@@ -579,7 +552,7 @@
                     if (filterValue === 'ALL') {
                         // "ALL" 頁籤精準呈現 實況主區(STREAMER) 與 VTuber區(VTUBER)，排除遊戲區(GAME)
                         if (cardCat === 'STREAMER' || cardCat === 'VTUBER') {
-                            card.style.display = 'block';
+                            card.style.display = 'flex';
                             matchCount++;
                         } else {
                             card.style.display = 'none';
@@ -587,7 +560,7 @@
                     } else {
                         // 各別分頁顯示對應類別
                         if (cardCat === filterValue) {
-                            card.style.display = 'block';
+                            card.style.display = 'flex';
                             matchCount++;
                         } else {
                             card.style.display = 'none';
@@ -604,7 +577,7 @@
                 if (matchCount === 0) {
                     const noEventsDiv = document.createElement('div');
                     noEventsDiv.className = 'no-events no-events-temp';
-                    noEventsDiv.innerText = '📡 此分類下目前無 6 天內的監測事件。';
+                    noEventsDiv.innerText = '📡 此分類下目前無 7 天內的監測事件。';
                     container.appendChild(noEventsDiv);
                 }
             }

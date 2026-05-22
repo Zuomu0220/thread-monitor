@@ -2,105 +2,57 @@
   {
     "category": "GAME",
     "date": "2026/05/22",
-    "title": "Steam《戰鎚 40K：角鬥士》限免",
-    "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
-    "image_url": null,
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "像素 Roguelite 射擊《DDoD：紫霧》釋出Demo",
-    "summary": "俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。",
-    "image_url": null,
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "海盜冒險《鹽 2：黃金海岸》特惠五折",
-    "summary": "開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。",
-    "image_url": null,
-    "days_left": 6
+    "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
+    "summary": "開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。",
+    "avatar_url": "https://i.imgur.com/palworld_pocketpair.jpg",
+    "days_left": 7
   },
   {
     "category": "STREAMER",
     "date": "2026/05/21",
-    "title": "老高無預警取消直播惹議",
-    "summary": "YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。",
-    "image_url": null,
-    "days_left": 5
+    "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
+    "summary": "一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。",
+    "avatar_url": "https://i.imgur.com/t1_doran_fan_controversy.jpg",
+    "days_left": 6
   },
   {
     "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Six One Indie 遊戲節 Demo 大量釋出",
-    "summary": "知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。",
-    "image_url": null,
+    "date": "2026/05/20",
+    "title": "台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH",
+    "summary": "來自台灣的獨立遊戲團隊「葉開罐工作室」宣布，旗下開發中作品《夢閃少女Awaking Beauty》已正式入選日本最大獨立遊戲展「BitSummit PUNCH 2026」，並旋風釋出全新預告片與Steam試玩版大更新。",
+    "avatar_url": "https://i.imgur.com/awakening_beauty.jpg",
     "days_left": 5
   },
   {
-    "category": "VTUBER",
-    "date": "2026/05/20",
-    "title": "貓宮結乃起訴網路人身攻擊",
-    "summary": "台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。",
-    "image_url": null,
+    "category": "STREAMER",
+    "date": "2026/05/19",
+    "title": "實況「火山孝子」心態崩塌引發熱議",
+    "summary": "社群平台Threads上流傳一名觀眾因過度投入追隨實況主，導致情緒崩潰的事件。該事件引發網友對於「火山孝子」現象以及實況主與觀眾界線的廣泛討論。網友們紛紛分享類似經驗，並探討如何理性應對追星文化，避免過度沉迷導致身心受創。",
+    "avatar_url": "https://i.imgur.com/example_streamer_fan_controversy.jpg",
     "days_left": 4
   },
   {
     "category": "VTUBER",
-    "date": "2026/05/19",
-    "title": "ORI央莉直播提及他V引發風波",
-    "summary": "VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。",
-    "image_url": null,
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/19",
-    "title": "AquaDream Soundtrack 《水之夢》原聲帶",
-    "summary": "Steam 平台提供免費限時領取，活動期間為 2026/05/19 01:00 至 2026/05/26 01:00。",
-    "image_url": null,
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/19",
-    "title": "BROTHER!!! Save him!",
-    "summary": "Steam 平台有資訊指出此遊戲於 2026 年 5 月 19 日前後提供限時免費領取。",
-    "image_url": null,
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
     "date": "2026/05/18",
-    "title": "晚安小雞私闖民宅遭起訴",
-    "summary": "網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。",
-    "image_url": null,
-    "days_left": 2
+    "title": "VTuber「浠Mizuki」中之人曝光後續爭議延燒",
+    "summary": "「子午計畫」VTuber浠Mizuki因疑似「中之人」照片意外曝光，引發網路社群高度討論與爭議。知名實況主「峰哥」在直播中提及此事件後，更在Threads上引起VTuber粉絲（VT豚）破防開噴。據悉，事件爆發後浠Mizuki的粉絲人數有明顯下滑，外界持續關注此風波的後續發展。",
+    "avatar_url": "https://i.imgur.com/ximizuki_vtuber.jpg",
+    "days_left": 3
   },
   {
-    "category": "VTUBER",
+    "category": "GAME",
     "date": "2026/05/18",
-    "title": "浠Mizuki失言遭禁言兩個月",
-    "summary": "台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。",
-    "image_url": null,
-    "days_left": 2
+    "title": "台灣國產動作遊戲《死深Die Deep》Steam試玩版釋出",
+    "summary": "台灣獨立遊戲團隊PINIX宣布，旗下動作遊戲新作《死深Die Deep》試玩版於今日在Steam平台釋出。該作主打「捨棄探索、純粹戰鬥」的核心玩法，玩家將體驗高難度純粹敵我對峙的戰鬥。同時，《死深Die Deep》將連續第二年參展日本獨立遊戲展BitSummit PUNCH，現場也將提供Demo試玩。",
+    "avatar_url": "https://i.imgur.com/diedeep_game.jpg",
+    "days_left": 3
   },
   {
     "category": "GAME",
-    "date": "2026/05/16",
-    "title": "Dino running from a FURRY",
-    "summary": "GAMESFORFARM：Steam 平台提供免費限時領取，活動期間為 2026/05/16 01:00 至 2026/05/31 01:00。",
-    "image_url": null,
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/16",
-    "title": "Terrors to Unveil - Day Off",
-    "summary": "Steam 平台提供免費限時領取，活動期間為 2026/05/15 01:00 至 2026/05/20 01:00。此活動在 05/16 至 05/20 期間仍可領取。",
-    "image_url": null,
+    "date": "2026/05/15",
+    "title": "心理恐怖遊戲《Terrors to Unveil - Day Off》Steam限時免費領取",
+    "summary": "獨立遊戲團隊Psycho宣布，旗下的心理恐怖遊戲《Terrors to Unveil - Day Off》即日起至5月20日凌晨1時在Steam平台開放限時免費領取，領取後可永久保留。遊戲以森林小木屋為背景，講述主角在休假期間捲入夢魘的故事情節，採用復古視覺風格並有多重結局。",
+    "avatar_url": "https://i.imgur.com/terrors_to_unveil_day_off.jpg",
     "days_left": 0
   }
 ]
