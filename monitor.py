@@ -3,7 +3,8 @@ import re
 import json
 import sys
 from datetime import datetime, timedelta
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # 確保 Windows 終端機能正常印出 Unicode Emoji
 if hasattr(sys.stdout, 'reconfigure'):
@@ -62,16 +63,12 @@ if not api_key:
 * **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [海盜冒險《鹽 2：黃金海岸》特惠五折]：開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。
 """
 else:
-    genai.configure(api_key=api_key)
-    
-    # 3. 【核心升級】建立模型時，強制開啟 Google Search 連網工具
-    model = genai.GenerativeModel(
-        model_name='gemini-1.5-flash',
-        tools=[{"google_search": {}}]  # 👈 這行是魔法，讓 AI 具備主動搜尋最新網路實時資料的能力
-    )
-    
-    # 4. 給 AI 的搜尋與過濾指令
-    prompt = f"""
+    # 3. 使用全新的 google-genai SDK 進行連網搜尋
+    try:
+        client = genai.Client(api_key=api_key)
+        
+        # 4. 給 AI 的搜尋與過濾指令
+        prompt = f"""
 今天是真實世界時間：{today_str}。
 請你使用 Google Search 功能，主動去網路（特別是 Threads、社群論壇、PTT、Dcard、Steam、遊戲新聞網站）搜尋最近 7 天內（也就是從 {cutoff_str} 到 {today_str} 之間），關於以下三類的最新消息與討論：
 1. 「台灣/華語圈 實況主（Streamer）」最新發生的熱門爭議、炎上、吵架或討論度極高的話題事件。
@@ -94,10 +91,18 @@ else:
 ### 🕹️ 遊戲區
 * **[MM/DD]** [遊戲名稱/情報簡述]：免費、特價、測試版等具體情報內容。
 """
-    print("🔍 AI 正在主動潛入網路搜尋最新 Threads 與社群炎上事件及獨立遊戲情報（這需要花費大約 10-20 秒）...")
-    try:
-        response = model.generate_content(prompt)
+        print("🔍 AI 正在主動潛入網路搜尋最新 Threads 與社群炎上事件及獨立遊戲情報（這需要花費大約 10-20 秒）...")
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())]
+            )
+        )
         ai_output = response.text
+        print("--- AI RAW OUTPUT ---")
+        print(ai_output)
+        print("---------------------")
     except Exception as e:
         print(f"❌ 呼叫 Gemini 連網搜尋失敗：{e}")
         exit(1)
@@ -125,13 +130,21 @@ while i < len(lines):
         continue
         
         
-    # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
-    match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?.*?\s*\[(.*?)\]\s*[:：]\s*(.*)', line)
+    # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容 (或無括號版本)
+    match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
     if match and current_category:
         month = int(match.group(1))
         day = int(match.group(2))
-        title = match.group(3).strip()
-        summary = match.group(4).strip()
+        rest = match.group(3).strip()
+        
+        # 以第一個冒號分割標題與內容
+        parts = re.split(r'[:：]', rest, maxsplit=1)
+        if len(parts) == 2:
+            title = parts[0].strip().strip('[]').strip('【】').strip('*').strip()
+            summary = parts[1].strip()
+        else:
+            title = "最新情報"
+            summary = rest
         
         # 計算年份並轉換為標準 %Y/%m/%d 格式
         date_str = f"{today.year}/{month:02d}/{day:02d}"

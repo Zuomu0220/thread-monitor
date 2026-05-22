@@ -56,6 +56,22 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/05/19",
+    "title": "AquaDream Soundtrack 《水之夢》原聲帶",
+    "summary": "Steam 平台提供免費限時領取，活動期間為 2026/05/19 01:00 至 2026/05/26 01:00。",
+    "image_url": null,
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/19",
+    "title": "BROTHER!!! Save him!",
+    "summary": "Steam 平台有資訊指出此遊戲於 2026 年 5 月 19 日前後提供限時免費領取。",
+    "image_url": null,
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/05/18",
     "title": "晚安小雞私闖民宅遭起訴",
@@ -70,5 +86,21 @@
     "summary": "台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。",
     "image_url": null,
     "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/16",
+    "title": "Dino running from a FURRY",
+    "summary": "GAMESFORFARM：Steam 平台提供免費限時領取，活動期間為 2026/05/16 01:00 至 2026/05/31 01:00。",
+    "image_url": null,
+    "days_left": 0
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/16",
+    "title": "Terrors to Unveil - Day Off",
+    "summary": "Steam 平台提供免費限時領取，活動期間為 2026/05/15 01:00 至 2026/05/20 01:00。此活動在 05/16 至 05/20 期間仍可領取。",
+    "image_url": null,
+    "days_left": 0
   }
 ]
