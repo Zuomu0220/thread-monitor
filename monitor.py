@@ -440,8 +440,9 @@ except Exception as e:
     new_extracted_events = []
 
 # 6. 合併新舊資料並進行去重 (以 category, date, title 為鍵)
-db_path = "C:/Users/User/.gemini/antigravity/scratch/threads_monitor/events.json"
-html_path = "C:/Users/User/.gemini/antigravity/scratch/threads_monitor/index.html"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+db_path = os.path.join(script_dir, "events.json")
+html_path = os.path.join(script_dir, "index.html")
 
 existing_events = []
 if os.path.exists(db_path):
