@@ -981,7 +981,7 @@ html_template = f"""<!DOCTYPE html>
         <header>
             <h1>🔥 網路輿情炎上觀測站</h1>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
-            <div class="time-badge">當前觀測時間：{today_time_str}</div>
+            <div class="time-badge">當前觀測時間：{today_time_str} ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
         </header>
 
         <!-- 狀態統計欄 -->
@@ -1018,6 +1018,22 @@ html_template = f"""<!DOCTYPE html>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {{
+            // Real-time live clock
+            function updateLiveClock() {{
+                const now = new Date();
+                const yyyy = now.getFullYear();
+                const mm = String(now.getMonth() + 1).padStart(2, '0');
+                const dd = String(now.getDate()).padStart(2, '0');
+                const hh = String(now.getHours()).padStart(2, '0');
+                const min = String(now.getMinutes()).padStart(2, '0');
+                const ss = String(now.getSeconds()).padStart(2, '0');
+                const clockEl = document.getElementById('live-clock');
+                if (clockEl) {{
+                    clockEl.textContent = `${{yyyy}}/${{mm}}/${{dd}} ${{hh}}:${{min}}:${{ss}}`;
+                }}
+            }}
+            updateLiveClock();
+            setInterval(updateLiveClock, 1000);
             const tabs = document.querySelectorAll('.tab-btn');
             const cards = document.querySelectorAll('.event-card');
             const container = document.getElementById('events-container');
