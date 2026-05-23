@@ -376,65 +376,68 @@ def split_title_summary(text):
 
 # 5. 解析 Gemini 輸出的 Markdown 格式並結構化儲存
 new_extracted_events = []
-current_category = None
-lines = ai_output.split('\n')
-i = 0
-while i < len(lines):
-    line = lines[i].strip()
-    if not line:
-        i += 1
-        continue
-    
-    # 辨識分類
-    if line.startswith("#"):
-        if "實況主" in line or "STREAMER" in line or "🎮" in line:
-            current_category = "STREAMER"
-        elif "VTuber" in line or "vtuber" in line or "🔮" in line:
-            current_category = "VTUBER"
-        elif "遊戲" in line or "GAME" in line or "🕹️" in line:
-            current_category = "GAME"
-        i += 1
-        continue
+try:
+    current_category = None
+    lines = ai_output.split('\n')
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        if not line:
+            i += 1
+            continue
         
-    # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
-    match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
-    if match and current_category:
-        month = int(match.group(1))
-        day = int(match.group(2))
-        rest = match.group(3).strip()
-        
-        # 尋找並解析 [圖片: 網址]
-        avatar_url = None
-        img_match = re.search(r'\[圖片\s*[:：]\s*([^\]]+)\]', rest)
-        if img_match:
-            img_val = img_match.group(1).strip()
-            if img_val.lower() != 'none':
-                url_match = re.search(r'(https?://[^\s\)]+)', img_val)
-                if url_match:
-                    avatar_url = url_match.group(1).strip()
-            # 從 rest 中移去這個標記 (包括中括號內的所有字元)
-            rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
-        
-        title, summary = split_title_summary(rest)
+        # 辨識分類
+        if line.startswith("#"):
+            if "實況主" in line or "STREAMER" in line or "🎮" in line:
+                current_category = "STREAMER"
+            elif "VTuber" in line or "vtuber" in line or "🔮" in line:
+                current_category = "VTUBER"
+            elif "遊戲" in line or "GAME" in line or "🕹️" in line:
+                current_category = "GAME"
+            i += 1
+            continue
             
-        # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
-        avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
-
-        # 計算年份並轉換為標準 %Y/%m/%d 格式
-        date_str = f"{today.year}/{month:02d}/{day:02d}"
-        if today.month == 1 and month == 12:
-            date_str = f"{today.year - 1}/{month:02d}/{day:02d}"
+        # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
+        match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
+        if match and current_category:
+            month = int(match.group(1))
+            day = int(match.group(2))
+            rest = match.group(3).strip()
             
-        new_extracted_events.append({
-            "category": current_category,
-            "date": date_str,
-            "title": title,
-            "summary": summary,
-            "avatar_url": avatar_url
-        })
-    i += 1
+            # 尋找並解析 [圖片: 網址]
+            avatar_url = None
+            img_match = re.search(r'\[圖片\s*[:：]\s*([^\]]+)\]', rest)
+            if img_match:
+                img_val = img_match.group(1).strip()
+                if img_val.lower() != 'none':
+                    url_match = re.search(r'(https?://[^\s\)]+)', img_val)
+                    if url_match:
+                        avatar_url = url_match.group(1).strip()
+                # 從 rest 中移去這個標記 (包括中括號內的所有字元)
+                rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
+            
+            title, summary = split_title_summary(rest)
+                
+            # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
+            avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
 
-print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與情報。")
+            # 計算年份並轉換為標準 %Y/%m/%d 格式
+            date_str = f"{today.year}/{month:02d}/{day:02d}"
+            if today.month == 1 and month == 12:
+                date_str = f"{today.year - 1}/{month:02d}/{day:02d}"
+                
+            new_extracted_events.append({
+                "category": current_category,
+                "date": date_str,
+                "title": title,
+                "summary": summary,
+                "avatar_url": avatar_url
+            })
+        i += 1
+    print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與情報。")
+except Exception as e:
+    print(f"❌ 解析 Gemini 輸出內容時發生錯誤: {e}")
+    new_extracted_events = []
 
 # 6. 合併新舊資料並進行去重 (以 category, date, title 為鍵)
 db_path = "C:/Users/User/.gemini/antigravity/scratch/threads_monitor/events.json"
@@ -463,64 +466,60 @@ if os.path.exists(db_path):
         print(f"⚠️ 載入資料庫失敗：{e}，將初始化新資料庫。")
 
 # 合併新舊資料並進行去重 (以 title 為唯一識別金鑰，遇到重複時保留日期最新者)
-all_events_map = {}
-for ev in existing_events:
-    title = ev.get("title", "").strip()
-    if title:
-        all_events_map[title] = ev
-
-for ev in new_extracted_events:
-    title = ev.get("title", "").strip()
-    if not title:
-        continue
-    if title not in all_events_map:
-        all_events_map[title] = ev
-    else:
-        # 比對日期，保留較新者
-        try:
-            existing_date = datetime.strptime(all_events_map[title]["date"], "%Y/%m/%d")
-            new_date = datetime.strptime(ev["date"], "%Y/%m/%d")
-            if new_date > existing_date:
-                all_events_map[title] = ev
-        except Exception as e:
-            # 如果日期解析出錯，預設保留已存在的或進行替換
-            print(f"⚠️ 比較重複標題日期時出錯 ({title}): {e}")
-            pass
-
-
-# 7. 自動檢查日期，強制刪除距離今天大於 7 天的舊項目以及 2025 年以前的過期事件
 active_events = []
 expired_count = 0
-for key, ev in all_events_map.items():
-    try:
-        ev_date = datetime.strptime(ev["date"], "%Y/%m/%d")
-        if ev_date.year < 2026:
-            expired_count += 1
+try:
+    all_events_map = {}
+    for ev in existing_events:
+        title = ev.get("title", "").strip()
+        if title:
+            all_events_map[title] = ev
+
+    for ev in new_extracted_events:
+        title = ev.get("title", "").strip()
+        if not title:
             continue
-        delta = (today.date() - ev_date.date()).days
-        if 0 <= delta <= 7:
-            ev["days_left"] = 7 - delta
-            active_events.append(ev)
+        if title not in all_events_map:
+            all_events_map[title] = ev
         else:
-            expired_count += 1
-    except Exception as e:
-        print(f"⚠️ 處理日期出錯 ({ev.get('date')}): {e}")
-        continue
+            # 比對日期，保留較新者
+            try:
+                existing_date = datetime.strptime(all_events_map[title]["date"], "%Y/%m/%d")
+                new_date = datetime.strptime(ev["date"], "%Y/%m/%d")
+                if new_date > existing_date:
+                    all_events_map[title] = ev
+            except Exception as e:
+                pass
 
-# 8. 最大容量限制保護 (最多 50 則)
-# 無論是否超過 50 則，為了確保排序，我們都先依照日期由新到舊排序
-active_events.sort(key=lambda x: x["date"], reverse=True)
+    # 7. 自動檢查日期，強制刪除距離今天大於 7 天的舊項目以及 2025 年以前的過期事件
+    for key, ev in all_events_map.items():
+        try:
+            ev_date = datetime.strptime(ev["date"], "%Y/%m/%d")
+            if ev_date.year < 2026:
+                expired_count += 1
+                continue
+            delta = (today.date() - ev_date.date()).days
+            if 0 <= delta <= 7:
+                ev["days_left"] = 7 - delta
+                active_events.append(ev)
+            else:
+                expired_count += 1
+        except Exception as e:
+            continue
 
-truncated_count = 0
-if len(active_events) > 50:
-    truncated_count = len(active_events) - 50
-    active_events = active_events[:50]
-    print(f"⚠️ 事件總數超過 50 則，已自動剔除較舊的 {truncated_count} 則事件。")
+    # 8. 最大容量限制保護 (最多 50 則)
+    active_events.sort(key=lambda x: x["date"], reverse=True)
+    if len(active_events) > 50:
+        active_events = active_events[:50]
 
-# 寫回 events.json
-with open(db_path, "w", encoding="utf-8") as f:
-    json.dump(active_events, f, ensure_ascii=False, indent=2)
-print(f"💾 資料庫更新成功！保留：{len(active_events)} 筆，自動淘汰：{expired_count} 筆。")
+    # 寫回 events.json
+    with open(db_path, "w", encoding="utf-8") as f:
+        json.dump(active_events, f, ensure_ascii=False, indent=2)
+    print(f"💾 資料庫更新成功！保留：{len(active_events)} 筆，自動淘汰：{expired_count} 筆。")
+except Exception as e:
+    print(f"❌ 更新或過濾資料庫檔案時發生錯誤：{e}")
+    # Fallback to existing_events if saving failed
+    active_events = existing_events
 
 # 9. 統計各分類事件數量
 streamer_count = sum(1 for e in active_events if e["category"] == "STREAMER")
@@ -529,62 +528,65 @@ game_count = sum(1 for e in active_events if e["category"] == "GAME")
 
 # 10. 拼裝符合網頁 CSS 架構的 HTML 內容
 events_html_list = []
-for ev in active_events:
-    cat = ev["category"]
-    date_str = ev["date"]
-    try:
-        dt = datetime.strptime(date_str, "%Y/%m/%d")
-        date_display = f"{dt.month}月{dt.day}日"
-    except:
-        date_display = date_str
-    
-    days_left = ev.get("days_left", 0)
-    days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
-    
-    if cat == "STREAMER":
-        cat_class = "streamer"
-        cat_label = '<span class="cat-label cat-streamer">🎮 實況主</span>'
-    elif cat == "VTUBER":
-        cat_class = "vtuber"
-        cat_label = '<span class="cat-label cat-vtuber">🔮 VTuber</span>'
-    else:
-        cat_class = "game"
-        cat_label = '<span class="cat-label cat-game">🕹️ 遊戲區</span>'
+try:
+    for ev in active_events:
+        cat = ev["category"]
+        date_str = ev["date"]
+        try:
+            dt = datetime.strptime(date_str, "%Y/%m/%d")
+            date_display = f"{dt.month}月{dt.day}日"
+        except:
+            date_display = date_str
         
-    avatar_url = ev.get("avatar_url")
-    # 對於無圖片的卡片提供對應類別的高視覺質感 default Unsplash 圖片
-    if not avatar_url:
+        days_left = ev.get("days_left", 0)
+        days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
+        
         if cat == "STREAMER":
-            avatar_url = "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80"
+            cat_class = "streamer"
+            cat_label = '<span class="cat-label cat-streamer">🎮 實況主</span>'
         elif cat == "VTUBER":
-            avatar_url = "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80"
+            cat_class = "vtuber"
+            cat_label = '<span class="cat-label cat-vtuber">🔮 VTuber</span>'
         else:
-            avatar_url = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
+            cat_class = "game"
+            cat_label = '<span class="cat-label cat-game">🕹️ 遊戲區</span>'
+            
+        avatar_url = ev.get("avatar_url")
+        # 對於無圖片的卡片提供對應類別的高視覺質感 default Unsplash 圖片
+        if not avatar_url:
+            if cat == "STREAMER":
+                avatar_url = "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80"
+            elif cat == "VTUBER":
+                avatar_url = "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80"
+            else:
+                avatar_url = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
 
-    if cat == "GAME":
-        avatar_html = ""
-    else:
-        avatar_html = f"""
-            <div class="avatar-container">
-                <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
-            </div>"""
+        if cat == "GAME":
+            avatar_html = ""
+        else:
+            avatar_html = f"""
+                <div class="avatar-container">
+                    <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
+                </div>"""
 
-    card_html = f"""
-        <div class="event-card {cat_class}" data-category="{cat}">
-            {avatar_html}
-            <div class="card-content">
-                <div class="card-header">
-                    {cat_label}
-                    <div class="card-meta">
-                        <span class="event-date">{date_display}</span>
-                        <span class="badge badge-info">⏰ {days_left_text}</span>
+        card_html = f"""
+            <div class="event-card {cat_class}" data-category="{cat}">
+                {avatar_html}
+                <div class="card-content">
+                    <div class="card-header">
+                        {cat_label}
+                        <div class="card-meta">
+                            <span class="event-date">{date_display}</span>
+                            <span class="badge badge-info">⏰ {days_left_text}</span>
+                        </div>
                     </div>
+                    <h3 class="event-title">{ev["title"]}</h3>
+                    <p class="event-summary">{ev["summary"]}</p>
                 </div>
-                <h3 class="event-title">{ev["title"]}</h3>
-                <p class="event-summary">{ev["summary"]}</p>
-            </div>
-        </div>"""
-    events_html_list.append(card_html)
+            </div>"""
+        events_html_list.append(card_html)
+except Exception as e:
+    print(f"❌ 拼裝 HTML 內容時發生錯誤: {e}")
 
 if not events_html_list:
     formatted_events_html = '<div class="no-events">📡 當前無監測中事件，舊訊息已完全自動下架清空。</div>'
@@ -1091,7 +1093,9 @@ html_template = f"""<!DOCTYPE html>
 </html>"""
 
 # 12. 寫出網頁檔案
-with open(html_path, "w", encoding="utf-8") as f:
-    f.write(html_template)
-
-print("✅ [成功] index.html 已由 AI 聯網抓取最新資料並自動淘汰、更新完成！")
+try:
+    with open(html_path, "w", encoding="utf-8") as f:
+        f.write(html_template)
+    print("✅ [成功] index.html 已由 AI 聯網抓取最新資料並自動淘汰、更新完成！")
+except Exception as e:
+    print(f"❌ 寫入 index.html 檔案時發生嚴重錯誤: {e}")
