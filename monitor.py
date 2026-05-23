@@ -462,16 +462,31 @@ if os.path.exists(db_path):
     except Exception as e:
         print(f"⚠️ 載入資料庫失敗：{e}，將初始化新資料庫。")
 
-# 用複合鍵去重，優先保留舊的事件 (不重複寫入新抓到的重複事件)
+# 合併新舊資料並進行去重 (以 title 為唯一識別金鑰，遇到重複時保留日期最新者)
 all_events_map = {}
 for ev in existing_events:
-    key = (ev["category"], ev["date"], ev["title"])
-    all_events_map[key] = ev
+    title = ev.get("title", "").strip()
+    if title:
+        all_events_map[title] = ev
 
 for ev in new_extracted_events:
-    key = (ev["category"], ev["date"], ev["title"])
-    if key not in all_events_map:
-        all_events_map[key] = ev
+    title = ev.get("title", "").strip()
+    if not title:
+        continue
+    if title not in all_events_map:
+        all_events_map[title] = ev
+    else:
+        # 比對日期，保留較新者
+        try:
+            existing_date = datetime.strptime(all_events_map[title]["date"], "%Y/%m/%d")
+            new_date = datetime.strptime(ev["date"], "%Y/%m/%d")
+            if new_date > existing_date:
+                all_events_map[title] = ev
+        except Exception as e:
+            # 如果日期解析出錯，預設保留已存在的或進行替換
+            print(f"⚠️ 比較重複標題日期時出錯 ({title}): {e}")
+            pass
+
 
 # 7. 自動檢查日期，強制刪除距離今天大於 7 天的舊項目以及 2025 年以前的過期事件
 active_events = []
