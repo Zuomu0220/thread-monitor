@@ -197,9 +197,10 @@ seven_days_ago = today - timedelta(days=7)  # 超過 7 天前 (delta > 7) 淘汰
 
 today_str = today.strftime("%Y/%m/%d")
 cutoff_str = seven_days_ago.strftime("%Y/%m/%d")
+today_time_str = today.strftime("%Y/%m/%d %H:%M")
 
 print(f"🔄 正在啟動『全自動網頁輿情雷達』...")
-print(f"🕒 當前現實時間：{today_str} (將自動搜捕 {cutoff_str} 至今的最新炎上事件)")
+print(f"🕒 當前現實時間：{today_time_str} (將自動搜捕 {cutoff_str} 至今的最新炎上事件)")
 
 # 2. 檢查 API Key 狀態
 api_key = os.environ.get("GEMINI_API_KEY")
@@ -965,7 +966,7 @@ html_template = f"""<!DOCTYPE html>
         <header>
             <h1>🔥 網路輿情炎上觀測站</h1>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
-            <div class="time-badge">當前觀測時間：{today_str}</div>
+            <div class="time-badge">當前觀測時間：{today_time_str}</div>
         </header>
 
         <!-- 狀態統計欄 -->
