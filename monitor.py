@@ -295,60 +295,7 @@ else:
         simulation_mode = True
         ai_output = ""
 
-def split_title_summary(text):
-    # 1. 優先嘗試尋找中括號包裹的標題，例如 [孫安佐火焰槍爭議]：內容 或 [威爾：航向燈塔] 內容
-    bracket_match = re.match(r'^\[(.*?)\]\s*[:：]?\s*(.*)', text)
-    if bracket_match:
-        title = bracket_match.group(1).strip()
-        summary = bracket_match.group(2).strip()
-        if not summary:
-            summary = title
-        return title, summary
-        
-    # 2. 如果沒有中括號，尋找不在其他成對符號內的第一個冒號
-    brackets = {
-        '《': '》',
-        '[': ']',
-        '【': '】',
-        '(': ')',
-        '（': '）',
-        '「': '」',
-        '『': '』'
-    }
-    inverse_brackets = {v: k for k, v in brackets.items()}
-    stack = []
-    
-    for idx, char in enumerate(text):
-        if char in brackets:
-            stack.append(char)
-        elif char in inverse_brackets:
-            if stack and stack[-1] == inverse_brackets[char]:
-                stack.pop()
-        elif char in [':', '：']:
-            if not stack:
-                title = text[:idx].strip()
-                summary = text[idx+1:].strip()
-                title = title.strip('[]').strip('【】').strip('*').strip()
-                return title, summary
-                
-    # 3. 如果連冒號都沒有，尋找第一個標點符號（，。！、）作為標題結束點，長度介於 5 到 25 字間
-    split_chars = ['，', '。', ',', '.', '！', '!', '？', '?', '；', ';', '、']
-    min_idx = len(text)
-    for sc in split_chars:
-        idx = text.find(sc)
-        if idx != -1 and idx < min_idx:
-            min_idx = idx
-            
-    if 5 <= min_idx <= 25:
-        title = text[:min_idx].strip()
-        summary = text[min_idx+1:].strip()
-        if not summary:
-            summary = text
-        return title, summary
-        
-    # 4. 最底線的 fallback
-    title = text[:15].strip() + "..." if len(text) > 15 else text
-    return title, text
+
 
 # 5. 解析 Gemini 輸出的 Markdown 格式並結構化儲存
 new_extracted_events = []
@@ -374,12 +321,13 @@ if ai_output:
                 i += 1
                 continue
                 
-            # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
-            match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
+            # 匹配清單項目： * **[MM/DD]** [事件標題]：內容
+            match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?.*?\s*\[(.*?)\]\s*[:：]\s*(.*)', line)
             if match and current_category:
                 month = int(match.group(1))
                 day = int(match.group(2))
-                rest = match.group(3).strip()
+                title = match.group(3).strip()
+                rest = match.group(4).strip()
                 
                 # 尋找並解析 [圖片: 網址]
                 avatar_url = None
@@ -393,7 +341,7 @@ if ai_output:
                     # 從 rest 中移去這個標記 (包括中括號內的所有字元)
                     rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
                 
-                title, summary = split_title_summary(rest)
+                summary = rest
                     
                 # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
                 avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
