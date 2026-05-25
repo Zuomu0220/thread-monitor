@@ -200,7 +200,6 @@ from datetime import timezone
 tz_taiwan = timezone(timedelta(hours=8))
 today = datetime.now(timezone.utc).astimezone(tz_taiwan)
 seven_days_ago = today - timedelta(days=7)  # 超過 7 天前 (delta > 7) 淘汰，保留 delta <= 7
-
 today_str = today.strftime("%Y/%m/%d")
 cutoff_str = seven_days_ago.strftime("%Y/%m/%d")
 today_time_str = today.strftime("%Y/%m/%d %H:%M")
@@ -229,26 +228,9 @@ simulation_mode = False
 
 if not api_key:
     print("❌ 警告：找不到環境變數 GEMINI_API_KEY。")
-    print("⚠️ 將進入『模擬測試模式』運行，為當前日期範圍自動生成真實輿情與情報資料...")
+    print("⚠️ 將進入『安全降級模式』：保留現有資料庫，僅更新網頁觀測時間。")
     simulation_mode = True
-    
-    # 模擬 Gemini 產生的最新搜尋結果 (包含具體頭像或活動縮圖網址)
-    ai_output = f"""
-### 🎮 實況主區
-* **[{(today - timedelta(days=4)).strftime("%m/%d")}]** [晚安小雞私闖民宅遭起訴]：網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。[圖片: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150]
-* **[{(today - timedelta(days=1)).strftime("%m/%d")}]** [老高無預警取消直播惹議]：YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。[圖片: https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150]
-
-### 🔮 VTuber 區
-* **[{(today - timedelta(days=4)).strftime("%m/%d")}]** [浠Mizuki失言遭禁言兩個月]：台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。[圖片: https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=150]
-* **[{(today - timedelta(days=2)).strftime("%m/%d")}]** [貓宮結乃起訴網路人身攻擊]：台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。[圖片: https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150]
-* **[{(today - timedelta(days=3)).strftime("%m/%d")}]** [ORI央莉直播提及他V引發風波]：VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。[圖片: none]
-
-### 🕹️ 遊戲區
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [Steam《戰鎚 40K：角鬥士》限免]：4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。[圖片: none]
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [像素 Roguelite 射擊《DDoD：紫霧》釋出Demo]：俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。[圖片: none]
-* **[{(today - timedelta(days=1)).strftime("%m/%d")}]** [Six One Indie 遊戲節 Demo 大量釋出]：知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。[圖片: none]
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [海盜冒險《鹽 2：黃金海岸》特惠五折]：開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。[圖片: none]
-"""
+    ai_output = ""
 else:
     # 3. 使用全新的 google-genai SDK 進行連網搜尋
     try:
@@ -258,13 +240,10 @@ else:
         prompt = f"""
 今天是真實世界時間：{today_str}。
 請你使用 Google Search 功能，主動去網路（特別是 Threads、社群論壇、PTT、Dcard、Steam、遊戲新聞網站）搜尋最近 7 天內（也就是從 {cutoff_str} 到 {today_str} 之間），同時分頭搜捕並整理以下兩大路線的最新消息與討論：
-
 路線一：『網紅與實況主爭議八卦』
 - 包含台灣/華語圈「實況主（Streamer）」與「VTuber」最新發生的熱門爭議、炎上、吵架或討論度極高的話題事件。
-
 路線二：『Steam/Epic最新遊戲特價與免費情報』
 - 包含 Steam、Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠、或重大獨立遊戲參展/Demo 釋出等情報資訊。
-
 ⚠️ 嚴格時間與標示規則：
 1. 你「只允許」整理並顯示發生在 {cutoff_str} 至 {today_str} 之間的最新事件。
 2. 超過 7 天前的舊聞、一年前（2025年以前）的歷史事件，一律嚴格過濾、直接丟棄，絕對不能顯示。
@@ -286,6 +265,7 @@ else:
         import time
         max_retries = 3
         response = None
+        
         for attempt in range(max_retries):
             try:
                 print(f"🔍 AI 正在主動潛入網路搜尋最新 Threads 與社群炎上事件及獨立遊戲情報與圖片（第 {attempt + 1} 次嘗試）...")
@@ -303,30 +283,17 @@ else:
                     time.sleep(4)
                 else:
                     raise e
+                    
         ai_output = response.text
         print("--- AI RAW OUTPUT ---")
         print(ai_output)
         print("---------------------")
+        
     except Exception as e:
         print(f"❌ 呼叫 Gemini 連網搜尋失敗：{e}")
-        print("⚠️ 無法取得實時資料，將自動切換為『安全降級模擬模式』為您生成真實事件資料並編譯網頁！")
+        print("⚠️ 無法取得實時資料，將進入『安全降級模式』：保留現有資料庫，僅更新網頁觀測時間。")
         simulation_mode = True
-        ai_output = f"""
-### 🎮 實況主區
-* **[{(today - timedelta(days=4)).strftime("%m/%d")}]** [晚安小雞私闖民宅遭起訴]：網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。[圖片: https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150]
-* **[{(today - timedelta(days=1)).strftime("%m/%d")}]** [老高無預警取消直播惹議]：YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。[圖片: https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150]
-
-### 🔮 VTuber 區
-* **[{(today - timedelta(days=4)).strftime("%m/%d")}]** [浠Mizuki失言遭禁言兩個月]：台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。[圖片: https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=150]
-* **[{(today - timedelta(days=2)).strftime("%m/%d")}]** [貓宮結乃起訴網路人身攻擊]：台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。[圖片: https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150]
-* **[{(today - timedelta(days=3)).strftime("%m/%d")}]** [ORI央莉直播提及他V引發風波]：VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。[圖片: none]
-
-### 🕹️ 遊戲區
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [Steam《戰鎚 40K：角鬥士》限免]：4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。[圖片: none]
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [像素 Roguelite 射擊《DDoD：紫霧》釋出Demo]：俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。[圖片: none]
-* **[{(today - timedelta(days=1)).strftime("%m/%d")}]** [Six One Indie 遊戲節 Demo 大量釋出]：知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。[圖片: none]
-* **[{(today - timedelta(days=0)).strftime("%m/%d")}]** [海盜冒險《鹽 2：黃金海岸》特惠五折]：開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。[圖片: none]
-"""
+        ai_output = ""
 
 def split_title_summary(text):
     # 1. 優先嘗試尋找中括號包裹的標題，例如 [孫安佐火焰槍爭議]：內容 或 [威爾：航向燈塔] 內容
@@ -385,68 +352,69 @@ def split_title_summary(text):
 
 # 5. 解析 Gemini 輸出的 Markdown 格式並結構化儲存
 new_extracted_events = []
-try:
-    current_category = None
-    lines = ai_output.split('\n')
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
-        if not line:
-            i += 1
-            continue
-        
-        # 辨識分類
-        if line.startswith("#"):
-            if "實況主" in line or "STREAMER" in line or "🎮" in line:
-                current_category = "STREAMER"
-            elif "VTuber" in line or "vtuber" in line or "🔮" in line:
-                current_category = "VTUBER"
-            elif "遊戲" in line or "GAME" in line or "🕹️" in line:
-                current_category = "GAME"
-            i += 1
-            continue
+if ai_output:
+    try:
+        current_category = None
+        lines = ai_output.split('\n')
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            if not line:
+                i += 1
+                continue
             
-        # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
-        match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
-        if match and current_category:
-            month = int(match.group(1))
-            day = int(match.group(2))
-            rest = match.group(3).strip()
-            
-            # 尋找並解析 [圖片: 網址]
-            avatar_url = None
-            img_match = re.search(r'\[圖片\s*[:：]\s*([^\]]+)\]', rest)
-            if img_match:
-                img_val = img_match.group(1).strip()
-                if img_val.lower() != 'none':
-                    url_match = re.search(r'(https?://[^\s\)]+)', img_val)
-                    if url_match:
-                        avatar_url = url_match.group(1).strip()
-                # 從 rest 中移去這個標記 (包括中括號內的所有字元)
-                rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
-            
-            title, summary = split_title_summary(rest)
+            # 辨識分類
+            if line.startswith("#"):
+                if "實況主" in line or "STREAMER" in line or "🎮" in line:
+                    current_category = "STREAMER"
+                elif "VTuber" in line or "vtuber" in line or "🔮" in line:
+                    current_category = "VTUBER"
+                elif "遊戲" in line or "GAME" in line or "🕹️" in line:
+                    current_category = "GAME"
+                i += 1
+                continue
                 
-            # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
-            avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
-
-            # 計算年份並轉換為標準 %Y/%m/%d 格式
-            date_str = f"{today.year}/{month:02d}/{day:02d}"
-            if today.month == 1 and month == 12:
-                date_str = f"{today.year - 1}/{month:02d}/{day:02d}"
+            # 匹配清單項目： * **[MM/DD]** [事件簡述]：內容
+            match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
+            if match and current_category:
+                month = int(match.group(1))
+                day = int(match.group(2))
+                rest = match.group(3).strip()
                 
-            new_extracted_events.append({
-                "category": current_category,
-                "date": date_str,
-                "title": title,
-                "summary": summary,
-                "avatar_url": avatar_url
-            })
-        i += 1
-    print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與情報。")
-except Exception as e:
-    print(f"❌ 解析 Gemini 輸出內容時發生錯誤: {e}")
-    new_extracted_events = []
+                # 尋找並解析 [圖片: 網址]
+                avatar_url = None
+                img_match = re.search(r'\[圖片\s*[:：]\s*([^\]]+)\]', rest)
+                if img_match:
+                    img_val = img_match.group(1).strip()
+                    if img_val.lower() != 'none':
+                        url_match = re.search(r'(https?://[^\s\)]+)', img_val)
+                        if url_match:
+                            avatar_url = url_match.group(1).strip()
+                    # 從 rest 中移去這個標記 (包括中括號內的所有字元)
+                    rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
+                
+                title, summary = split_title_summary(rest)
+                    
+                # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
+                avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
+                
+                # 計算年份並轉換為標準 %Y/%m/%d 格式
+                date_str = f"{today.year}/{month:02d}/{day:02d}"
+                if today.month == 1 and month == 12:
+                    date_str = f"{today.year - 1}/{month:02d}/{day:02d}"
+                    
+                new_extracted_events.append({
+                    "category": current_category,
+                    "date": date_str,
+                    "title": title,
+                    "summary": summary,
+                    "avatar_url": avatar_url
+                })
+            i += 1
+        print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與情報。")
+    except Exception as e:
+        print(f"❌ 解析 Gemini 輸出內容時發生錯誤: {e}")
+        new_extracted_events = []
 
 # 6. 合併新舊資料並進行去重 (以 category, date, title 為鍵)
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -478,13 +446,14 @@ if os.path.exists(db_path):
 # 合併新舊資料並進行去重 (以 title 為唯一識別金鑰，遇到重複時保留日期最新者)
 active_events = []
 expired_count = 0
+
 try:
     all_events_map = {}
     for ev in existing_events:
         title = ev.get("title", "").strip()
         if title:
             all_events_map[title] = ev
-
+            
     for ev in new_extracted_events:
         title = ev.get("title", "").strip()
         if not title:
@@ -516,16 +485,17 @@ try:
                 expired_count += 1
         except Exception as e:
             continue
-
+            
     # 8. 最大容量限制保護 (最多 50 則)
     active_events.sort(key=lambda x: x["date"], reverse=True)
     if len(active_events) > 50:
         active_events = active_events[:50]
-
+        
     # 寫回 events.json
     with open(db_path, "w", encoding="utf-8") as f:
         json.dump(active_events, f, ensure_ascii=False, indent=2)
     print(f"💾 資料庫更新成功！保留：{len(active_events)} 筆，自動淘汰：{expired_count} 筆。")
+    
 except Exception as e:
     print(f"❌ 更新或過濾資料庫檔案時發生錯誤：{e}")
     # Fallback to existing_events if saving failed
@@ -570,7 +540,7 @@ try:
                 avatar_url = "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80"
             else:
                 avatar_url = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
-
+                
         if cat == "GAME":
             avatar_html = ""
         else:
@@ -578,7 +548,7 @@ try:
                 <div class="avatar-container">
                     <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
                 </div>"""
-
+                
         card_html = f"""
             <div class="event-card {cat_class}" data-category="{cat}">
                 {avatar_html}
@@ -610,7 +580,6 @@ html_template = f"""<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🔥 網路輿情炎上觀測站</title>
-    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
@@ -634,13 +603,11 @@ html_template = f"""<!DOCTYPE html>
             --info-color: #58a6ff;
             --active-tab-bg: #21262d;
         }}
-
         * {{
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }}
-
         body {{
             font-family: 'Outfit', 'Noto Sans TC', -apple-system, BlinkMacSystemFont, sans-serif;
             background: radial-gradient(circle at top, #161b22 0%, #0d1117 100%);
@@ -650,7 +617,6 @@ html_template = f"""<!DOCTYPE html>
             display: flex;
             justify-content: center;
         }}
-
         .container {{
             width: 100%;
             max-width: 900px;
@@ -662,7 +628,6 @@ html_template = f"""<!DOCTYPE html>
             padding: 40px;
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
         }}
-
         header {{
             text-align: center;
             margin-bottom: 40px;
@@ -670,7 +635,6 @@ html_template = f"""<!DOCTYPE html>
             padding-bottom: 30px;
             position: relative;
         }}
-
         header h1 {{
             font-size: 2.5rem;
             font-weight: 800;
@@ -680,13 +644,11 @@ html_template = f"""<!DOCTYPE html>
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }}
-
         header p {{
             color: var(--text-secondary);
             font-size: 1rem;
             margin: 5px 0;
         }}
-
         .time-badge {{
             display: inline-block;
             background: #21262d;
@@ -698,7 +660,6 @@ html_template = f"""<!DOCTYPE html>
             color: var(--text-primary);
             margin-top: 15px;
         }}
-
         /* 統計狀態欄 */
         .stats-bar {{
             display: grid;
@@ -706,7 +667,6 @@ html_template = f"""<!DOCTYPE html>
             gap: 15px;
             margin-bottom: 30px;
         }}
-
         .stat-card {{
             background: rgba(22, 27, 34, 0.5);
             border: 1px solid var(--card-border);
@@ -715,28 +675,24 @@ html_template = f"""<!DOCTYPE html>
             text-align: center;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }}
-
         .stat-card:hover {{
             transform: translateY(-2px);
             background: rgba(33, 38, 45, 0.5);
         }}
-
         .stat-label {{
             font-size: 0.85rem;
             color: var(--text-secondary);
             margin-bottom: 5px;
             display: block;
         }}
-
         .stat-val {{
             font-size: 1.5rem;
             font-weight: 700;
         }}
-
         .stat-streamer {{ color: var(--streamer-color); }}
         .stat-vtuber {{ color: var(--vtuber-color); }}
         .stat-game {{ color: var(--game-color); }}
-
+        
         /* 分類選擇頁籤 */
         .tabs {{
             display: flex;
@@ -746,7 +702,6 @@ html_template = f"""<!DOCTYPE html>
             padding-bottom: 15px;
             overflow-x: auto;
         }}
-
         .tab-btn {{
             background: transparent;
             border: 1px solid transparent;
@@ -762,25 +717,22 @@ html_template = f"""<!DOCTYPE html>
             gap: 8px;
             transition: all 0.2s ease;
         }}
-
         .tab-btn:hover {{
             color: var(--text-primary);
             background: rgba(255, 255, 255, 0.03);
         }}
-
         .tab-btn.active {{
             background: var(--active-tab-bg);
             border-color: var(--card-border);
             color: var(--text-primary);
         }}
-
+        
         /* 事件清單 */
         .events-list {{
             display: flex;
             flex-direction: column;
             gap: 20px;
         }}
-
         .event-card {{
             background: var(--card-bg);
             border: 1px solid var(--card-border);
@@ -793,7 +745,6 @@ html_template = f"""<!DOCTYPE html>
             gap: 20px;
             align-items: flex-start;
         }}
-
         .event-card::before {{
             content: '';
             position: absolute;
@@ -802,29 +753,26 @@ html_template = f"""<!DOCTYPE html>
             width: 4px;
             height: 100%;
         }}
-
         .event-card.streamer::before {{ background: var(--streamer-color); }}
         .event-card.vtuber::before {{ background: var(--vtuber-color); }}
         .event-card.game::before {{ background: var(--game-color); }}
-
+        
         .event-card.streamer:hover {{
             box-shadow: 0 8px 30px var(--streamer-glow);
             border-color: rgba(165, 130, 255, 0.3);
             transform: translateY(-2px);
         }}
-
         .event-card.vtuber:hover {{
             box-shadow: 0 8px 30px var(--vtuber-glow);
             border-color: rgba(255, 130, 178, 0.3);
             transform: translateY(-2px);
         }}
-
         .event-card.game:hover {{
             box-shadow: 0 8px 30px var(--game-glow);
             border-color: rgba(63, 185, 80, 0.3);
             transform: translateY(-2px);
         }}
-
+        
         /* 頭像區域樣式 */
         .avatar-container {{
             flex-shrink: 0;
@@ -839,21 +787,19 @@ html_template = f"""<!DOCTYPE html>
             justify-content: center;
             transition: transform 0.3s ease, border-color 0.3s ease;
         }}
-
         .event-card:hover .avatar-container {{
             transform: scale(1.05);
         }}
-
         .event-card.streamer:hover .avatar-container {{ border-color: var(--streamer-color); }}
         .event-card.vtuber:hover .avatar-container {{ border-color: var(--vtuber-color); }}
         .event-card.game:hover .avatar-container {{ border-color: var(--game-color); }}
-
+        
         .event-avatar {{
             width: 100%;
             height: 100%;
             object-fit: cover;
         }}
-
+        
         /* 右側內容區 */
         .card-content {{
             flex-grow: 1;
@@ -861,47 +807,40 @@ html_template = f"""<!DOCTYPE html>
             flex-direction: column;
             gap: 8px;
         }}
-
         .card-header {{
             display: flex;
             justify-content: space-between;
             align-items: center;
         }}
-
         .cat-label {{
             font-size: 0.8rem;
             font-weight: 700;
             padding: 4px 10px;
             border-radius: 8px;
         }}
-
         .cat-streamer {{
             background: rgba(165, 130, 255, 0.15);
             color: var(--streamer-color);
         }}
-
         .cat-vtuber {{
             background: rgba(255, 130, 178, 0.15);
             color: var(--vtuber-color);
         }}
-
         .cat-game {{
             background: rgba(63, 185, 80, 0.15);
             color: var(--game-color);
         }}
-
+        
         .card-meta {{
             display: flex;
             align-items: center;
             gap: 10px;
         }}
-
         .event-date {{
             font-size: 0.85rem;
             color: var(--text-secondary);
             font-weight: 500;
         }}
-
         .badge {{
             font-size: 0.75rem;
             font-weight: 600;
@@ -910,30 +849,25 @@ html_template = f"""<!DOCTYPE html>
             display: flex;
             align-items: center;
         }}
-
         .badge-warning {{
             background: rgba(240, 136, 62, 0.15);
             color: var(--warning-color);
         }}
-
         .badge-info {{
             background: rgba(88, 166, 255, 0.15);
             color: var(--info-color);
         }}
-
         .event-title {{
             font-size: 1.25rem;
             font-weight: 700;
             line-height: 1.4;
             color: var(--text-primary);
         }}
-
         .event-summary {{
             font-size: 0.95rem;
             color: var(--text-secondary);
             line-height: 1.6;
         }}
-
         .no-events {{
             text-align: center;
             padding: 40px;
@@ -942,7 +876,6 @@ html_template = f"""<!DOCTYPE html>
             border: 1px dashed var(--card-border);
             border-radius: 16px;
         }}
-
         .readonly-notice {{
             text-align: center;
             font-size: 0.75rem;
@@ -952,7 +885,7 @@ html_template = f"""<!DOCTYPE html>
             border-top: 1px solid var(--card-border);
             padding-top: 25px;
         }}
-
+        
         /* 響應式優化 */
         @media (max-width: 600px) {{
             .container {{
@@ -995,8 +928,7 @@ html_template = f"""<!DOCTYPE html>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
             <div class="time-badge">當前觀測時間：{today_time_str} ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
         </header>
-
-        <!-- 狀態統計欄 -->
+        
         <div class="stats-bar">
             <div class="stat-card">
                 <span class="stat-label">🎮 實況主事件</span>
@@ -1011,20 +943,18 @@ html_template = f"""<!DOCTYPE html>
                 <span class="stat-val stat-game" id="stats-game">{game_count}</span>
             </div>
         </div>
-
-        <!-- 篩選頁籤 -->
+        
         <div class="tabs">
             <button class="tab-btn active" data-filter="ALL">📱 全部 (實況主/VTuber)</button>
             <button class="tab-btn" data-filter="STREAMER">🎮 實況主區</button>
             <button class="tab-btn" data-filter="VTUBER">🔮 VTuber 區</button>
             <button class="tab-btn" data-filter="GAME">🕹️ 遊戲情報特區</button>
         </div>
-
-        <!-- 事件清單 -->
+        
         <div class="events-list" id="events-container">
 {formatted_events_html}
         </div>
-
+        
         <div class="readonly-notice">🔒 BOARD STATUS: AUTOMATED RADAR ACTIVE (唯讀監控中)</div>
     </div>
 
@@ -1046,6 +976,7 @@ html_template = f"""<!DOCTYPE html>
             }}
             updateLiveClock();
             setInterval(updateLiveClock, 1000);
+
             const tabs = document.querySelectorAll('.tab-btn');
             const cards = document.querySelectorAll('.event-card');
             const container = document.getElementById('events-container');
@@ -1078,7 +1009,7 @@ html_template = f"""<!DOCTYPE html>
                 if (existingNoEvents) {{
                     existingNoEvents.remove();
                 }}
-
+                
                 if (matchCount === 0) {{
                     const noEventsDiv = document.createElement('div');
                     noEventsDiv.className = 'no-events no-events-temp';
@@ -1094,7 +1025,7 @@ html_template = f"""<!DOCTYPE html>
                     filterCategory(tab.getAttribute('data-filter'));
                 }});
             }});
-
+            
             // 預設初始化為全部 (實況主/VTuber)
             filterCategory('ALL');
         }});
