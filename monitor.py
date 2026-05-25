@@ -162,6 +162,10 @@ AVATAR_DICT = mapping
 
 # 輔助函數：比對頭像並套用階層優先規則
 def resolve_avatar_url(title, summary, category, gemini_img_url):
+    # 只要分類是遊戲情報，就直接走獨立的綠色遊戲圖示，不再去對照人名大字典
+    if category == "GAME":
+        return "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
+
     t_lower = title.lower()
     s_lower = summary.lower()
     
@@ -191,8 +195,10 @@ def resolve_avatar_url(title, summary, category, gemini_img_url):
     else:
         return "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
 
-# 1. 自動獲取當前的現實時間，定死 7 天的時間邊界
-today = datetime.now()
+# 1. 自動獲取台灣時間 (UTC+8)，避免 GitHub Actions 時差，定死 7 天的時間邊界
+from datetime import timezone
+tz_taiwan = timezone(timedelta(hours=8))
+today = datetime.now(timezone.utc).astimezone(tz_taiwan)
 seven_days_ago = today - timedelta(days=7)  # 超過 7 天前 (delta > 7) 淘汰，保留 delta <= 7
 
 today_str = today.strftime("%Y/%m/%d")
@@ -251,10 +257,13 @@ else:
         # 4. 給 AI 的搜尋與過濾指令
         prompt = f"""
 今天是真實世界時間：{today_str}。
-請你使用 Google Search 功能，主動去網路（特別是 Threads、社群論壇、PTT、Dcard、Steam、遊戲新聞網站）搜尋最近 7 天內（也就是從 {cutoff_str} 到 {today_str} 之間），關於以下三類的最新消息與討論：
-1. 「台灣/華語圈 實況主（Streamer）」最新發生的熱門爭議、炎上、吵架或討論度極高的話題事件。
-2. 「VTuber」最新發生的熱門爭議、炎上、吵架或討論度極高的話題事件。
-3. 「獨立遊戲」的最新情報（免費限時領取、特價折扣、測試版/Demo釋出等資訊）。
+請你使用 Google Search 功能，主動去網路（特別是 Threads、社群論壇、PTT、Dcard、Steam、遊戲新聞網站）搜尋最近 7 天內（也就是從 {cutoff_str} 到 {today_str} 之間），同時分頭搜捕並整理以下兩大路線的最新消息與討論：
+
+路線一：『網紅與實況主爭議八卦』
+- 包含台灣/華語圈「實況主（Streamer）」與「VTuber」最新發生的熱門爭議、炎上、吵架或討論度極高的話題事件。
+
+路線二：『Steam/Epic最新遊戲特價與免費情報』
+- 包含 Steam、Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠、或重大獨立遊戲參展/Demo 釋出等情報資訊。
 
 ⚠️ 嚴格時間與標示規則：
 1. 你「只允許」整理並顯示發生在 {cutoff_str} 至 {today_str} 之間的最新事件。
@@ -272,7 +281,7 @@ else:
 * **[MM/DD]** [事件標題]：核心爭議點與網友討論摘要 [圖片: 相關頭像或公開活動圖片網址，若無則為 none]
 
 ### 🕹️ 遊戲區
-* **[MM/DD]** [遊戲名稱或情報簡述]：免費、特價、測試版等具體情報內容 [圖片: 相關的遊戲封面或宣傳圖片網址，若無則為 none]
+* **[MM/DD]** [遊戲名稱或情報簡述]：免費、特價、測試版等具體情報內容 [圖片: none]
 """
         import time
         max_retries = 3
