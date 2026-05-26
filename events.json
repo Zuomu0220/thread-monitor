@@ -40,6 +40,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Steam 新增多款永久免費遊戲",
+    "summary": "Steam 近日突襲新增了 5 款可永久免費領取的遊戲，涵蓋冒險、運動及大逃殺等不同類型。首批公開的作品包括《WithIN》，其後另一批則包含《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》與《Gun Glade》等作品。玩家可直接下載並永久加入收藏庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -68,6 +76,14 @@
     "date": "2026/05/23",
     "title": "台灣獨立遊戲交流會「自製遊戲ONLY」",
     "summary": "由「自製遊戲公會」籌辦的獨立遊戲展示交流會《自製遊戲ONLY》於 5 月 23 日在台北圓山digiBlock C 舉行，開放活動參觀者免費報名。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam 再釋出多款免費暢玩遊戲",
+    "summary": "Steam 平台推出多款免費遊戲供玩家領取並永久保留，包括《Bunny Guys!》、《Bunny Hurling》、《Car Mechanic Simulator 2018》、《Dino running from a Furry》、《Warhammer 40K: Gladius - Relics of War》，以及《AquaDream Soundtrack》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -185,10 +201,34 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/21",
+    "title": "Epic Games Store 兩款神秘免費遊戲揭曉",
+    "summary": "Epic Games Store 揭曉了 5 月份的第二批神秘免費遊戲，分別是《百慕達沉淪 (Down in Bermuda)》和《古墓麗影I-III 重製版 (Tomb Raider I-III Remastered)》。這兩款遊戲均獲得不錯的玩家評價，總價值達 49.98 美元，玩家有機會在 6 月 4 日前免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/21",
+    "title": "Epic Games Store 2026 大型特賣活動開跑",
+    "summary": "Epic Games Store 的 2026 年度大型特賣活動已正式啟動，除了提供誘人的遊戲折扣外，也包含免費遊戲贈送活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/20",
     "title": "台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH",
     "summary": "來自台灣的獨立遊戲團隊「葉開罐工作室」宣布，旗下開發中作品《夢閃少女Awaking Beauty》已正式入選日本最大獨立遊戲展「BitSummit PUNCH 2026」，並旋風釋出全新預告片與Steam試玩版大更新。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/20",
+    "title": "台灣VTuber「ORI央莉」與「艾美麗」爆發廠商合約及社群爭議",
+    "summary": "台灣VTuber「ORI央莉」與某廠商因工商合約的結算物料與請款流程出現時間差，廠商被指控回應不嚴謹甚至疑似失聯。ORI央莉在直播中與粉絲共同檢視廠商公開資訊，並質疑其他VTuber（包含「艾美麗」）先前對該廠商的聲援是否因密切往來所致。隨後，「艾美麗」在個人社群平台（X）上發文，稱自身隱私權遭到「衝塔」（真實身分遭曝光）侵害，並撇清與廠商的利益關係。然而，網路上流出疑似對話截圖，指控艾美麗私下仍與廠商聯繫，並涉嫌在私人群組中號召同業對同行發表負面言論，這使得原本的廠商失信問題演變為VTuber圈內的社群爭議與口水戰，引發網友兩極討論，也對台灣VTuber的社會形象帶來考驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
   {
