@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 限時免費遊戲更新",
+    "summary": "Steam 平台有多款遊戲提供限時免費領取，其中包括《Bunny Guys!》及《Dino running from a FURRY》（優惠至 2026 年 5 月 31 日止），以及《汽車修理工模擬器2018》（優惠至 2026 年 5 月 28 日止）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
@@ -100,6 +108,14 @@
     "date": "2026/05/24",
     "title": "Steam 新增 5 款永久免費遊戲",
     "summary": "Steam 近期突襲新增 5 款可永久入庫的免費遊戲，玩家可直接下載遊玩。這些遊戲包含《WithIN》（RPG）、《Picklemania: The Ultimate Showdown》（運動競技）、《FreestyleFootball X》（運動競技）、《Ebon Crucible》（大逃殺）以及《Gun Glade》（大逃殺）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Steam 突襲新增 5 款永久免費遊戲",
+    "summary": "Steam 近日新增了 5 款可永久入庫的免費遊戲，包括角色扮演遊戲《WithIN》、運動競技遊戲《Picklemania: The Ultimate Showdown》和《FreestyleFootball X》，以及大逃殺類型遊戲《Ebon Crucible》與《Gun Glade》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -280,6 +296,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "日本最大規模獨立遊戲展 BitSummit PUNCH 盛大登場",
+    "summary": "日本最大規模獨立遊戲活動「BitSummit PUNCH」於 2026 年 5 月 22 日至 5 月 24 日在京都京都市勸業館 Miyako Messe 舉辦。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/05/21",
     "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
@@ -373,30 +397,6 @@
     "title": "台V爭議頻傳：ORI央莉與艾美麗的合約糾紛與社群拉鋸",
     "summary": "台灣VTuber圈近期頻繁出現爭議，其中「ORI央莉」與廠商之間的合約糾紛與請款流程問題浮上檯面。ORI央莉在直播中試圖排查廠商背景，並質疑VTuber「艾美麗」對廠商的聲援是否因利益關係。艾美麗隨後在X（推特）上強調自身隱私權受侵犯，並否認與廠商有利益往來，但有對話截圖流出指控其私下仍與廠商聯繫並號召同業發表針對同行的言論，引發社群兩極討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Steam Risk of Rain 系列特賣",
-    "summary": "《Risk of Rain》系列遊戲（包含《Risk of Rain 2》、《擴充內容》及《Risk of Rain Returns》）於5月21日展開限時優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Steam Six One Indie Showcase 2026",
-    "summary": "Six One Indie Showcase 於5月21日回歸，帶來新的預告片、世界首發以及充滿Demo和必玩獨立遊戲的Steam活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store 限時免費遊戲釋出",
-    "summary": "Epic Games Store 宣布於五月期間提供多款限時免費遊戲。目前可領取的遊戲包括《LEGO Batman: Legacy of the Dark Knight》、《Forza Horizon 6》和《Subnautica 2》，領取時間至 6 月 4 日為止。此外，5 月 28 日至 6 月 4 日還將有兩款神秘遊戲提供免費領取。Epic Games Mega Sale 也正在進行中，提供數百款獨立遊戲與 AAA 大作優惠，活動預計持續至 6 月 11 日。同時，還有機會免費獲得 Discord Nitro、Divers 超級禮包、無限暖暖限時優惠禮包等額外福利。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   }
 ]
