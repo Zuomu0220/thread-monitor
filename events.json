@@ -48,6 +48,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/05/24",
+    "title": "韓國百萬訂閱YTR頻道遭版權砲蒸發",
+    "summary": "韓國YouTuber劉俊昊經營了13年的百萬訂閱頻道於2026年5月24日遭YouTube刪除，原因是他頻道上有《鬼滅之刃》的配音二創影片被日本索尼音樂申訴，導致頻道連同影片一同消失。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -88,6 +96,54 @@
     "days_left": 4
   },
   {
+    "category": "VTUBER",
+    "date": "2026/05/23",
+    "title": "女VTuber聊生理期困擾結果被網友反過來說教",
+    "summary": "有女VTuber在直播中分享生理期困擾，卻遭到網友反過來說教，引發討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/23",
+    "title": "saba消失一段時間後發聲坦言狀況比想像中嚴重",
+    "summary": "VTuber Saba在消失一段時間後，於5月23日發聲表示自身狀況比想像中嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/23",
+    "title": "渋谷HAL在《鬥陣特攻》活動途中做了這件事，網友直接吵翻",
+    "summary": "VTuber渋谷HAL在參與《鬥陣特攻》活動時，因某個行為引發網友激烈爭吵。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam限免遊戲《Bunny Hurling》",
+    "summary": "Steam平台於2026年5月23日至2026年5月26日期間，限時免費贈送《兔兔投擲》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam限免遊戲《Bunny Guys!》",
+    "summary": "Steam平台於2026年5月23日至2026年5月30日期間，限時免費贈送《兔子小夥伴！》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Epic Games全球伺服器崩潰",
+    "summary": "Epic Games於2026年5月23日發生全球伺服器崩潰，官方老闆為此道歉。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/05/22",
     "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
@@ -124,6 +180,22 @@
     "date": "2026/05/22",
     "title": "Steam 限時免費領取《Car Mechanic Simulator 2018》",
     "summary": "《汽車修理工模擬2018》於 Steam 平台開放限時免費領取，活動持續至 5 月 28 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam限免遊戲《Warhammer 40,000: Gladius - Relics of War》",
+    "summary": "Steam平台於2026年5月22日至2026年5月29日期間，限時免費贈送《戰鎚40,000：格雷迪厄斯– 戰爭聖器》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam限免遊戲《Car Mechanic Simulator 2018》",
+    "summary": "Steam平台於2026年5月22日至2026年5月28日期間，限時免費贈送《汽車修理工模擬2018》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -216,6 +288,14 @@
     "days_left": 2
   },
   {
+    "category": "VTUBER",
+    "date": "2026/05/21",
+    "title": "台V爭議頻傳：ORI央莉與艾美麗的合約糾紛與社群拉鋸",
+    "summary": "台灣VTuber圈近期頻繁出現爭議，其中「ORI央莉」與廠商之間的合約糾紛與請款流程問題浮上檯面。ORI央莉在直播中試圖排查廠商背景，並質疑VTuber「艾美麗」對廠商的聲援是否因利益關係。艾美麗隨後在X（推特）上強調自身隱私權受侵犯，並否認與廠商有利益往來，但有對話截圖流出指控其私下仍與廠商聯繫並號召同業發表針對同行的言論，引發社群兩極討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "GAME",
     "date": "2026/05/20",
     "title": "台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH",
@@ -229,6 +309,14 @@
     "title": "台灣VTuber「ORI央莉」與「艾美麗」爆發廠商合約及社群爭議",
     "summary": "台灣VTuber「ORI央莉」與某廠商因工商合約的結算物料與請款流程出現時間差，廠商被指控回應不嚴謹甚至疑似失聯。ORI央莉在直播中與粉絲共同檢視廠商公開資訊，並質疑其他VTuber（包含「艾美麗」）先前對該廠商的聲援是否因密切往來所致。隨後，「艾美麗」在個人社群平台（X）上發文，稱自身隱私權遭到「衝塔」（真實身分遭曝光）侵害，並撇清與廠商的利益關係。然而，網路上流出疑似對話截圖，指控艾美麗私下仍與廠商聯繫，並涉嫌在私人群組中號召同業對同行發表負面言論，這使得原本的廠商失信問題演變為VTuber圈內的社群爭議與口水戰，引發網友兩極討論，也對台灣VTuber的社會形象帶來考驗。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/05/20",
+    "title": "潘潘不生气！天啊，直播间怎么了！！！",
+    "summary": "一名名為「潘潘」的實況主於2026年5月20日的直播中似乎發生了意外狀況，標題暗示直播間出現了「天啊！」的狀況，但具體內容影片已無法播放。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
   {
@@ -276,6 +364,22 @@
     "date": "2026/05/19",
     "title": "Steam 限時免費領取《AquaDream Soundtrack》",
     "summary": "《AquaDream Soundtrack》（水之夢原聲帶）於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 0
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/19",
+    "title": "子午計畫浠Mizuki炎上後正式停工",
+    "summary": "子午計畫旗下的VTuber浠Mizuki因在社群上的爭議言論引發炎上，並於5月18日正式停工。此事件後續更引起網友討論，有人開始深入挖掘其「中之人」（幕後扮演者）的資訊。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
+    "days_left": 0
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/19",
+    "title": "Steam限免遊戲《AquaDream Soundtrack》",
+    "summary": "Steam平台於2026年5月19日至2026年5月26日期間，限時免費贈送《水之夢》原聲帶。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   }
