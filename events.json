@@ -1,11 +1,19 @@
 [
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 新釋出遊戲 Demo",
+    "summary": "遊戲《Hamsteria Demo》及《極性場域》(Polarity Fields) Demo於5月26日釋出免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "像素 Roguelite 射擊《DDoD：紫霧》釋出Demo",
     "summary": "俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -21,7 +29,15 @@
     "title": "海盜冒險《鹽 2：黃金海岸》特惠五折",
     "summary": "開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/25",
+    "title": "Steam Capcom年中特賣",
+    "summary": "Capcom年中特賣活動自5月25日開始至6月8日，精選Capcom遊戲提供高達90%的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -29,7 +45,7 @@
     "title": "老高無預警取消直播惹議",
     "summary": "YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=老高&background=facc15&color=a16207&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -37,7 +53,7 @@
     "title": "Six One Indie 遊戲節 Demo 大量釋出",
     "summary": "知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -45,7 +61,7 @@
     "title": "Steam 新增多款永久免費遊戲",
     "summary": "Steam 近日突襲新增了 5 款可永久免費領取的遊戲，涵蓋冒險、運動及大逃殺等不同類型。首批公開的作品包括《WithIN》，其後另一批則包含《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》與《Gun Glade》等作品。玩家可直接下載並永久加入收藏庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -53,7 +69,7 @@
     "title": "韓國百萬訂閱YTR頻道遭版權砲蒸發",
     "summary": "韓國YouTuber劉俊昊經營了13年的百萬訂閱頻道於2026年5月24日遭YouTube刪除，原因是他頻道上有《鬼滅之刃》的配音二創影片被日本索尼音樂申訴，導致頻道連同影片一同消失。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -61,7 +77,7 @@
     "title": "貓宮結乃起訴網路人身攻擊",
     "summary": "台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。",
     "avatar_url": "https://prd.resource-api.lit.link/images/creator/0d440944-01f8-46ef-b365-c017c7aeed93/ebc45843-fde8-4981-8c3b-be913587fb79.jpg",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -69,7 +85,7 @@
     "title": "Steam 限時免費領取《Bunny Hurling》",
     "summary": "《兔兔投擲》於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -77,7 +93,7 @@
     "title": "Steam 限時免費領取《Bunny Guys!》",
     "summary": "《兔子小夥伴！》於 Steam 平台開放限時免費領取，活動持續至 5 月 30 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -85,7 +101,7 @@
     "title": "台灣獨立遊戲交流會「自製遊戲ONLY」",
     "summary": "由「自製遊戲公會」籌辦的獨立遊戲展示交流會《自製遊戲ONLY》於 5 月 23 日在台北圓山digiBlock C 舉行，開放活動參觀者免費報名。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -93,7 +109,7 @@
     "title": "Steam 再釋出多款免費暢玩遊戲",
     "summary": "Steam 平台推出多款免費遊戲供玩家領取並永久保留，包括《Bunny Guys!》、《Bunny Hurling》、《Car Mechanic Simulator 2018》、《Dino running from a Furry》、《Warhammer 40K: Gladius - Relics of War》，以及《AquaDream Soundtrack》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -101,7 +117,7 @@
     "title": "女VTuber聊生理期困擾結果被網友反過來說教",
     "summary": "有女VTuber在直播中分享生理期困擾，卻遭到網友反過來說教，引發討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -109,7 +125,7 @@
     "title": "saba消失一段時間後發聲坦言狀況比想像中嚴重",
     "summary": "VTuber Saba在消失一段時間後，於5月23日發聲表示自身狀況比想像中嚴重。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -117,7 +133,7 @@
     "title": "渋谷HAL在《鬥陣特攻》活動途中做了這件事，網友直接吵翻",
     "summary": "VTuber渋谷HAL在參與《鬥陣特攻》活動時，因某個行為引發網友激烈爭吵。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -125,7 +141,7 @@
     "title": "Steam限免遊戲《Bunny Hurling》",
     "summary": "Steam平台於2026年5月23日至2026年5月26日期間，限時免費贈送《兔兔投擲》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -133,7 +149,7 @@
     "title": "Steam限免遊戲《Bunny Guys!》",
     "summary": "Steam平台於2026年5月23日至2026年5月30日期間，限時免費贈送《兔子小夥伴！》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -141,7 +157,7 @@
     "title": "Epic Games全球伺服器崩潰",
     "summary": "Epic Games於2026年5月23日發生全球伺服器崩潰，官方老闆為此道歉。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -149,7 +165,7 @@
     "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
     "summary": "開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "VTUBER",
@@ -157,7 +173,7 @@
     "title": "Hololive りりーか「豆乳ウニ豆腐丼」外觀引發熱議",
     "summary": "Hololive 旗下 VTuber りりーか（Ririka）在直播中製作了一道名為「豆乳ウニ豆腐丼」（豆漿海膽豆腐丼）的料理，然而其成品外觀因酷似排泄物，在日本 VTuber 社群中迅速成為廣受討論的話題。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "VTUBER",
@@ -165,7 +181,7 @@
     "title": "ORI央莉直播提及他V引發風波",
     "summary": "VTuber ORI央莉在直播中涉及與廠商的合作維權討論，並引導聊天室談論其他VTuber，導致輿論風波擴大，引發圈內創作者社群對公關危機處理的廣泛議論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -173,7 +189,7 @@
     "title": "Steam 限時免費領取《Warhammer 40,000: Gladius - Relics of War》",
     "summary": "《戰鎚40,000：格雷迪厄斯– 戰爭聖器》於 Steam 平台開放限時免費領取，活動持續至 5 月 29 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -181,7 +197,7 @@
     "title": "Steam 限時免費領取《Car Mechanic Simulator 2018》",
     "summary": "《汽車修理工模擬2018》於 Steam 平台開放限時免費領取，活動持續至 5 月 28 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -189,7 +205,7 @@
     "title": "Steam限免遊戲《Warhammer 40,000: Gladius - Relics of War》",
     "summary": "Steam平台於2026年5月22日至2026年5月29日期間，限時免費贈送《戰鎚40,000：格雷迪厄斯– 戰爭聖器》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -197,7 +213,31 @@
     "title": "Steam限免遊戲《Car Mechanic Simulator 2018》",
     "summary": "Steam平台於2026年5月22日至2026年5月28日期間，限時免費贈送《汽車修理工模擬2018》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Epic Games Store 限時免費遊戲：《Down in Bermuda》與《Tomb Raider I-III Remastered》",
+    "summary": "Epic Games Store 公開5月第二批神秘免費遊戲，玩家可於2026年5月28日前限時領取解謎冒險遊戲《Down in Bermuda》及《Tomb Raider I-III Remastered》（包含最初三款作品的視覺強化與重製版）。兩款遊戲合計原價約為HKD 239。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam Crunching Koalas 發行商特賣",
+    "summary": "Crunching Koalas 發行商春季特賣活動自5月22日開始，旗下遊戲最高享85%折扣，為期一週。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam SNEG 發行商特賣",
+    "summary": "SNEG 發行商特賣活動自5月22日開始，其復古經典遊戲目錄最高享90%折扣，包含《龍與地下城》系列。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
   },
   {
     "category": "STREAMER",
@@ -205,7 +245,7 @@
     "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
     "summary": "一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。",
     "avatar_url": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=150&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "VTUBER",
@@ -213,7 +253,7 @@
     "title": "台V圈爭議：ORI央莉與艾美麗的合約與隱私風波",
     "summary": "台灣VTuber「ORI央莉」與一家廠商因活動結束後的結算物料與請款流程出現時間差，產生合約糾紛。ORI央莉在直播中檢視廠商資訊並質疑其誠信，間接引發對VTuber「艾美麗」是否與該廠商有特殊利益關係的討論。艾美麗隨後在社群平台X上回應，稱自己遭到「衝塔」（真實身份遭曝光），強調隱私權受侵害，並極力撇清與廠商的利益關係。此事件在社群上引發兩極討論，部分輿論認為艾美麗的回應模糊了廠商失約的核心問題。",
     "avatar_url": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=150&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -221,7 +261,7 @@
     "title": "Six One Indie Showcase 獨立遊戲發表會回歸",
     "summary": "Six One Indie Showcase 於 5 月 21 日再次登場，此發表會將帶來多款獨立遊戲的最新預告片、全球首映內容以及豐富的活動，為獨立遊戲愛好者提供最新情報。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -229,7 +269,7 @@
     "title": "免費動作新作《HoRoyal〜Hololive 大逃殺〜》Steam上市",
     "summary": "COVER旗下專營hololive二次元遊戲品牌「holo Indie」的子公司CCMC宣布，由wai開發的大逃殺動作遊戲《HoRoyal〜Hololive 大逃殺〜》今日起在Steam平台免費遊玩。遊戲收錄超過一萬個實況語音，玩家可與30多位Hololive成員一同享受大逃殺樂趣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "STREAMER",
@@ -237,7 +277,7 @@
     "title": "晚安小雞私闖民宅遭起訴",
     "summary": "網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。",
     "avatar_url": "https://ui-avatars.com/api/?name=小雞&background=713f12&color=fff&size=128",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "VTUBER",
@@ -245,7 +285,7 @@
     "title": "浠Mizuki失言遭禁言兩個月",
     "summary": "台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "VTUBER",
@@ -253,7 +293,7 @@
     "title": "台V圈廠商糾紛與隱私爭議",
     "summary": "台灣Vtuber「ORI央莉」與廠商因活動物料及請款流程產生時間差，ORI央莉在直播中質疑廠商誠信，並比對其營運資訊與負責人背景，進而質疑Vtuber「艾美麗」對廠商的聲援是否基於利益關係。艾美麗隨後在X/Twitter上反駁「衝塔」（真實身份曝光），強調隱私權受侵害，但社群上流出對話截圖指控她私下與廠商聯繫並號召同業發表針對性言論。此事件引發網路對台V圈缺乏專業經紀體制、年輕創作者社會經驗不足以及潛在產業信任危機的熱議。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -261,7 +301,7 @@
     "title": "Epic Games Store 「大特賣2026」啟動",
     "summary": "Epic Games Store 展開為期一個月的大特賣活動，截止日期為 6 月 11 日，多款新舊遊戲大作提供大幅優惠折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -269,7 +309,7 @@
     "title": "Epic Games Store 兩款神秘遊戲限時免費",
     "summary": "Epic Games Store 公布兩款神秘免費遊戲：《Down in Bermuda》和《Tomb Raider 1-3 Remastered》，玩家可於 5 月 21 日起至 6 月 4 日前限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -277,7 +317,7 @@
     "title": "Epic Games Store 兩款神秘免費遊戲揭曉",
     "summary": "Epic Games Store 揭曉了 5 月份的第二批神秘免費遊戲，分別是《百慕達沉淪 (Down in Bermuda)》和《古墓麗影I-III 重製版 (Tomb Raider I-III Remastered)》。這兩款遊戲均獲得不錯的玩家評價，總價值達 49.98 美元，玩家有機會在 6 月 4 日前免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -285,7 +325,7 @@
     "title": "Epic Games Store 2026 大型特賣活動開跑",
     "summary": "Epic Games Store 的 2026 年度大型特賣活動已正式啟動，除了提供誘人的遊戲折扣外，也包含免費遊戲贈送活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "VTUBER",
@@ -293,7 +333,23 @@
     "title": "台V爭議頻傳：ORI央莉與艾美麗的合約糾紛與社群拉鋸",
     "summary": "台灣VTuber圈近期頻繁出現爭議，其中「ORI央莉」與廠商之間的合約糾紛與請款流程問題浮上檯面。ORI央莉在直播中試圖排查廠商背景，並質疑VTuber「艾美麗」對廠商的聲援是否因利益關係。艾美麗隨後在X（推特）上強調自身隱私權受侵犯，並否認與廠商有利益往來，但有對話截圖流出指控其私下仍與廠商聯繫並號召同業發表針對同行的言論，引發社群兩極討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/21",
+    "title": "Steam Risk of Rain 系列特賣",
+    "summary": "《Risk of Rain》系列遊戲（包含《Risk of Rain 2》、《擴充內容》及《Risk of Rain Returns》）於5月21日展開限時優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/21",
+    "title": "Steam Six One Indie Showcase 2026",
+    "summary": "Six One Indie Showcase 於5月21日回歸，帶來新的預告片、世界首發以及充滿Demo和必玩獨立遊戲的Steam活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -301,7 +357,7 @@
     "title": "台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH",
     "summary": "來自台灣的獨立遊戲團隊「葉開罐工作室」宣布，旗下開發中作品《夢閃少女Awaking Beauty》已正式入選日本最大獨立遊戲展「BitSummit PUNCH 2026」，並旋風釋出全新預告片與Steam試玩版大更新。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
+    "days_left": 0
   },
   {
     "category": "VTUBER",
@@ -309,7 +365,7 @@
     "title": "台灣VTuber「ORI央莉」與「艾美麗」爆發廠商合約及社群爭議",
     "summary": "台灣VTuber「ORI央莉」與某廠商因工商合約的結算物料與請款流程出現時間差，廠商被指控回應不嚴謹甚至疑似失聯。ORI央莉在直播中與粉絲共同檢視廠商公開資訊，並質疑其他VTuber（包含「艾美麗」）先前對該廠商的聲援是否因密切往來所致。隨後，「艾美麗」在個人社群平台（X）上發文，稱自身隱私權遭到「衝塔」（真實身分遭曝光）侵害，並撇清與廠商的利益關係。然而，網路上流出疑似對話截圖，指控艾美麗私下仍與廠商聯繫，並涉嫌在私人群組中號召同業對同行發表負面言論，這使得原本的廠商失信問題演變為VTuber圈內的社群爭議與口水戰，引發網友兩極討論，也對台灣VTuber的社會形象帶來考驗。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
+    "days_left": 0
   },
   {
     "category": "STREAMER",
@@ -317,69 +373,29 @@
     "title": "潘潘不生气！天啊，直播间怎么了！！！",
     "summary": "一名名為「潘潘」的實況主於2026年5月20日的直播中似乎發生了意外狀況，標題暗示直播間出現了「天啊！」的狀況，但具體內容影片已無法播放。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
+    "days_left": 0
   },
   {
     "category": "STREAMER",
-    "date": "2026/05/19",
-    "title": "實況「火山孝子」心態崩塌引發熱議",
-    "summary": "社群平台Threads上流傳一名觀眾因過度投入追隨實況主，導致情緒崩潰的事件。該事件引發網友對於「火山孝子」現象以及實況主與觀眾界線的廣泛討論。網友們紛紛分享類似經驗，並探討如何理性應對追星文化，避免過度沉迷導致身心受創。",
+    "date": "2026/05/20",
+    "title": "台灣Vtuber ORI央莉與廠商合約糾紛，引發艾美麗隱私爭議",
+    "summary": "台灣Vtuber ORI央莉因與廠商的活動結算和請款流程問題，在直播中檢視廠商資訊並質疑其幕後負責人，試圖釐清與其他Vtuber的利益關係。此舉引發Vtuber艾美麗在X（原Twitter）上發文，指控ORI央莉「衝塔」（曝光虛擬主播真實身分），侵害其隱私權，並質疑其言論是刻意模糊廠商失信的核心問題。社群上也有截圖流出，指艾美麗私下號召同業發表針對ORI央莉的言論，使事件演變成V圈內部的口水戰，引發外界對台灣Vtuber圈處理公關危機方式的討論。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
   {
     "category": "STREAMER",
-    "date": "2026/05/19",
-    "title": "峰哥討論VTuber浠Mizuki中之人訊息引發爭議",
-    "summary": "知名YouTuber峰哥在直播或社群上討論VTuber浠Mizuki的「中之人」（幕後扮演者）訊息，此舉在VTuber粉絲圈及網路社群引發高度討論與不滿，被視為揭露個人隱私的行為。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
-    "days_left": 0
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/19",
-    "title": "浠Mizuki中之人訊息遭外洩並引發社群熱議",
-    "summary": "VTuber浠Mizuki的「中之人」訊息在社群平台上被發現，導致粉絲熱烈討論，此事件隨後演變成高度關注的爭議話題。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
+    "date": "2026/05/20",
+    "title": "Vtuber 浠Mizuki 社群失言遭炎上，子午計畫宣布暫停活動兩個月",
+    "summary": "子午計畫旗下藝人浠Mizuki近期因在社群平台上的不當發言引發爭議，遭到網友炎上。對此，子午計畫官方於5月20日正式發布懲處公告，宣布浠Mizuki將暫停活動兩個月，並取消其所有工商合作，以示負責並平息社群怒火。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 0
   },
   {
     "category": "GAME",
-    "date": "2026/05/19",
-    "title": "Steam「海洋節」特賣活動開跑",
-    "summary": "Steam 平台舉辦「海洋節」特賣活動，時間為 5 月 18 日至 5 月 25 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/19",
-    "title": "Steam 遊戲特價",
-    "summary": "Steam 上多款遊戲進行折扣，其中包括《200% Mixed Juice!》、《ALONE?》、《Cook, Serve, Delicious!》以及《David.》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/19",
-    "title": "Steam 限時免費領取《AquaDream Soundtrack》",
-    "summary": "《AquaDream Soundtrack》（水之夢原聲帶）於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/19",
-    "title": "子午計畫浠Mizuki炎上後正式停工",
-    "summary": "子午計畫旗下的VTuber浠Mizuki因在社群上的爭議言論引發炎上，並於5月18日正式停工。此事件後續更引起網友討論，有人開始深入挖掘其「中之人」（幕後扮演者）的資訊。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/19",
-    "title": "Steam限免遊戲《AquaDream Soundtrack》",
-    "summary": "Steam平台於2026年5月19日至2026年5月26日期間，限時免費贈送《水之夢》原聲帶。",
+    "date": "2026/05/20",
+    "title": "PlayStation Days of Play 2026 活動預告",
+    "summary": "PlayStation Days of Play 2026 將於5月27日至6月10日舉行。據傳活動將提供DualSense控制器、Pulse Elite耳機和Pulse Explore耳塞等周邊配件的優惠，以及PSVR 2的降價。然而，目前沒有PS5主機的折扣消息。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   }
