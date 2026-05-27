@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 海洋節特賣進行中",
+    "summary": "2026 年 Steam 海洋節特賣活動於 5 月 18 日至 5 月 25 日期間舉行，玩家可在此期間享受多款以海洋為主題的遊戲折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
@@ -68,6 +76,14 @@
     "date": "2026/05/25",
     "title": "Epic Games 大特賣與免費好禮",
     "summary": "Epic Games Store 正在舉辦大特賣活動，提供數百款獨立遊戲與 AAA 大作的優惠折扣，並同時提供多項免費好禮，包括《地平線》包膜、《Rocket League®》Triplex Black Wheels、《糖豆人》電競神機套裝、Discord Nitro、Divers 超級禮包和「無限暖暖」限時優惠禮包等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/25",
+    "title": "Steam 新品試玩版釋出",
+    "summary": "Steam 在 2026 年 5 月 25 日至 31 日期間推出多款遊戲試玩版，其中包含《Tiny Farmie Demo》、《Selfie Worm Demo》、《Rogue Maze Demo》等共 11 款新作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -224,6 +240,22 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam 新品試玩版與免費遊戲",
+    "summary": "Steam 平台於 2026 年 5 月 22 日公布了多款新增的永久免費遊戲，包括《WithIN》、《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》和《Gun Glade》。 此外，Steam 新品節也推薦了多款 6 月份值得關注的獨立遊戲免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/22",
+    "title": "Steam 限時免費遊戲",
+    "summary": "Steam 免費遊戲情報站於 2026 年 5 月 22 日至 27 日期間，陸續開放限時免費領取《Bunny Guys》、《BROTHER!!! Save him!》、《Bunny Hurling》等遊戲序號。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/05/21",
     "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
@@ -366,38 +398,6 @@
     "summary": "Steam 平台推出《雨中冒險 (Risk of Rain)》系列特賣，玩家可享優惠價格購買《雨中冒險2》及其擴充內容，以及《Risk of Rain Returns》。此外，官方也分享了即將推出的擴充內容《雨中冒險2: 萬象歸衡》的最新開發日誌，深入介紹新內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store 免費遊戲《The Telltale Batman: Shadows Edition》與《Sunderfolk: Standard Edition》",
-    "summary": "Epic Games Store 限時免費提供《The Telltale Batman: Shadows Edition》和《Sunderfolk: Standard Edition》，玩家可在 5 月 14 日至 5 月 21 日期間領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store 釋出五月第二批神秘免費遊戲",
-    "summary": "Epic Games Store 於 2026 年 5 月 21 日揭曉了五月第二批神秘免費遊戲，分別是《百慕達迷城 (Down in Bermuda)》和《古墓奇兵 I-III Remastered (Tomb Raider I-III Remastered)》。這兩款遊戲均獲得玩家好評，總價值約 49.98 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store 限時免費遊戲：《Down In Bermuda》與《Tomb Raider I-III Remastered》",
-    "summary": "Epic Games Store 於 2026年5月21日至5月28日期間提供《Down In Bermuda》和《Tomb Raider I-III Remastered》限時免費領取。前者是一款可愛的卡通風格解謎冒險遊戲，後者則是《古墓奇兵》原版三部曲的重製版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/20",
-    "title": "台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH",
-    "summary": "來自台灣的獨立遊戲團隊「葉開罐工作室」宣布，旗下開發中作品《夢閃少女Awaking Beauty》已正式入選日本最大獨立遊戲展「BitSummit PUNCH 2026」，並旋風釋出全新預告片與Steam試玩版大更新。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
@@ -709,5 +709,86 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/XX/XX",
     "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "國分玲（來自2058年的未來人）關於2026年的預警",
+    "summary": "來自 2058 年的未來人國分玲在 2026 年 5 月 23 日的社群討論中被提及，表示 2026 年是日本及全球的重大轉折點。他曾預言若日本 GDP 降至全球第五、汽車產業衰退、人口減少至 8600 萬人，以及福島三陸海域將發現巨大海底油田。此外，他還預測 2025 年 10 月將有一位名叫高市早苗的女性擔任日本首相。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "自稱2048年香港未來人預言",
+    "summary": "一名自稱來自 2048 年的香港未來人在 2026 年 5 月 18 日於 Threads 平台分享預言，聲稱 2026 年香港將面臨水災、傳染病，且社群媒體將湧現大量震撼新聞。他還指出，未來兩年內將開始有「外星接觸」事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/15",
+    "title": "國分玲（來自2058年的未來人）關於2026年底新傳染病與俄烏停火的預言",
+    "summary": "2058年的未來人國分玲在 2026 年 5 月 15 日的相關討論中被提及，預言 2026 年底將有全新的傳染病肆虐全球，並且俄羅斯與烏克蘭的停火時間也已確定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/04",
+    "title": "布蘭登關於2026年財富轉移的預言",
+    "summary": "一名為布蘭登的預言者在 2026 年 5 月 4 日透過 YouTube 影片發布最新預言，內容指出 2026 年將會發生重大的財富轉移。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "帕克關於2026年5月「大重置」與人口消失的預言",
+    "summary": "據稱，兩名互不相識的美國先知同時接收到神聖訊息，預言 2026 年 5 月地球將迎來史無前例的「大重置」，這將是一場針對數十億低頻靈魂的宇宙級大清除，可能伴隨死亡天使降臨與經濟全面崩潰，並強調在 2026 年 7 月 4 日前一切都將成定局。此預言於 2026 年 4 月 16 日在 YouTube 影片中被廣泛討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/05/XX",
+    "expiry_date": "2026/06/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "匿名 4chan 用戶關於 2026-2027 年世界大戰與外星人入侵的預言",
+    "summary": "在 2026 年 3 月 20 日的 Reddit 討論中，提及一個聲稱可接觸 Majestic 12 文件的 4chan 用戶 MJkiller 曾詳細預測 2026 年將逐步升級為全球戰爭、崩潰，最終導致世界一體化政府的建立，並聲稱到 2027 年將有數十億人死亡。預言內容包括中國入侵台灣與關島、北韓入侵韓國、俄羅斯入侵波蘭與波羅的海國家、歐洲陷入動亂與飢荒、美國遭受入侵、戰術核武使用、以色列被摧毀、虛假外星人入侵等。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/18",
+    "title": "澳洲占星家潔西卡·亞當斯（Jessica Adams）2026 年預言",
+    "summary": "澳洲占星家潔西卡·亞當斯在 2026 年 3 月 18 日發布多項預言。她預測 2026 年將是領土衝突的關鍵年，俄烏戰爭與加沙戰事將加劇，預計 2026 年 6 月左右世界地圖將重新繪製，此狀況將持續至 2033 年。她還預測加沙戰爭將分三階段結束，第三階段於 2026 年 7 月 26 日正式結束。此外，2026 年將爆出涉及愛潑斯坦的驚天醜聞，夏季將出現「數位孿生」技術改變社群媒體，以及飛行汽車、自動駕駛計程車將在 2026 年 5 月至 7 月左右迅速普及。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/XX",
+    "expiry_date": "2026/07/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/01",
+    "title": "龍婆關於2026年外星人公開見面的預言",
+    "summary": "在 2026 年 3 月 1 日的 YouTube 影片中，討論了盲眼龍婆的預言，提及外星人將在 2026 年與人類「公開見面」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "來自2033年的時空旅行者關於AI發展的預言",
+    "summary": "在 2025 年 1 月 14 日的 Reddit 討論中，提及一名自稱來自 2033 年的時空旅行者預測，到了 2027 年，AI 將達到能夠生成電影劇本等更先進應用。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/XX/XX",
+    "expiry_date": "2028/01/01"
   }
 ]
