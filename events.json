@@ -248,6 +248,22 @@
     "days_left": 3
   },
   {
+    "category": "STREAMER",
+    "date": "2026/05/24",
+    "title": "VTuber saba 健康狀況惡化，宣布暫停會員訂閱功能",
+    "summary": "VTuber saba 近日在會員限定貼文中更新近況，坦言自己的健康狀況持續惡化，正受到慢性病影響，感覺是人生中最糟的一次。由於身體狀況無法支持，她宣布將於美東時間5月25日中午12點暫停會員訂閱功能，並感謝粉絲持續支持。她表示未來幾天將會向更多人說明情況，此前健康問題偶有提及，而這次的沉默是因為身體狀況前所未有的糟糕。",
+    "avatar_url": "https://img.league-funny.com/Files/2026/05/24/saba%20(1",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Steam 突襲新增5款永久免費遊戲",
+    "summary": "Steam近日新增了5款可永久免費領取的遊戲，涵蓋冒險、運動、大逃殺等不同類型，包含《WithIN》、《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》與《Gun Glade》。玩家可直接下載並永久加入收藏庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -382,22 +398,6 @@
     "summary": "(https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm40Gi-0-7-PUrHqPB1zVZ_mEraaMp70KQaxzeYCXUodcoRZhzN9OcHc8Zms_Dw6aYoiWCLIgnXlenNwG7SzZN7rnOVaLvNgWTvUIr096QtyxiG6eIQJkABr2sTrNbeLZk)：Steam 於 2026 年 5 月 26 日展開「Witches, Wizards & Warlocks Sale」，精選超過 100 款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam Crunching Koalas發行商特賣",
-    "summary": "Steam平台推出Crunching Koalas發行商特賣，多款遊戲享最高85%折扣，活動為期一週。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/21",
-    "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
-    "summary": "一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。",
-    "avatar_url": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=150&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
@@ -595,6 +595,15 @@
     "date": "2026/04/08",
     "title": "來自2058年的未來人國分玲表示：2026年是日本及全球的重大轉折點",
     "summary": "據2026年4月8日報導，自稱來自2058年的未來人國分玲曾列出多個未來時間節點的預言，她曾表示2026年是日本及全球的重大轉折點。此外，她也預言中國將分裂成「華國」，並在2030年代後期長期處於多政府狀態。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan匿名用戶預測2026年加密貨幣市場：比特幣達25萬美元，以太幣達2萬美元",
+    "summary": "一位在2025年10月曾準確預測比特幣高點的4chan匿名用戶，發布了對2026年主要加密貨幣的新價格預測。該用戶預測，到2026年底，比特幣將達到25萬美元，以太幣將達到2萬美元。另有報導稱，該用戶甚至預測比特幣將達到100萬美元，以太幣達到10萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
@@ -912,5 +921,47 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/10/XX",
     "expiry_date": "2026/11/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads未來人預言2026為文明轉折點及未來五年重大事件",
+    "summary": "一位自稱來自其他時間線的「未來人」在Threads上發文，表示因急需解決的未來事故而回到2026年留下未來五年將發生的重大事件，以期調整事件走向。預言內容包括2026年是文明轉折點，2029年部分國家保險體系失效、金融風暴與全球戰爭瀕臨核武發射，以及2030年部分地區因AI全面取代人工而嘗試實施最低基本收入，同時非洲有國家因氣候變遷與政變消失。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/30",
+    "title": "泰國Plai師傅2026年預言：新型X疾病、生物戰與災難延續至2030",
+    "summary": "泰國「神級命理師」Plai師傅預言2026年是「非常兇」的火馬年，較2025年更動盪，將出現新型「X疾病」（結合古老疾病與人為實驗成分），傳染力強，源自實驗室。她還預言會有局部性「隱形戰爭」（生物武器試驗），導致怪病急增。此外，地震、水災與戰爭將在2027年後更加嚴峻，特別是2027年地震會更頻繁，部分與海上武器試驗有關，災難恐延續至2030年。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/11",
+    "title": "盲眼龍婆2026年預言：外星人接觸、AI主宰人類、第三次世界大戰及台灣變局",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加的預言再次被討論。她預言人類將於2026年11月首次與外星文明接觸，屆時巨型太空船將進入地球大氣層。她還預言2026年AI人工智慧將取得重大進展並可能主宰人類，以及可能爆發牽涉多個世界強國的第三次世界大戰，戰火有機會蔓延全球。另有傳言指她暗示中國在此期間「接管台灣」的可能性大幅增加，同時會引發金融風暴，導致數億人破產。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/17",
+    "title": "John Titor與維也納信件對2026年的警告：社會動盪與資訊混亂",
+    "summary": "多位自稱「時空旅行者」的人物對2026年發出警告。John Titor預言美國將發生內戰，全球衝突，社會分裂成小型社區，人們對中央化系統失去信任，特定技術變得不可靠，轉而信任地方系統。維也納信件則指出，人類將在2026年左右跨越一個「可見性門檻」，資訊將難以被抑制，真相更難以辨別。這些預言描述2026年是一個「緩慢瓦解」的開始，而非單一爆炸性事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/19",
+    "title": "4chan舊貼文預言第三次世界大戰與外星人入侵",
+    "summary": "Reddit上討論一則2026年3月19日的舊4chan貼文，其中預言了可能在2026-2027年發生的全球性災難。預言內容包括以色列襲擊伊朗引發美伊衝突，美國航母被擊沉，美國對中東的兩次入侵。隨後預測美國內戰、國家分裂，土耳其背叛北約並加入俄羅斯-伊朗-中國聯盟，中國入侵台灣和關島，朝鮮入侵韓國，俄羅斯入侵波蘭和波羅的海國家。歐洲將陷入暴動、饑荒和內戰。最終將使用戰術核武與戰略核武，以色列被摧毀。預言還提到一場「虛假外星人入侵」，FEMA營地將人類分類，到2027年50億人死亡，隨後「真實外星人」幫助擊敗「虛假外星人」，最終形成由MJ12和聯合國主導的單一世界政府。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/19",
+    "title": "香港「未來人」Threads貼文：來自2048年，預言2026年樓市、戰爭、AI叛變及失業",
+    "summary": "一位自稱來自2048年的香港「未來人」在Threads上發布貼文，討論他來到2026年的目的。他提到了對房地產市場、未來戰爭、AI叛變以及人們是否仍有工作等問題的看法和預言。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
   }
 ]
