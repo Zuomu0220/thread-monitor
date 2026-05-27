@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/27",
+    "title": "Hooded Horse 2026年5月特賣",
+    "summary": "Hooded Horse 於2026年5月27日推出特賣，其已發行遊戲皆有折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/27",
+    "title": "SNEG 發行商特賣會",
+    "summary": "SNEG 推出發行商特賣會，多款經典復刻遊戲最高享一折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/26",
     "title": "Steam 商店多款遊戲特價活動",
     "summary": "Steam 平台於 2026 年 5 月 26 日有多項遊戲折扣活動，包含慶祝《勇者鬥惡龍》40 週年的特惠、女巫、巫師與術士特賣，以及 Hooded Horse 2026 五月特賣等。",
@@ -305,6 +321,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam 多款遊戲限時免費領取",
+    "summary": "Steam 推出「Free-to-Keep Promotion」活動，玩家可限時免費領取多款遊戲並永久保留。截至5月23日，包含《Bunny Guys!》、《Bunny Hurling》、《Car Mechanic Simulator 2018》、《Dino running from a Furry》以及《Warhammer 40K: Gladius - Relics of War》（至5月28日）等遊戲可供領取。另有《AquaDream Soundtrack》作為額外贈品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/22",
     "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
     "summary": "開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。",
@@ -376,30 +400,6 @@
     "days_left": 1
   },
   {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam 限時免費遊戲",
-    "summary": "Steam 免費遊戲情報站於 2026 年 5 月 22 日至 27 日期間，陸續開放限時免費領取《Bunny Guys》、《BROTHER!!! Save him!》、《Bunny Hurling》等遊戲序號。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/22",
-    "title": "VTuber KitsuneroVT 因發現被偶像禁止而情緒失控",
-    "summary": "(https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0N5wsqNd9V57MdsYQPcpuST06FaS1cMLF21rgvkn0DfhSPs_uOCfb_sfVNIZFCqeJfSc9SDbEdCjU27gTDajvaPpZgxblnftlkUX3UNBc7msPf9hLPRhshgTMaGgUM1WykXjCQDNkcBuDrcUUM07a7okqHjvBm9CqsU2KmLaVGsnhIGRcYBRjVCeBd2fYeN-9yNt7K94Dn53wrzH51wsPi9KMd-JNie7m16gDZwvbgrcuyWC6itOjMBSe9emdUEfGNoak4HLvXBX79qHJ157Te0Dy-PXe_Z73owI1-dY1WntFLIzCVQynqlUXQ)：德國 VTuber KitsuneroVT 在直播中發現啟發她的創作者將她從頻道中禁止後，情緒崩潰並提前結束直播，隨後在 X 上發布道歉聲明。此前她曾因評論委託藝術品而引發爭議，並在 2025 年因支持男性心理健康的言論遭到反彈。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam Witches, Wizards & Warlocks 優惠活動",
-    "summary": "(https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm40Gi-0-7-PUrHqPB1zVZ_mEraaMp70KQaxzeYCXUodcoRZhzN9OcHc8Zms_Dw6aYoiWCLIgnXlenNwG7SzZN7rnOVaLvNgWTvUIr096QtyxiG6eIQJkABr2sTrNbeLZk)：Steam 於 2026 年 5 月 26 日展開「Witches, Wizards & Warlocks Sale」，精選超過 100 款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -412,6 +412,15 @@
     "date": "2026/05/28",
     "title": "TikTok 自稱未來人警告：2026 年 6 月 6 日全球將陷入三天黑暗",
     "summary": "(https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHeP5Gk0QE47vOg_g6TKy08e9HKw3IblQGp1UGyhbFMK59X7c11iQwZfhIjSeI24ID82ItXvJYfDTtEK0_wp_w4AEjlol-dXP4elOrO34XXCfg9EN5dV_n4OOT4irTHOz8fNtal0ls7EJ1g9Xl4o40IBmM9VNO4uEXzAZqOV6GHQ5PqYzgG15AQw)：一位自稱來自 2582 年的 TikTok 用戶發布影片警告，全球將於 2026 年 6 月 6 日格林威治時間 00:00 起，進入為期三天的完全黑暗。他呼籲人們做好準備，並警告不要抬頭看金字塔發出的光芒，不要使用人造照明，除了蠟燭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "2026年6月6日「黑暗三日」降臨",
+    "summary": "一位自稱來自2582年的未來人Timetraveler2582預言，2026年6月6日世界將籠罩在「黑暗三日」之中，該預言近期引發網路熱議。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
@@ -963,5 +972,226 @@
     "title": "香港「未來人」Threads貼文：來自2048年，預言2026年樓市、戰爭、AI叛變及失業",
     "summary": "一位自稱來自2048年的香港「未來人」在Threads上發布貼文，討論他來到2026年的目的。他提到了對房地產市場、未來戰爭、AI叛變以及人們是否仍有工作等問題的看法和預言。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/13",
+    "title": "2026年日本將迎來重大轉折點",
+    "summary": "自稱來自2058年的未來人國分玲預言，2026年日本將發生重大轉變，可能涉及首都功能部分轉移或統治機構的變化，並提及リニア中央新幹線部分區段將啟動。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2026年日本及全球的重大轉折點",
+    "summary": "來自2058年的未來人國分玲表示，2026年是日本及全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "2026年日本啟動變革，2027年導入數位日圓與50歲退休制度",
+    "summary": "來自2058年的未來人國分玲在2019年預言，2026年日本將開始變革，並將於2027年導入數位日圓以及50歲退休的社會結構變革。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "2026年台中要注意交通事故",
+    "summary": "Threads上爆紅的未來人jjjkf.j預言，2026年台中地區需特別留意交通事故，建議沒事不要去台中。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "2026年台灣政治藍綠平手",
+    "summary": "Threads上的未來人jjjkf.j預測，2026年台灣政治藍綠雙方將呈現平手局面。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "BIGBANG將於2026年回歸並舉辦演唱會 (三人組)",
+    "summary": "Threads上的未來人jjjkf.j預言，BIGBANG將在2026年以三人組形式回歸並舉辦20週年演唱會。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/23",
+    "title": "2031年將爆發第三次世界大戰",
+    "summary": "來自2075年的日本人「YJ」在2018年預言，2031年將爆發第三次世界大戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/XX/XX",
+    "expiry_date": "2032/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/08",
+    "title": "2031年將出現與死者的虛擬通話",
+    "summary": "來自2075年的日本人「YJ」在2018年預言，2031年將會出現與死者進行虛擬通話的技術。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/XX/XX",
+    "expiry_date": "2032/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/15",
+    "title": "2062年中國將不存在，亞洲幾乎被印度併吞",
+    "summary": "來自2062年的未來人預言，到2062年中國將不存在，亞洲大部分地區將被印度併吞，台灣也將成為日本的一部分。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/XX/XX",
+    "expiry_date": "2063/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/15",
+    "title": "第三次世界大戰已發生",
+    "summary": "2062未來人表示，在他所處的2062年前，已經發生過一次世界大戰，即第三次世界大戰，約在2030年代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "2027年AI將能生成電影劇本",
+    "summary": "一位自稱來自2033年的時空旅人預測，到2027年人工智慧將發展到能夠生成電影劇本，以及其他更進階的應用。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/XX/XX",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/17",
+    "title": "2088年台灣未被中共統一，習近平仍在世",
+    "summary": "一位自稱來自2088年的時空旅人預言，截至2088年台灣未被中共統一，且習近平仍活著。並提及麥當勞與肯德基已合併，北極熊未絕種等。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2088/XX/XX",
+    "expiry_date": "2089/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/17",
+    "title": "名偵探柯南最終反派為阿笠博士私生子",
+    "summary": "2088年時空旅人透露，《名偵探柯南》最終反派「烏丸蓮耶」是阿笠博士的私生子，結局灰原哀與大和敢助將會死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/17",
+    "title": "獵人仍無結局",
+    "summary": "2088年時空旅人提及，到2088年，《獵人》漫畫仍然沒有結局，但已沒人再關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2088/XX/XX",
+    "expiry_date": "2089/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2027年烏俄停戰",
+    "summary": "一位自稱來自2050年的時空旅人預言，2027年烏俄戰爭將停戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/XX/XX",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2029年人類成功復活長毛象",
+    "summary": "一位自稱來自2050年的時空旅人預言，2029年人類將成功復活長毛象（99%還原度）。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/XX/XX",
+    "expiry_date": "2030/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2034年《名偵探柯南》完結，灰原哀與大和敢助身亡",
+    "summary": "一位自稱來自2050年的時空旅人預言，2034年《名偵探柯南》將完結，柯南聯手多方重創黑色組織，但灰原哀為救小蘭不幸身亡，大和敢助也殉職。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2034/XX/XX",
+    "expiry_date": "2035/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2038年台灣將一黨獨大",
+    "summary": "一位自稱來自2050年的時空旅人預言，2038年台灣將一黨獨大，且經典摩爾莊園同年在台灣興起造成轟動。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2038/XX/XX",
+    "expiry_date": "2039/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2040年海水可轉化為所有食物來源",
+    "summary": "一位自稱來自2050年的時空旅人預言，2040年科學將有重大突破，海水倒入裝置中幾乎可轉化為所有食物來源。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2040/XX/XX",
+    "expiry_date": "2041/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2041年韓國實施戒嚴",
+    "summary": "一位自稱來自2050年的時空旅人預言，2041年韓國將實施戒嚴。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2041/XX/XX",
+    "expiry_date": "2042/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2042年人類飛行交通工具普及，傳統汽機車淘汰",
+    "summary": "一位自稱來自2050年的時空旅人預言，2042年人類飛行交通工具普及，傳統汽機車將被淘汰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2042/XX/XX",
+    "expiry_date": "2043/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2043年黑奴貿易再次於北美洲流行，北極熊絕種",
+    "summary": "一位自稱來自2050年的時空旅人預言，2043年因環境政治因素，黑奴貿易再次於北美洲流行，同年北極熊絕種。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2043/XX/XX",
+    "expiry_date": "2044/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2046年複製人誕生並合法量產",
+    "summary": "一位自稱來自2050年的時空旅人預言，2046年複製人將誕生並局限性合法量產。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2046/XX/XX",
+    "expiry_date": "2047/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2047年人類研發時光機",
+    "summary": "一位自稱來自2050年的時空旅人預言，2047年人類將成功研發時光機（時空傳送管）。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2047/XX/XX",
+    "expiry_date": "2048/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "2050年奈米蜘蛛對抗惡性腫瘤，癌症不再致命",
+    "summary": "一位自稱來自2050年的時空旅人預言，2050年人類將奈米蜘蛛（微型機器人）植入體內對抗所有惡性腫瘤，癌症不再致命，全球人類平均壽命達92.7歲。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2050/XX/XX",
+    "expiry_date": "2051/01/01"
   }
 ]
