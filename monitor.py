@@ -343,7 +343,9 @@ def parse_prophecy_date(raw: str):
         month = int(mon_s)
         day = int(day_s)
         try:
-            expiry_date = datetime(year, month, day)
+            exact_date = datetime(year, month, day)
+            # 精確日期：到當天的「隔一天」才刪除
+            expiry_date = exact_date + timedelta(days=1)
         except ValueError:
             return None
             
