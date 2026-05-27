@@ -252,8 +252,9 @@ else:
 - 包含 Steam、Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠、或重大獨立遊戲參展/Demo 釋出等情報資訊。
 
 路線三：『未來人與時空旅行者神祕預言特區』
-- 專門搜捕台灣與華語社群論壇（特別是 Threads、PTT、Dcard、巴哈姆特、X/Twitter）上，那些【自稱是未來人、時間旅行者、來自未來的穿越者、或是知名預言帳號】所發布的未來宣告、警告，或是他們在熱門文章底下的神祕「神預言留言」。
+- 專門搜捕【全球網路與社群平台】（不限語言，包含日本 2ch/5ch/X、歐美 Reddit/4chan/X、以及華語圈等），那些【自稱是未來人、時間旅行者、來自未來的穿越者、或是知名預言帳號】（例如來自 2058 年的日本國分玲等）所發布的未來宣告、警告，或是他們在熱門文章底下的神祕「神預言留言」。
 - 只要符合自稱未來人、時空旅人的發文或留言，不管有多少通通抓取，不受 50 則限制！
+- ⚠️【強制翻譯】：不管來源是日文、英文或其他語言，你輸出到這裡的「事件標題」與「詳細內容描述」，都【必須強制翻譯並潤飾成通順的繁體中文（zh-TW）】。
 - ⚠️【預言時間硬性標記】：這類事件必須在結尾精確加上 `[預言時間: YYYY/MM/DD]`（例如 `[預言時間: 2026/06/15]`），代表該預言預計發生的目標日期。只要跟預言有關，不管有多少通通抓取。
 
 ⚠️ 嚴格時間與標示規則：
@@ -312,25 +313,41 @@ else:
 import calendar
 
 def parse_prophecy_date(raw: str):
-    """從 AI 可能含有 XX 或多個日期的預言時間字串中，解析出第一個有效日期。
-    規則：XX 日 → 月底最後一天；XX 月 → 12月31日。
-    回傳 datetime 物件，解析失敗回傳 None。
+    """從預言時間字串中，解析出顯示字串與精確過期日。
+    規則：
+    - 精確日期 (YYYY/MM/DD) → 當天刪除 (回傳當天)
+    - 只有月份 (YYYY/MM/XX) → 下個月 1 號刪除
+    - 只有年份 (YYYY/XX/XX) → 明年 1 月 1 號刪除
+    回傳 (display_str, expiry_datetime)，解析失敗回傳 None。
     """
-    # 取第一段 YYYY/MM/DD 或含 XX 的日期 token（遇到空格、括號、逗號就停）
     m = re.search(r'(\d{4})/(\d{2}|XX)/(\d{2}|XX)', raw, re.IGNORECASE)
     if not m:
         return None
     year_s, mon_s, day_s = m.group(1), m.group(2).upper(), m.group(3).upper()
     year = int(year_s)
-    month = 12 if mon_s == 'XX' else int(mon_s)
-    if day_s == 'XX':
-        day = calendar.monthrange(year, month)[1]  # 月底最後一天
+    
+    display_str = f"{year_s}/{mon_s}/{day_s}"
+    
+    if mon_s == 'XX':
+        # YYYY/XX/XX
+        expiry_date = datetime(year + 1, 1, 1)
+    elif day_s == 'XX':
+        # YYYY/MM/XX
+        month = int(mon_s)
+        if month == 12:
+            expiry_date = datetime(year + 1, 1, 1)
+        else:
+            expiry_date = datetime(year, month + 1, 1)
     else:
+        # YYYY/MM/DD
+        month = int(mon_s)
         day = int(day_s)
-    try:
-        return datetime(year, month, day)
-    except ValueError:
-        return None
+        try:
+            expiry_date = datetime(year, month, day)
+        except ValueError:
+            return None
+            
+    return display_str, expiry_date
 
 
 def split_title_summary(text):
@@ -391,9 +408,11 @@ if ai_output:
                 prophecy_match = re.search(r'\[預言時間\s*[:：]\s*([^\]]+)\]', rest)
                 if prophecy_match:
                     raw_td = prophecy_match.group(1).strip()
-                    parsed_td = parse_prophecy_date(raw_td)
-                    if parsed_td:
-                        target_date_str = parsed_td.strftime("%Y/%m/%d")
+                    parsed_result = parse_prophecy_date(raw_td)
+                    expiry_date_str = None
+                    if parsed_result:
+                        target_date_str = parsed_result[0]
+                        expiry_date_str = parsed_result[1].strftime("%Y/%m/%d")
                     rest = re.sub(r'\[預言時間\s*[:：]\s*[^\]]+\]', '', rest).strip()
 
                 title, summary = split_title_summary(rest)
@@ -412,6 +431,8 @@ if ai_output:
                 }
                 if current_category == "PROPHECY" and target_date_str:
                     event_data["target_date"] = target_date_str
+                    if 'expiry_date_str' in locals() and expiry_date_str:
+                        event_data["expiry_date"] = expiry_date_str
 
                 new_extracted_events.append(event_data)
             i += 1
@@ -470,10 +491,21 @@ try:
             if cat == "PROPHECY":
                 target_dt_str = ev.get("target_date")
                 if target_dt_str:
-                    # 用容錯解析（已標準化為 YYYY/MM/DD，但舊資料可能含 XX）
-                    target_date_obj = parse_prophecy_date(target_dt_str) or datetime.strptime(target_dt_str, "%Y/%m/%d")
-                    # 只要現實時間大於預言時間（含月底），直接精準刪除，永不顯示
-                    if today.date() > target_date_obj.date():
+                    expiry_dt_str = ev.get("expiry_date")
+                    if expiry_dt_str:
+                        expiry_date_obj = datetime.strptime(expiry_dt_str, "%Y/%m/%d")
+                    else:
+                        parsed_result = parse_prophecy_date(target_dt_str)
+                        if parsed_result:
+                            expiry_date_obj = parsed_result[1]
+                        else:
+                            try:
+                                expiry_date_obj = datetime.strptime(target_dt_str, "%Y/%m/%d")
+                            except:
+                                expiry_date_obj = datetime(9999, 12, 31)
+                    
+                    # 只要現實時間「大於或等於」預言到期日（也就是在那一天），直接精準刪除！
+                    if today.date() >= expiry_date_obj.date():
                         expired_count += 1
                         continue
                 active_events.append(ev)
