@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/27",
+    "title": "Steam新遊戲發行",
+    "summary": "多款新遊戲於5月27日在Steam上發行，包含《Echo Generation 2》、《受讚頌者循白之證》、《Schrödinger's Call 薛丁格的電話》、《Starminer》及《FPV Labs - Drone Simulator》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/26",
     "title": "Steam 商店多款遊戲特價活動",
     "summary": "Steam 平台於 2026 年 5 月 26 日有多項遊戲折扣活動，包含慶祝《勇者鬥惡龍》40 週年的特惠、女巫、巫師與術士特賣，以及 Hooded Horse 2026 五月特賣等。",
@@ -88,6 +96,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/05/25",
+    "title": "Steam海洋節活動",
+    "summary": "Steam「海洋節」於5月18日至5月25日舉行，提供海洋主題遊戲的特價與相關活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/25",
+    "title": "虛幻6引擎首個遊戲實機演示公布",
+    "summary": "Epic Games於2026年5月25日公布了虛幻6引擎的首個遊戲實機演示影片。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/05/24",
     "title": "老高無預警取消直播惹議",
@@ -133,6 +157,14 @@
     "title": "Epic Games 大特賣 2026：下週神秘遊戲預告",
     "summary": "Epic Games Store 於 2026年5月24日預告，在即將到來的 Epic Games 大特賣活動中，下週將有神秘免費遊戲#5 和 #6 釋出，領取時間為台灣時間 5 月 28 日 23:00 至 6 月 4 日 23:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/24",
+    "title": "女VTuber聊生理期困擾遭網友反過來說教",
+    "summary": "一名女VTuber在直播中分享生理期困擾時，引發部分網友反過來進行說教式回應，導致社群上針對此類言論的討論與爭議。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -364,38 +396,6 @@
     "date": "2026/05/21",
     "title": "Epic Games Store 最新免費遊戲",
     "summary": "Epic Games Store 宣布本週免費遊戲為《百慕達迷航 (Down in Bermuda)》和《古墓奇兵 1-3 高清重製版 (Tomb Raider I-III Remastered)》，玩家可限時領取。此波免費遊戲將持續至 5 月 28 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store「2026 Epic Games 大特賣」",
-    "summary": "Epic Games Store 正舉行年度大特賣，提供超級優惠、免費遊戲、購物贈禮等多項好康，活動將於美東時間 6 月 11 日上午 11 點結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Epic Games Store 免費遊戲《逃出百慕達》與《古墓奇兵 I–III 復刻版》",
-    "summary": "Epic Games Store 宣布其大特賣期間的最新兩款神秘免費遊戲為《逃出百慕達 (Down in Bermuda)》和《古墓奇兵 I–III 復刻版 (Tomb Raider I-III Remastered)》。玩家可在台灣時間 5 月 21 日 23:00 至 5 月 28 日 23:00 期間免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Steam Six One Indie Showcase 2026",
-    "summary": "Six One Indie Showcase 於 5 月 21 日回歸，帶來多款獨立遊戲的新預告片、世界首映，並在 Steam 舉辦一場充滿 Demo 和值得加入願望清單的獨立遊戲盛會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Steam Risk of Rain 系列特賣與新開發日誌",
-    "summary": "Steam 平台推出《雨中冒險 (Risk of Rain)》系列特賣，玩家可享優惠價格購買《雨中冒險2》及其擴充內容，以及《Risk of Rain Returns》。此外，官方也分享了即將推出的擴充內容《雨中冒險2: 萬象歸衡》的最新開發日誌，深入介紹新內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -790,5 +790,73 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/XX/XX",
     "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads未來人預言2026是文明轉折點",
+    "summary": "一名自稱來自其他時間線的「未來人」在Threads上發文，預言未來五年將發生重大事件。他指出2030年部分國家將因AI全面替代人工而嘗試基本收入，非洲有國家將因氣候變遷與政變消失；2029年部分國家保險體系將失效、金融風暴來襲，並有國家將發起全面戰爭，核武差點發射。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/XX/XX",
+    "expiry_date": "2030/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/01",
+    "title": "龍婆預言外星人將於2026年公開現身",
+    "summary": "有報導指出，根據龍婆的預言，外星人將在2026年與人類「公開見面」。同時，美國X檔案也披露「帶敵意飛船」正逼近地球，並預測年底可能攻占地球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "Reddit集結多方預言指2026年將有重大動盪",
+    "summary": "Reddit論壇上有多則預言指出2026年將有多重危機浮現。其中包括中東衝突將演變為更大規模的事件，美國將爆發內戰，以及一位名為Chris Bledsoe的人士聲稱，約30年前被告知在2026年復活節前後將發生改變世界的事件。此外，還有4chan用戶「MJkiller」聲稱掌握文件，詳細描述2026年將逐步升級的全球戰爭、社會崩潰及最終形成單一世界政府的事件序列，甚至預言2027年將有數十億人死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058年未來人國分玲預言2026為全球轉折點",
+    "summary": "來自2058年的日本未來人國分玲（Kokubun Rei）在社群平台上表示，2026年將是日本乃至全球的重大轉折點。他曾預言比特幣價值將飆升至天價，且未來只能賣不能買；並提及2038年太陽系將不再是地球文明的孤島，外星文明將被正式接觸；至2058年，日本首都將因天災遷至岡山縣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/02",
+    "title": "日本2ch/5ch預言2026年日本將面臨嚴重物資短缺與社會混亂",
+    "summary": "日本2ch/5ch論壇上有討論指出，預言2026年春季起，日本將面臨物資配給不足、運輸困難、傷患增加。夏季則預計病資材料、農藥、農機燃料將嚴重不足，農業生產將毀滅性停滯，加上燃料短缺導致交通癱瘓，流離失所者將大幅增加，甚至預言若霍爾木茲海峽在6月前關閉，將導致嚴重後果。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/XX",
+    "expiry_date": "2026/07/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/05",
+    "title": "命理師預言2026年台灣將有鼠患",
+    "summary": "一名命理師簡少年於去年12月發布的2026年運勢預測影片中提及，2026年應特別注意鼠患、鼠疫等問題。此預言在台北市鼠患議題延燒後，引起網友朝聖討論其精準度。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "3036年未來人預言全球將發生5年大停電",
+    "summary": "一篇來自2026年5月18日的報導提及，一名自稱來自西元3036年的「未來人」曾發布預言影片，聲稱人類將面臨一場比疫情更可怕的大災難，即全球將會持續5年的大停電，屆時人類生活將陷入困境與動盪，但某類工種將急速崛起成為主流職業。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/27",
+    "title": "5ch討論宇宙可能因真空崩潰而終結",
+    "summary": "2026年5月27日，日本5ch論壇出現一則討論，關於宇宙可能因「真空崩潰」而終結，指出目前尚不清楚具體會發生什麼，引發社群恐慌與討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
   }
 ]
