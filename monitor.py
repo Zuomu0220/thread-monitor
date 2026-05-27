@@ -122,7 +122,7 @@ mapping = {
     "龜狗": "https://ui-avatars.com/api/?name=龜狗&background=84cc16&color=fff&size=128",
     "冠緯": "https://ui-avatars.com/api/?name=冠緯&background=3b82f6&color=fff&size=128",
     "RB": "https://ui-avatars.com/api/?name=RB&background=6366f1&color=fff&size=128",
-    
+
     # === 7. 人氣女實況主 / VType ===
     "貝莉莓": "https://ui-avatars.com/api/?name=莓&background=be185d&color=fff&size=128",
     "依渟": "https://ui-avatars.com/api/?name=ET&background=fbcfe8&color=db2777&size=128",
@@ -160,15 +160,20 @@ mapping = {
 
 AVATAR_DICT = mapping
 
+
 # 輔助函數：比對頭像並套用階層優先規則
 def resolve_avatar_url(title, summary, category, gemini_img_url):
     # 只要分類是遊戲情報，就直接走獨立的綠色遊戲圖示，不再去對照人名大字典
     if category == "GAME":
         return "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
 
+    # 預言特區專屬神祕感漸層底圖
+    if category == "PROPHECY":
+        return "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
+
     t_lower = title.lower()
     s_lower = summary.lower()
-    
+
     # 1. 官方重大告知 (最高優先權)
     announcement_keys = [
         "畢業告知", "畢業", "重大告知", "停止活動", "暫停活動", "解約", "不當解約", "法律聲明", "法務", "官方聲明"
@@ -176,17 +181,17 @@ def resolve_avatar_url(title, summary, category, gemini_img_url):
     for key in announcement_keys:
         if key.lower() in t_lower or key.lower() in s_lower:
             return AVATAR_DICT[key]
-            
-    # 2. 精準配對人名與公司所屬 (按長度從長到短，避免短片名先被配對，支援多重關鍵字模糊掃描)
+
+    # 2. 精準配對人名與公司所屬
     sorted_names = sorted([k for k in AVATAR_DICT.keys() if k not in announcement_keys], key=len, reverse=True)
     for name in sorted_names:
         if name.lower() in t_lower or name.lower() in s_lower:
             return AVATAR_DICT[name]
-            
+
     # 3. 如果 Gemini 聯網搜尋有給出有效的自帶圖片網址
     if gemini_img_url and "example" not in gemini_img_url.lower() and gemini_img_url.lower() != 'none':
         return gemini_img_url
-        
+
     # 4. 根據分類給予精美的預設分類圖
     if category == "STREAMER":
         return "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80"
@@ -195,17 +200,18 @@ def resolve_avatar_url(title, summary, category, gemini_img_url):
     else:
         return "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
 
-# 1. 自動獲取台灣時間 (UTC+8)，避免 GitHub Actions 時差，定死 7 天的時間邊界
+
+# 1. 自動獲取台灣時間 (UTC+8)，避免時差
 from datetime import timezone
 tz_taiwan = timezone(timedelta(hours=8))
 today = datetime.now(timezone.utc).astimezone(tz_taiwan)
-seven_days_ago = today - timedelta(days=7)  # 超過 7 天前 (delta > 7) 淘汰，保留 delta <= 7
+seven_days_ago = today - timedelta(days=7)
 today_str = today.strftime("%Y/%m/%d")
 cutoff_str = seven_days_ago.strftime("%Y/%m/%d")
 today_time_str = today.strftime("%Y/%m/%d %H:%M")
 
-print(f"🔄 正在啟動『全自動網頁輿情雷達』...")
-print(f"🕒 當前現實時間：{today_time_str} (將自動搜捕 {cutoff_str} 至今的最新炎上事件)")
+print(f"🔄 正在啟動『全自動網頁輿情暨未來預言雷達』...")
+print(f"🕒 當前現實時間：{today_time_str} (將自動搜捕 {cutoff_str} 至今的最新炎上事件與預言)")
 
 # 2. 檢查 API Key 狀態
 api_key = os.environ.get("GEMINI_API_KEY")
@@ -224,50 +230,58 @@ if not api_key:
             print(f"⚠️ 讀取 .env 檔案失敗: {e}")
 
 ai_output = ""
-simulation_mode = False
 
 if not api_key:
     print("❌ 警告：找不到環境變數 GEMINI_API_KEY。")
     print("⚠️ 將進入『安全降級模式』：保留現有資料庫，僅更新網頁觀測時間。")
-    simulation_mode = True
     ai_output = ""
 else:
     # 3. 使用全新的 google-genai SDK 進行連網搜尋
     try:
         client = genai.Client(api_key=api_key)
-        
-        # 4. 給 AI 的搜尋與過濾指令
+
+        # 4. 給 AI 的搜尋與過濾指令 (加入無差別負面掃描與預言專屬路線)
         prompt = f"""
 今天是真實世界時間：{today_str}。
-請你使用 Google Search 功能，主動潛入網路（包含 Threads、PTT、Dcard、X/Twitter、各大遊戲動漫新聞網），以「無差別拖網雷達」的模式，搜捕從 {cutoff_str} 到 {today_str} 之間的最新消息：
+請你使用 Google Search 功能，主動潛入網路（包含 Threads、社群論壇、PTT、Dcard、X/Twitter、各大遊戲動漫新聞網），以「無差別拖網雷達」的模式，同時分頭搜捕並整理以下三大路線的最新動態：
 
 路線一：『實況主與 VTuber 全網負面與爭議事件』
-- ⚠️【無差別掃描警告】：絕對不要只侷限於知名大台！只要是台灣/華語圈的任何人（包含小型實況主、剛出道的個人勢 VTuber、相關經紀公司），只要在這 7 天內發生了「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，請你全部無條件抓取下來，越多越好！
+- ⚠️ 絕對不要只侷限於知名大台！只要是台灣/華語圈的任何人（包含中小型實況主、剛出道的個人勢 VTuber、相關經紀公司），只要在這 7 天內（{cutoff_str} 到 {today_str}）發生了「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，請你全部無條件抓取下來！
 
 路線二：『Steam/Epic最新遊戲特價與免費情報』
 - 包含 Steam、Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠、或重大獨立遊戲參展/Demo 釋出等情報資訊。
 
+路線三：『全網預言與未來事件預測特區』
+- 搜捕網路上提及的所有有關未來發展的「重大預言、排程預測或宣告」（例如：某網紅預言幾月幾號會發生什麼大事件、社群高度預測某知名遊戲或硬體何時推出、或是某大咖宣稱未來的某個具體日期會投下震撼彈）。
+- ⚠️【預言時間硬性標記】：這類事件必須在結尾精確加上 `[預言時間: YYYY/MM/DD]`（例如 `[預言時間: 2026/06/15]`），代表該預言預計發生的目標日期。只要跟預言有關，不管有多少通通抓取。
+
 ⚠️ 嚴格時間與標示規則：
-1. 你「只允許」整理並顯示發生在 {cutoff_str} 至 {today_str} 之間的最新事件。超過 7 天前的一律丟棄。
+1. 路線一與路線二你「只允許」整理並顯示發生在 {cutoff_str} 至 {today_str} 之間的最新事件。超過 7 天前的一律丟棄。
 2. 必須在每條事件的最開頭，明確標示出該事件在網路社群上爆出的真實日期，格式為 **[MM/DD]**。
 3. 【標題中括號與冒號規則】格式必須精確為：`* **[MM/DD]** [事件標題]：詳細內容描述 [圖片: 網址]`。
-4. 【動態抓圖指令】：對於不在大眾名單上的 VTuber 或實況主，請你務必在網路上抓取與該事件相關的新聞截圖、或者他們本人的公開社群頭像網址，填入 `[圖片: 網址]` 中！找不到才寫 none。
+4. 【重點】請為每一個事件的主角尋找相關的公開圖片網址。在每條事件的末尾以 `[圖片: 網址]` 格式標示（如果實在找不到或該類別不需顯示，請寫 `[圖片: none]`）。
 
 請嚴格依照以下 Markdown 格式輸出列表（不要任何寒暄）：
+
 ### 🎮 實況主區
 * **[MM/DD]** [事件標題]：核心爭議點與網友討論摘要 [圖片: 網址]
+
 ### 🔮 VTuber 區
 * **[MM/DD]** [事件標題]：核心爭議點與網友討論摘要 [圖片: 網址]
+
 ### 🕹️ 遊戲區
 * **[MM/DD]** [遊戲名稱或情報簡述]：情報內容 [圖片: none]
+
+### 👁️ 預言區
+* **[MM/DD]** [預言或預測標題]：詳細預測內容 [預言時間: YYYY/MM/DD] [圖片: none]
 """
         import time
         max_retries = 3
         response = None
-        
+
         for attempt in range(max_retries):
             try:
-                print(f"🔍 AI 正在主動潛入網路搜尋最新 Threads 與社群炎上事件及獨立遊戲情報與圖片（第 {attempt + 1} 次嘗試）...")
+                print(f"🔍 AI 正在主動潛入網路搜捕最新無差別負面炎上事件與未來預言（第 {attempt + 1} 次嘗試）...")
                 response = client.models.generate_content(
                     model="gemini-2.5-flash",
                     contents=prompt,
@@ -282,18 +296,51 @@ else:
                     time.sleep(4)
                 else:
                     raise e
-                    
+
         ai_output = response.text
         print("--- AI RAW OUTPUT ---")
         print(ai_output)
         print("---------------------")
-        
+
     except Exception as e:
         print(f"❌ 呼叫 Gemini 連網搜尋失敗：{e}")
         print("⚠️ 無法取得實時資料，將進入『安全降級模式』：保留現有資料庫，僅更新網頁觀測時間。")
-        simulation_mode = True
         ai_output = ""
 
+
+import calendar
+
+def parse_prophecy_date(raw: str):
+    """從 AI 可能含有 XX 或多個日期的預言時間字串中，解析出第一個有效日期。
+    規則：XX 日 → 月底最後一天；XX 月 → 12月31日。
+    回傳 datetime 物件，解析失敗回傳 None。
+    """
+    # 取第一段 YYYY/MM/DD 或含 XX 的日期 token（遇到空格、括號、逗號就停）
+    m = re.search(r'(\d{4})/(\d{2}|XX)/(\d{2}|XX)', raw, re.IGNORECASE)
+    if not m:
+        return None
+    year_s, mon_s, day_s = m.group(1), m.group(2).upper(), m.group(3).upper()
+    year = int(year_s)
+    month = 12 if mon_s == 'XX' else int(mon_s)
+    if day_s == 'XX':
+        day = calendar.monthrange(year, month)[1]  # 月底最後一天
+    else:
+        day = int(day_s)
+    try:
+        return datetime(year, month, day)
+    except ValueError:
+        return None
+
+
+def split_title_summary(text):
+    bracket_match = re.match(r'^\[(.*?)\]\s*[:：]?\s*(.*)', text)
+    if bracket_match:
+        title = bracket_match.group(1).strip()
+        summary = bracket_match.group(2).strip()
+        if not summary:
+            summary = title
+        return title, summary
+    return text[:15].strip() + "..." if len(text) > 15 else text, text
 
 
 # 5. 解析 Gemini 輸出的 Markdown 格式並結構化儲存
@@ -308,8 +355,7 @@ if ai_output:
             if not line:
                 i += 1
                 continue
-            
-            # 辨識分類
+
             if line.startswith("#"):
                 if "實況主" in line or "STREAMER" in line or "🎮" in line:
                     current_category = "STREAMER"
@@ -317,18 +363,18 @@ if ai_output:
                     current_category = "VTUBER"
                 elif "遊戲" in line or "GAME" in line or "🕹️" in line:
                     current_category = "GAME"
+                elif "預言" in line or "PROPHECY" in line or "👁️" in line:
+                    current_category = "PROPHECY"
                 i += 1
                 continue
-                
-            # 匹配清單項目： * **[MM/DD]** [事件標題]：內容
-            match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?.*?\s*\[(.*?)\]\s*[:：]\s*(.*)', line)
+
+            match = re.match(r'^\*\s*\*\*\[?(\d{1,2})/(\d{1,2})\]?\*\*\s*(.*)', line)
             if match and current_category:
                 month = int(match.group(1))
                 day = int(match.group(2))
-                title = match.group(3).strip()
-                rest = match.group(4).strip()
-                
-                # 尋找並解析 [圖片: 網址]
+                rest = match.group(3).strip()
+
+                # A. 尋找並解析 [圖片: 網址]
                 avatar_url = None
                 img_match = re.search(r'\[圖片\s*[:：]\s*([^\]]+)\]', rest)
                 if img_match:
@@ -337,33 +383,42 @@ if ai_output:
                         url_match = re.search(r'(https?://[^\s\)]+)', img_val)
                         if url_match:
                             avatar_url = url_match.group(1).strip()
-                    # 從 rest 中移去這個標記 (包括中括號內的所有字元)
                     rest = re.sub(r'\[圖片\s*[:：]\s*[^\]]+\]', '', rest).strip()
-                
-                summary = rest
-                    
-                # 比對頭像與重大告知專屬識別圖 (多重關鍵字模糊掃描、告知優先)
+
+                # B. 尋找並解析 [預言時間: YYYY/MM/DD]（支援 XX 月底容錯）
+                target_date_str = None
+                prophecy_match = re.search(r'\[預言時間\s*[:：]\s*([^\]]+)\]', rest)
+                if prophecy_match:
+                    raw_td = prophecy_match.group(1).strip()
+                    parsed_td = parse_prophecy_date(raw_td)
+                    if parsed_td:
+                        target_date_str = parsed_td.strftime("%Y/%m/%d")
+                    rest = re.sub(r'\[預言時間\s*[:：]\s*[^\]]+\]', '', rest).strip()
+
+                title, summary = split_title_summary(rest)
                 avatar_url = resolve_avatar_url(title, summary, current_category, avatar_url)
-                
-                # 計算年份並轉換為標準 %Y/%m/%d 格式
+
                 date_str = f"{today.year}/{month:02d}/{day:02d}"
                 if today.month == 1 and month == 12:
                     date_str = f"{today.year - 1}/{month:02d}/{day:02d}"
-                    
-                new_extracted_events.append({
+
+                event_data = {
                     "category": current_category,
                     "date": date_str,
                     "title": title,
                     "summary": summary,
                     "avatar_url": avatar_url
-                })
+                }
+                if current_category == "PROPHECY" and target_date_str:
+                    event_data["target_date"] = target_date_str
+
+                new_extracted_events.append(event_data)
             i += 1
-        print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與情報。")
+        print(f"✨ 成功擷取出 {len(new_extracted_events)} 筆最新事件與預言情報。")
     except Exception as e:
         print(f"❌ 解析 Gemini 輸出內容時發生錯誤: {e}")
-        new_extracted_events = []
 
-# 6. 合併新舊資料並進行去重 (以 category, date, title 為鍵)
+# 6. 合併新舊資料並進行去重 (以 title 為金鑰)
 script_dir = os.path.dirname(os.path.abspath(__file__))
 db_path = os.path.join(script_dir, "events.json")
 html_path = os.path.join(script_dir, "index.html")
@@ -373,24 +428,15 @@ if os.path.exists(db_path):
     try:
         with open(db_path, "r", encoding="utf-8") as f:
             existing_events = json.load(f)
-            # 欄位遷移: 把舊事件的 image_url 改成 avatar_url
             for ev in existing_events:
-                if "image_url" in ev:
-                    if "avatar_url" not in ev or ev["avatar_url"] is None:
-                        ev["avatar_url"] = ev.pop("image_url")
-                    else:
-                        ev.pop("image_url", None)
-                
-                # 重新對現有事件進行頭像字典對應與預設圖防呆
                 title = ev.get("title", "")
                 summary = ev.get("summary", "")
                 cat = ev.get("category", "")
                 avatar_url = ev.get("avatar_url")
                 ev["avatar_url"] = resolve_avatar_url(title, summary, cat, avatar_url)
     except Exception as e:
-        print(f"⚠️ 載入資料庫失敗：{e}，將初始化新資料庫。")
+        print(f"⚠️ 載入資料庫失敗：{e}")
 
-# 合併新舊資料並進行去重 (以 title 為唯一識別金鑰，遇到重複時保留日期最新者)
 active_events = []
 expired_count = 0
 
@@ -400,7 +446,7 @@ try:
         title = ev.get("title", "").strip()
         if title:
             all_events_map[title] = ev
-            
+
     for ev in new_extracted_events:
         title = ev.get("title", "").strip()
         if not title:
@@ -408,50 +454,76 @@ try:
         if title not in all_events_map:
             all_events_map[title] = ev
         else:
-            # 比對日期，保留較新者
             try:
                 existing_date = datetime.strptime(all_events_map[title]["date"], "%Y/%m/%d")
                 new_date = datetime.strptime(ev["date"], "%Y/%m/%d")
                 if new_date > existing_date:
                     all_events_map[title] = ev
-            except Exception as e:
+            except:
                 pass
 
-    # 7. 自動檢查日期，強制刪除距離今天大於 7 天的舊項目以及 2025 年以前的過期事件
+    # 7. 自動淘汰機制：常規事件走 7 天過期制；預言區只要「今天 > 預言目標日」就立刻精準刪除！
     for key, ev in all_events_map.items():
         try:
-            ev_date = datetime.strptime(ev["date"], "%Y/%m/%d")
-            if ev_date.year < 2026:
-                expired_count += 1
-                continue
-            delta = (today.date() - ev_date.date()).days
-            if 0 <= delta <= 7:
-                ev["days_left"] = 7 - delta
+            cat = ev.get("category")
+            if cat == "PROPHECY":
+                target_dt_str = ev.get("target_date")
+                if target_dt_str:
+                    # 用容錯解析（已標準化為 YYYY/MM/DD，但舊資料可能含 XX）
+                    target_date_obj = parse_prophecy_date(target_dt_str) or datetime.strptime(target_dt_str, "%Y/%m/%d")
+                    # 只要現實時間大於預言時間（含月底），直接精準刪除，永不顯示
+                    if today.date() > target_date_obj.date():
+                        expired_count += 1
+                        continue
                 active_events.append(ev)
             else:
-                expired_count += 1
-        except Exception as e:
+                # 常規事件 7 天過期機制
+                ev_date = datetime.strptime(ev["date"], "%Y/%m/%d")
+                if ev_date.year < 2026:
+                    expired_count += 1
+                    continue
+                delta = (today.date() - ev_date.date()).days
+                if 0 <= delta <= 7:
+                    ev["days_left"] = 7 - delta
+                    active_events.append(ev)
+                else:
+                    expired_count += 1
+        except:
             continue
-            
-    # 8. 最大容量限制保護 (最多 50 則)
-    active_events.sort(key=lambda x: x["date"], reverse=True)
-    if len(active_events) > 50:
-        active_events = active_events[:50]
-        
-    # 寫回 events.json
+
+    # 8. 最大容量限制保護 (常規事件上限 50 則；預言特區享有特權：不管有多少全部放上，不受限制！)
+    reg_events = [e for e in active_events if e["category"] != "PROPHECY"]
+    prophecy_events = [e for e in active_events if e["category"] == "PROPHECY"]
+
+    reg_events.sort(key=lambda x: x["date"], reverse=True)
+    if len(reg_events) > 50:
+        reg_events = reg_events[:50]
+
+    # 預言按目標日期排序：越近的排越前（距離今天最近的優先）
+    def prophecy_sort_key(ev):
+        td = ev.get("target_date", "9999/12/31")
+        try:
+            return datetime.strptime(td, "%Y/%m/%d")
+        except:
+            return datetime(9999, 12, 31)
+
+    prophecy_events.sort(key=prophecy_sort_key)
+
+    active_events = reg_events + prophecy_events
+
     with open(db_path, "w", encoding="utf-8") as f:
         json.dump(active_events, f, ensure_ascii=False, indent=2)
-    print(f"💾 資料庫更新成功！保留：{len(active_events)} 筆，自動淘汰：{expired_count} 筆。")
-    
+    print(f"💾 資料庫更新成功！保留：{len(active_events)} 筆（含預言 {len(prophecy_events)} 筆），自動淘汰：{expired_count} 筆。")
+
 except Exception as e:
     print(f"❌ 更新或過濾資料庫檔案時發生錯誤：{e}")
-    # Fallback to existing_events if saving failed
     active_events = existing_events
 
 # 9. 統計各分類事件數量
 streamer_count = sum(1 for e in active_events if e["category"] == "STREAMER")
 vtuber_count = sum(1 for e in active_events if e["category"] == "VTUBER")
 game_count = sum(1 for e in active_events if e["category"] == "GAME")
+prophecy_count = sum(1 for e in active_events if e["category"] == "PROPHECY")
 
 # 10. 拼裝符合網頁 CSS 架構的 HTML 內容
 events_html_list = []
@@ -464,30 +536,41 @@ try:
             date_display = f"{dt.month}月{dt.day}日"
         except:
             date_display = date_str
-        
-        days_left = ev.get("days_left", 0)
-        days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
-        
+
+        # 標籤樣式設定
         if cat == "STREAMER":
             cat_class = "streamer"
             cat_label = '<span class="cat-label cat-streamer">🎮 實況主</span>'
+            days_left = ev.get("days_left", 0)
+            days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
         elif cat == "VTUBER":
             cat_class = "vtuber"
             cat_label = '<span class="cat-label cat-vtuber">🔮 VTuber</span>'
+            days_left = ev.get("days_left", 0)
+            days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
+        elif cat == "PROPHECY":
+            cat_class = "prophecy"
+            cat_label = '<span class="cat-label cat-prophecy">👁️ 預言區</span>'
+            target_date_display = ev.get("target_date", "未知日期")
+            days_left_text = f"預言目標日：{target_date_display}"
         else:
             cat_class = "game"
             cat_label = '<span class="cat-label cat-game">🕹️ 遊戲區</span>'
-            
+            days_left = ev.get("days_left", 0)
+            days_left_text = f"剩餘 {days_left} 天下架" if days_left > 0 else "最後一天上架"
+
         avatar_url = ev.get("avatar_url")
-        # 對於無圖片的卡片提供對應類別的高視覺質感 default Unsplash 圖片
         if not avatar_url:
             if cat == "STREAMER":
                 avatar_url = "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80"
             elif cat == "VTUBER":
                 avatar_url = "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80"
+            elif cat == "PROPHECY":
+                avatar_url = "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80"
             else:
                 avatar_url = "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80"
-                
+
+        # 遊戲區不顯示圖片容器，其餘（含預言區）皆正常顯示
         if cat == "GAME":
             avatar_html = ""
         else:
@@ -495,7 +578,7 @@ try:
                 <div class="avatar-container">
                     <img class="event-avatar" src="{avatar_url}" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
                 </div>"""
-                
+
         card_html = f"""
             <div class="event-card {cat_class}" data-category="{cat}">
                 {avatar_html}
@@ -520,7 +603,7 @@ if not events_html_list:
 else:
     formatted_events_html = "\n".join(events_html_list)
 
-# 11. 生成漂亮的深色漸層前端網頁
+# 11. 生成漂亮的深色漸層前端網頁 (擴增為 4 欄統計與預言特區頁籤)
 html_template = f"""<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -538,14 +621,16 @@ html_template = f"""<!DOCTYPE html>
             --card-border: #30363d;
             --text-primary: #f0f6fc;
             --text-secondary: #8b949e;
-            
+
             --streamer-color: #a582ff;
             --streamer-glow: rgba(165, 130, 255, 0.15);
             --vtuber-color: #ff82b2;
             --vtuber-glow: rgba(255, 130, 178, 0.15);
             --game-color: #3fb950;
             --game-glow: rgba(63, 185, 80, 0.15);
-            
+            --prophecy-color: #ffca28;
+            --prophecy-glow: rgba(255, 202, 40, 0.2);
+
             --warning-color: #f0883e;
             --info-color: #58a6ff;
             --active-tab-bg: #21262d;
@@ -607,18 +692,18 @@ html_template = f"""<!DOCTYPE html>
             color: var(--text-primary);
             margin-top: 15px;
         }}
-        /* 統計狀態欄 */
+        /* 統計狀態欄四格化 */
         .stats-bar {{
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
             margin-bottom: 30px;
         }}
         .stat-card {{
             background: rgba(22, 27, 34, 0.5);
             border: 1px solid var(--card-border);
             border-radius: 16px;
-            padding: 15px;
+            padding: 12px;
             text-align: center;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }}
@@ -627,19 +712,20 @@ html_template = f"""<!DOCTYPE html>
             background: rgba(33, 38, 45, 0.5);
         }}
         .stat-label {{
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             color: var(--text-secondary);
             margin-bottom: 5px;
             display: block;
         }}
         .stat-val {{
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             font-weight: 700;
         }}
         .stat-streamer {{ color: var(--streamer-color); }}
         .stat-vtuber {{ color: var(--vtuber-color); }}
         .stat-game {{ color: var(--game-color); }}
-        
+        .stat-prophecy {{ color: var(--prophecy-color); }}
+
         /* 分類選擇頁籤 */
         .tabs {{
             display: flex;
@@ -653,15 +739,15 @@ html_template = f"""<!DOCTYPE html>
             background: transparent;
             border: 1px solid transparent;
             color: var(--text-secondary);
-            padding: 10px 20px;
+            padding: 10px 18px;
             border-radius: 12px;
             cursor: pointer;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             white-space: nowrap;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
             transition: all 0.2s ease;
         }}
         .tab-btn:hover {{
@@ -673,7 +759,7 @@ html_template = f"""<!DOCTYPE html>
             border-color: var(--card-border);
             color: var(--text-primary);
         }}
-        
+
         /* 事件清單 */
         .events-list {{
             display: flex;
@@ -703,7 +789,8 @@ html_template = f"""<!DOCTYPE html>
         .event-card.streamer::before {{ background: var(--streamer-color); }}
         .event-card.vtuber::before {{ background: var(--vtuber-color); }}
         .event-card.game::before {{ background: var(--game-color); }}
-        
+        .event-card.prophecy::before {{ background: var(--prophecy-color); }}
+
         .event-card.streamer:hover {{
             box-shadow: 0 8px 30px var(--streamer-glow);
             border-color: rgba(165, 130, 255, 0.3);
@@ -719,7 +806,12 @@ html_template = f"""<!DOCTYPE html>
             border-color: rgba(63, 185, 80, 0.3);
             transform: translateY(-2px);
         }}
-        
+        .event-card.prophecy:hover {{
+            box-shadow: 0 8px 30px var(--prophecy-glow);
+            border-color: rgba(255, 202, 40, 0.4);
+            transform: translateY(-2px);
+        }}
+
         /* 頭像區域樣式 */
         .avatar-container {{
             flex-shrink: 0;
@@ -739,14 +831,14 @@ html_template = f"""<!DOCTYPE html>
         }}
         .event-card.streamer:hover .avatar-container {{ border-color: var(--streamer-color); }}
         .event-card.vtuber:hover .avatar-container {{ border-color: var(--vtuber-color); }}
-        .event-card.game:hover .avatar-container {{ border-color: var(--game-color); }}
-        
+        .event-card.prophecy:hover .avatar-container {{ border-color: var(--prophecy-color); }}
+
         .event-avatar {{
             width: 100%;
             height: 100%;
             object-fit: cover;
         }}
-        
+
         /* 右側內容區 */
         .card-content {{
             flex-grow: 1;
@@ -777,7 +869,11 @@ html_template = f"""<!DOCTYPE html>
             background: rgba(63, 185, 80, 0.15);
             color: var(--game-color);
         }}
-        
+        .cat-prophecy {{
+            background: rgba(255, 202, 40, 0.15);
+            color: var(--prophecy-color);
+        }}
+
         .card-meta {{
             display: flex;
             align-items: center;
@@ -795,10 +891,6 @@ html_template = f"""<!DOCTYPE html>
             border-radius: 6px;
             display: flex;
             align-items: center;
-        }}
-        .badge-warning {{
-            background: rgba(240, 136, 62, 0.15);
-            color: var(--warning-color);
         }}
         .badge-info {{
             background: rgba(88, 166, 255, 0.15);
@@ -832,8 +924,7 @@ html_template = f"""<!DOCTYPE html>
             border-top: 1px solid var(--card-border);
             padding-top: 25px;
         }}
-        
-        /* 響應式優化 */
+
         @media (max-width: 600px) {{
             .container {{
                 padding: 20px;
@@ -843,7 +934,7 @@ html_template = f"""<!DOCTYPE html>
                 font-size: 1.8rem;
             }}
             .stats-bar {{
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(2, 1fr);
                 gap: 10px;
             }}
             .event-card {{
@@ -875,7 +966,7 @@ html_template = f"""<!DOCTYPE html>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
             <div class="time-badge">當前觀測時間：{today_time_str} ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
         </header>
-        
+
         <div class="stats-bar">
             <div class="stat-card">
                 <span class="stat-label">🎮 實況主事件</span>
@@ -889,25 +980,29 @@ html_template = f"""<!DOCTYPE html>
                 <span class="stat-label">🕹️ 遊戲情報</span>
                 <span class="stat-val stat-game" id="stats-game">{game_count}</span>
             </div>
+            <div class="stat-card">
+                <span class="stat-label">👁️ 預言事件</span>
+                <span class="stat-val stat-prophecy" id="stats-prophecy">{prophecy_count}</span>
+            </div>
         </div>
-        
+
         <div class="tabs">
             <button class="tab-btn active" data-filter="ALL">📱 全部 (實況主/VTuber)</button>
             <button class="tab-btn" data-filter="STREAMER">🎮 實況主區</button>
             <button class="tab-btn" data-filter="VTUBER">🔮 VTuber 區</button>
             <button class="tab-btn" data-filter="GAME">🕹️ 遊戲情報特區</button>
+            <button class="tab-btn" data-filter="PROPHECY">👁️ 預言觀測特區</button>
         </div>
-        
+
         <div class="events-list" id="events-container">
 {formatted_events_html}
         </div>
-        
+
         <div class="readonly-notice">🔒 BOARD STATUS: AUTOMATED RADAR ACTIVE (唯讀監控中)</div>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {{
-            // Real-time live clock
             function updateLiveClock() {{
                 const now = new Date();
                 const yyyy = now.getFullYear();
@@ -933,7 +1028,6 @@ html_template = f"""<!DOCTYPE html>
                 cards.forEach(card => {{
                     const cardCat = card.getAttribute('data-category');
                     if (filterValue === 'ALL') {{
-                        // "ALL" 頁籤精準呈現 實況主區(STREAMER) 與 VTuber區(VTUBER)，排除遊戲區(GAME)
                         if (cardCat === 'STREAMER' || cardCat === 'VTUBER') {{
                             card.style.display = 'flex';
                             matchCount++;
@@ -941,7 +1035,6 @@ html_template = f"""<!DOCTYPE html>
                             card.style.display = 'none';
                         }}
                     }} else {{
-                        // 各別分頁顯示對應類別
                         if (cardCat === filterValue) {{
                             card.style.display = 'flex';
                             matchCount++;
@@ -951,16 +1044,15 @@ html_template = f"""<!DOCTYPE html>
                     }}
                 }});
 
-                // 如果該分類下沒有任何卡片，顯示無事件提示
                 const existingNoEvents = container.querySelector('.no-events-temp');
                 if (existingNoEvents) {{
                     existingNoEvents.remove();
                 }}
-                
+
                 if (matchCount === 0) {{
                     const noEventsDiv = document.createElement('div');
                     noEventsDiv.className = 'no-events no-events-temp';
-                    noEventsDiv.innerText = '📡 此分類下目前無 7 天內的監測事件。';
+                    noEventsDiv.innerText = '📡 此分類下目前無監測中的預言或事件。';
                     container.appendChild(noEventsDiv);
                 }}
             }}
@@ -972,8 +1064,7 @@ html_template = f"""<!DOCTYPE html>
                     filterCategory(tab.getAttribute('data-filter'));
                 }});
             }});
-            
-            // 預設初始化為全部 (實況主/VTuber)
+
             filterCategory('ALL');
         }});
     </script>
@@ -984,6 +1075,6 @@ html_template = f"""<!DOCTYPE html>
 try:
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(html_template)
-    print("✅ [成功] index.html 已由 AI 聯網抓取最新資料並自動淘汰、更新完成！")
+    print("✅ [成功] index.html 已由 AI 聯網抓取最新資料、未來預言並自動淘汰、更新完成！")
 except Exception as e:
     print(f"❌ 寫入 index.html 檔案時發生嚴重錯誤: {e}")

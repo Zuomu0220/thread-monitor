@@ -15,14 +15,16 @@
             --card-border: #30363d;
             --text-primary: #f0f6fc;
             --text-secondary: #8b949e;
-            
+
             --streamer-color: #a582ff;
             --streamer-glow: rgba(165, 130, 255, 0.15);
             --vtuber-color: #ff82b2;
             --vtuber-glow: rgba(255, 130, 178, 0.15);
             --game-color: #3fb950;
             --game-glow: rgba(63, 185, 80, 0.15);
-            
+            --prophecy-color: #ffca28;
+            --prophecy-glow: rgba(255, 202, 40, 0.2);
+
             --warning-color: #f0883e;
             --info-color: #58a6ff;
             --active-tab-bg: #21262d;
@@ -84,18 +86,18 @@
             color: var(--text-primary);
             margin-top: 15px;
         }
-        /* 統計狀態欄 */
+        /* 統計狀態欄四格化 */
         .stats-bar {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
             margin-bottom: 30px;
         }
         .stat-card {
             background: rgba(22, 27, 34, 0.5);
             border: 1px solid var(--card-border);
             border-radius: 16px;
-            padding: 15px;
+            padding: 12px;
             text-align: center;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -104,19 +106,20 @@
             background: rgba(33, 38, 45, 0.5);
         }
         .stat-label {
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             color: var(--text-secondary);
             margin-bottom: 5px;
             display: block;
         }
         .stat-val {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             font-weight: 700;
         }
         .stat-streamer { color: var(--streamer-color); }
         .stat-vtuber { color: var(--vtuber-color); }
         .stat-game { color: var(--game-color); }
-        
+        .stat-prophecy { color: var(--prophecy-color); }
+
         /* 分類選擇頁籤 */
         .tabs {
             display: flex;
@@ -130,15 +133,15 @@
             background: transparent;
             border: 1px solid transparent;
             color: var(--text-secondary);
-            padding: 10px 20px;
+            padding: 10px 18px;
             border-radius: 12px;
             cursor: pointer;
             font-weight: 600;
-            font-size: 0.95rem;
+            font-size: 0.9rem;
             white-space: nowrap;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 6px;
             transition: all 0.2s ease;
         }
         .tab-btn:hover {
@@ -150,7 +153,7 @@
             border-color: var(--card-border);
             color: var(--text-primary);
         }
-        
+
         /* 事件清單 */
         .events-list {
             display: flex;
@@ -180,7 +183,8 @@
         .event-card.streamer::before { background: var(--streamer-color); }
         .event-card.vtuber::before { background: var(--vtuber-color); }
         .event-card.game::before { background: var(--game-color); }
-        
+        .event-card.prophecy::before { background: var(--prophecy-color); }
+
         .event-card.streamer:hover {
             box-shadow: 0 8px 30px var(--streamer-glow);
             border-color: rgba(165, 130, 255, 0.3);
@@ -196,7 +200,12 @@
             border-color: rgba(63, 185, 80, 0.3);
             transform: translateY(-2px);
         }
-        
+        .event-card.prophecy:hover {
+            box-shadow: 0 8px 30px var(--prophecy-glow);
+            border-color: rgba(255, 202, 40, 0.4);
+            transform: translateY(-2px);
+        }
+
         /* 頭像區域樣式 */
         .avatar-container {
             flex-shrink: 0;
@@ -216,14 +225,14 @@
         }
         .event-card.streamer:hover .avatar-container { border-color: var(--streamer-color); }
         .event-card.vtuber:hover .avatar-container { border-color: var(--vtuber-color); }
-        .event-card.game:hover .avatar-container { border-color: var(--game-color); }
-        
+        .event-card.prophecy:hover .avatar-container { border-color: var(--prophecy-color); }
+
         .event-avatar {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
-        
+
         /* 右側內容區 */
         .card-content {
             flex-grow: 1;
@@ -254,7 +263,11 @@
             background: rgba(63, 185, 80, 0.15);
             color: var(--game-color);
         }
-        
+        .cat-prophecy {
+            background: rgba(255, 202, 40, 0.15);
+            color: var(--prophecy-color);
+        }
+
         .card-meta {
             display: flex;
             align-items: center;
@@ -272,10 +285,6 @@
             border-radius: 6px;
             display: flex;
             align-items: center;
-        }
-        .badge-warning {
-            background: rgba(240, 136, 62, 0.15);
-            color: var(--warning-color);
         }
         .badge-info {
             background: rgba(88, 166, 255, 0.15);
@@ -309,8 +318,7 @@
             border-top: 1px solid var(--card-border);
             padding-top: 25px;
         }
-        
-        /* 響應式優化 */
+
         @media (max-width: 600px) {
             .container {
                 padding: 20px;
@@ -320,7 +328,7 @@
                 font-size: 1.8rem;
             }
             .stats-bar {
-                grid-template-columns: 1fr;
+                grid-template-columns: repeat(2, 1fr);
                 gap: 10px;
             }
             .event-card {
@@ -350,31 +358,36 @@
         <header>
             <h1>🔥 網路輿情炎上觀測站</h1>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
-            <div class="time-badge">當前觀測時間：2026/05/26 13:15 ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
+            <div class="time-badge">當前觀測時間：2026/05/27 16:02 ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
         </header>
-        
+
         <div class="stats-bar">
             <div class="stat-card">
                 <span class="stat-label">🎮 實況主事件</span>
-                <span class="stat-val stat-streamer" id="stats-streamer">5</span>
+                <span class="stat-val stat-streamer" id="stats-streamer">3</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🔮 VTuber 事件</span>
-                <span class="stat-val stat-vtuber" id="stats-vtuber">8</span>
+                <span class="stat-val stat-vtuber" id="stats-vtuber">9</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🕹️ 遊戲情報</span>
-                <span class="stat-val stat-game" id="stats-game">22</span>
+                <span class="stat-val stat-game" id="stats-game">20</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-label">👁️ 預言事件</span>
+                <span class="stat-val stat-prophecy" id="stats-prophecy">1</span>
             </div>
         </div>
-        
+
         <div class="tabs">
             <button class="tab-btn active" data-filter="ALL">📱 全部 (實況主/VTuber)</button>
             <button class="tab-btn" data-filter="STREAMER">🎮 實況主區</button>
             <button class="tab-btn" data-filter="VTUBER">🔮 VTuber 區</button>
             <button class="tab-btn" data-filter="GAME">🕹️ 遊戲情報特區</button>
+            <button class="tab-btn" data-filter="PROPHECY">👁️ 預言觀測特區</button>
         </div>
-        
+
         <div class="events-list" id="events-container">
 
             <div class="event-card game" data-category="GAME">
@@ -384,7 +397,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月25日</span>
-                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam《戰鎚 40K：角鬥士》限免</h3>
@@ -399,7 +412,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月25日</span>
-                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">像素 Roguelite 射擊《DDoD：紫霧》釋出Demo</h3>
@@ -414,7 +427,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月25日</span>
-                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">海盜冒險《鹽 2：黃金海岸》特惠五折</h3>
@@ -432,7 +445,7 @@
                         <span class="cat-label cat-streamer">🎮 實況主</span>
                         <div class="card-meta">
                             <span class="event-date">5月24日</span>
-                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">老高無預警取消直播惹議</h3>
@@ -447,7 +460,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月24日</span>
-                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Six One Indie 遊戲節 Demo 大量釋出</h3>
@@ -462,7 +475,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月24日</span>
-                            <span class="badge badge-info">⏰ 剩餘 5 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 新增多款永久免費遊戲</h3>
@@ -480,7 +493,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月23日</span>
-                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">貓宮結乃起訴網路人身攻擊</h3>
@@ -495,7 +508,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月23日</span>
-                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 限時免費領取《Bunny Hurling》</h3>
@@ -510,7 +523,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月23日</span>
-                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 限時免費領取《Bunny Guys!》</h3>
@@ -525,7 +538,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月23日</span>
-                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">台灣獨立遊戲交流會「自製遊戲ONLY」</h3>
@@ -540,7 +553,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月23日</span>
-                            <span class="badge badge-info">⏰ 剩餘 4 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 再釋出多款免費暢玩遊戲</h3>
@@ -555,7 +568,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月22日</span>
-                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩</h3>
@@ -573,7 +586,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月22日</span>
-                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Hololive りりーか「豆乳ウニ豆腐丼」外觀引發熱議</h3>
@@ -591,7 +604,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月22日</span>
-                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">ORI央莉直播提及他V引發風波</h3>
@@ -606,7 +619,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月22日</span>
-                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 限時免費領取《Warhammer 40,000: Gladius - Relics of War》</h3>
@@ -621,7 +634,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月22日</span>
-                            <span class="badge badge-info">⏰ 剩餘 3 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Steam 限時免費領取《Car Mechanic Simulator 2018》</h3>
@@ -639,7 +652,7 @@
                         <span class="cat-label cat-streamer">🎮 實況主</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議</h3>
@@ -657,7 +670,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">台V圈爭議：ORI央莉與艾美麗的合約與隱私風波</h3>
@@ -672,7 +685,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Six One Indie Showcase 獨立遊戲發表會回歸</h3>
@@ -687,7 +700,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">免費動作新作《HoRoyal〜Hololive 大逃殺〜》Steam上市</h3>
@@ -705,7 +718,7 @@
                         <span class="cat-label cat-streamer">🎮 實況主</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">晚安小雞私闖民宅遭起訴</h3>
@@ -723,7 +736,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">浠Mizuki失言遭禁言兩個月</h3>
@@ -741,7 +754,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">台V圈廠商糾紛與隱私爭議</h3>
@@ -756,7 +769,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Epic Games Store 「大特賣2026」啟動</h3>
@@ -771,7 +784,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Epic Games Store 兩款神秘遊戲限時免費</h3>
@@ -786,7 +799,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Epic Games Store 兩款神秘免費遊戲揭曉</h3>
@@ -801,7 +814,7 @@
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
                             <span class="event-date">5月21日</span>
-                            <span class="badge badge-info">⏰ 剩餘 2 天下架</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
                         </div>
                     </div>
                     <h3 class="event-title">Epic Games Store 2026 大型特賣活動開跑</h3>
@@ -815,8 +828,41 @@
                     <div class="card-header">
                         <span class="cat-label cat-game">🕹️ 遊戲區</span>
                         <div class="card-meta">
-                            <span class="event-date">5月20日</span>
+                            <span class="event-date">5月21日</span>
                             <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">Epic Games Store 限時免費遊戲釋出</h3>
+                    <p class="event-summary">Epic Games Store 於本週（5月21日至5月28日）提供多款限時免費遊戲，包括《Sunderfolk - Standard Edition》、《Down in Bermuda》以及《Tomb Raider I-III Remastered Starring Lara Croft》。</p>
+                </div>
+            </div>
+
+            <div class="event-card vtuber" data-category="VTUBER">
+                
+                <div class="avatar-container">
+                    <img class="event-avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
+                </div>
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-vtuber">🔮 VTuber</span>
+                        <div class="card-meta">
+                            <span class="event-date">5月21日</span>
+                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">台V「浠Mizuki」失言風波宣布致歉官方開罰停播2個月取消工商</h3>
+                    <p class="event-summary">台灣VTuber工作室「子午計畫」旗下知名VT「浠Mizuki」，日前因在Threads上對一位錯過周邊預購的粉絲發表帶有攻擊性的言論，留言稱「就沒有心想買還要發出來也是挺慘的」，此舉引發社群廣泛討論與炎上。對此，子午計畫官方連同浠Mizuki本人發布聲明致歉，並宣布自即日起暫停浠Mizuki活動2個月，期間將取消所有工商合作與個人周邊專案，直至2026年7月18日。浠Mizuki本人亦對其言詞失當造成的傷害表達歉意，並表示將在停播期間進行深刻反省與情緒管理學習，同時呼籲粉絲不要攻擊其他相關人員或VTuber頻道。</p>
+                </div>
+            </div>
+
+            <div class="event-card game" data-category="GAME">
+                
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                        <div class="card-meta">
+                            <span class="event-date">5月20日</span>
+                            <span class="badge badge-info">⏰ 最後一天上架</span>
                         </div>
                     </div>
                     <h3 class="event-title">台灣獨立遊戲《夢閃少女》Steam試玩版大更新並入選BitSummit PUNCH</h3>
@@ -834,7 +880,7 @@
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
                             <span class="event-date">5月20日</span>
-                            <span class="badge badge-info">⏰ 剩餘 1 天下架</span>
+                            <span class="badge badge-info">⏰ 最後一天上架</span>
                         </div>
                     </div>
                     <h3 class="event-title">台灣VTuber「ORI央莉」與「艾美麗」爆發廠商合約及社群爭議</h3>
@@ -842,112 +888,48 @@
                 </div>
             </div>
 
-            <div class="event-card streamer" data-category="STREAMER">
-                
-                <div class="avatar-container">
-                    <img class="event-avatar" src="https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
-                </div>
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-streamer">🎮 實況主</span>
-                        <div class="card-meta">
-                            <span class="event-date">5月19日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">實況「火山孝子」心態崩塌引發熱議</h3>
-                    <p class="event-summary">社群平台Threads上流傳一名觀眾因過度投入追隨實況主，導致情緒崩潰的事件。該事件引發網友對於「火山孝子」現象以及實況主與觀眾界線的廣泛討論。網友們紛紛分享類似經驗，並探討如何理性應對追星文化，避免過度沉迷導致身心受創。</p>
-                </div>
-            </div>
-
-            <div class="event-card streamer" data-category="STREAMER">
-                
-                <div class="avatar-container">
-                    <img class="event-avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
-                </div>
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-streamer">🎮 實況主</span>
-                        <div class="card-meta">
-                            <span class="event-date">5月19日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">峰哥討論VTuber浠Mizuki中之人訊息引發爭議</h3>
-                    <p class="event-summary">知名YouTuber峰哥在直播或社群上討論VTuber浠Mizuki的「中之人」（幕後扮演者）訊息，此舉在VTuber粉絲圈及網路社群引發高度討論與不滿，被視為揭露個人隱私的行為。</p>
-                </div>
-            </div>
-
             <div class="event-card vtuber" data-category="VTUBER">
                 
                 <div class="avatar-container">
-                    <img class="event-avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
+                    <img class="event-avatar" src="https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt9q7mTdKwrS0cVtWzw-PhAdBip5RDD4DcEbi2KRU7eqO197Kha6iGAdLNEhb5ZYjJTP7FnDNO3VICyG5jSI6oy1sNmvJKPqMoFczRYoAfMgwYib5wmGM=" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
                 </div>
                 <div class="card-content">
                     <div class="card-header">
                         <span class="cat-label cat-vtuber">🔮 VTuber</span>
                         <div class="card-meta">
-                            <span class="event-date">5月19日</span>
+                            <span class="event-date">5月20日</span>
                             <span class="badge badge-info">⏰ 最後一天上架</span>
                         </div>
                     </div>
-                    <h3 class="event-title">浠Mizuki中之人訊息遭外洩並引發社群熱議</h3>
-                    <p class="event-summary">VTuber浠Mizuki的「中之人」訊息在社群平台上被發現，導致粉絲熱烈討論，此事件隨後演變成高度關注的爭議話題。</p>
+                    <h3 class="event-title">台灣 VTuber 商業糾紛與社群爭議</h3>
+                    <p class="event-summary">VTuber ORI央莉因活動結算與請款問題，指控某廠商回應不嚴謹且疑似失聯，並在直播中質疑VTuber艾美麗先前聲援該廠商是否涉及利益關係。艾美麗隨後在社群平台X上回應稱自己遭到「衝塔」（中之人身份被曝光）並侵害隱私權，否認與廠商有利益關係，但網路上流出疑似私下對話截圖，指控其涉嫌於群組號召同業並發表針對同行言論，引發輿論兩極討論，被部分網民質疑模糊「廠商失信與商業維權問題」，轉變為圈內口水戰。</p>
                 </div>
             </div>
 
-            <div class="event-card game" data-category="GAME">
+            <div class="event-card prophecy" data-category="PROPHECY">
                 
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">5月19日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">Steam「海洋節」特賣活動開跑</h3>
-                    <p class="event-summary">Steam 平台舉辦「海洋節」特賣活動，時間為 5 月 18 日至 5 月 25 日。</p>
+                <div class="avatar-container">
+                    <img class="event-avatar" src="https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
                 </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
                 <div class="card-content">
                     <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                        <span class="cat-label cat-prophecy">👁️ 預言區</span>
                         <div class="card-meta">
-                            <span class="event-date">5月19日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
+                            <span class="event-date">1月10日</span>
+                            <span class="badge badge-info">⏰ 預言目標日：2026/11/13</span>
                         </div>
                     </div>
-                    <h3 class="event-title">Steam 遊戲特價</h3>
-                    <p class="event-summary">Steam 上多款遊戲進行折扣，其中包括《200% Mixed Juice!》、《ALONE?》、《Cook, Serve, Delicious!》以及《David.》等。</p>
-                </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">5月19日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">Steam 限時免費領取《AquaDream Soundtrack》</h3>
-                    <p class="event-summary">《AquaDream Soundtrack》（水之夢原聲帶）於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。</p>
+                    <h3 class="event-title">美國學者預言2026年「世界末日」</h3>
+                    <p class="event-summary">美國伊利諾大學的三位科學家（福斯特、莫拉和阿米奧特）在1960年發表的論文中預測，如果全球人口持續按過去兩千年的速度增長，將在2026年11月13日達到「無限大」，導致糧食嚴重不足並引發全球性災難。</p>
                 </div>
             </div>
         </div>
-        
+
         <div class="readonly-notice">🔒 BOARD STATUS: AUTOMATED RADAR ACTIVE (唯讀監控中)</div>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
-            // Real-time live clock
             function updateLiveClock() {
                 const now = new Date();
                 const yyyy = now.getFullYear();
@@ -973,7 +955,6 @@
                 cards.forEach(card => {
                     const cardCat = card.getAttribute('data-category');
                     if (filterValue === 'ALL') {
-                        // "ALL" 頁籤精準呈現 實況主區(STREAMER) 與 VTuber區(VTUBER)，排除遊戲區(GAME)
                         if (cardCat === 'STREAMER' || cardCat === 'VTUBER') {
                             card.style.display = 'flex';
                             matchCount++;
@@ -981,7 +962,6 @@
                             card.style.display = 'none';
                         }
                     } else {
-                        // 各別分頁顯示對應類別
                         if (cardCat === filterValue) {
                             card.style.display = 'flex';
                             matchCount++;
@@ -991,16 +971,15 @@
                     }
                 });
 
-                // 如果該分類下沒有任何卡片，顯示無事件提示
                 const existingNoEvents = container.querySelector('.no-events-temp');
                 if (existingNoEvents) {
                     existingNoEvents.remove();
                 }
-                
+
                 if (matchCount === 0) {
                     const noEventsDiv = document.createElement('div');
                     noEventsDiv.className = 'no-events no-events-temp';
-                    noEventsDiv.innerText = '📡 此分類下目前無 7 天內的監測事件。';
+                    noEventsDiv.innerText = '📡 此分類下目前無監測中的預言或事件。';
                     container.appendChild(noEventsDiv);
                 }
             }
@@ -1012,8 +991,7 @@
                     filterCategory(tab.getAttribute('data-filter'));
                 });
             });
-            
-            // 預設初始化為全部 (實況主/VTuber)
+
             filterCategory('ALL');
         });
     </script>
