@@ -492,25 +492,32 @@ try:
             cat = ev.get("category")
             if cat == "PROPHECY":
                 target_dt_str = ev.get("target_date")
-                if target_dt_str:
-                    expiry_dt_str = ev.get("expiry_date")
-                    if expiry_dt_str:
-                        expiry_date_obj = datetime.strptime(expiry_dt_str, "%Y/%m/%d")
-                    else:
-                        parsed_result = parse_prophecy_date(target_dt_str)
-                        if parsed_result:
-                            expiry_date_obj = parsed_result[1]
-                        else:
-                            try:
-                                expiry_date_obj = datetime.strptime(target_dt_str, "%Y/%m/%d")
-                            except:
-                                expiry_date_obj = datetime(9999, 12, 31)
+                
+                # 🚨 防線一：無效或未知日期直接刪除
+                if not target_dt_str or target_dt_str == "未知日期" or "未知" in target_dt_str:
+                    expired_count += 1
+                    continue
                     
-                    # 只要現實時間「大於或等於」預言到期日（也就是在那一天），直接精準刪除！
-                    if today.date() >= expiry_date_obj.date():
+                try:
+                    target_date_obj = datetime.strptime(target_dt_str, "%Y/%m/%d")
+                    
+                    # 🚨 防線二：時間嚴查！只要現實時間大於或「等於」預言目標日（代表時間已到或已成歷史），直接刪除！
+                    if today.date() >= target_date_obj.date():
                         expired_count += 1
                         continue
-                active_events.append(ev)
+                        
+                    # 🚨 防線三：內容嚴查！如果文字敘述裡已經提到「已發生、已成真、已實現、成真了」，直接當作歷史事件刪除！
+                    text_to_check = (ev.get("title", "") + ev.get("summary", "")).lower()
+                    historical_keywords = ["已發生", "已成真", "已實現", "成真了", "實現了"]
+                    if any(kw in text_to_check for kw in historical_keywords):
+                        expired_count += 1
+                        continue
+                        
+                    active_events.append(ev)
+                except:
+                    # 格式損壞的一律抹除
+                    expired_count += 1
+                    continue
             else:
                 # 常規事件 7 天過期機制
                 ev_date = datetime.strptime(ev["date"], "%Y/%m/%d")
