@@ -113,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 2026年5月最新限時免費與折扣遊戲更新",
+    "summary": "Steam平台在2026年5月持續推出限時免費與特價遊戲。近期已贈送的免費遊戲包含《Warhammer 40,000: Gladius - Relics of War》 (5/22-5/29)、《Car Mechanic Simulator 2018》 (5/22-5/28)、《Bunny Hurling》 (5/23-5/26) 和《Bunny Guys!》 (5/23-5/30)。此外，Capcom年中特賣和SNEG發行商特賣也提供高達90%的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
@@ -392,14 +400,6 @@
     "days_left": 1
   },
   {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam 新品試玩版與免費遊戲",
-    "summary": "Steam 平台於 2026 年 5 月 22 日公布了多款新增的永久免費遊戲，包括《WithIN》、《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》和《Gun Glade》。 此外，Steam 新品節也推薦了多款 6 月份值得關注的獨立遊戲免費試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -424,6 +424,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/20",
+    "title": "來自2058年的國分玲預言2026年是全球轉折點",
+    "summary": "自稱來自2058年的「未來人」國分玲，其關於2026年至2030年重大事件的預言再度引起關注。據稱，國分玲曾預言2026年是日本乃至全球的重大轉折點，暗示人口老齡化負增長將成常態，養老模式將徹底改變。他預計將於2026年9月26日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
   },
   {
     "category": "PROPHECY",
@@ -1193,5 +1202,32 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2050/XX/XX",
     "expiry_date": "2051/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "自稱2048年香港未來人預言2026年事件",
+    "summary": "一名自稱來自2048年的香港未來人，其Threads帳號近日在網路上瘋傳。該未來人曾預告2026年香港將發生水災、傳染病，並會有「外星接觸」等事件。雖然其過往預言帖文已刪除，但因內容離奇仍在網民間引發半信半疑的討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/22",
+    "title": "Amanda Grace預言2026年5月將發生「提拉」(Rapture)",
+    "summary": "預言家Amanda Grace在一段影片中表示，上帝向她揭示2026年5月將會發生「提拉」（Rapture），並警告許多人將會被留下。她強調，這可能是一種「逆向提拉」，上帝將在24小時內移除邪惡之人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/05/XX",
+    "expiry_date": "2026/06/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/22",
+    "title": "「經濟學人」與龍婆預言2026年全球衝突與變局",
+    "summary": "有分析指出，《經濟學人》的「2026年預測」已在中東衝突中得到證實。同時，保加利亞預言家盲眼龍婆的「三大警告」也瘋傳，包括地球失控、金融危機和第三次世界大戰的發生，並預測2025年將引爆三戰，伴隨海嘯、火山爆發等災害。2026年被視為一個關鍵轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/XX/XX",
+    "expiry_date": "2027/01/01"
   }
 ]
