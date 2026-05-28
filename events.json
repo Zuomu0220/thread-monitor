@@ -40,6 +40,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/05/27",
+    "title": "直播水產大內鬥！直播妹爆老闆黑料害損失百萬，法院只判賠3萬",
+    "summary": "知名「拼鮮水產」直播主李鑄鋒與其前直播妹張女因離職糾紛對簿公堂。張女因不滿被解雇，轉貼網路報導指控李鑄鋒「無效退費都假的」及「賭博欠債3000多萬」。法院審理後認為張女部分指控未能提出充分證據，已侵害李鑄鋒名譽權，判賠精神慰撫金3萬元，而非李鑄鋒求償的100萬元。此事件引發網友對直播帶貨產業誠信與勞資糾紛的熱議。",
+    "avatar_url": "https://img.ltn.com.tw/Upload/news/600/2026/05/27/phpyG8QW6.jpg",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/27",
+    "title": "台灣VTuber被爆黑料與真實身份外洩引發社群爭議",
+    "summary": "一位台灣VTuber因私下言論、廠商合作爭議以及真實身份被曝光，在社群平台上引發軒然大波。該VTuber「艾美麗」在社群平台（X）上發文，稱自己遭到「衝塔」，隱私權受侵害，並撇清與廠商的利益關係。然而，網路上流傳的對話截圖指控她私下與廠商保持聯繫，且號召同業發表針對同行的言論。此事件導致台灣VTuber圈對於中之人隱私、商業誠信及公關處理方式的兩極化討論。",
+    "avatar_url": "https://i.ytimg.com/vi/o501pW2U634/maxresdefault.jpg",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/05/26",
     "title": "Steam 商店多款遊戲特價活動",
@@ -200,6 +216,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Epic Games手機版限時免費領取《紀念碑谷3》",
+    "summary": "《紀念碑谷3》在Epic Games手機平台開放限時免費領取，適用於Android及部分iOS（歐盟、日本）地區玩家。玩家只需登入帳號即可領取並永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -252,6 +276,22 @@
     "date": "2026/05/23",
     "title": "Steam 限時免費：《Bunny Guys!》",
     "summary": "《兔子小夥伴！》在 Steam 開放限時免費領取，活動至 2026 年 5 月 30 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam限時免費：《戰鎚40K：格雷迪厄斯－戰爭聖器》永久入庫",
+    "summary": "為慶祝《戰鎚40K》系列年度盛會「Warhammer Skulls」十周年，回合制4X戰略遊戲《戰鎚40K：格雷迪厄斯－戰爭聖器》（Warhammer 40000: Gladius – Relics of War）在Steam上開放限時免費領取至5月29日。玩家領取後可永久保存至遊戲庫。這款遊戲以其獨特的「無外交，只有殺戮」的戰鬥導向玩法，提供星際戰士、星界軍、歐克獸人、太空死靈四大陣營供玩家選擇。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam喜加二：免費領取《Bunny Hurling》和《Bunny Guys!》",
+    "summary": "Steam平台推出限時免費活動，玩家可永久領取狩獵兔子遊戲《Bunny Hurling》和3D登高跑酷遊戲《Bunny Guys!》。《Bunny Guys!》玩法類似《Only Up!》，支持最多8人線上聯機，挑戰攀爬至頂峰。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -344,60 +384,20 @@
     "days_left": 1
   },
   {
-    "category": "STREAMER",
-    "date": "2026/05/21",
-    "title": "《英雄聯盟》粉絲為選手製作「黑粉名冊」引發爭議",
-    "summary": "一名《英雄聯盟》T1戰隊選手Doran的粉絲，在Threads上製作了一份近三千人的「黑粉名冊」，記錄曾對選手發表負面言論或按讚批評貼文的網友ID，甚至連將Doran與他人湊成CP的言論也被列入。此舉引發網友兩極討論，有工程師甚至為此製作查詢網站，但該粉絲帳號隨後關閉。",
-    "avatar_url": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=150&q=80",
-    "days_left": 0
-  },
-  {
     "category": "VTUBER",
-    "date": "2026/05/21",
-    "title": "台V圈爭議：ORI央莉與艾美麗的合約與隱私風波",
-    "summary": "台灣VTuber「ORI央莉」與一家廠商因活動結束後的結算物料與請款流程出現時間差，產生合約糾紛。ORI央莉在直播中檢視廠商資訊並質疑其誠信，間接引發對VTuber「艾美麗」是否與該廠商有特殊利益關係的討論。艾美麗隨後在社群平台X上回應，稱自己遭到「衝塔」（真實身份遭曝光），強調隱私權受侵害，並極力撇清與廠商的利益關係。此事件在社群上引發兩極討論，部分輿論認為艾美麗的回應模糊了廠商失約的核心問題。",
-    "avatar_url": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=150&q=80",
-    "days_left": 0
+    "date": "2026/05/22",
+    "title": "台灣VTuber盜圖風波後續：被公審後反告侵權",
+    "summary": "一名台灣VTuber被社群指控盜用他人圖片後，反控對方侵犯其智慧財產權。這起事件在VTuber圈內引發廣泛討論，許多網友質疑該VTuber的行為，認為其反告行為是在轉移焦點。此事件凸顯了VTuber創作內容版權與社群輿論處理的複雜性。",
+    "avatar_url": "https://i.ytimg.com/vi/f22z4u_v4H8/hq720.jpg",
+    "days_left": 1
   },
   {
     "category": "GAME",
-    "date": "2026/05/21",
-    "title": "Six One Indie Showcase 獨立遊戲發表會回歸",
-    "summary": "Six One Indie Showcase 於 5 月 21 日再次登場，此發表會將帶來多款獨立遊戲的最新預告片、全球首映內容以及豐富的活動，為獨立遊戲愛好者提供最新情報。",
+    "date": "2026/05/22",
+    "title": "日本最大規模獨立遊戲展BitSummit PUNCH在京都盛大登場",
+    "summary": "第14屆日本獨立遊戲展「BitSummit PUNCH」於5月22日至24日在京都市勸業館Miyako Messe舉行。首日為媒體與業界人士的商務日，23日、24日為一般公開日。本屆主題為「High Impact」，展出超過120款國內外獨立遊戲，並有任天堂、PlayStation等平台商參與，強調獨立遊戲透過創意對產業的巨大影響力。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/21",
-    "title": "免費動作新作《HoRoyal〜Hololive 大逃殺〜》Steam上市",
-    "summary": "COVER旗下專營hololive二次元遊戲品牌「holo Indie」的子公司CCMC宣布，由wai開發的大逃殺動作遊戲《HoRoyal〜Hololive 大逃殺〜》今日起在Steam平台免費遊玩。遊戲收錄超過一萬個實況語音，玩家可與30多位Hololive成員一同享受大逃殺樂趣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/21",
-    "title": "晚安小雞私闖民宅遭起訴",
-    "summary": "網紅晚安小雞先前私闖民宅進行探險直播，士林地檢署於 5 月 18 日偵結，依無故侵入他人住宅罪起訴，引發社群熱議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=小雞&background=713f12&color=fff&size=128",
-    "days_left": 0
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/21",
-    "title": "浠Mizuki失言遭禁言兩個月",
-    "summary": "台V「浠Mizuki」在 Threads 回應沒買周邊的粉絲「挺慘的」失言引發炎上，經紀公司子午計畫於 5 月 18 日公告處罰其暫停公開活動與社群營運 2 個月。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
-    "days_left": 0
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/21",
-    "title": "台V圈廠商糾紛與隱私爭議",
-    "summary": "台灣Vtuber「ORI央莉」與廠商因活動物料及請款流程產生時間差，ORI央莉在直播中質疑廠商誠信，並比對其營運資訊與負責人背景，進而質疑Vtuber「艾美麗」對廠商的聲援是否基於利益關係。艾美麗隨後在X/Twitter上反駁「衝塔」（真實身份曝光），強調隱私權受侵害，但社群上流出對話截圖指控她私下與廠商聯繫並號召同業發表針對性言論。此事件引發網路對台V圈缺乏專業經紀體制、年輕創作者社會經驗不足以及潛在產業信任危機的熱議。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
+    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -412,6 +412,15 @@
     "date": "2026/05/28",
     "title": "2582年時空旅人預言：2026年6月6日地球進入三天黑暗期",
     "summary": "一名自稱來自 2582 年的 TikTok 用戶預測，地球將在 2026 年 6 月 6 日 UTC 時間 00:00 起進入為期三天的黑暗期，並警告屆時不要看向金字塔發出的光，且只能使用蠟燭照明。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "自稱2582年時空旅行者警告：2026年6月地球將經歷三天黑暗",
+    "summary": "一位自稱來自2582年的時空旅行者在TikTok發布影片警告，地球將在2026年6月6日00:00 UTC進入為期三天的完全黑暗。他呼籲人們做好準備，並警告不要觀看來自金字塔的光芒，且除了蠟燭外不要使用任何人造光源。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
