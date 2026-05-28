@@ -136,6 +136,14 @@
     "days_left": 4
   },
   {
+    "category": "VTUBER",
+    "date": "2026/05/26",
+    "title": "多名VTuber脫退與活動停止，V圈動盪不安",
+    "summary": "日本V圈近日大動盪，多位VTuber宣布脫退或活動休止。其中，hololive旗下的男性團體Holostars有六名日本成員宣布結束配信活動，使團體近半數成員畢業。同時，彩虹社（Nijisanji）的團體ROF-MAO也宣布成員劍持刀也「修了」，以及整個團體將暫停活動。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
@@ -180,6 +188,14 @@
     "date": "2026/05/25",
     "title": "Steam Capcom 年中特賣",
     "summary": "Capcom 於 Steam 平台舉辦年中特賣，從 5 月 25 日至 6 月 8 日，精選遊戲提供高達 90 折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/25",
+    "title": "Steam「海洋節」特賣活動結束",
+    "summary": "Steam 平台上的「海洋節」主題特賣活動已於5月25日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -380,22 +396,6 @@
     "date": "2026/05/22",
     "title": "Six One Indie Showcase 獨立遊戲展示",
     "summary": "5 月 21 日舉辦的 Six One Indie Showcase 展示了多款獨立遊戲新作與 Demo，其中包括已推出 Demo 的《Blocks for Babies》、《KAZ》以及《Treetopians》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam Crunching Koalas 發行商特賣 - Spring 2026 版",
-    "summary": "Crunching Koalas 推出發行商特賣，旗下遊戲提供最高 85 折的優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam SNEG 發行商特賣",
-    "summary": "SNEG 發行商推出特賣活動，其經典復刻遊戲目錄提供最高 90 折的優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
@@ -613,6 +613,15 @@
     "date": "2026/04/08",
     "title": "來自2058年的未來人國分玲表示：2026年是日本及全球的重大轉折點",
     "summary": "據2026年4月8日報導，自稱來自2058年的未來人國分玲曾列出多個未來時間節點的預言，她曾表示2026年是日本及全球的重大轉折點。此外，她也預言中國將分裂成「華國」，並在2030年代後期長期處於多政府狀態。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan「比特幣先知」預測2026年底比特幣與以太坊價格飆升",
+    "summary": "一位在2019年以精準預測比特幣價格聞名的匿名4chan用戶，在2025年11月重新浮出水面，預言比特幣將在2026年底達到100萬美元，以太坊達到10萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
