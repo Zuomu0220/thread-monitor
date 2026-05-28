@@ -272,6 +272,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Steam 新增五款永久免費遊戲",
+    "summary": "Steam 平台於近日突襲新增五款可永久免費領取的遊戲，包含角色扮演遊戲《WithIN》、運動競技類的《Picklemania: The Ultimate Showdown》與《FreestyleFootball X》，以及大逃殺類型的《Ebon Crucible》和《Gun Glade》。玩家可直接下載並永久保留於收藏庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -353,6 +361,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/23",
+    "title": "Steam 免費週末遊戲",
+    "summary": "Steam 平台推出限時免費週末活動，共五款遊戲開放體驗，包括高評價吸血鬼生存 ARPG《V Rising》、《Astral Ascent》、末日合作生存遊戲《MISERY》、派對競速遊戲《Make Way》以及 RPG 新作《GreedFall: The Dying World》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/22",
     "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
     "summary": "開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。",
@@ -380,22 +396,6 @@
     "date": "2026/05/22",
     "title": "Steam 限時免費領取《Warhammer 40,000: Gladius - Relics of War》",
     "summary": "《戰鎚40,000：格雷迪厄斯– 戰爭聖器》於 Steam 平台開放限時免費領取，活動持續至 5 月 29 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Steam 限時免費領取《Car Mechanic Simulator 2018》",
-    "summary": "《汽車修理工模擬2018》於 Steam 平台開放限時免費領取，活動持續至 5 月 28 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Six One Indie Showcase 獨立遊戲展示",
-    "summary": "5 月 21 日舉辦的 Six One Indie Showcase 展示了多款獨立遊戲新作與 Demo，其中包括已推出 Demo 的《Blocks for Babies》、《KAZ》以及《Treetopians》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
@@ -430,6 +430,15 @@
     "date": "2026/05/23",
     "title": "TikTok未來人預言2026年6月6日地球將經歷「三天黑暗」",
     "summary": "一名自稱來自西元2582年的TikTok用戶預言，地球將在 2026 年 6 月 6 日世界標準時間（UTC）凌晨 0 點起進入連續三天黑暗。該「未來人」警告屆時切勿直視金字塔發出的光芒，並建議只使用蠟燭照明。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "自稱時空旅人預言「黑暗三日」降臨",
+    "summary": "一位自稱時空旅人者預言，世界將在 2026 年 6 月 6 日起陷入「黑暗三日」。在此期間，地球將被黑暗籠罩，民眾被警告不可外出、不可使用蠟燭以外的光源，並聲稱會發生類似電影《迷霧》的情節。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
@@ -622,6 +631,15 @@
     "date": "2026/02/27",
     "title": "4chan「比特幣先知」預測2026年底比特幣與以太坊價格飆升",
     "summary": "一位在2019年以精準預測比特幣價格聞名的匿名4chan用戶，在2025年11月重新浮出水面，預言比特幣將在2026年底達到100萬美元，以太坊達到10萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預測比特幣漲至百萬美元",
+    "summary": "一位曾在 2019 年精準預測比特幣底部價位的匿名 4chan 用戶再次發布預言，稱比特幣將在 2026 年底達到 100 萬美元，以太坊達到 10 萬美元。此預測在社群媒體上廣泛流傳，引起熱烈討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
