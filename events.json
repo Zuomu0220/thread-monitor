@@ -33,6 +33,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 限時免費遊戲更新",
+    "summary": "Epic Games Store 目前正提供《Calico》與《LONESTAR》供玩家限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Steam 限時免費領取《Drift86》",
+    "summary": "Steam 商店現正提供《Drift86》供玩家限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "放視大賞 Vision Get Wild 2026 獨立遊戲展區",
+    "summary": "台灣獨立遊戲團隊將在高雄的 Vision Get Wild 2026 登場，活動時間為 5 月 28 日至 5 月 30 日，展示台灣最熱門的獨立遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -209,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 多項遊戲折扣活動",
+    "summary": "Steam 平台推出多項遊戲折扣活動，包含「勇者鬥惡龍 40 週年慶」、「女巫、巫師與術士特賣」、「Hooded Horse 2026 五月特賣」以及「北歐遊戲大會 2026」等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
@@ -364,38 +396,6 @@
     "date": "2026/05/23",
     "title": "Steam 限時免費領取《Bunny Hurling》",
     "summary": "《兔兔投擲》於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 限時免費領取《Bunny Guys!》",
-    "summary": "《兔子小夥伴！》於 Steam 平台開放限時免費領取，活動持續至 5 月 30 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "台灣獨立遊戲交流會「自製遊戲ONLY」",
-    "summary": "由「自製遊戲公會」籌辦的獨立遊戲展示交流會《自製遊戲ONLY》於 5 月 23 日在台北圓山digiBlock C 舉行，開放活動參觀者免費報名。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 再釋出多款免費暢玩遊戲",
-    "summary": "Steam 平台推出多款免費遊戲供玩家領取並永久保留，包括《Bunny Guys!》、《Bunny Hurling》、《Car Mechanic Simulator 2018》、《Dino running from a Furry》、《Warhammer 40K: Gladius - Relics of War》，以及《AquaDream Soundtrack》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 限時免費：《Bunny Hurling》",
-    "summary": "《兔兔投擲》在 Steam 開放限時免費領取，活動至 2026 年 5 月 26 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
