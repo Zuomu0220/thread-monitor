@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Epic Games 限時免費",
+    "summary": "星際冒險遊戲《LONESTAR》限時免費：遊戲公司開發的《LONESTAR》正在 Epic Games 平台推出限時免費活動，玩家可於 6 月 4 日 23:00（香港時間）前免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -36,6 +44,14 @@
     "date": "2026/05/29",
     "title": "Steam限時免費：《Drift86》",
     "summary": "Steam平台推出限時免費領取街機賽車遊戲《Drift86》，活動持續至2026年6月4日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam獨立遊戲發售與 Demo 釋出",
+    "summary": "台灣一人團隊獨立遊戲《大尾松鼠》今日問世：由台灣一人獨立團隊「熊戲胞」開發的《大尾松鼠》於 2026 年 5 月 29 日在 Steam 平台發售，遊戲提供約 20 分鐘的免費試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -121,6 +137,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Steam獨立遊戲 Demo 釋出",
+    "summary": "《我是洞洞王》（Hole Is Mine）Demo 上線：由西班牙獨立遊戲工作室 Incrementalist 開發的新作《我是洞洞王》將參與 Steam 6 月新品節，遊戲免費試玩 Demo 已於 Steam 平台開放下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Steam/Epic 限時免費",
+    "summary": "Steam 和 Epic Games 平台限時免費發布五款電腦遊戲：《戰鎚40000：Gladius – Relics of War》（Steam 免費至 5 月 28 日下午 1 點）、《Car Mechanic Simulator 2018》（免費試用至 5 月 27 日下午 2 點）、《古墓麗影I-III 重製版》系列（Steam 免費至 5 月 28 日）。Epic Games Store 則有針對行動裝置生態系統的《紀念碑谷3》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -196,6 +228,22 @@
     "date": "2026/05/27",
     "title": "Steam「Raw Fury 六月特賣 2026」等多項遊戲折扣",
     "summary": "Steam 於5月27日推出「Raw Fury 六月特賣 2026」活動，匯集多款新舊熱門遊戲提供折扣。此外，Backrooms主題遊戲、Reus系列遊戲也推出優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/27",
+    "title": "Steam遊戲特價",
+    "summary": "Steam 史低特賣推薦：YouTube 頻道「五百上布玩」推薦了多款 Steam 史低折扣遊戲，優惠期間為 2026/05/27 至 2026/06/04。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/27",
+    "title": "Epic Games平台回歸與免費活動",
+    "summary": "Epic Games 正式宣告回歸，將開啟全新免費遊戲活動：Epic Games 國區正式回歸，宣布將同步重啟免費遊戲發放活動，並開啟回歸專屬的神秘遊戲福利，力度遠超日常周期，且明確為長期運營規劃。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -350,54 +398,6 @@
     "summary": "開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "Epic Games 大特賣與免費好禮",
-    "summary": "Epic Games Store 正在舉辦大特賣活動，提供數百款獨立遊戲與 AAA 大作的優惠折扣，並同時提供多項免費好禮，包括《地平線》包膜、《Rocket League®》Triplex Black Wheels、《糖豆人》電競神機套裝、Discord Nitro、Divers 超級禮包和「無限暖暖」限時優惠禮包等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "Steam 試玩版：《感謝你的投遞》",
-    "summary": "Demo 極度好評的面試官模擬遊戲《感謝你的投遞》開放試玩，預計 6 月 19 日登上 Steam。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "Steam Capcom 年中特賣",
-    "summary": "Capcom 於 Steam 平台舉辦年中特賣，從 5 月 25 日至 6 月 8 日，精選遊戲提供高達 90 折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "Steam「海洋節」特賣活動結束",
-    "summary": "Steam 平台上的「海洋節」主題特賣活動已於5月25日結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/24",
-    "title": "老高無預警取消直播惹議",
-    "summary": "YouTuber 老高與小茉 8 週年頻道紀念直播突然宣布取消，並透露家裡有事要處理，引發粉絲大量關注與陰謀論討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=老高&background=facc15&color=a16207&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/24",
-    "title": "Six One Indie 遊戲節 Demo 大量釋出",
-    "summary": "知名獨立遊戲展示會 Six One Indie Showcase 於 5 月 21 日發表，Steam 同步推出專題頁面，超過 60 款參展獨立遊戲提供限免試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -679,6 +679,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/11/14",
+    "title": "2062年未來人預言",
+    "summary": "第三次世界大戰將在 2030 年前爆發：來自 2062 年的未來人曾預言，第三次世界大戰將不會在 2030 年發生，而是會提早爆發，並涉及亞洲全域、美國、俄羅斯、歐洲一部分和中東各國。中國將被印度打敗並併入印度。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/12/31",
+    "expiry_date": "2030/01/01"
   },
   {
     "category": "PROPHECY",
