@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam 推出六款免費遊戲永久保留",
+    "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/28",
     "title": "新遊戲發售：未知作品 (Snake Tower Games/Twin Sails Interactive 發行)",
     "summary": "由 Snake Tower Games 開發並由 Twin Sails Interactive 發行的策略遊戲於 2026 年 5 月 28 日發售。這是一款卡組構築型肉鴿遊戲，玩家可以體驗沒有能量或行動點限制的出牌方式，每張卡牌化作獨特形狀、關鍵字與效果的魔印，使每場戰鬥都成為戰術優化挑戰。",
@@ -52,6 +60,22 @@
     "date": "2026/05/28",
     "title": "放視大賞 Vision Get Wild 2026 獨立遊戲展區",
     "summary": "台灣獨立遊戲團隊將在高雄的 Vision Get Wild 2026 登場，活動時間為 5 月 28 日至 5 月 30 日，展示台灣最熱門的獨立遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 限時免費《Calico》與《Lonestar》",
+    "summary": "Epic Games Store 於本週推出《Calico》與《Lonestar》兩款遊戲供玩家限時免費領取，活動持續至2026年6月4日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Vision Get Wild 2026 台灣獨立遊戲展於高雄登場",
+    "summary": "台灣獨立遊戲界盛事「Vision Get Wild 2026」於高雄舉行，展出多款備受矚目的獨立遊戲新作，提供玩家體驗與開發者交流的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -241,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam 宣布2026年6月多款遊戲即將免費",
+    "summary": "Steam平台預告將於2026年6月推出多款限時免費領取遊戲，包括《Overcome Your Fears - Caretaker》、《Gravity Circuit》、《Remothered: Tormented Fathers》、《The Red Lantern》和《Winexy》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/25",
     "title": "Steam《戰鎚 40K：角鬥士》限免",
     "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
@@ -368,38 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/05/24",
-    "title": "Steam 新增五款永久免費遊戲",
-    "summary": "Steam 平台於近日突襲新增五款可永久免費領取的遊戲，包含角色扮演遊戲《WithIN》、運動競技類的《Picklemania: The Ultimate Showdown》與《FreestyleFootball X》，以及大逃殺類型的《Ebon Crucible》和《Gun Glade》。玩家可直接下載並永久保留於收藏庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/24",
-    "title": "Steam 突襲新增五款可永久入庫免費遊戲",
-    "summary": "Steam 近期突襲新增五款遊戲供玩家永久免費領取，無需額外付費即可加入收藏庫。這些遊戲涵蓋冒險、運動、RPG及大逃殺等多元類型，包含《WithIN》、《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》與《Gun Glade》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/23",
-    "title": "貓宮結乃起訴網路人身攻擊",
-    "summary": "台V「貓宮結乃」先前因轉圖未標註來源引發炎上，隨後於 5 月 20 日發文表示因不堪部分網友的人身攻擊與侮辱，已正式前往地檢署報案提告。",
-    "avatar_url": "https://prd.resource-api.lit.link/images/creator/0d440944-01f8-46ef-b365-c017c7aeed93/ebc45843-fde8-4981-8c3b-be913587fb79.jpg",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 限時免費領取《Bunny Hurling》",
-    "summary": "《兔兔投擲》於 Steam 平台開放限時免費領取，活動持續至 5 月 26 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -442,6 +442,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "國分玲「絕密草稿」預示2026-2035年五大浩劫",
+    "summary": "日本未來人「國分玲」的「絕密草稿」被挖掘出來，預言2026年至2035年間人類將面臨五件大事。其中包括俄烏戰爭的真正走向、傳播力翻三倍的新型病毒以及黃石超級火山的異動。此外，她曾預言將於2026年9月26日回歸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
   },
   {
     "category": "PROPHECY",
