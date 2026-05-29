@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 5月神秘免費遊戲活動持續，新一批遊戲可領取至6月4日",
+    "summary": "Epic Games Store 5月的神秘免費遊戲活動持續進行，目前開放領取的遊戲可持續至6月4日。儘管本週的遊戲可能不如前幾週知名，但仍是兩款獨立遊戲佳作。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -97,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/27",
+    "title": "Steam「Raw Fury 六月特賣 2026」等多項遊戲折扣",
+    "summary": "Steam 於5月27日推出「Raw Fury 六月特賣 2026」活動，匯集多款新舊熱門遊戲提供折扣。此外，Backrooms主題遊戲、Reus系列遊戲也推出優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/26",
     "title": "Steam 商店多款遊戲特價活動",
     "summary": "Steam 平台於 2026 年 5 月 26 日有多項遊戲折扣活動，包含慶祝《勇者鬥惡龍》40 週年的特惠、女巫、巫師與術士特賣，以及 Hooded Horse 2026 五月特賣等。",
@@ -157,6 +173,38 @@
     "title": "VTuber男團HOLOSTARS六名成員宣布停止直播活動",
     "summary": "VTuber公司COVER宣布旗下男團HOLOSTARS的部分所屬成員將結束直播活動，其中包括六名成員。公司表示其他成員將在現行方針下繼續活動，並提及日本HOLOSTARS因較早開始事業，目前正處於思考日本市場後續方向的階段。",
     "avatar_url": "https://img.4gamers.com.tw/puku-content/holostars-6-members-suspend-activities-banner.jpg",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/26",
+    "title": "VTuber「しぐれうい」粉絲線下聚會引發爭議，本人出面提醒應私下進行",
+    "summary": "VTuber「しぐれうい」的粉絲未經本人允許，私自舉辦線下聚會並引發討論。しぐれうい在得知此事後，透過確認郵件向相關粉絲傳達，此類活動應「悄悄進行」的立場，以避免未來再次引起類似爭議。",
+    "avatar_url": "https://i.imgur.com/z0JqTz2.png",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/26",
+    "title": "Hololive「さくらみこ」與「ラプラス・ダークネス」就學園偶像大師相關炎上事件向粉絲致歉",
+    "summary": "Hololive旗下VTuber「さくらみこ」針對此前與「ラプラス・ダークネス」合作進行學園偶像大師（學マス）活動時引發的炎上事件，向粉絲表達了歉意。該事件涉及在拉普拉斯的生日直播中，學園偶像大師角色姫崎莉波的登場與3D新服裝披露，因拉普拉斯曾公開表示「同擔拒否」（拒絕同擔粉絲），導致部分粉絲社群出現爭議。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/26",
+    "title": "V圈動盪！多名VTuber宣布脫退或活動停止，ROF-MAO團體也傳出成員變動",
+    "summary": "VTuber界近期出現大規模變動，多名VTuber於社群平台宣布脫離團體或無限期停止活動，引發粉絲圈譁然。其中，知名男性VTuber團體ROF-MAO也傳出成員變動的消息，令粉絲感到衝擊與不捨。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/26",
+    "title": "Steam「AQUAPLUS超級特賣」及「DRAGON QUEST 40週年慶典」等多項遊戲折扣",
+    "summary": "Steam 平台於5月26日啟動多項遊戲折扣活動。其中「AQUAPLUS超級特賣」提供旗下遊戲系列優惠至6月9日，而「DRAGON QUEST 40週年慶典」也推出系列作折扣，另外還有「女巫、巫師與術士特賣」等多種優惠活動同步進行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -296,6 +344,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/05/24",
+    "title": "Steam 突襲新增五款可永久入庫免費遊戲",
+    "summary": "Steam 近期突襲新增五款遊戲供玩家永久免費領取，無需額外付費即可加入收藏庫。這些遊戲涵蓋冒險、運動、RPG及大逃殺等多元類型，包含《WithIN》、《Picklemania: The Ultimate Showdown》、《FreestyleFootball X》、《Ebon Crucible》與《Gun Glade》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "VTUBER",
     "date": "2026/05/23",
     "title": "貓宮結乃起訴網路人身攻擊",
@@ -342,62 +398,6 @@
     "summary": "《兔兔投擲》在 Steam 開放限時免費領取，活動至 2026 年 5 月 26 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 限時免費：《Bunny Guys!》",
-    "summary": "《兔子小夥伴！》在 Steam 開放限時免費領取，活動至 2026 年 5 月 30 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam限時免費：《戰鎚40K：格雷迪厄斯－戰爭聖器》永久入庫",
-    "summary": "為慶祝《戰鎚40K》系列年度盛會「Warhammer Skulls」十周年，回合制4X戰略遊戲《戰鎚40K：格雷迪厄斯－戰爭聖器》（Warhammer 40000: Gladius – Relics of War）在Steam上開放限時免費領取至5月29日。玩家領取後可永久保存至遊戲庫。這款遊戲以其獨特的「無外交，只有殺戮」的戰鬥導向玩法，提供星際戰士、星界軍、歐克獸人、太空死靈四大陣營供玩家選擇。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam喜加二：免費領取《Bunny Hurling》和《Bunny Guys!》",
-    "summary": "Steam平台推出限時免費活動，玩家可永久領取狩獵兔子遊戲《Bunny Hurling》和3D登高跑酷遊戲《Bunny Guys!》。《Bunny Guys!》玩法類似《Only Up!》，支持最多8人線上聯機，挑戰攀爬至頂峰。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/23",
-    "title": "台灣VTuber浠Mizuki因嗆粉絲「大炎上」遭停播",
-    "summary": "隸屬於子午計畫的台灣VTuber「浠Mizuki」因在社群平台上「嗆正在段考的學生粉絲」等失言風波，引發大規模「炎上」，經紀公司子午計畫已對其祭出懲處，宣布停播兩個月。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/23",
-    "title": "Steam 免費週末遊戲",
-    "summary": "Steam 平台推出限時免費週末活動，共五款遊戲開放體驗，包括高評價吸血鬼生存 ARPG《V Rising》、《Astral Ascent》、末日合作生存遊戲《MISERY》、派對競速遊戲《Make Way》以及 RPG 新作《GreedFall: The Dying World》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/23",
-    "title": "台灣VTuber浠Mizuki失言嘲諷粉絲遭暫停活動",
-    "summary": "台灣VTuber團體子午計畫所屬成員浠Mizuki，因在社群平台Threads上回覆粉絲貼文時用詞不當，嘲諷一位錯過周邊預購的學生粉絲「就沒有心想買還要發出來也是挺慘的」，引發社群怒火。營運方隨後宣布浠Mizuki暫停所有公開直播活動及社群營運兩個月，並取消個人工商合作。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/22",
-    "title": "Pocketpair攜《幻獸帕魯》及新作參展BitSummit 2026並提供試玩",
-    "summary": "開發《幻獸帕魯》的Pocketpair公司宣布以白金贊助商身份參展於5月22日至24日在京都舉辦的BitSummit 2026。展位將提供包括《幻獸帕魯》雙人聯機試玩，以及《Windrose: 風啟之旅》、《Truckful / 鄉野奇運》等六款新作的首次線下試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
