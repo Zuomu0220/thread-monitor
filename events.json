@@ -41,6 +41,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam 限時免費：《Moonrise Fall》",
+    "summary": "像素解謎冒險遊戲《Moonrise Fall》於 Steam 平台開放限時免費領取，活動將於 2026/06/03 上午 1:00 截止，領取後可永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam 週末特價：《Stray》",
+    "summary": "冒險遊戲《Stray》在 Steam 平台進行週末特價，享 50% 折扣，特惠將於 2026/06/03 上午 10:00 截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -108,6 +124,14 @@
     "date": "2026/05/29",
     "title": "Steam更新多款限時免費遊戲",
     "summary": "Steam平台於5月29日更新多款限時免費遊戲，包括《Bunny Guys!》和《BROTHER!!! Save him!》等，玩家需在活動期間內下載或購買以永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Epic Games 限時免費：《Calico》與《孤星獵人》",
+    "summary": "Epic Games Store 本週推出《Calico》（貓咪咖啡廳模擬經營）與《孤星獵人》（LONESTAR，Roguelike 飛船對戰）限時免費活動，玩家可於台灣時間 2026/06/04 晚上 11:00 前永久領取入庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -305,6 +329,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Steam 限時免費：《Drift86》",
+    "summary": "獨立開發者 RewindApp 製作的街機風格漂移競速遊戲《Drift86》正在 Steam 展開限時免費活動，期限截至 2026/06/04 止，玩家可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Steam 週末特惠：《上古卷軸》與《勇者鬥惡龍》系列",
+    "summary": "Steam 週末特惠，《The Elder Scrolls》系列作品最高可省 75%，Square Enix《勇者鬥惡龍》系列 40 週年慶特賣，優惠截止至 2026/06/01 上午 10:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -357,46 +397,6 @@
     "title": "實況主卡門哥疑涉捷運偷拍爭議再被討論",
     "summary": "實況主「卡門哥」被社群再次討論，指出其在一周前被踢爆言語性騷擾女實況主後，又於近日被討論到疑似在捷運上偷拍女性的行為，引發網友憤慨。",
     "avatar_url": "https://i.ytimg.com/vi/oM6W1i7tX0s/maxresdefault.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/27",
-    "title": "日本VTuber莉波因遊戲相關言論引發炎上",
-    "summary": "日本VTuber莉波在《學園偶像大師》遊戲相關直播中，因發表某些言論而引發了部分社群的「炎上」討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/27",
-    "title": "Hololive VTuber La+ Darknesss生誕祭對聯動角色「姬崎莉波」處理不當引發炎上",
-    "summary": "Hololive旗下VTuber La+ Darknesss在生誕3D演唱會上，與《學園偶像大師》角色姬崎莉波進行聯動時，對莉波的「人偶」形象進行了「摔擲」等粗魯對待的演出，引發《學園偶像大師》粉絲強烈不滿，認為是對角色及IP缺乏尊重的行為，導致社群炎上。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/27",
-    "title": "Steam「Raw Fury 六月特賣 2026」等多項遊戲折扣",
-    "summary": "Steam 於5月27日推出「Raw Fury 六月特賣 2026」活動，匯集多款新舊熱門遊戲提供折扣。此外，Backrooms主題遊戲、Reus系列遊戲也推出優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/27",
-    "title": "Steam遊戲特價",
-    "summary": "Steam 史低特賣推薦：YouTube 頻道「五百上布玩」推薦了多款 Steam 史低折扣遊戲，優惠期間為 2026/05/27 至 2026/06/04。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/27",
-    "title": "Epic Games平台回歸與免費活動",
-    "summary": "Epic Games 正式宣告回歸，將開啟全新免費遊戲活動：Epic Games 國區正式回歸，宣布將同步重啟免費遊戲發放活動，並開啟回歸專屬的神秘遊戲福利，力度遠超日常周期，且明確為長期運營規劃。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
