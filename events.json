@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam多款遊戲即將發行或推出Demo",
+    "summary": "包括心理恐怖遊戲《破碎怪談：惡意關注》、休閒節奏遊戲《跳舞的線》、動作遊戲《Where the forest ends》等多款作品於5月底至6月初在Steam平台推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -132,6 +140,22 @@
     "date": "2026/05/29",
     "title": "Epic Games 限時免費：《Calico》與《孤星獵人》",
     "summary": "Epic Games Store 本週推出《Calico》（貓咪咖啡廳模擬經營）與《孤星獵人》（LONESTAR，Roguelike 飛船對戰）限時免費活動，玩家可於台灣時間 2026/06/04 晚上 11:00 前永久領取入庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/05/29",
+    "title": "國外81歲遊戲實況主「GrammaCrackers」直播遭惡意假報警",
+    "summary": "81歲的《Minecraft》實況主GrammaCrackers在24小時不間斷直播期間，家中突然被大批持槍警員衝入搜索，起因是有人惡意發起「SWATing」（惡作劇假報警）。GrammaCrackers的YouTube頻道擁有超過61萬訂閱者，她也曾為罹患癌症的孫子Jack Self籌款。",
+    "avatar_url": "https://i.ytimg.com/vi/bO8allXg7qg/hqdefault.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Epic Games Store公布2026年5月最後兩款神秘免費遊戲",
+    "summary": "Epic Games Store本月最後兩款神秘免費遊戲為獨立遊戲《Calico》和《Lonestar》，兩款遊戲在Steam上都有超過85%的玩家好評，原價共計24.98美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -373,30 +397,6 @@
     "title": "直播水產大內鬥！直播妹爆老闆黑料害損失百萬，法院只判賠3萬",
     "summary": "知名「拼鮮水產」直播主李鑄鋒與其前直播妹張女因離職糾紛對簿公堂。張女因不滿被解雇，轉貼網路報導指控李鑄鋒「無效退費都假的」及「賭博欠債3000多萬」。法院審理後認為張女部分指控未能提出充分證據，已侵害李鑄鋒名譽權，判賠精神慰撫金3萬元，而非李鑄鋒求償的100萬元。此事件引發網友對直播帶貨產業誠信與勞資糾紛的熱議。",
     "avatar_url": "https://img.ltn.com.tw/Upload/news/600/2026/05/27/phpyG8QW6.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/27",
-    "title": "台灣VTuber被爆黑料與真實身份外洩引發社群爭議",
-    "summary": "一位台灣VTuber因私下言論、廠商合作爭議以及真實身份被曝光，在社群平台上引發軒然大波。該VTuber「艾美麗」在社群平台（X）上發文，稱自己遭到「衝塔」，隱私權受侵害，並撇清與廠商的利益關係。然而，網路上流傳的對話截圖指控她私下與廠商保持聯繫，且號召同業發表針對同行的言論。此事件導致台灣VTuber圈對於中之人隱私、商業誠信及公關處理方式的兩極化討論。",
-    "avatar_url": "https://i.ytimg.com/vi/o501pW2U634/maxresdefault.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/27",
-    "title": "實況主MH「不誠意道歉」再惹議",
-    "summary": "台灣實況主「MH」（阿紅）因過往抄襲爭議及洩漏玩家個資事件，近日針對其「不誠意道歉」再次引發網友不滿與討論。有網友指出其道歉內容缺乏誠意，未能平息眾怒。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/27",
-    "title": "實況主卡門哥疑涉捷運偷拍爭議再被討論",
-    "summary": "實況主「卡門哥」被社群再次討論，指出其在一周前被踢爆言語性騷擾女實況主後，又於近日被討論到疑似在捷運上偷拍女性的行為，引發網友憤慨。",
-    "avatar_url": "https://i.ytimg.com/vi/oM6W1i7tX0s/maxresdefault.jpg",
     "days_left": 3
   },
   {
@@ -805,6 +805,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2030/12/31",
     "expiry_date": "2031/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/30",
+    "title": "和碩董事長童子賢預言：10年後加油站消失，AI時代下人類生存需靠好奇心與終身學習",
+    "summary": "和碩聯合科技董事長童子賢在國立台灣師範大學畢業典禮上預測，未來10年加油站可能走入歷史，電影中高風險任務將由無人機取代，提醒學子在AI時代，課本知識不再是護身符，需保持好奇心、終身學習及人文素養才能生存。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2036/05/30",
+    "expiry_date": "2036/05/31"
   },
   {
     "category": "PROPHECY",
