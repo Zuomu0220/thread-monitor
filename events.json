@@ -177,6 +177,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 免費遊戲：《Calico》及《Lonestar》",
+    "summary": "Epic Games Store 本週免費遊戲為《Calico》和《Lonestar》，可免費領取至 6 月 4 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam「女巫、巫師與術士」特賣",
-    "summary": "Steam平台舉辦「女巫、巫師與術士特賣（Witches, Wizards & Warlocks Sale）」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -457,6 +457,15 @@
     "date": "2026/05/30",
     "title": "來自 2582 年時空旅人預言三日停電",
     "summary": "一名自稱來自 2582 年的 TikTok 時空旅人預測，地球將在 2026 年 6 月 6 日經歷長達三天的全面停電。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "2582 年 TikTok 時間旅行者預言 2026 年 6 月 6 日地球將經歷三天黑暗",
+    "summary": "一名自稱來自 2582 年的 TikTok 用戶發布預言，聲稱地球將於 2026 年 6 月 6 日世界標準時間 00:00 起，經歷長達三天的完全黑暗。他警告人們在黑暗期間不要仰望天空中的金字塔光芒，並除了蠟燭外不要使用任何人造光源，必須居家躲避三天。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
