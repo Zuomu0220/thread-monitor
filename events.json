@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam 新增限時免費遊戲",
+    "summary": "Steam 於近期新增《Bunny Guys!》及《BROTHER!!! Save him!》等限時免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/28",
     "title": "新遊戲發售：未知作品 (Snake Tower Games/Twin Sails Interactive 發行)",
     "summary": "由 Snake Tower Games 開發並由 Twin Sails Interactive 發行的策略遊戲於 2026 年 5 月 28 日發售。這是一款卡組構築型肉鴿遊戲，玩家可以體驗沒有能量或行動點限制的出牌方式，每張卡牌化作獨特形狀、關鍵字與效果的魔印，使每場戰鬥都成為戰術優化挑戰。",
@@ -196,6 +204,38 @@
     "date": "2026/05/28",
     "title": "Epic Games Store 免費遊戲與大特賣",
     "summary": "Epic Games Store於5月28日開始提供《Calico》與《Lonestar》作為限時免費遊戲，可領取至6月4日。此外，「Epic Games 大特賣」活動期間也提供多項遊戲特惠折扣，並有免費遊戲內物品可領取，例如《地平線包膜》、《Rocket League®》Triplex Black Wheels以及《糖豆人》電競神機套裝等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 新增免費遊戲",
+    "summary": "Epic Games Store 公布《Calico》與《LONESTAR》可限時免費領取，活動持續至 6 月 4 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Vision Get Wild 2026",
+    "summary": "台灣獨立遊戲展覽 Vision Get Wild 2026 於高雄舉行，展示台灣最新的獨立遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Indie Quest 2026",
+    "summary": "Steam 平台推出 Indie Quest 2026 活動，展示多款獨立遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Cozy & Family Friendly Games Celebration 2026",
+    "summary": "Steam 平台舉行「溫馨與家庭友善遊戲慶典 2026」折扣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -360,46 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "VTUBER",
-    "date": "2026/05/26",
-    "title": "VTuber「しぐれうい」粉絲線下聚會引發爭議，本人出面提醒應私下進行",
-    "summary": "VTuber「しぐれうい」的粉絲未經本人允許，私自舉辦線下聚會並引發討論。しぐれうい在得知此事後，透過確認郵件向相關粉絲傳達，此類活動應「悄悄進行」的立場，以避免未來再次引起類似爭議。",
-    "avatar_url": "https://i.imgur.com/z0JqTz2.png",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/26",
-    "title": "Hololive「さくらみこ」與「ラプラス・ダークネス」就學園偶像大師相關炎上事件向粉絲致歉",
-    "summary": "Hololive旗下VTuber「さくらみこ」針對此前與「ラプラス・ダークネス」合作進行學園偶像大師（學マス）活動時引發的炎上事件，向粉絲表達了歉意。該事件涉及在拉普拉斯的生日直播中，學園偶像大師角色姫崎莉波的登場與3D新服裝披露，因拉普拉斯曾公開表示「同擔拒否」（拒絕同擔粉絲），導致部分粉絲社群出現爭議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/26",
-    "title": "V圈動盪！多名VTuber宣布脫退或活動停止，ROF-MAO團體也傳出成員變動",
-    "summary": "VTuber界近期出現大規模變動，多名VTuber於社群平台宣布脫離團體或無限期停止活動，引發粉絲圈譁然。其中，知名男性VTuber團體ROF-MAO也傳出成員變動的消息，令粉絲感到衝擊與不捨。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam「AQUAPLUS超級特賣」及「DRAGON QUEST 40週年慶典」等多項遊戲折扣",
-    "summary": "Steam 平台於5月26日啟動多項遊戲折扣活動。其中「AQUAPLUS超級特賣」提供旗下遊戲系列優惠至6月9日，而「DRAGON QUEST 40週年慶典」也推出系列作折扣，另外還有「女巫、巫師與術士特賣」等多種優惠活動同步進行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam 多項遊戲折扣活動",
-    "summary": "Steam 平台推出多項遊戲折扣活動，包含「勇者鬥惡龍 40 週年慶」、「女巫、巫師與術士特賣」、「Hooded Horse 2026 五月特賣」以及「北歐遊戲大會 2026」等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -475,6 +475,15 @@
     "date": "2026/04/26",
     "title": "TikTok 時間旅行者預言2026年6月6日地球將經歷三天黑暗",
     "summary": "一位自稱來自2582年的TikTok用戶於4月26日發布影片，警告地球將在2026年6月6日格林威治時間凌晨0點起，經歷為期三天的完全黑暗。該預言呼籲人們做好準備，並警告期間不要外出或抬頭觀看天空中的金字塔狀光芒。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "TikTok未來人預言地球三天黑暗",
+    "summary": "一位自稱來自 2582 年的 TikTok 用戶預言，地球將於 2026 年 6 月 6 日 UTC 時間 00:00 開始進入三天黑暗。他警告屆時不要看向天空中的金字塔發出的光，也不要使用除了蠟燭以外的任何人造光源。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
