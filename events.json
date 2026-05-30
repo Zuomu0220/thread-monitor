@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/05/30",
+    "title": "查無近期事件",
+    "summary": "2026/05/23 至 2026/05/30 期間，未搜尋到台灣/華語圈實況主的相關負面與爭議事件資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/30",
+    "title": "查無近期遊戲情報",
+    "summary": "2026/05/23 至 2026/05/30 期間，未搜尋到 Steam/Epic Games 平台的最新遊戲限時免費、特價折扣或重大獨立遊戲展/Demo 釋出等情報資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
@@ -382,22 +398,6 @@
     "summary": "Steam平台舉辦「女巫、巫師與術士特賣（Witches, Wizards & Warlocks Sale）」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "Steam《戰鎚 40K：角鬥士》限免",
-    "summary": "4X 回合制策略遊戲《Warhammer 40,000: Gladius》在 Steam 平台展開限時免費領取活動，至 5 月 28 日前領取可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "像素 Roguelite 射擊《DDoD：紫霧》釋出Demo",
-    "summary": "俯視角合作射擊遊戲《DDoD：紫霧》今日釋出全新免費 Demo，獨特的美術風格與刷寶玩法吸引不少獨立遊戲愛好者下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
