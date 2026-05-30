@@ -153,6 +153,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games 免費遊戲",
+    "summary": "Epic Games Store 於 5 月 28 日至 6 月 4 日提供《印花布》(Calico) 和《孤星》(Lonestar) 限時免費領取。 另外，從 5 月 21 日至 5 月 28 日，玩家可免費領取《百慕達歷險記》(Down in Bermuda) 和《古墓奇兵 I-III 重製版》(Tomb Raider I-III Remastered Starring Lara Croft)。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -392,14 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/05/25",
-    "title": "海盜冒險《鹽 2：黃金海岸》特惠五折",
-    "summary": "開放世界生存冒險獨立遊戲《Salt 2》即日起在 Steam 推出半價特惠折扣，優惠將持續至 5 月 25 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -454,6 +454,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/30",
+    "title": "來自 2582 年時空旅人預言三日停電",
+    "summary": "一名自稱來自 2582 年的 TikTok 時空旅人預測，地球將在 2026 年 6 月 6 日經歷長達三天的全面停電。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/16",
     "title": "國分玲「絕密草稿」預示2026-2035年五大浩劫",
     "summary": "日本未來人「國分玲」的「絕密草稿」被挖掘出來，預言2026年至2035年間人類將面臨五件大事。其中包括俄烏戰爭的真正走向、傳播力翻三倍的新型病毒以及黃石超級火山的異動。此外，她曾預言將於2026年9月26日回歸。",
@@ -466,6 +475,15 @@
     "date": "2026/05/20",
     "title": "2058年未來人國分玲預言2026年動向",
     "summary": "自稱來自2058年的國分玲，其過去預言的高準確率再次被社群熱議，他曾表示將於2026年9月26日再度歸來，並預言2026至2030年間將有重大事件發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/30",
+    "title": "來自 2058 年的國分玲預言",
+    "summary": "自稱來自 2058 年的「未來人」國分玲表示，2026 年是日本及全球的重大轉折點。她預言比特幣價值將飆升，但普通人只能賣不能買。她還曾提及日本首都將於 2058 年從東京遷至岡山縣。國分玲預計將於 2026 年 9 月 26 日再次現身。 她也曾提及第三次世界大戰將在 2030 年之前爆發，印度將成為最強大的國家。此外，據信 AI 將在 2026 年開始主導人類未來的經濟發展。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
