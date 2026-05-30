@@ -185,6 +185,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "Epic Games Store 宣布本週限時免費遊戲為《Calico》與《Lonestar》，玩家可在 2026 年 5 月 28 日至 6 月 4 日期間免費領取。其中《Calico》是一款生活模擬遊戲，玩家將負責重建鎮上的貓咪咖啡廳，並讓可愛的生物們再次充滿活力；而《Lonestar》則是一款未具體說明內容的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "夏日遊戲節 Summer Game Fest 2026 資訊公開",
-    "summary": "一年一度的夏日遊戲節宣布將於6月3日由PlayStation發表會率先開跑，主活動夏日遊戲節則在6月6日舉行。期間也將有獨立開發日 Day of the Devs、療癒遊戲發表會 Wholesome Direct、豐富故事發表會 Story-Rich Showcase 以及未來遊戲展 Future Games Show Summer Showcase 等多項獨立遊戲節目陸續公開。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -493,6 +493,15 @@
     "date": "2026/05/30",
     "title": "來自 2058 年的國分玲預言",
     "summary": "自稱來自 2058 年的「未來人」國分玲表示，2026 年是日本及全球的重大轉折點。她預言比特幣價值將飆升，但普通人只能賣不能買。她還曾提及日本首都將於 2058 年從東京遷至岡山縣。國分玲預計將於 2026 年 9 月 26 日再次現身。 她也曾提及第三次世界大戰將在 2030 年之前爆發，印度將成為最強大的國家。此外，據信 AI 將在 2026 年開始主導人類未來的經濟發展。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/20",
+    "title": "來自2058年的未來人國分玲預言：2026年是日本及全球重大轉折點，並預告回歸",
+    "summary": "自稱來自 2058 年的日本未來人「國分玲」，因其對東京奧運金牌數、股市崩盤及安倍晉三辭職等事件的精準預測而聞名。他曾表示 2026 年將是日本及全球的重大轉折點，並預告自己將在 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
