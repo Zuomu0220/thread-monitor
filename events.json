@@ -193,6 +193,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store 免費遊戲與大特賣",
+    "summary": "Epic Games Store於5月28日開始提供《Calico》與《Lonestar》作為限時免費遊戲，可領取至6月4日。此外，「Epic Games 大特賣」活動期間也提供多項遊戲特惠折扣，並有免費遊戲內物品可領取，例如《地平線包膜》、《Rocket League®》Triplex Black Wheels以及《糖豆人》電競神機套裝等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam 宣布2026年6月多款遊戲即將免費",
-    "summary": "Steam平台預告將於2026年6月推出多款限時免費領取遊戲，包括《Overcome Your Fears - Caretaker》、《Gravity Circuit》、《Remothered: Tormented Fathers》、《The Red Lantern》和《Winexy》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -472,6 +472,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "TikTok 時間旅行者預言2026年6月6日地球將經歷三天黑暗",
+    "summary": "一位自稱來自2582年的TikTok用戶於4月26日發布影片，警告地球將在2026年6月6日格林威治時間凌晨0點起，經歷為期三天的完全黑暗。該預言呼籲人們做好準備，並警告期間不要外出或抬頭觀看天空中的金字塔狀光芒。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/16",
     "title": "國分玲「絕密草稿」預示2026-2035年五大浩劫",
     "summary": "日本未來人「國分玲」的「絕密草稿」被挖掘出來，預言2026年至2035年間人類將面臨五件大事。其中包括俄烏戰爭的真正走向、傳播力翻三倍的新型病毒以及黃石超級火山的異動。此外，她曾預言將於2026年9月26日回歸。",
@@ -502,6 +511,15 @@
     "date": "2026/05/20",
     "title": "來自2058年的未來人國分玲預言：2026年是日本及全球重大轉折點，並預告回歸",
     "summary": "自稱來自 2058 年的日本未來人「國分玲」，因其對東京奧運金牌數、股市崩盤及安倍晉三辭職等事件的精準預測而聞名。他曾表示 2026 年將是日本及全球的重大轉折點，並預告自己將在 2026 年 9 月 26 日再次歸來。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/20",
+    "title": "2058年未來人國分玲預告2026年9月26日再次歸來",
+    "summary": "關於自稱來自2058年的日本未來人國分玲，有報導指出她曾預告將於2026年9月26日再次現身網路社群，預計將發布新的預言或更新資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
