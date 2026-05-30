@@ -336,6 +336,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/05/27",
+    "title": "Holostars六名成員宣布停止直播活動",
+    "summary": "虛擬偶像經紀公司Cover旗下男性VTuber團體HOLOSTARS宣布，繼2026年4月3日公布營運體制變更後，經與多位成員協商，花咲みやび、岸堂天真、律可、アルランディス、水無世燐央、影山シエン等六名成員將陸續停止直播活動，轉向個人活動體制。其中花咲みやび與岸堂天真將於6月8日結束，律可於6月9日，アルランディス於6月10日，水無世燐央於6月25日，影山シエン則於7月5日結束。",
+    "avatar_url": "https://img.4gamers.com.tw/puku-upload-temp/holostars.jpg",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/05/26",
     "title": "Steam 商店多款遊戲特價活動",
@@ -389,14 +397,6 @@
     "title": "多名VTuber脫退與活動停止，V圈動盪不安",
     "summary": "日本V圈近日大動盪，多位VTuber宣布脫退或活動休止。其中，hololive旗下的男性團體Holostars有六名日本成員宣布結束配信活動，使團體近半數成員畢業。同時，彩虹社（Nijisanji）的團體ROF-MAO也宣布成員劍持刀也「修了」，以及整個團體將暫停活動。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/26",
-    "title": "VTuber男團HOLOSTARS六名成員宣布停止直播活動",
-    "summary": "VTuber公司COVER宣布旗下男團HOLOSTARS的部分所屬成員將結束直播活動，其中包括六名成員。公司表示其他成員將在現行方針下繼續活動，並提及日本HOLOSTARS因較早開始事業，目前正處於思考日本市場後續方向的階段。",
-    "avatar_url": "https://img.4gamers.com.tw/puku-content/holostars-6-members-suspend-activities-banner.jpg",
     "days_left": 3
   },
   {
@@ -739,6 +739,15 @@
     "date": "2026/05/24",
     "title": "2058未來人國分玲預言2026年底新傳染病",
     "summary": "來自2058年的未來人國分玲再次發出警告，預言2026年底將有全新傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan匿名用戶關於2026年底比特幣和以太幣價格的預言",
+    "summary": "一位曾在2019年準確預測比特幣底部價格的4chan匿名「先知」再次現身，預測比特幣將在2026年底達到100萬美元，以太幣達到10萬美元。另一位4chan匿名用戶（SBC7HL）則預測比特幣在2026年底可能達到25萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
