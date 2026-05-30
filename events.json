@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam獨立遊戲新作《迷途之徑》Demo釋出",
+    "summary": "Steam平台上一款視覺風格獨特的獨立遊戲新作《迷途之徑》於5月30日釋出免費試玩版（Demo），供玩家搶先體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -257,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/28",
+    "title": "Epic Games Store限時免費領取遊戲《異塵餘生：新維加斯》",
+    "summary": "Epic Games Store於5月28日開放限時免費領取知名RPG遊戲《異塵餘生：新維加斯》終極版，玩家可在指定時間內免費將遊戲加入收藏庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/27",
     "title": "AG French Direct 線上遊戲發表會",
     "summary": "線上法國遊戲發表會 AG French Direct 宣布將於 5 月 28 日舉行 2026 屆活動，預計帶來超過 40 款法國及法語地區遊戲的新消息，包含世界首曝、全新預告、實機演示、開發幕後內容，並同步開放超過 30 款遊戲試玩 Demo。",
@@ -384,22 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam Hooded Horse 2026 五月特賣",
-    "summary": "Hooded Horse 於 Steam 平台舉辦 2026 年五月特賣，已發售遊戲提供折扣，並開放大量新作加入願望清單。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/26",
-    "title": "Steam Nordic Game Conference 2026",
-    "summary": "歐洲領先的遊戲產業會議 Nordic Game Conference 2026 在 Steam 舉辦活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -490,6 +490,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/26",
+    "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
+    "summary": "自稱來自2058年的日本未來人國分玲在某社群論壇發文指出，預計在近期全球主要經濟體將面臨前所未有的金融波動，建議投資者謹慎操作，並提及加密貨幣市場可能出現劇烈震盪。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/15",
+    "expiry_date": "2026/06/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/30",
+    "title": "華語社群流傳「穿越者」警告極端氣候事件將加劇",
+    "summary": "華語網路社群Dcard與PTT上，有自稱「穿越者」的帳號發布訊息，警告全球極端氣候事件將在未來數月內顯著加劇，特別是亞洲地區將面臨連續高溫與強降雨的挑戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/16",
     "title": "國分玲「絕密草稿」預示2026-2035年五大浩劫",
     "summary": "日本未來人「國分玲」的「絕密草稿」被挖掘出來，預言2026年至2035年間人類將面臨五件大事。其中包括俄烏戰爭的真正走向、傳播力翻三倍的新型病毒以及黃石超級火山的異動。此外，她曾預言將於2026年9月26日回歸。",
@@ -532,6 +550,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/28",
+    "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
+    "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/01",
+    "expiry_date": "2026/10/02"
   },
   {
     "category": "PROPHECY",
