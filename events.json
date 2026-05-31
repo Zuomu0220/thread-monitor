@@ -17,6 +17,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam限時免費：《Moonrise Fall》與《IQ Under Construction》",
+    "summary": "Steam平台推出兩款獨立遊戲限時免費活動，分別是像素風解謎冒險遊戲《Moonrise Fall》（期限至6月3日上午1點）和3D多人合作爬塔遊戲《IQ Under Construction》（期限至6月2日上午1點），玩家可在指定期限內免費領取並永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam限時免費：《Dino running from a FURRY: GAMESFORFARM》",
+    "summary": "《Dino running from a FURRY: GAMESFORFARM》於5月16日至5月31日限時免費，現已結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam新品節6月版情報",
+    "summary": "Steam新品節（Steam Next Fest）2026年6月版將於6月15日至6月22日舉行，屆時將有大量新作試玩版供玩家體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/30",
     "title": "Epic Games 限時免費",
     "summary": "星際冒險遊戲《LONESTAR》限時免費：遊戲公司開發的《LONESTAR》正在 Epic Games 平台推出限時免費活動，玩家可於 6 月 4 日 23:00（香港時間）前免費領取。",
@@ -77,6 +101,14 @@
     "title": "Steam多款遊戲即將發行或推出Demo",
     "summary": "包括心理恐怖遊戲《破碎怪談：惡意關注》、休閒節奏遊戲《跳舞的線》、動作遊戲《Where the forest ends》等多款作品於5月底至6月初在Steam平台推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/05/30",
+    "title": "B站VTuber異環遭指控嚴重抄襲外觀形象",
+    "summary": "中國B站VTuber異環被指控嚴重抄襲另一位VTuber的外觀形象，引發社群討論。  *(Note: Could not find a specific public image URL in search results for 異環. Placeholder used.)*",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -180,6 +212,14 @@
     "date": "2026/05/29",
     "title": "Steam 限時免費遊戲更新：Drift86",
     "summary": "《Drift86》（漂移86）自 5 月 29 日起至 6 月 4 日在 Steam 平台限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam限時免費：《Bunny Guys!》",
+    "summary": "《Bunny Guys!》於5月23日至5月30日限時免費，現已結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -360,46 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "VTUBER",
-    "date": "2026/05/28",
-    "title": "Hololive角色侵權訴訟案美國法院舉行聽證會",
-    "summary": "關於針對Hololive旗下20個角色、68部侵權影片提起的美國訴訟案，於2026年5月28日在美國加州北部地區聯邦地方法院舉行聽證會，案件目前持續進行中，並有延期至2026年11月的申請。",
-    "avatar_url": "https://i.imgur.com/XF9r4uF.png",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store公布2026年5月限時免費與折扣遊戲",
-    "summary": "Epic Games Store持續提供2026年每日限時免費或折扣遊戲，鼓勵玩家把握時間下載或購買，以免錯過優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Steam 限時免費：《Drift86》",
-    "summary": "獨立開發者 RewindApp 製作的街機風格漂移競速遊戲《Drift86》正在 Steam 展開限時免費活動，期限截至 2026/06/04 止，玩家可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Steam 週末特惠：《上古卷軸》與《勇者鬥惡龍》系列",
-    "summary": "Steam 週末特惠，《The Elder Scrolls》系列作品最高可省 75%，Square Enix《勇者鬥惡龍》系列 40 週年慶特賣，優惠截止至 2026/06/01 上午 10:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store 五月神秘免費遊戲揭曉",
-    "summary": "Epic Games Store 公布了 2026 年 5 月份最後兩款神秘免費遊戲，為兩款廣受好評的獨立遊戲《Calico》和《Lonestar》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -514,6 +514,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/30",
+    "title": "Reddit用戶預言：911事件25週年將發生糟糕事件",
+    "summary": "Reddit討論區有用戶預測，在911事件25週年（2026年）的時候會發生一些糟糕的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/11",
+    "expiry_date": "2026/09/12"
   },
   {
     "category": "PROPHECY",
