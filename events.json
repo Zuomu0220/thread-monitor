@@ -9,6 +9,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam PC遊戲新品上市：《破碎怪談：惡意關注》",
+    "summary": "Serafini Productions開發的動作遊戲《破碎怪談：惡意關注》於 2026 年 6 月 1 日在 PC 平台發售，本作是「破碎怪談」系列的第二部作品，玩家將在一個地獄般的恐怖世界中掙扎求生，到處潛藏著秘密與危險。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam PC遊戲新品上市：《星際探尋者：異星旅人遠征》",
+    "summary": "於 2026 年 6 月 1 日在 PC 平台發售的《星際探尋者：異星旅人遠征》是一款聚焦於星際探索、協作探險和情誼培養的動作遊戲。玩家將乘坐 ESS 尋星號探索浩瀚太空，並與空間站成員合作完成行星任務。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -380,22 +396,6 @@
     "date": "2026/05/28",
     "title": "Epic Games Store 5月神秘免費遊戲活動持續，新一批遊戲可領取至6月4日",
     "summary": "Epic Games Store 5月的神秘免費遊戲活動持續進行，目前開放領取的遊戲可持續至6月4日。儘管本週的遊戲可能不如前幾週知名，但仍是兩款獨立遊戲佳作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store 限時免費遊戲更新",
-    "summary": "Epic Games Store 目前正提供《Calico》與《LONESTAR》供玩家限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Steam 限時免費領取《Drift86》",
-    "summary": "Steam 商店現正提供《Drift86》供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
