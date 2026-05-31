@@ -225,6 +225,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Epic Games Store揭曉5月最後兩款神秘免費遊戲",
+    "summary": "Epic Games Store在2026年5月結束前，揭曉了本月最後兩款神秘免費遊戲，為兩款獨立遊戲佳作《Calico》和《Lonestar》。這兩款遊戲在Steam上都擁有超過85%的好評，零售價合計為24.98美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam每日限時免費遊戲更新",
+    "summary": "2026年Steam每日限時免費遊戲持續更新，其中包括《Bunny Guys!》和《BROTHER!!! Save him!》等作品。玩家需在活動期間內及時下載或購買，以免錯過。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/28",
     "title": "新遊戲發售：未知作品 (Snake Tower Games/Twin Sails Interactive 發行)",
     "summary": "由 Snake Tower Games 開發並由 Twin Sails Interactive 發行的策略遊戲於 2026 年 5 月 28 日發售。這是一款卡組構築型肉鴿遊戲，玩家可以體驗沒有能量或行動點限制的出牌方式，每張卡牌化作獨特形狀、關鍵字與效果的魔印，使每場戰鬥都成為戰術優化挑戰。",
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store 本週免費遊戲：《Calico》與《LONESTAR》",
-    "summary": "Epic Games Store於2026年5月28日台灣時間下午4點起，提供《Calico》和《LONESTAR》兩款遊戲限時免費領取，活動將持續至2026年6月4日台灣時間下午4點。 《Calico》是一款休閒社區模擬遊戲，玩家將重建一個貓咪咖啡館並讓其充滿可愛的毛茸茸生物。 《LONESTAR》則是一款策略Roguelike太空飛船牌組構築遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store限時免費領取遊戲《異塵餘生：新維加斯》",
-    "summary": "Epic Games Store於5月28日開放限時免費領取知名RPG遊戲《異塵餘生：新維加斯》終極版，玩家可在指定時間內免費將遊戲加入收藏庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/26",
     "title": "來自 2582 年的時空旅人警告 2026 年地球黑暗期",
@@ -493,6 +493,15 @@
     "date": "2026/05/16",
     "title": "2582年未來人預言地球將陷入三天黑暗",
     "summary": "一名自稱來自2582年的TikTok用戶預言，地球將於2026年6月6日世界標準時間午夜（UTC）起，經歷為期三天的全面停電。他警告人們不要觀看來自空中金字塔的奇怪光線，且不要開啟任何人工光源，僅能使用蠟燭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "時空旅人預言2026年6月6日「黑暗三日」來臨",
+    "summary": "一名自稱來自2582年的TikTok用戶預言，地球將從2026年6月6日世界標準時間0時0分起，陷入為期三天的黑暗期。期間應避免外出，不要仰望天空的光芒，不要使用蠟燭以外的人造光源，且不要看見「他們」。部分社群討論此預言引發恐慌，甚至傳聞警方將進行秘密應對。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
