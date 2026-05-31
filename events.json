@@ -49,6 +49,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam 限時免費領取《IQ施工中》",
+    "summary": "多人合作解謎遊戲《IQ施工中》（IQ Under Construction）即日起至 6 月 2 日在 Steam 平台提供限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam 限時免費領取《月升之隕》",
+    "summary": "像素解謎冒險遊戲《Moonrise Fall》即日起至 6 月 3 日在 Steam 平台提供限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/30",
     "title": "Epic Games 限時免費",
     "summary": "星際冒險遊戲《LONESTAR》限時免費：遊戲公司開發的《LONESTAR》正在 Epic Games 平台推出限時免費活動，玩家可於 6 月 4 日 23:00（香港時間）前免費領取。",
@@ -124,6 +140,14 @@
     "date": "2026/05/30",
     "title": "2026 年 6 月新獨立遊戲預告",
     "summary": "YouTube 頻道「Indie Games Hub」發布了 2026 年 6 月即將發售的十大新獨立遊戲預告，包含《SpaceCraft》、《Dark Scrolls》等，部分遊戲如《Dark Scrolls》預計在 6 月 22 日發售，而《Hell Let Loose: Vietnam》則在 6 月 18 日發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Epic Games Store 2026 大特賣持續進行",
+    "summary": "Epic Games Store 於 5 月 15 日開啟的年度大特賣活動持續進行中，將一路至 6 月 11 日結束，期間包含《電馭叛客2077》等多款大作享有大幅折扣優惠。此外，Epic Games Store 也提供 Discord Nitro、Divers 超級禮包及「無限暖暖」限時優惠禮包等免費內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -313,6 +337,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Tensei Games 發行商特賣結束",
+    "summary": "Tensei Games 發行商特賣活動於 5 月 29 日結束，期間旗下多款遊戲享高達五折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam 限時免費領取《漂移86》",
+    "summary": "像素風格的漂移競速遊戲《Drift86》即日起至 6 月 4 日在 Steam 平台提供限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/28",
     "title": "新遊戲發售：未知作品 (Snake Tower Games/Twin Sails Interactive 發行)",
     "summary": "由 Snake Tower Games 開發並由 Twin Sails Interactive 發行的策略遊戲於 2026 年 5 月 28 日發售。這是一款卡組構築型肉鴿遊戲，玩家可以體驗沒有能量或行動點限制的出牌方式，每張卡牌化作獨特形狀、關鍵字與效果的魔印，使每場戰鬥都成為戰術優化挑戰。",
@@ -356,46 +396,6 @@
     "date": "2026/05/28",
     "title": "Steam 限時免費領取《Drift86》",
     "summary": "Steam 商店現正提供《Drift86》供玩家限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "放視大賞 Vision Get Wild 2026 獨立遊戲展區",
-    "summary": "台灣獨立遊戲團隊將在高雄的 Vision Get Wild 2026 登場，活動時間為 5 月 28 日至 5 月 30 日，展示台灣最熱門的獨立遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store 限時免費《Calico》與《Lonestar》",
-    "summary": "Epic Games Store 於本週推出《Calico》與《Lonestar》兩款遊戲供玩家限時免費領取，活動持續至2026年6月4日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Vision Get Wild 2026 台灣獨立遊戲展於高雄登場",
-    "summary": "台灣獨立遊戲界盛事「Vision Get Wild 2026」於高雄舉行，展出多款備受矚目的獨立遊戲新作，提供玩家體驗與開發者交流的機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "AG French Direct遊戲發布會",
-    "summary": "線上法國遊戲發布會AG French Direct於5月28日舉辦，帶來超過40款法國及法語地區遊戲的新消息，包括世界首曝、全新預告、實機演示、開發幕後內容，以及30多款可直接上手試玩的Demo。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Steam獨立遊戲 Demo 釋出",
-    "summary": "《我是洞洞王》（Hole Is Mine）Demo 上線：由西班牙獨立遊戲工作室 Incrementalist 開發的新作《我是洞洞王》將參與 Steam 6 月新品節，遊戲免費試玩 Demo 已於 Steam 平台開放下載。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -583,6 +583,15 @@
     "date": "2026/05/20",
     "title": "2058年未來人國分玲預告2026年9月26日再次歸來",
     "summary": "關於自稱來自2058年的日本未來人國分玲，有報導指出她曾預告將於2026年9月26日再次現身網路社群，預計將發布新的預言或更新資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058年未來人國分玲預言 2026 年是全球轉折點",
+    "summary": "自稱來自 2058 年的國分玲再次成為焦點，他預言 2026 年將是日本及全球的重大轉折點。他還預計 2028 年全球將爆發新一輪金融危機，導火索為美國國債違約，導致美元全球結算體系出現根本性動搖。國分玲曾表示將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
