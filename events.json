@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam 本週五款免費遊戲：《戰車世界：熱力》、《FISH³: First Catch》、《Unanswered》、《TBH: Task Bar Hero》、《Thunder Tier One》",
+    "summary": "本週 Steam 平台開放了五款 PC 遊戲供玩家免費下載，包含坦克射擊遊戲《戰車世界：熱力 (World of Tanks: HEAT)》、超現實釣魚冒險《FISH³: First Catch》、心理恐怖遊戲《Unanswered》、閒置 RPG《TBH: Task Bar Hero》以及戰術射擊遊戲《Thunder Tier One》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -369,33 +377,25 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam Tensei Games 發行商特賣",
+    "summary": "Tensei Games 發行商在 Steam 平台進行特賣活動，多款遊戲提供高達 50% 的折扣，活動期間為 2026 年 5 月 15 日至 5 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/29",
+    "title": "Steam 限免遊戲：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 近期推出限時免費遊戲，玩家可免費領取《Bunny Guys!》和《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/28",
     "title": "新遊戲發售：未知作品 (Snake Tower Games/Twin Sails Interactive 發行)",
     "summary": "由 Snake Tower Games 開發並由 Twin Sails Interactive 發行的策略遊戲於 2026 年 5 月 28 日發售。這是一款卡組構築型肉鴿遊戲，玩家可以體驗沒有能量或行動點限制的出牌方式，每張卡牌化作獨特形狀、關鍵字與效果的魔印，使每場戰鬥都成為戰術優化挑戰。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Vision Get Wild 2026 獨立遊戲展",
-    "summary": "台灣最熱門的獨立遊戲將於 5 月 28 日至 30 日在高雄 Vision Get Wild 2026 展出，提供玩家探索新世界、結識創作者並將喜愛遊戲加入願望清單的機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/05/28",
-    "title": "日本VTuber傳出因收益過億引發炎上",
-    "summary": "近日有報導指出，一名日本VTuber因其高達一億日圓的收益金額在社群上引發了「炎上」爭議，但詳細內容與該VTuber身分目前未公開。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/28",
-    "title": "Epic Games Store 5月神秘免費遊戲活動持續，新一批遊戲可領取至6月4日",
-    "summary": "Epic Games Store 5月的神秘免費遊戲活動持續進行，目前開放領取的遊戲可持續至6月4日。儘管本週的遊戲可能不如前幾週知名，但仍是兩款獨立遊戲佳作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -592,6 +592,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言 2026 年是全球轉折點",
     "summary": "自稱來自 2058 年的國分玲再次成為焦點，他預言 2026 年將是日本及全球的重大轉折點。他還預計 2028 年全球將爆發新一輪金融危機，導火索為美國國債違約，導致美元全球結算體系出現根本性動搖。國分玲曾表示將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/31",
+    "title": "來自2058年的未來人國分玲預言2026至2035年間的五大浩劫",
+    "summary": "日本自稱來自2058年的未來人「國分玲」，在精準預言多項事件後於 2021 年銷聲匿跡，但近日有消息指出，其「絕密草稿」從日本技術論壇的伺服器快取中被「扒出」。該草稿揭示了 2026 年至 2035 年人類將面臨的五大事件，其中包括俄烏戰爭的真正走向、傳播力翻三倍的新型病毒爆發、黃石超級火山的異動，以及在科技與金融領域的重大變革（如 AI 換臉技術濫用與加密貨幣市場動盪）。國分玲預計將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
