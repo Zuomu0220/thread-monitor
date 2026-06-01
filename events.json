@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam Next Fest 2026 六月版即將登場",
+    "summary": "Steam Next Fest 2026 年六月版將於太平洋時間 6 月 15 日上午 10:00 至 6 月 22 日上午 10:00 舉行。此活動將提供數百款遊戲的免費試玩版、開發者直播和聊天，讓玩家在遊戲發布前體驗新遊戲，同時也幫助開發者收集回饋並建立社群。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/01",
     "title": "查無近期負面與爭議事件",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam 週末特惠",
-    "summary": "多款遊戲進行週末特惠，包括《The Elder Scrolls》系列作品最高七五折優惠（至 6 月 1 日上午 10:00 截止）、《SCUM》六折優惠（至 6 月 11 日上午 10:00 截止），以及《Stray》五折優惠（至 6 月 3 日上午 10:00 截止）等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/31",
     "title": "Reddit未來人預言Summer Game Fest與Battlefield 7",
@@ -619,6 +619,15 @@
     "date": "2026/05/31",
     "title": "2058年未來人「國分玲」警告",
     "summary": "自稱來自2058年的日本「未來人」國分玲再次被提及，表示2026年是日本及全球的重大轉折點，並預告她將於2026年9月26日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/31",
+    "title": "日本神秘「未來人」關於 2026 年的五大預言",
+    "summary": "一位自稱來自 2058 年的日本女孩，曾在其社群媒體上留下訊息，表示將於 2026 年 9 月 26 日再次回到這個時空節點。她留下了五大預言，其中包含對 2026 年的警告。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
