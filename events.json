@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 新增免費遊戲《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam平台於近日新增《Bunny Guys!》和《BROTHER!!! Save him!》兩款限時免費遊戲，玩家可趁機下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -125,6 +133,14 @@
     "title": "直播主遭控介入婚姻並提告恐嚇妨害名譽",
     "summary": "一名直播主被指控介入他人婚姻，隨後該直播主對元配提告恐嚇妨害名譽。法院判決結果出人意料。 \\",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam 限時免費遊戲《IQ Under Construction》與《Moonrise Fall》",
+    "summary": "Steam提供兩款遊戲《IQ Under Construction》（限時至6月1日）與《Moonrise Fall》（限時至6月2日）供玩家免費領取並永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -220,6 +236,14 @@
     "date": "2026/05/30",
     "title": "Steam 本週五款免費遊戲：《戰車世界：熱力》、《FISH³: First Catch》、《Unanswered》、《TBH: Task Bar Hero》、《Thunder Tier One》",
     "summary": "本週 Steam 平台開放了五款 PC 遊戲供玩家免費下載，包含坦克射擊遊戲《戰車世界：熱力 (World of Tanks: HEAT)》、超現實釣魚冒險《FISH³: First Catch》、心理恐怖遊戲《Unanswered》、閒置 RPG《TBH: Task Bar Hero》以及戰術射擊遊戲《Thunder Tier One》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam GrabTheGames 六月特賣",
+    "summary": "Steam平台舉辦GrabTheGames六月特賣，多款遊戲提供折扣，包括《雨中冒險2》及其擴充內容與《Risk of Rain Returns》系列作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -372,30 +396,6 @@
     "date": "2026/05/29",
     "title": "敘事冒險新作《男孩與鹿》第一章試玩版開放下載",
     "summary": "法國遊戲工作室 LifeLine Games 的敘事冒險新作《男孩與鹿》（The Boy and the Deer）預定 6 月發售，目前第一章試玩版已開放下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam 策略類遊戲特價",
-    "summary": "Steam 策略類遊戲折扣區低至 5 折。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "台灣獨立遊戲《大尾松鼠》Steam 發售",
-    "summary": "由台灣一人獨立團隊「熊戲胞（BearCell Games）」開發的新作《大尾松鼠》於今日在 Steam 平台發售，是一款結合角色扮演與點擊式解謎的奇幻手繪風遊戲，並已開放免費試玩 Demo。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Epic Games 限時免費：《孤星獵人》、《Calico》",
-    "summary": "Epic Games 持續進行的「神秘遊戲」限免活動，本週開放領取回合制策略遊戲《孤星獵人》（LONESTAR）以及擼貓生活模擬遊戲《Calico》。玩家可在 6 月 4 日晚上 23 點前登入領取並永久保存遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
