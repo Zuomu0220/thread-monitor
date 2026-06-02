@@ -81,6 +81,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 免費遊戲《Moonrise Fall》",
+    "summary": "Steam 平台推出限時免費遊戲《Moonrise Fall》，玩家可在 2026 年 6 月 2 日下午 6 點（UTC 時間）前領取並永久保留此款 атмосферная探索解謎遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 新品試玩版上線",
+    "summary": "Steam 公布上週（5 月 25 日至 5 月 31 日）評價最高的 PC 遊戲試玩版，其中包括《Up-Beat!! Demo》（體育類，2026 年 5 月 29 日發布）和《Normal Golf Game Demo》（高爾夫遊戲）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 特價活動與展覽",
+    "summary": "Steam 上線「The Hooded Horse 2026 五月特賣」與「建造模擬器系列特賣」，後者將持續至 6 月 10 日。此外，一場名為「Midsummer Night's Scream: A Horror Game Awards Showcase」的恐怖遊戲獎項展示活動於 2026 年 6 月 1 日線上直播。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -372,30 +396,6 @@
     "date": "2026/05/29",
     "title": "Steam 限時免費遊戲更新：Drift86",
     "summary": "《Drift86》（漂移86）自 5 月 29 日起至 6 月 4 日在 Steam 平台限時免費。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam限時免費：《Bunny Guys!》",
-    "summary": "《Bunny Guys!》於5月23日至5月30日限時免費，現已結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Epic Games Store揭曉5月最後兩款神秘免費遊戲",
-    "summary": "Epic Games Store在2026年5月結束前，揭曉了本月最後兩款神秘免費遊戲，為兩款獨立遊戲佳作《Calico》和《Lonestar》。這兩款遊戲在Steam上都擁有超過85%的好評，零售價合計為24.98美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam每日限時免費遊戲更新",
-    "summary": "2026年Steam每日限時免費遊戲持續更新，其中包括《Bunny Guys!》和《BROTHER!!! Save him!》等作品。玩家需在活動期間內及時下載或購買，以免錯過。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
