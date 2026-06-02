@@ -17,6 +17,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/06/02",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/05/26 至 2026/06/02 期間，Google Search 未搜捕到台灣/華語圈實況主或相關經紀公司發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/01",
     "title": "查無近期負面與爭議事件",
     "summary": "在 2026/05/25 至 2026/06/01 期間，未搜尋到台灣/華語圈實況主與 VTuber 相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件資訊。",
@@ -140,6 +148,14 @@
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲《IQ Under Construction》與《Moonrise Fall》",
     "summary": "Steam提供兩款遊戲《IQ Under Construction》（限時至6月1日）與《Moonrise Fall》（限時至6月2日）供玩家免費領取並永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/05/31",
+    "title": "Steam 限時免費領取《IQ Under Construction》與《Moonrise Fall》",
+    "summary": "Steam 平台宣布，《IQ Under Construction》即日起限時免費領取至 6 月 1 日下午 1 時，《Moonrise Fall》則限時免費領取至 6 月 2 日下午 1 時，兩款遊戲一旦領取即可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam 獨立遊戲《我是洞洞王》Demo 上線",
-    "summary": "獨立遊戲發行商 SpaceJazz Games 宣布，西班牙獨立遊戲工作室 Incrementalist 開發的新作《我是洞洞王》（Hole Is Mine）將參與 Steam 6 月新品節，遊戲免費試玩版已上線。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "敘事冒險新作《男孩與鹿》第一章試玩版開放下載",
-    "summary": "法國遊戲工作室 LifeLine Games 的敘事冒險新作《男孩與鹿》（The Boy and the Deer）預定 6 月發售，目前第一章試玩版已開放下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/31",
     "title": "Reddit未來人預言Summer Game Fest與Battlefield 7",
@@ -520,6 +520,24 @@
     "date": "2026/04/26",
     "title": "2582 年未來人預言 2026 年「三日之闇」",
     "summary": "一位自稱來自 2582 年的 TikTok 用戶預言，地球將在 2026 年 6 月 6 日 UTC 時間 0 點開始進入連續三天的黑暗。他警告期間不要直視天空中的金字塔發出的光，也不要使用蠟燭以外的人造光源，需做好準備並待在室內。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "來自 2582 年的 TikTok 時間旅行者警告 2026 年 6 月 6 日全球將有三天黑暗",
+    "summary": "一名自稱來自 2582 年的 TikTok 時間旅行者發布影片警告，預言地球將在 2026 年 6 月 6 日 00:00 UTC 開始進入三天黑暗。他告誡人們不要看向「金字塔發出的光芒」，除了蠟燭外不要使用任何人造光源，並需準備好在家中緊閉門窗。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/24",
+    "title": "來自 2582 年的日本時間旅行者警告 6 月 6 日「三天黑暗」",
+    "summary": "日本網路社群 Reddit 及 TikTok 廣傳一位自稱來自 2582 年的時間旅行者所發出的警告，聲稱 2026 年 6 月 6 日凌晨 0 時世界將陷入三天黑暗，所有光線消失，且屋外將充斥非人類生物。警告民眾必須密封住家，無論發生什麼事都不能向外看。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
