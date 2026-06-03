@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/06/03",
+    "title": "無重大負面與爭議事件報導",
+    "summary": "在 2026/05/27 至 2026/06/03 期間，Google Search 於 Threads、社群論壇、PTT、Dcard、X/Twitter 及各大遊戲動漫新聞網上，未發現台灣/華語圈知名或中小型實況主、個人勢 VTuber 及相關經紀公司有明確且廣泛報導的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/06/02",
     "title": "VTuber總長KSON與犀牛盾推出聯名手機殼抽獎活動",
@@ -100,6 +108,14 @@
     "date": "2026/06/01",
     "title": "Steam 特價活動與展覽",
     "summary": "Steam 上線「The Hooded Horse 2026 五月特賣」與「建造模擬器系列特賣」，後者將持續至 6 月 10 日。此外，一場名為「Midsummer Night's Scream: A Horror Game Awards Showcase」的恐怖遊戲獎項展示活動於 2026 年 6 月 1 日線上直播。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 新品 Demo 釋出：《Demon Bluff》、《Up-Beat!!》、《Normal Golf Game》等",
+    "summary": "Steam 在 2026 年 5 月 25 日至 5 月 31 日期間釋出了多款高評價的 PC 遊戲 Demo，包括《Demon Bluff》、《Up-Beat!!》和《Normal Golf Game》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -297,6 +313,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/05/30",
+    "title": "Steam 免費遊戲推薦：World of Tanks: HEAT 等",
+    "summary": "YouTube 頻道「KAZ MMORPG」於 2026 年 5 月 30 日推薦了 5 款可在 Steam 下載的免費 PC 遊戲，包括英雄射擊遊戲《World of Tanks: HEAT》、超現實釣魚冒險遊戲《FISH³: First Catch》、心理恐怖遊戲《Unanswered》、放置型 RPG《TBH: Task Bar Hero》以及戰術射擊遊戲《Thunder Tier One》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/29",
     "title": "Steam 推出六款免費遊戲永久保留",
     "summary": "Steam平台本週新增六款可永久免費保留的遊戲，包含《With It We Leave》、《Grid of Change》、《Move, Move, Melon!!》和《Wrispell》等。",
@@ -372,30 +396,6 @@
     "date": "2026/05/29",
     "title": "Epic Games 限時免費：《Calico》與《孤星獵人》",
     "summary": "Epic Games Store 本週推出《Calico》（貓咪咖啡廳模擬經營）與《孤星獵人》（LONESTAR，Roguelike 飛船對戰）限時免費活動，玩家可於台灣時間 2026/06/04 晚上 11:00 前永久領取入庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/29",
-    "title": "國外81歲遊戲實況主「GrammaCrackers」直播遭惡意假報警",
-    "summary": "81歲的《Minecraft》實況主GrammaCrackers在24小時不間斷直播期間，家中突然被大批持槍警員衝入搜索，起因是有人惡意發起「SWATing」（惡作劇假報警）。GrammaCrackers的YouTube頻道擁有超過61萬訂閱者，她也曾為罹患癌症的孫子Jack Self籌款。",
-    "avatar_url": "https://i.ytimg.com/vi/bO8allXg7qg/hqdefault.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Epic Games Store公布2026年5月最後兩款神秘免費遊戲",
-    "summary": "Epic Games Store本月最後兩款神秘免費遊戲為獨立遊戲《Calico》和《Lonestar》，兩款遊戲在Steam上都有超過85%的玩家好評，原價共計24.98美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/29",
-    "title": "Steam 限時免費遊戲更新：Drift86",
-    "summary": "《Drift86》（漂移86）自 5 月 29 日起至 6 月 4 日在 Steam 平台限時免費。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -538,6 +538,15 @@
     "date": "2026/02/24",
     "title": "來自 2582 年的日本時間旅行者警告 6 月 6 日「三天黑暗」",
     "summary": "日本網路社群 Reddit 及 TikTok 廣傳一位自稱來自 2582 年的時間旅行者所發出的警告，聲稱 2026 年 6 月 6 日凌晨 0 時世界將陷入三天黑暗，所有光線消失，且屋外將充斥非人類生物。警告民眾必須密封住家，無論發生什麼事都不能向外看。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "TikTok 未來人預言 2026 年 6 月 6 日「三天黑暗」",
+    "summary": "一位自稱來自 2582 年的 TikTok 用戶預測，地球將在 2026 年 6 月 6 日世界協調時間 (UTC) 0 點開始進入「三天黑暗」，並警告屆時不要注視天空中的「來自金字塔的光」，且除了蠟燭外，不要使用任何人造光源。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
