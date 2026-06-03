@@ -281,6 +281,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam Next Fest 2026 年 6 月版活動宣布",
+    "summary": "Steam Next Fest 2026 年 6 月版即將舉行，這是一個展示即將推出遊戲的盛會，將包含大量遊戲試玩版和直播活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam Day of the Devs: Summer Games Fest 2026 遊戲折扣活動",
+    "summary": "Steam 於 6 月 1 日起舉行 Day of the Devs: Summer Games Fest 2026 活動，提供遊戲折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -382,22 +398,6 @@
     "summary": "像素風格自然探索解謎冒險遊戲《Moonrise Fall》在Steam平台限時免費，期限至2026年6月3日上午1:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/30",
-    "title": "Epic Games 限時免費",
-    "summary": "星際冒險遊戲《LONESTAR》限時免費：遊戲公司開發的《LONESTAR》正在 Epic Games 平台推出限時免費活動，玩家可於 6 月 4 日 23:00（香港時間）前免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/30",
-    "title": "查無近期事件",
-    "summary": "2026/05/23 至 2026/05/30 期間，未搜尋到台灣/華語圈實況主的相關負面與爭議事件資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
