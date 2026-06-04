@@ -104,6 +104,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/03",
+    "title": "2026 年 6 月獨立遊戲精選",
+    "summary": "Xbox Wire 編輯 Will Fulton 推薦了多款 6 月份值得關注的獨立遊戲，風格從舒適朋克唱片店到太空生存恐怖，陣容豪華。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "VTUBER",
     "date": "2026/06/02",
     "title": "VTuber總長KSON與犀牛盾推出聯名手機殼抽獎活動",
@@ -188,6 +196,14 @@
     "date": "2026/06/02",
     "title": "Steam 限時免費：《Winexy》、《Tell Me Why》與《Gravity Circuit》",
     "summary": "Steam 商店於 2026 年 6 月 2 日提供 3D 滾球遊戲《Winexy》、劇情冒險遊戲《Tell Me Why》以及橫卷動作遊戲《Gravity Circuit》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "港式風格 RPG《繁榮之書》Demo 釋出",
+    "summary": "由獨立開發者 SingKeys 製作的 2D 動作 RPG《繁榮之書 (The Book of Prosperity)》在 Steam 上發布了首個免費試玩版，遊戲充滿香港氛圍。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -361,6 +377,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 獨立遊戲試玩版大量釋出",
+    "summary": "多款獨立遊戲於 Steam 平台釋出試玩版，包含《The Doorframe》、《Loop Miner》、《Outta Space》等，部分為迎接 Steam Next Fest 而提前推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -372,30 +396,6 @@
     "date": "2026/05/31",
     "title": "Steam 兩款遊戲限時免費",
     "summary": "Steam 平台提供《IQ Under Construction》和《Moonrise Fall》兩款遊戲限時免費領取。 《IQ Under Construction》是一款合作平台遊戲，免費至 6 月 1 日下午 1 點。 《Moonrise Fall》是一款解謎遊戲，免費至 6 月 2 日下午 1 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam限時免費：《Moonrise Fall》與《IQ Under Construction》",
-    "summary": "Steam平台推出兩款獨立遊戲限時免費活動，分別是像素風解謎冒險遊戲《Moonrise Fall》（期限至6月3日上午1點）和3D多人合作爬塔遊戲《IQ Under Construction》（期限至6月2日上午1點），玩家可在指定期限內免費領取並永久保存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam限時免費：《Dino running from a FURRY: GAMESFORFARM》",
-    "summary": "《Dino running from a FURRY: GAMESFORFARM》於5月16日至5月31日限時免費，現已結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam新品節6月版情報",
-    "summary": "Steam新品節（Steam Next Fest）2026年6月版將於6月15日至6月22日舉行，屆時將有大量新作試玩版供玩家體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -556,6 +556,15 @@
     "date": "2026/04/26",
     "title": "TikTok未來人 @timetraveler2582 警告",
     "summary": "地球將於 2026 年 6 月 6 日 00:00 UTC 進入三天黑暗。期間不可直視天空中的金字塔發出的光芒，也不可使用人造光源，只能使用蠟燭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/04",
+    "title": "自稱 2582 年時空旅行者警告：2026 年 6 月 6 日地球將進入三天黑暗",
+    "summary": "一名自稱來自 2582 年的 TikTok 用戶警告，地球將於 2026 年 6 月 6 日世界標準時間 00:00 進入為期三天的完全黑暗。他呼籲人們避免看向來自金字塔的光芒，並只使用蠟燭照明。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
