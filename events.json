@@ -32,6 +32,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 知名大作《Marathon》限時免費試玩",
+    "summary": "Steam 於 2026 年 6 月 4 日宣布，2026 年的熱門大作《Marathon》將限時免費開放遊玩，活動截止至 6 月 9 日上午 10 點（美東時間）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 新品試玩版釋出：《Age After Age Demo》等多款遊戲",
+    "summary": "Steam 於 2026 年 6 月 4 日釋出多款遊戲新品試玩版，包括策略城市建造模擬遊戲《Age After Age Demo》、策略增量遊戲《Incremental Stand Demo》以及清潔模擬遊戲《S.A.N.D.Y. - Beach Cleaner Demo》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -208,6 +224,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 限時免費：《Bunny Guys!》、《BROTHER!!! Save him!》",
+    "summary": "Steam 於 2026 年 6 月 2 日更新限時免費遊戲，玩家可領取《Bunny Guys!》及《BROTHER!!! Save him!》兩款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/01",
     "title": "查無近期負面與爭議事件",
@@ -374,30 +398,6 @@
     "summary": "Steam 平台於 2026 年 5 月 27 日釋出《Demon Bluff》的試玩版，這是一款休閒獨立策略卡牌 Roguelike 遊戲，獲得 92% 的好評。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam 獨立遊戲試玩版大量釋出",
-    "summary": "多款獨立遊戲於 Steam 平台釋出試玩版，包含《The Doorframe》、《Loop Miner》、《Outta Space》等，部分為迎接 Steam Next Fest 而提前推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
-    "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 兩款遊戲限時免費",
-    "summary": "Steam 平台提供《IQ Under Construction》和《Moonrise Fall》兩款遊戲限時免費領取。 《IQ Under Construction》是一款合作平台遊戲，免費至 6 月 1 日下午 1 點。 《Moonrise Fall》是一款解謎遊戲，免費至 6 月 2 日下午 1 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -586,6 +586,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "靈媒帕克預言2026年4月15日至11月15日為自然災害危險期",
+    "summary": "靈媒帕克表示，2026年4月15日至11月15日是自然災害的極度危險週期，特別點在於8月12日的新月之夜，木星、太陽與月亮將聚集在巨蟹座，為重要的觸發點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
   },
   {
     "category": "PROPHECY",
