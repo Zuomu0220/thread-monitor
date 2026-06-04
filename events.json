@@ -48,6 +48,30 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "Epic Games Store 宣布 6 月 4 日至 6 月 11 日期間提供兩款免費遊戲，分別為海盜戰術回合制肉鴿遊戲《Rogue Waters》，以及一款回合制策略冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Humble 2K Sports Champions Bundle 推出",
+    "summary": "Humble Bundle 推出 2K Sports Champions 組合包，包含 4 款遊戲，售價 26.25 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Humble IGN Live Bundle 2026 推出",
+    "summary": "Humble Bundle 推出 IGN Live Bundle 2026 組合包，包含 9 款遊戲，售價 10.5 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -240,6 +264,54 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 限時免費遊戲《Winexy》",
+    "summary": "Steam 平台近期新增 3D 滾球遊戲《Winexy》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 限時免費遊戲《謂何》",
+    "summary": "Steam 劇情冒險遊戲《謂何 (Tell Me Why)》提供限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 限時免費遊戲《Gravity Circuit》",
+    "summary": "Steam 橫向捲軸動作遊戲《Gravity Circuit》推出限時免費活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 免費遊戲《Bunny Guys!》",
+    "summary": "Steam 平台新增免費遊戲《Bunny Guys!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 免費遊戲《BROTHER!!! Save him!》",
+    "summary": "Steam 平台新增免費遊戲《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Humble Choice 2026 六月包發布",
+    "summary": "Humble Choice 2026 六月包已推出，包含《歧路旅人II》等 8 款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/01",
     "title": "查無近期負面與爭議事件",
@@ -324,78 +396,6 @@
     "date": "2026/06/01",
     "title": "Steam 新品 Demo 釋出：《Demon Bluff》、《Up-Beat!!》、《Normal Golf Game》等",
     "summary": "Steam 在 2026 年 5 月 25 日至 5 月 31 日期間釋出了多款高評價的 PC 遊戲 Demo，包括《Demon Bluff》、《Up-Beat!!》和《Normal Golf Game》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam「仲夏夜尖叫」恐怖遊戲獎項展覽",
-    "summary": "Steam將於2026年6月1日直播「Midsummer Night's Scream: A Horror Game Awards Showcase」，展示恐怖遊戲相關內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam 限時免費遊戲：《Gravity Circuit》",
-    "summary": "橫向卷軸動作遊戲《Gravity Circuit》（重力迴路）在Steam平台限時免費，期限至2026年6月15日上午1:00，領取後可永久保存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam 雙人合作解謎遊戲：《Linebound》限時免費",
-    "summary": "雙人合作塗鴉解謎動作遊戲《Linebound》於Steam平台免費推出，首月限時免費後將轉為付費，現在加入收藏庫可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/01",
-    "title": "手遊與VTuber聯動演唱會疑因「拉普拉斯·達克妮絲」自肥引發炎上",
-    "summary": "YouTube影片指出，手遊與VTuber的聯動演唱會活動，因hololive旗下VTuber「拉普拉斯·達克妮絲」（La+ Darknesss，俗稱山田）的舉動被質疑為「自肥」，引發社群炎上。影片評論表示這種大型聯動應事先安排好，拉普拉斯的行為是單純的自肥，但萬代公司可能不會因此滑跪。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam 限時免費：《Linebound》",
-    "summary": "Steam平台於6月1日限時免費推出雙人合作塗鴉解謎遊戲《Linebound》，活動為期一個月，之後將轉為付費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam 多項遊戲特價活動",
-    "summary": "Steam平台正在進行多項遊戲特價，包括「Construction Simulator」系列（折扣高達70%，至6月10日）及「Gears of War」系列（折扣高達50%）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Summer Game Fest 2026 系列活動開跑",
-    "summary": "2026年夏日遊戲節（Summer Game Fest）系列活動陸續展開。6月1日舉行了「The Mix Summer Game Showcase」，6月2日則有「PlayStation State of Play」展示了《戰神》新作、重製版《雷曼：傳奇》及《金鋼狼》的實機畫面。此外，「Latin American Games Showcase」也預計於6月4日登場。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam Next Fest 2026 年 6 月版活動宣布",
-    "summary": "Steam Next Fest 2026 年 6 月版即將舉行，這是一個展示即將推出遊戲的盛會，將包含大量遊戲試玩版和直播活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/01",
-    "title": "Steam Day of the Devs: Summer Games Fest 2026 遊戲折扣活動",
-    "summary": "Steam 於 6 月 1 日起舉行 Day of the Devs: Summer Games Fest 2026 活動，提供遊戲折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -682,6 +682,15 @@
     "date": "2026/05/31",
     "title": "日本神秘「未來人」關於 2026 年的五大預言",
     "summary": "一位自稱來自 2058 年的日本女孩，曾在其社群媒體上留下訊息，表示將於 2026 年 9 月 26 日再次回到這個時空節點。她留下了五大預言，其中包含對 2026 年的警告。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲的 2026-2030 年重大預言",
+    "summary": "自稱來自 2058 年的未來人國分玲預言 2026 年是日本及全球的重大轉折點，並提到一位「毀了一切的女首相」將帶來糟糕的事。她也預言比特幣價值將飆升至天價，但屆時將「只能賣，不能買」。國分玲預計將於 2026 年 9 月 26 日再次現身網路社群。此外，她也預言 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
