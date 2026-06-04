@@ -49,6 +49,30 @@
   },
   {
     "category": "VTUBER",
+    "date": "2026/06/03",
+    "title": "個人勢女VTuber突然終止活動引發討論",
+    "summary": "一位擁有五位數訂閱的個人勢女性VTuber在突然宣布某項消息後終止了活動，此舉在網路社群中引發了廣泛討論與關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/03",
+    "title": "Epic Games",
+    "summary": "《Shred! 2 - ft Sam Pilgrim》推出：極限單車遊戲《Shred! 2 - ft Sam Pilgrim》已在 Epic Games Store 上推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/03",
+    "title": "Steam",
+    "summary": "限時免費領取《重力迴路》：類洛克人遊戲《重力迴路》Steam 版即日起至 6 月 15 日前限時免費領取，數量有限。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
     "date": "2026/06/02",
     "title": "VTuber總長KSON與犀牛盾推出聯名手機殼抽獎活動",
     "summary": "全球防護配件品牌犀牛盾與人氣VTuber總長KSON合作，推出獨家聯名系列「KSON DREAMY REVEAL」純白誓約–SolidX強化吸震緩衝手機殼，並舉辦抽獎活動。",
@@ -376,30 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費領取《IQ Under Construction》與《Moonrise Fall》",
-    "summary": "Steam 平台宣布，《IQ Under Construction》即日起限時免費領取至 6 月 1 日下午 1 時，《Moonrise Fall》則限時免費領取至 6 月 2 日下午 1 時，兩款遊戲一旦領取即可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam限時免費遊戲《Drift86》",
-    "summary": "Steam平台提供《Drift86》限時免費領取，活動持續至2026年6月3日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費遊戲：《Moonrise Fall》",
-    "summary": "像素風格自然探索解謎冒險遊戲《Moonrise Fall》在Steam平台限時免費，期限至2026年6月3日上午1:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/31",
     "title": "Reddit未來人預言Summer Game Fest與Battlefield 7",
@@ -547,6 +547,15 @@
     "date": "2026/04/26",
     "title": "TikTok 未來人預言 2026 年 6 月 6 日「三天黑暗」",
     "summary": "一位自稱來自 2582 年的 TikTok 用戶預測，地球將在 2026 年 6 月 6 日世界協調時間 (UTC) 0 點開始進入「三天黑暗」，並警告屆時不要注視天空中的「來自金字塔的光」，且除了蠟燭外，不要使用任何人造光源。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/06",
+    "expiry_date": "2026/06/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "TikTok未來人 @timetraveler2582 警告",
+    "summary": "地球將於 2026 年 6 月 6 日 00:00 UTC 進入三天黑暗。期間不可直視天空中的金字塔發出的光芒，也不可使用人造光源，只能使用蠟燭。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/06",
     "expiry_date": "2026/06/07"
