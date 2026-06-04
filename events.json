@@ -1,6 +1,38 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/06/04",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/05/28 至 2026/06/04 期間，未發現有台灣/華語圈實況主發生炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 新品節：DarkBazaar、Spin Tactics、Valkyrie Raid 等多款遊戲試玩版釋出",
+    "summary": "Steam 平台於 2026 年 6 月 4 日釋出多款遊戲的試玩版，包括策略 Roguelike 遊戲《DarkBazaar Demo》、回合制戰術遊戲《Spin Tactics Demo》以及動作角色扮演遊戲《Valkyrie Raid Demo》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 新品節：2026 年 6 月版活動預告",
+    "summary": "Steam 官方宣布「Steam 新品節：2026 年 6 月版」即將登場，活動將包含大量未發行遊戲的試玩版、直播及更多內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 商店提供《Bunny Guys!》與《BROTHER!!! Save him!》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
     "summary": "在 2026/05/27 至 2026/06/03 期間，Google Search 於 Threads、社群論壇、PTT、Dcard、X/Twitter 及各大遊戲動漫新聞網上，未發現台灣/華語圈知名或中小型實況主、個人勢 VTuber 及相關經紀公司有明確且廣泛報導的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件。",
@@ -88,14 +120,6 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/06/02",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/05/26 至 2026/06/02 期間，Google Search 未搜捕到台灣/華語圈實況主或相關經紀公司發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
     "category": "GAME",
     "date": "2026/06/02",
     "title": "Steam限時免費領取《Winexy》、《Tell Me Why》與《Gravity Circuit》",
@@ -156,6 +180,14 @@
     "date": "2026/06/02",
     "title": "Steam 限時免費遊戲：《Bunny Hurling》",
     "summary": "動作遊戲《Bunny Hurling》在Steam平台限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/02",
+    "title": "Steam 限時免費：《Winexy》、《Tell Me Why》與《Gravity Circuit》",
+    "summary": "Steam 商店於 2026 年 6 月 2 日提供 3D 滾球遊戲《Winexy》、劇情冒險遊戲《Tell Me Why》以及橫卷動作遊戲《Gravity Circuit》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -321,6 +353,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/01",
+    "title": "Steam 試玩版釋出：Demon Bluff Demo",
+    "summary": "Steam 平台於 2026 年 5 月 27 日釋出《Demon Bluff》的試玩版，這是一款休閒獨立策略卡牌 Roguelike 遊戲，獲得 92% 的好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/05/31",
     "title": "Steam 限時免費遊戲更新：IQ Under Construction, Moonrise Fall",
     "summary": "《IQ Under Construction》（腦力建設中）自 5 月 31 日起至 6 月 2 日在 Steam 平台限時免費；《Moonrise Fall》（月升之隕）自 5 月 31 日起至 6 月 3 日在 Steam 平台限時免費。",
@@ -356,46 +396,6 @@
     "date": "2026/05/31",
     "title": "Steam新品節6月版情報",
     "summary": "Steam新品節（Steam Next Fest）2026年6月版將於6月15日至6月22日舉行，屆時將有大量新作試玩版供玩家體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費領取《IQ施工中》",
-    "summary": "多人合作解謎遊戲《IQ施工中》（IQ Under Construction）即日起至 6 月 2 日在 Steam 平台提供限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費領取《月升之隕》",
-    "summary": "像素解謎冒險遊戲《Moonrise Fall》即日起至 6 月 3 日在 Steam 平台提供限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費",
-    "summary": "遊戲《IQ Under Construction》限時免費領取，活動至 2026/06/02 01:00 UTC 結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/05/31",
-    "title": "直播主遭控介入婚姻並提告恐嚇妨害名譽",
-    "summary": "一名直播主被指控介入他人婚姻，隨後該直播主對元配提告恐嚇妨害名譽。法院判決結果出人意料。 \\",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/05/31",
-    "title": "Steam 限時免費遊戲《IQ Under Construction》與《Moonrise Fall》",
-    "summary": "Steam提供兩款遊戲《IQ Under Construction》（限時至6月1日）與《Moonrise Fall》（限時至6月2日）供玩家免費領取並永久收藏。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
