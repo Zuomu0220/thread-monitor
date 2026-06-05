@@ -288,6 +288,30 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Bungie 射擊遊戲《Marathon》在 Steam 限時免費遊玩至 6 月 9 日",
+    "summary": "熱門射擊遊戲《Marathon》（馬拉松）目前在 Steam 上開放限時免費遊玩，活動將持續至 6 月 9 日上午 10 點（美東時間）。這款 Bungie 繼《天命》系列之後推出的新作，是一款主打三人小隊、撤離式玩法的射擊遊戲，獲得「極度好評」的評價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "ID@XBOX 獨立遊戲精選 Demo Fest 登場",
+    "summary": "ID@XBOX 獨立遊戲精選 Demo Fest 已於 6 月 4 日啟動，玩家可以在 Xbox Series X|S、Xbox One 以及 PC 上的 Xbox 平台體驗超過 30 款優秀的獨立遊戲 Demo，活動將持續至 6 月 30 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 5 月免費遊戲活動結束",
+    "summary": "Epic Games Store 5 月份的限時免費遊戲領取活動已於 2026 年 6 月 4 日下午 4 點（GMT+8）結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -372,30 +396,6 @@
     "date": "2026/06/03",
     "title": "Steam平台多款遊戲推出週中與今日特惠",
     "summary": "Steam商店於6月3日推出多項遊戲特價活動，包括《The Last Starship》（特惠至6月8日）、《My Little Universe》、《HyperStrange Publisher Sale》、《DON'T SCREAM TOGETHER》及《Q-UP》等遊戲，提供不同程度的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam限免遊戲《Moonrise Fall》PC版免費領取教學：解謎探索超自然森林",
-    "summary": "Steam遊戲商店推出氛圍獨特的探索解謎遊戲《Moonrise Fall》PC版限時免費活動，截止時間為台灣時間2026年6月3日上午1:00前。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "2026年6月獨立遊戲精選：多款風格獨立遊戲資訊公開",
-    "summary": "Xbox及其他遊戲媒體公開了2026年6月份的獨立遊戲精選，涵蓋了從「舒適朋克」唱片店模擬《Wax Heads》到3v3格鬥遊戲《Invincible VS》等多種風格作品，預計將有大量獨立新作在6月發行或推出試玩版，豐富玩家的遊戲庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam 限時免費：《Winexy》",
-    "summary": "Steam 平台推出 3D 滾球解謎闖關遊戲《Winexy》的限時免費活動，領取時間至 2026 年 06 月 06 日凌晨 1 點止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -767,6 +767,15 @@
     "date": "2026/06/02",
     "title": "日本未來人預警全球經濟動盪加劇",
     "summary": "日本 2ch 論壇上，一位自稱來自 2050 年的「時間旅人」發文表示，受地緣政治衝突與極端氣候影響，全球經濟將在今年底前迎來新一波的劇烈動盪，呼籲民眾做好資產配置準備，特別點名能源與糧食價格將大幅波動。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 年穿越者國分玲最新警告：2026 年底全球將爆發全新傳染病",
+    "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）發出最新預警，指出 2026 年底將有一種全新的傳染病肆虐全球，其致死率和傳播速度都極為驚人，並將嚴重損害人體免疫系統。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
