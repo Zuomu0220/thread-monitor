@@ -24,6 +24,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增 4 款免費遊戲開放永久收藏",
+    "summary": "Steam 平台新增 4 款可免費下載的遊戲，玩家只需加入帳戶即可永久保留。這些作品包括找物遊戲《Hidden Objects - Items Find》、解謎遊戲《INKOCHET: Paint The Walls With Your Arrows!》、Roguelike 卡牌遊戲《Recall Rogue》（搶先體驗版）以及開放世界動物收集平台遊戲《SpellCatcher》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -196,6 +204,14 @@
     "date": "2026/06/04",
     "title": "Epic Games Store 免費遊戲《Songs of Conquest》與《Rogue Waters》",
     "summary": "Epic Games Store 本週限時免費贈送策略RPG《Songs of Conquest》（征服之歌）以及 Roguelite 海盜戰術遊戲《Rogue Waters》，活動時間至 6 月 11 日 23:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 限時免費：《征服之歌》與《Rogue Waters》",
+    "summary": "Epic Games 年中「神秘遊戲」限免活動進入尾聲，最後一週贈送兩款回合制戰棋遊戲：《征服之歌》與海盜遊戲《Rogue Waters》。玩家可於 6 月 11 日 23:00 前登入領取即可永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/06/02",
     "title": "Steam 限時免費：《Winexy》、《Tell Me Why》與《Gravity Circuit》",
     "summary": "Steam 商店於 2026 年 6 月 2 日提供 3D 滾球遊戲《Winexy》、劇情冒險遊戲《Tell Me Why》以及橫卷動作遊戲《Gravity Circuit》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "港式風格 RPG《繁榮之書》Demo 釋出",
-    "summary": "由獨立開發者 SingKeys 製作的 2D 動作 RPG《繁榮之書 (The Book of Prosperity)》在 Steam 上發布了首個免費試玩版，遊戲充滿香港氛圍。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 限時免費：《Bunny Guys!》、《BROTHER!!! Save him!》",
-    "summary": "Steam 於 2026 年 6 月 2 日更新限時免費遊戲，玩家可領取《Bunny Guys!》及《BROTHER!!! Save him!》兩款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
