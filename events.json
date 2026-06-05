@@ -40,6 +40,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "薩爾達風格動作獨立遊戲《Mym's Sword》釋出全新預告片與雙平台免費試玩版",
+    "summary": "《Elephantasy》系列開發者Linker公開新作《Mym's Sword》宣傳影片，其免費試玩Demo已於Itch.io與Steam平台同步上架，完整版遊戲預計今年稍晚發售。該作致敬《薩爾達傳說：織夢島》與《魔吉拉的面具》的詭異世界觀，並融合《伊蘇》與《迷宮塔》的戰鬥啟發。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -240,6 +248,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam Next Fest: June 2026 開放媒體預覽，多款獨立遊戲Demo將釋出",
+    "summary": "Steam新品節2026年6月版已於6月4日開始媒體預覽，該活動將於6月15日至6月22日舉行，屆時將有數百款即將推出的PC遊戲提供免費試玩Demo，玩家可與開發者互動並觀看直播，提前體驗新作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -336,6 +352,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/03",
+    "title": "2026年6月獨立遊戲精選：多款風格獨立遊戲資訊公開",
+    "summary": "Xbox及其他遊戲媒體公開了2026年6月份的獨立遊戲精選，涵蓋了從「舒適朋克」唱片店模擬《Wax Heads》到3v3格鬥遊戲《Invincible VS》等多種風格作品，預計將有大量獨立新作在6月發行或推出試玩版，豐富玩家的遊戲庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "VTUBER",
     "date": "2026/06/02",
     "title": "VTuber總長KSON與犀牛盾推出聯名手機殼抽獎活動",
@@ -372,30 +396,6 @@
     "date": "2026/06/02",
     "title": "Steam 限時免費遊戲：《Winexy》",
     "summary": "3D滾球解謎闖關遊戲《Winexy》在Steam平台限時免費，期限至2026年6月6日上午1:00，取得後可永久保存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 限時免費遊戲：《Tell Me Why》",
-    "summary": "由Dontnod Entertainment開發的敘事冒險遊戲《Tell Me Why》在Steam平台限時免費領取，期限至2026年7月2日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 獨立遊戲Demo：《拉霸、劍與魔法》",
-    "summary": "獨立遊戲團隊JL studio開發的回合制Roguelite遊戲《拉霸、劍與魔法（Slots & Sword & Magic）》Demo已釋出，並預告將參加Steam 6月新品節。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 獨立遊戲Demo：《MeowFactory Demo》",
-    "summary": "工廠自動化模擬遊戲《MeowFactory Demo》在Steam平台開放試玩，玩家將管理一群「打工貓」來重建生產線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
