@@ -1,5 +1,29 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "台灣獨立遊戲《自拍蟲蟲》釋出試玩版並獲BitSummit 2027參展資格",
+    "summary": "台灣雙人團隊「正直香蕉遊戲工作室」開發的休閒遊戲《自拍蟲蟲》在「2026放視大賞」中脫穎而出，獲得2027年日本BitSummit參展資格，並已於Steam平台公開試玩版，將參加6月中旬的Steam新品節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "國產恐怖遊戲《詭域深行》釋出DEMO試玩版",
+    "summary": "單人開發的國產恐怖遊戲《詭域深行》（Into the Haunted Land）現已公開DEMO試玩版，支援1至6人線上合作探索受詛咒的島嶼。遊戲預計將在2026年末推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "2026 ChinaJoy 獨立遊戲試玩區開放",
+    "summary": "2026 ChinaJoy 獨立遊戲試玩區（ChinaJoy Express）將提供多款未發售的獨立遊戲Demo免費試玩，涵蓋2D像素、3D動作、回合制、肉鴿、解謎等多種遊戲類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -132,6 +156,46 @@
     "date": "2026/06/04",
     "title": "第二屆「東亞獨立遊戲慶典」將於8月展開，串聯遊戲開發者與實況主",
     "summary": "由台灣多家獨立遊戲團隊發起的「東亞獨立遊戲慶典」今年邁入第二屆，活動已通過Steam平台審核，將於2026年8月5日至8月13日展開線上特賣會，並邀請實況主參與推廣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/04",
+    "title": "中國博主辱罵米哈遊玩家遭判賠50萬並全網道歉",
+    "summary": "一名中國博主因辱罵和詆毀米哈遊（MiHoYo）玩家，被法院判決需賠償50萬元人民幣並在全網公開道歉。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/04",
+    "title": "外國直播主日本麵店自拍被逐爆粗反擊惹禍",
+    "summary": "兩名外國直播主在日本麵店進行自拍直播，因行為引發店員不滿被請離，男直播主離店前爆粗口挑釁，最終其直播平台Kick帳號遭官方封鎖。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/04",
+    "title": "女店員一句「窮逛」遭炎上",
+    "summary": "某商場女店員因對顧客說出「窮逛」等辱罵性言論，引發網路社群炎上，商場與品牌方已向當事顧客致歉並提出補償方案。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/06/04",
+    "title": "澀谷果步擔任Twitch年度大使引發海外網友爭議",
+    "summary": "前AV女優澀谷果步獲選為直播平台Twitch的年度大使，此消息在海外社群引發爭議，部分網友質疑Twitch為何選擇具此背景人士，但也有支持者認為不應因過去職業否定現今成就。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 免費遊戲《Songs of Conquest》與《Rogue Waters》",
+    "summary": "Epic Games Store 本週限時免費贈送策略RPG《Songs of Conquest》（征服之歌）以及 Roguelite 海盜戰術遊戲《Rogue Waters》，活動時間至 6 月 11 日 23:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -333,70 +397,6 @@
     "title": "Steam 限時免費：《Bunny Guys!》、《BROTHER!!! Save him!》",
     "summary": "Steam 於 2026 年 6 月 2 日更新限時免費遊戲，玩家可領取《Bunny Guys!》及《BROTHER!!! Save him!》兩款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 限時免費遊戲《Winexy》",
-    "summary": "Steam 平台近期新增 3D 滾球遊戲《Winexy》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 限時免費遊戲《謂何》",
-    "summary": "Steam 劇情冒險遊戲《謂何 (Tell Me Why)》提供限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 限時免費遊戲《Gravity Circuit》",
-    "summary": "Steam 橫向捲軸動作遊戲《Gravity Circuit》推出限時免費活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 免費遊戲《Bunny Guys!》",
-    "summary": "Steam 平台新增免費遊戲《Bunny Guys!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Steam 免費遊戲《BROTHER!!! Save him!》",
-    "summary": "Steam 平台新增免費遊戲《BROTHER!!! Save him!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/02",
-    "title": "Humble Choice 2026 六月包發布",
-    "summary": "Humble Choice 2026 六月包已推出，包含《歧路旅人II》等 8 款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/02",
-    "title": "網紅Cheap評論桃園市長爭議",
-    "summary": "知名網紅Cheap針對桃園市長張善政出席武陵高中畢業典禮時，有學生喊「新店市長」引發藍營議員批評一事發表評論。Cheap在臉書上表示，想當英雄要有英雄的防禦力，若經不起對立陣營的「狗幹」，就不該越過那條線，並稱「張善政又贏了一次」，此番言論引發社群討論。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/02",
-    "title": "VTuber博衣發言推特遭炎上",
-    "summary": "VTuber博衣因發言「物理只要把公式都背下來就能滿分！」在推特上引起爭議，隨後刪文並道歉。網友對此的討論不僅圍繞博衣的言論，甚至擴展到聯考制度。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
