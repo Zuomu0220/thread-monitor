@@ -1,5 +1,21 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/06/07",
+    "title": "Xbox Games Showcase 2026",
+    "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/07",
+    "title": "札幌獨立遊戲展覽",
+    "summary": "2026年6月7日，一個獨立遊戲展覽將在連接札幌與大通站的「Chi-Ka-Ho」舉行，提供超過30款獨特遊戲免費試玩，並可直接與創作者交流。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/06",
     "title": "查無近期負面事件",
@@ -13,6 +29,14 @@
     "title": "台V親簽周邊爭議延燒，芥川組官方聲明引粉絲不滿",
     "summary": "台灣VTuber圈的「芥川組」旗下VTuber之親簽周邊商品引發爭議。有粉絲等候一年才收到周邊，卻發現出現問題，而芥川組官方發布的聲明並未能有效平息粉絲怒火，反而讓情況更加惡化，引發網友不滿。",
     "avatar_url": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/06",
+    "title": "Steam 限時免費遊戲：《Gravity Circuit》、《Tell Me Why》等四款",
+    "summary": "Steam 於2026年6月6日推出四款限時免費領取並永久保留的PC遊戲，其中包括高品質2D平台遊戲《Gravity Circuit》（免費至6月14日）和Xbox敘事冒險遊戲《Tell Me Why》（免費至7月1日）。 另外兩款為較小眾的遊戲《Linebound》及其他兩個未被詳細提及名稱的遊戲，但都屬於限時免費領取後可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -373,30 +397,6 @@
     "title": "Epic Games Store 免費遊戲",
     "summary": "Epic Games Store 於 2026 年 6 月 4 日至 6 月 11 日期間提供一款限時免費的策略冒險遊戲，該遊戲融合了戰略決策、戰術戰鬥和王國管理，讓玩家可以建立強大的軍隊、施展古老魔法並鍛造帝國。Epic Games Mega Sale 2026 也正在進行中，數百款遊戲提供高達 75% 或 90% 的折扣。此外，Mega Sale 期間還提供 Discord Nitro、Diver's Mega Pack 和《無限 Nikki》額外包等免費內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Steam 免費遊戲《馬拉松》限時領取",
-    "summary": "《馬拉松》（Marathon）這款 2026 年的熱門遊戲，目前在 Steam 上完全免費，活動將持續至 6 月 9 日上午 10 點（美東時間）。這是一款 Bungie 開發的撤離射擊遊戲，玩家將扮演 Runner 探索 Tau Ceti IV 世界，收集物資和武器以對抗 PvE 和 PvP 敵人。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Epic Games Store 限時免費：《Songs of Conquest》與《Rogue Waters》",
-    "summary": "Epic Games Store 本週（6/4 - 6/11）提供回合制策略遊戲《Songs of Conquest》及海盜主題回合制戰術遊戲《Rogue Waters》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/04",
-    "title": "VTuber久田就「掰彎玩笑」發布嚴正警告",
-    "summary": "VTuber久田針對社群上出現的「掰彎玩笑」言論發出正式警告，強調此類訊息已踩到紅線，並表示未來將對騷擾訊息採取嚴格處理。",
-    "avatar_url": "https://i.ytimg.com/vi/T1jX7c3r-jI/maxresdefault.jpg",
     "days_left": 4
   },
   {
