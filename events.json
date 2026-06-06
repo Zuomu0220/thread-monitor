@@ -80,6 +80,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增 4 款可永久保留免費遊戲",
+    "summary": "Steam 平台新增四款可永久免費收藏的遊戲，包括休閒找物遊戲《Hidden Objects - Item Find》、搶先體驗階段的 Roguelike 卡牌遊戲《Recall Rogue》、平台動作遊戲《SpellCatcher》以及解謎射擊遊戲《INKOCHET: Paint The Walls With Your Arrows!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -336,6 +344,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 限時免費：《Songs of Conquest》與《Rogue Waters》",
+    "summary": "Epic Games Store 本週（6/4 - 6/11）提供回合制策略遊戲《Songs of Conquest》及海盜主題回合制戰術遊戲《Rogue Waters》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "VTUBER",
-    "date": "2026/06/03",
-    "title": "個人勢女VTuber突然終止活動引發討論",
-    "summary": "一位擁有五位數訂閱的個人勢女性VTuber在突然宣布某項消息後終止了活動，此舉在網路社群中引發了廣泛討論與關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Epic Games",
-    "summary": "《Shred! 2 - ft Sam Pilgrim》推出：極限單車遊戲《Shred! 2 - ft Sam Pilgrim》已在 Epic Games Store 上推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -416,6 +416,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/08",
+    "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
+    "summary": "一個 YouTube 影片提及一位時空旅人警告，彗星 3I/ATLAS 將在 2026 年 7 月撞擊地球，撞擊地點位於南太平洋。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/31",
+    "expiry_date": "2026/08/01"
   },
   {
     "category": "PROPHECY",
@@ -821,6 +830,60 @@
     "date": "2026/02/08",
     "title": "Threads 「sombrero2079」預言 2026 年為文明轉折點",
     "summary": "一位自稱來自其他時間線的「未來人」sombrero2079 在 Threads 上表示，為解決未來的緊急事故，他回到 2026 年揭示未來五年將發生的重大事件，以期調整事件走向。他預言 2026 年將是文明的轉折點。其 2026 年的具體預言包括：俄羅斯與烏克蘭在 2026 年 2 月達成初步停火協議（此為已預測的過去事件）、一場由 AI 引發的嚴重國際事故，以及美國和歐洲地區將發生嚴重的大型野火，導致大量人口流失和遷移。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲預言：2026 年底全新傳染病肆虐全球",
+    "summary": "來自 2058 年的未來人國分玲警告，2026 年底全球將會爆發一種全新的傳染病。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "國分玲預言：2026 年是日本及全球重大轉折點，比特幣飆升但普通人禁買",
+    "summary": "來自 2058 年的未來人國分玲表示，2026 年對日本及全球來說是個重大轉折點。她同時預言比特幣價值將會飆升到天價，但普通人屆時將「只能賣不能買」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "Reddit 討論：2026 年多項預言指向全球不穩定與美國內戰",
+    "summary": "Reddit 社群有討論指出，多個獨立預言不約而同地將 2026 年視為關鍵時期，預示中東衝突將是更大事件的開端，美國內部將面臨意識形態分裂導致的內戰，某些科技將變得不可靠。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "4chan 用戶預言：2026 年全球戰爭升級，2027 年數十億人死亡",
+    "summary": "一位自稱掌握 Majestic 12 文件（與非人類智慧接觸的精英組織）的 4chan 用戶「MJkiller」預言，2026 年將逐步升級為全球戰爭和崩潰，並聲稱到 2027 年將有數十億人死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048 香港未來人預言：2026 年香港水災、傳染病，並有外星接觸",
+    "summary": "一位自稱來自 2048 年的香港未來人預言，2026 年香港將會發生水災，出現新的傳染病，社交媒體上將充斥震撼性新聞，並開始與外星文明接觸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人預言：2026 年為文明轉折點，未來五年多項危機",
+    "summary": "Threads 上一位自稱未來人發布預言，指 2026 年為文明轉折點。並提及未來五年內將發生多項重大事件，例如 2027 年東亞至東南亞地區發生七級以上地震、知名跨國企業倒閉、無人機恐攻；2029 年部分國家保險體系失效、金融風暴、國家間爆發全面戰爭；2030 年部分國家人工智慧全面替代人工、非洲國家因氣候變遷和政變而消失。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
