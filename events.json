@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/06/06",
+    "title": "查無近期負面事件",
+    "summary": "目前在台灣/華語圈的實況主社群中，未發現 2026/05/30 至 2026/06/06 期間有明顯炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件被廣泛報導或討論。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/06/05",
     "title": "台灣獨立遊戲《自拍蟲蟲》釋出試玩版並獲BitSummit 2027參展資格",
@@ -360,6 +368,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 限時免費遊戲：Songs of Conquest 與 Rogue Waters",
+    "summary": "Epic Games Store 揭曉本週限時免費遊戲為《Songs of Conquest》與《Rogue Waters》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 下週免費遊戲預告：Warhammer 40,000: Speed Freeks",
+    "summary": "Epic Games Store 預告下週（6 月 4 日至 6 月 11 日）將提供《戰鎚 40K：極速飛車手》（Warhammer 40,000: Speed Freeks）限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -372,30 +396,6 @@
     "date": "2026/06/03",
     "title": "Steam工程模擬器系列特賣持續進行中",
     "summary": "Steam平台上的《工程模擬器》系列遊戲特賣活動將持續至2026年6月10日，部分遊戲折扣高達70%。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam 週末特價：《Stray》",
-    "summary": "貓咪冒險遊戲《Stray》在Steam進行週末特價，享-50%折扣，優惠至2026年6月3日上午10:00截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam 獨立遊戲Demo：《填滿虛空》",
-    "summary": "獨立遊戲《填滿虛空（Fill The Void）》在Steam平台開放試玩版，玩家將化身黑洞吞噬物件成長。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam 週末特價：《The Elder Scrolls V: Skyrim Special Edition》",
-    "summary": "角色扮演遊戲《The Elder Scrolls V: Skyrim Special Edition》在Steam進行週末特價，享-75%折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
