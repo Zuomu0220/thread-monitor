@@ -72,6 +72,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增 4 款永久免費遊戲",
+    "summary": "Steam 於 2026 年 6 月 5 日正式推出 4 款可永久保留的免費遊戲，包括《Hidden Objects - Item Find》、《Recall Rogue》、《INKOCHET: Paint the Walls With Your Arrows!》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -312,6 +320,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Epic Games Store 免費遊戲",
+    "summary": "Epic Games Store 於 2026 年 6 月 4 日至 6 月 11 日期間提供一款限時免費的策略冒險遊戲，該遊戲融合了戰略決策、戰術戰鬥和王國管理，讓玩家可以建立強大的軍隊、施展古老魔法並鍛造帝國。Epic Games Mega Sale 2026 也正在進行中，數百款遊戲提供高達 75% 或 90% 的折扣。此外，Mega Sale 期間還提供 Discord Nitro、Diver's Mega Pack 和《無限 Nikki》額外包等免費內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/04",
+    "title": "Steam 免費遊戲《馬拉松》限時領取",
+    "summary": "《馬拉松》（Marathon）這款 2026 年的熱門遊戲，目前在 Steam 上完全免費，活動將持續至 6 月 9 日上午 10 點（美東時間）。這是一款 Bungie 開發的撤離射擊遊戲，玩家將扮演 Runner 探索 Tau Ceti IV 世界，收集物資和武器以對抗 PvE 和 PvP 敵人。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/03",
     "title": "無重大負面與爭議事件報導",
@@ -376,30 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam",
-    "summary": "限時免費領取《重力迴路》：類洛克人遊戲《重力迴路》Steam 版即日起至 6 月 15 日前限時免費領取，數量有限。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "2026 年 6 月獨立遊戲精選",
-    "summary": "Xbox Wire 編輯 Will Fulton 推薦了多款 6 月份值得關注的獨立遊戲，風格從舒適朋克唱片店到太空生存恐怖，陣容豪華。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/03",
-    "title": "Steam平台多款遊戲推出週中與今日特惠",
-    "summary": "Steam商店於6月3日推出多項遊戲特價活動，包括《The Last Starship》（特惠至6月8日）、《My Little Universe》、《HyperStrange Publisher Sale》、《DON'T SCREAM TOGETHER》及《Q-UP》等遊戲，提供不同程度的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -425,6 +425,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/18",
+    "title": "2062 年未來人警示 2026 年夏日本可能發生複合型災難",
+    "summary": "有關自稱來自 2062 年的未來人過去的預言再次被提及，許多報導指出 2026 年夏天日本可能面臨「三重災害」導致的「日本沉沒」絕望情境。這些災害暗示與地震、科學數據及未來人的暗號警示等因素相關。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
   },
   {
     "category": "PROPHECY",
@@ -776,6 +785,42 @@
     "date": "2026/05/24",
     "title": "2058 年穿越者國分玲最新警告：2026 年底全球將爆發全新傳染病",
     "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）發出最新預警，指出 2026 年底將有一種全新的傳染病肆虐全球，其致死率和傳播速度都極為驚人，並將嚴重損害人體免疫系統。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 年未來人國分玲警告 2026 年底新傳染病將肆虐全球",
+    "summary": "自稱來自 2058 年的「未來人」國分玲，曾精準預測多項事件。他警告 2026 年將是日本及全球的重大轉折點，並特別指出 2026 年底將有全新傳染病在全球肆虐。國分玲還提到，到他的時代，中文將成為主要學習語言，這與一位「毀了一切」的女首相有關。他也預言比特幣將飆升至天價，並建議普通人屆時「只能賣，不能買」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048 香港未來人預言 2026 年香港災難與外星接觸",
+    "summary": "一名自稱來自 2048 年的香港未來人在網路社群上預告，2026 年香港將會發生水災和傳染病，且社群媒體將充滿震撼性新聞。他甚至聲稱，2025 年至 2026 年間將開始出現「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "4chan 用戶「MJkiller」預言 2026 年全球戰爭",
+    "summary": "一位自稱擁有 Majestic 12 文件存取權限的 4chan 用戶「MJkiller」發布了 2026 年詳細的事件順序，預示將逐步升級為全球戰爭、崩潰，最終走向一個世界政府。預言亮點包括美國/以色列襲擊伊朗、石油危機與全球停電、大規模海戰、美國內戰以及北約解體。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 「sombrero2079」預言 2026 年為文明轉折點",
+    "summary": "一位自稱來自其他時間線的「未來人」sombrero2079 在 Threads 上表示，為解決未來的緊急事故，他回到 2026 年揭示未來五年將發生的重大事件，以期調整事件走向。他預言 2026 年將是文明的轉折點。其 2026 年的具體預言包括：俄羅斯與烏克蘭在 2026 年 2 月達成初步停火協議（此為已預測的過去事件）、一場由 AI 引發的嚴重國際事故，以及美國和歐洲地區將發生嚴重的大型野火，導致大量人口流失和遷移。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
