@@ -256,6 +256,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增 4 款免費遊戲可永久收藏",
+    "summary": "Steam 近日新增《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》和《SpellCatcher》共 4 款可永久免費下載的遊戲，涵蓋找物、解謎、平台動作及 Roguelike 卡牌等類型。其中《Recall Rogue》為搶先體驗版本，開發團隊未來有可能調整收費模式。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/06/04",
-    "title": "中國博主辱罵米哈遊玩家遭判賠50萬並全網道歉",
-    "summary": "一名中國博主因辱罵和詆毀米哈遊（MiHoYo）玩家，被法院判決需賠償50萬元人民幣並在全網公開道歉。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -431,6 +431,15 @@
     "date": "2026/01/14",
     "title": "靈媒帕克預言2026年4月15日至11月15日為自然災害危險期",
     "summary": "靈媒帕克表示，2026年4月15日至11月15日是自然災害的極度危險週期，特別點在於8月12日的新月之夜，木星、太陽與月亮將聚集在巨蟹座，為重要的觸發點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "靈媒帕克預言2026年日本毒氣雲與國際衝突",
+    "summary": "英國預言家克雷格·漢密爾頓-帕克預測，2026 年日本周邊海底火山可能噴發致命毒氣雲，影響範圍甚至波及俄羅斯。同時預計美中俄三方衝突將升溫為間接戰爭，國際領導人面臨刺殺危機。他指出危險期為 2026 年 4 月 15 日至 11 月 15 日，尤以 8 月 12 日新月之夜為甚。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
