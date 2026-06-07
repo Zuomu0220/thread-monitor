@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/06/07",
+    "title": "Steam 舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展",
+    "summary": "Steam 平台於 2026 年 6 月 7 日舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展，展出超過 30 款獨特遊戲供玩家免費體驗，並可與開發者直接交流。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/06",
     "title": "查無近期負面事件",
@@ -60,6 +68,14 @@
     "date": "2026/06/06",
     "title": "獨立遊戲新作",
     "summary": "《33 不朽靈魂》1.0 版將於 6 月 10 日上市：曾開發《靈魂遠去》的 Thunder Lotus Games 宣布，Roguelike 動作遊戲《33 不朽靈魂》1.0 版預定於 2026 年 6 月 10 日在 Steam、Epic Games Store 和 Xbox Series X|S 平台推出，並同步支援 GAME PASS。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/06",
+    "title": "Steam 多款遊戲限時免費領取，包含《Gravity Circuit》與《Tell Me Why》",
+    "summary": "Steam 平台宣布釋出四款可永久保留的免費 PC 遊戲，其中包含 2D 平台遊戲《Gravity Circuit》（限時免費至 6 月 14 日）和 Xbox 獨佔敘事冒險遊戲《Tell Me Why》（限時免費至 7 月 1 日）。另有兩款較為小眾的遊戲也同步開放免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -180,6 +196,14 @@
     "date": "2026/06/05",
     "title": "Epic Games 限時免費",
     "summary": "《征服之歌》(Songs of Conquest) 與《Rogue Waters》限時免費領取：Epic Games Store 宣布回合制戰略遊戲《征服之歌》和海盜題材的戰術回合制Roguelite遊戲《Rogue Waters》限時免費領取，活動截止至 2026/06/11 23:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增四款免費遊戲供玩家永久收藏",
+    "summary": "Steam 平台最新新增四款可免費下載並永久保留的遊戲，類型涵蓋找物、解謎、平台動作及 Roguelike 卡牌。這些作品並非試玩版，而是完整遊戲或可遊玩的搶先體驗版本，包括《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》（搶先體驗）和《SpellCatcher》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -376,30 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Epic Games 行動版免費遊戲《Wytchwood》",
-    "summary": "Epic Games Store 於 2026 年 6 月 4 日起提供行動版遊戲《Wytchwood》限時免費下載，活動將持續至 6 月 11 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Steam Next Fest: June 2026 開放媒體預覽，多款獨立遊戲Demo將釋出",
-    "summary": "Steam新品節2026年6月版已於6月4日開始媒體預覽，該活動將於6月15日至6月22日舉行，屆時將有數百款即將推出的PC遊戲提供免費試玩Demo，玩家可與開發者互動並觀看直播，提前體驗新作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Epic Games 下週免費遊戲預告：《戰鎚40K：自由競速》",
-    "summary": "Epic Games Store 預告下週（2026 年 06 月 11 日至 06 月 18 日）的限時免費遊戲將是《戰鎚40K：自由競速》（Warhammer 40,000 : Speed Freeks）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -548,6 +548,15 @@
     "date": "2026/05/19",
     "title": "國分玲的 2026-2030 年重大預言",
     "summary": "自稱來自 2058 年的未來人國分玲預言 2026 年是日本及全球的重大轉折點，並提到一位「毀了一切的女首相」將帶來糟糕的事。她也預言比特幣價值將飆升至天價，但屆時將「只能賣，不能買」。國分玲預計將於 2026 年 9 月 26 日再次現身網路社群。此外，她也預言 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的未來人國分玲表示 2026 年是日本及全球的重大轉折點",
+    "summary": "來自 2058 年的未來人國分玲（Kokubun Rei）曾表示，2026 年是日本及全球的重大轉折點。他曾列出多個未來時間節點的預言，並表示將在 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
