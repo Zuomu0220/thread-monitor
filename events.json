@@ -1,6 +1,22 @@
 [
   {
     "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Steam 新品節預告",
+    "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Steam 夏日特賣預告",
+    "summary": "Steam 2026 年夏日特賣將於 2026 年 6 月 25 日至 7 月 9 日舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/07",
     "title": "Xbox Games Showcase 2026",
     "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
@@ -40,6 +56,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/07",
+    "title": "Steam 限時免費",
+    "summary": "Steam 遊戲《線界同行 (Linebound)》在上市後首月可免費永久擁有，活動預計至台灣時間 2026 年 6 月 30 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/07",
+    "title": "Steam Demo 釋出",
+    "summary": "太陽龐克殖民模擬遊戲《BioEden》於 Steam 開放試玩 Demo，玩家可在遊戲中重建滅絕動物的生態樂園。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/06",
     "title": "查無近期負面事件",
@@ -60,14 +92,6 @@
     "date": "2026/06/06",
     "title": "Steam 限時免費遊戲：《Gravity Circuit》、《Tell Me Why》等四款",
     "summary": "Steam 於2026年6月6日推出四款限時免費領取並永久保留的PC遊戲，其中包括高品質2D平台遊戲《Gravity Circuit》（免費至6月14日）和Xbox敘事冒險遊戲《Tell Me Why》（免費至7月1日）。 另外兩款為較小眾的遊戲《Linebound》及其他兩個未被詳細提及名稱的遊戲，但都屬於限時免費領取後可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/06",
-    "title": "Steam 限時免費",
-    "summary": "《謂何》(Tell Me Why) 免費領取：Steam 平台推出敘事冒險遊戲《謂何》限時免費活動，玩家可於 2026/07/02 上午 1 點前領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -280,6 +304,22 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增免費遊戲",
+    "summary": "Steam 平台新增四款可永久免費收藏的遊戲，包括找物遊戲《Hidden Objects - Items Find》、平台動作遊戲《SpellCatcher》、復古解謎遊戲《INKOCHET: Paint The Walls With Your Arrows!》以及 Roguelike 卡牌遊戲《Recall Rogue》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Epic Games 公布 2026 年 12 款免費遊戲計畫",
+    "summary": "Epic Games 宣布 2026 年將向 PC 用戶免費提供 12 款大預算遊戲，涵蓋多種類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -357,46 +397,6 @@
     "title": "台V模型遭盜賣疑雲：雨音計畫工作室承認外包中國未付款",
     "summary": "台灣VTuber工作室「雨音計畫」因多個負責製作的Live2D模型遭盜賣至海外平台而受到批評。工作室於6月4日發布道歉聲明，承認作品外流是因為未支付委託的中國工作室款項，推翻了先前「建模師出走盜賣」的說法，引發更大的爭議與粉絲不滿。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Epic Games Store本週免費遊戲《Rogue Waters》",
-    "summary": "Epic Games Store在6月4日更新了本週的免費遊戲，玩家可限時領取《Rogue Waters》。這是一款海盜戰術回合制Rogue-lite遊戲，玩家將扮演船長Cutter，指揮船隻和船員，透過隨機生成的遭遇來復仇。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/04",
-    "title": "《宇宙啦啦隊》成員妃妃爆不倫師生戀暫停團體活動",
-    "summary": "女子團體「W!nky」出道僅6天，成員妃妃即遭爆料大二時疑似與已婚大學老師交往。Threads上流傳該老師與女學生在家中拍攝情侶照，被正宮抓包後提告求償。儘管男老師發文澄清已離婚且女學生非第三者，但妃妃仍被影射為女主角，引發輿論。妃妃隨後發聲明道歉，並表示為避免影響團體決定暫時退出活動，同時強調部分網路內容與事實不符，已交由法律途徑處理。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Steam 2026 年熱門遊戲《Marathon》限時免費體驗",
-    "summary": "Bungie開發的射擊遊戲《Marathon》在Steam平台開放限時免費體驗，活動至2026年6月9日上午10點（ET）截止。這款遊戲是《Destiny》系列的後續作品，以三人組隊的奪取式玩法為核心，獲得「極度好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Steam 免費 Demo《T.W.I.R.L.》釋出",
-    "summary": "Steam 平台於2026年6月4日釋出《T.W.I.R.L.》的免費Demo試玩版。這款遊戲屬於劇情豐富、心理恐怖、步行模擬和探索類型。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/04",
-    "title": "外國直播主日本麵店自拍被逐爆粗反擊，Kick帳號遭永久封鎖",
-    "summary": "兩名Kick平台直播主nanatty與AlohaSteve在日本東京秋葉原的「名代富士蕎麥麵」店內進行直播時，不理會店員勸阻並持續拍攝。隨後男直播主AlohaSteve對店員大罵粗口，導致兩人Kick帳號被平台官方以違反社群規範為由永久封鎖。",
-    "avatar_url": "https://i.imgur.com/8Q0rK01.jpeg",
     "days_left": 3
   },
   {
