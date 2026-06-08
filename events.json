@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Steam 彈幕節",
+    "summary": "Steam 平台於 6 月 8 日至 6 月 15 日舉行彈幕節活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/07",
     "title": "Xbox Games Showcase 2026",
     "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
@@ -156,6 +164,22 @@
     "date": "2026/06/06",
     "title": "Epic Games 預告 2026 年將推出 12 款主要免費 PC 遊戲",
     "summary": "發行商 Epic Games 於 6 月 6 日表示，計畫在 2026 年期間向 PC 玩家完全免費提供 12 款高預算遊戲，用戶只需在 Epic Games 平台上註冊帳戶即可永久擁有。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/06",
+    "title": "Steam 限時免費《Gravity Circuit》與《Tell Me Why》",
+    "summary": "Steam 於 6 月 6 日提供四款 PC 遊戲限時免費，其中包括高品質 2D 平台遊戲《Gravity Circuit》（免費至 6 月 14 日），以及 Xbox 主機獨佔的敘事冒險遊戲《Tell Me Why》（免費至 7 月 1 日）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/06",
+    "title": "奧克蘭獨立遊戲大展 2026",
+    "summary": "紐西蘭奧克蘭於 6 月 6 日舉辦 2026 獨立遊戲大展，展示 20 多款本地製作的獨立遊戲，提供免費試玩與開發者交流的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -320,6 +344,22 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Steam 新增四款免費遊戲供永久收藏",
+    "summary": "Steam 於 6 月 5 日再次新增四款可免費下載並永久保留的作品，涵蓋尋物、解謎、平台動作及 Roguelike 卡牌等類型，包括《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》和《SpellCatcher》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/05",
+    "title": "Epic Games 宣布 2026 年將推出 12 款免費大作",
+    "summary": "Epic Games 於 6 月 5 日發布消息，計畫在 2026 年向 PC 用戶免費提供 12 款高預算遊戲，玩家只需在平台註冊即可永久擁有。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/04",
     "title": "無最新負面與爭議事件",
@@ -357,46 +397,6 @@
     "title": "Steam 知名大作《Marathon》限時免費試玩",
     "summary": "Steam 於 2026 年 6 月 4 日宣布，2026 年的熱門大作《Marathon》將限時免費開放遊玩，活動截止至 6 月 9 日上午 10 點（美東時間）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Steam 新品試玩版釋出：《Age After Age Demo》等多款遊戲",
-    "summary": "Steam 於 2026 年 6 月 4 日釋出多款遊戲新品試玩版，包括策略城市建造模擬遊戲《Age After Age Demo》、策略增量遊戲《Incremental Stand Demo》以及清潔模擬遊戲《S.A.N.D.Y. - Beach Cleaner Demo》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "Epic Games Store 宣布 6 月 4 日至 6 月 11 日期間提供兩款免費遊戲，分別為海盜戰術回合制肉鴿遊戲《Rogue Waters》，以及一款回合制策略冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Humble 2K Sports Champions Bundle 推出",
-    "summary": "Humble Bundle 推出 2K Sports Champions 組合包，包含 4 款遊戲，售價 26.25 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/04",
-    "title": "Humble IGN Live Bundle 2026 推出",
-    "summary": "Humble Bundle 推出 IGN Live Bundle 2026 組合包，包含 9 款遊戲，售價 10.5 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/04",
-    "title": "台V模型遭盜賣疑雲：雨音計畫工作室承認外包中國未付款",
-    "summary": "台灣VTuber工作室「雨音計畫」因多個負責製作的Live2D模型遭盜賣至海外平台而受到批評。工作室於6月4日發布道歉聲明，承認作品外流是因為未支付委託的中國工作室款項，推翻了先前「建模師出走盜賣」的說法，引發更大的爭議與粉絲不滿。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 3
   },
   {
