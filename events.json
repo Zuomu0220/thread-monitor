@@ -1,11 +1,19 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/06/09",
+    "title": "目前無相關負面與爭議事件",
+    "summary": "在 2026 年 06 月 02 日至 06 月 09 日期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/06/08",
     "title": "Steam 新品節預告",
     "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "Steam 夏日特賣預告",
     "summary": "Steam 2026 年夏日特賣將於 2026 年 6 月 25 日至 7 月 9 日舉行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "Steam 彈幕節",
     "summary": "Steam 平台於 6 月 8 日至 6 月 15 日舉行彈幕節活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -29,7 +37,7 @@
     "title": "Steam 成人內容審查議題",
     "summary": "有消息指出，針對 Steam 成人內容的審核加強，有前員工爆料 Gabe Newell（G胖）曾對此表達不滿，質疑法務部門的工作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "《Minecraft》假模組藏病毒",
     "summary": "近日發現《Minecraft》的假模組可能藏有病毒，駭客可藉此偷看玩家螢幕，恐有 11 萬名玩家受害。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -45,7 +53,15 @@
     "title": "傑仕登首款自研 Rougelike 動作遊戲《定海》玩法公開",
     "summary": "傑仕登公布了其首款自主研發的 Rougelike 動作遊戲《定海》的玩法細節。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Steam 限時免費遊戲：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 平台於 6 月 8 日新增兩款限時免費遊戲：《Bunny Guys!》和《BROTHER!!! Save him!》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -53,7 +69,7 @@
     "title": "Xbox Games Showcase 2026",
     "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +77,7 @@
     "title": "札幌獨立遊戲展覽",
     "summary": "2026年6月7日，一個獨立遊戲展覽將在連接札幌與大通站的「Chi-Ka-Ho」舉行，提供超過30款獨特遊戲免費試玩，並可直接與創作者交流。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +85,7 @@
     "title": "Steam 舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展",
     "summary": "Steam 平台於 2026 年 6 月 7 日舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展，展出超過 30 款獨特遊戲供玩家免費體驗，並可與開發者直接交流。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -77,7 +93,7 @@
     "title": "Steam/微軟被控壟斷遊戲定價",
     "summary": "Steam 與微軟近日遭到玩家提起集體訴訟，原告指控兩大遊戲平台私下達成價格協調機制，聯手定價以限制市場競爭，導致消費者無法享受到應有的優惠。目前案件仍處於早期審理階段。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -85,7 +101,7 @@
     "title": "Southeast Asian Games Showcase 2026 發表 36 款獨立遊戲",
     "summary": "東南亞遊戲發表會 2026 於 6 月 7 日凌晨舉行，共公開了 36 款獨立遊戲新作與既有作品的最新消息與預告片。其中《Puni The Florist》預計於 6 月 8 日在 PC 平台推出，而城市建造遊戲《Verde》預定於 2026 年 8 月推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -93,7 +109,7 @@
     "title": "Steam 限時免費",
     "summary": "Steam 遊戲《線界同行 (Linebound)》在上市後首月可免費永久擁有，活動預計至台灣時間 2026 年 6 月 30 日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -101,7 +117,7 @@
     "title": "Steam Demo 釋出",
     "summary": "太陽龐克殖民模擬遊戲《BioEden》於 Steam 開放試玩 Demo，玩家可在遊戲中重建滅絕動物的生態樂園。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -109,7 +125,7 @@
     "title": "神人爆改「樂高伊布」成外星人",
     "summary": "有網友分享將樂高伊布改造成外星人造型的創作，引起網路熱議。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -117,7 +133,7 @@
     "title": "Joeman 新企劃節目後兩部影片都有別人的影子",
     "summary": "知名 YouTuber Joeman 新企劃與 Bryce 合作推出的「一日跟團」及「公車食刻表」影片，被網友指出內容有模仿其他創作者的影子。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -125,7 +141,7 @@
     "title": "查無近期負面事件",
     "summary": "目前在台灣/華語圈的實況主社群中，未發現 2026/05/30 至 2026/06/06 期間有明顯炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件被廣泛報導或討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -133,7 +149,7 @@
     "title": "台V親簽周邊爭議延燒，芥川組官方聲明引粉絲不滿",
     "summary": "台灣VTuber圈的「芥川組」旗下VTuber之親簽周邊商品引發爭議。有粉絲等候一年才收到周邊，卻發現出現問題，而芥川組官方發布的聲明並未能有效平息粉絲怒火，反而讓情況更加惡化，引發網友不滿。",
     "avatar_url": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +157,7 @@
     "title": "Steam 限時免費遊戲：《Gravity Circuit》、《Tell Me Why》等四款",
     "summary": "Steam 於2026年6月6日推出四款限時免費領取並永久保留的PC遊戲，其中包括高品質2D平台遊戲《Gravity Circuit》（免費至6月14日）和Xbox敘事冒險遊戲《Tell Me Why》（免費至7月1日）。 另外兩款為較小眾的遊戲《Linebound》及其他兩個未被詳細提及名稱的遊戲，但都屬於限時免費領取後可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -149,7 +165,7 @@
     "title": "Steam 限時免費試玩",
     "summary": "《失落星船：馬拉松》(Marathon) 開放試玩：由《Halo》與《天命》原班人馬打造的射擊遊戲《失落星船：馬拉松》在 Steam 平台開放免費試玩至 2026/06/12 上午 1 點前。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -157,7 +173,7 @@
     "title": "獨立遊戲新作",
     "summary": "《33 不朽靈魂》1.0 版將於 6 月 10 日上市：曾開發《靈魂遠去》的 Thunder Lotus Games 宣布，Roguelike 動作遊戲《33 不朽靈魂》1.0 版預定於 2026 年 6 月 10 日在 Steam、Epic Games Store 和 Xbox Series X|S 平台推出，並同步支援 GAME PASS。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +181,7 @@
     "title": "Steam 多款遊戲限時免費領取，包含《Gravity Circuit》與《Tell Me Why》",
     "summary": "Steam 平台宣布釋出四款可永久保留的免費 PC 遊戲，其中包含 2D 平台遊戲《Gravity Circuit》（限時免費至 6 月 14 日）和 Xbox 獨佔敘事冒險遊戲《Tell Me Why》（限時免費至 7 月 1 日）。另有兩款較為小眾的遊戲也同步開放免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -173,7 +189,7 @@
     "title": "Steam《龍之劍：覺醒》Demo 提前釋出",
     "summary": "動作RPG《龍之劍：覺醒》（Dragon Sword: Awakening）的免費體驗版已於 Steam 平台上線，提前於 Steam 新品節開放試玩，活動將持續至 6 月 24 日上午 2 點（韓國時間）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -181,7 +197,7 @@
     "title": "Epic Games 限時免費《Rogue Waters》",
     "summary": "Epic Games Store 本週釋出限時免費遊戲《Rogue Waters》，這是一款以海盜為主題的戰術回合制 Roguelite 遊戲。玩家可在 2026 年 6 月 11 日晚上 11 點前免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -189,7 +205,7 @@
     "title": "Steam《惡靈古堡》系列特價",
     "summary": "CAPCOM 近日在 Steam 啟動《惡靈古堡》系列大型促銷活動，多款作品祭出歷史最低價格，優惠預計持續至 6 月 19 日。其中《惡靈古堡 4 重製版》以 75% 折扣刷新史低紀錄，而《惡靈古堡安魂曲》也迎來上市後首次 8 折折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -197,7 +213,7 @@
     "title": "Steam《謂何》與《重力迴路》限時免費",
     "summary": "Steam 平台推出多款限免遊戲，包括連續六年於「驕傲月」限免的敘事冒險遊戲《謂何》（Tell Me Why），以及類洛克人街機風格的 2D 橫向卷軸動作遊戲《重力迴路》（Gravity Circuit）。《重力迴路》領取時間至 6 月 15 日上午 1 點前。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -205,7 +221,7 @@
     "title": "Epic Games 預告 2026 年將推出 12 款主要免費 PC 遊戲",
     "summary": "發行商 Epic Games 於 6 月 6 日表示，計畫在 2026 年期間向 PC 玩家完全免費提供 12 款高預算遊戲，用戶只需在 Epic Games 平台上註冊帳戶即可永久擁有。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -213,7 +229,7 @@
     "title": "Steam 限時免費《Gravity Circuit》與《Tell Me Why》",
     "summary": "Steam 於 6 月 6 日提供四款 PC 遊戲限時免費，其中包括高品質 2D 平台遊戲《Gravity Circuit》（免費至 6 月 14 日），以及 Xbox 主機獨佔的敘事冒險遊戲《Tell Me Why》（免費至 7 月 1 日）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -221,7 +237,7 @@
     "title": "奧克蘭獨立遊戲大展 2026",
     "summary": "紐西蘭奧克蘭於 6 月 6 日舉辦 2026 獨立遊戲大展，展示 20 多款本地製作的獨立遊戲，提供免費試玩與開發者交流的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -229,7 +245,7 @@
     "title": "台灣獨立遊戲《自拍蟲蟲》釋出試玩版並獲BitSummit 2027參展資格",
     "summary": "台灣雙人團隊「正直香蕉遊戲工作室」開發的休閒遊戲《自拍蟲蟲》在「2026放視大賞」中脫穎而出，獲得2027年日本BitSummit參展資格，並已於Steam平台公開試玩版，將參加6月中旬的Steam新品節。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -237,7 +253,7 @@
     "title": "國產恐怖遊戲《詭域深行》釋出DEMO試玩版",
     "summary": "單人開發的國產恐怖遊戲《詭域深行》（Into the Haunted Land）現已公開DEMO試玩版，支援1至6人線上合作探索受詛咒的島嶼。遊戲預計將在2026年末推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -245,7 +261,7 @@
     "title": "2026 ChinaJoy 獨立遊戲試玩區開放",
     "summary": "2026 ChinaJoy 獨立遊戲試玩區（ChinaJoy Express）將提供多款未發售的獨立遊戲Demo免費試玩，涵蓋2D像素、3D動作、回合制、肉鴿、解謎等多種遊戲類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -253,7 +269,7 @@
     "title": "Steam 新增 4 款免費遊戲開放永久收藏",
     "summary": "Steam 平台新增 4 款可免費下載的遊戲，玩家只需加入帳戶即可永久保留。這些作品包括找物遊戲《Hidden Objects - Items Find》、解謎遊戲《INKOCHET: Paint The Walls With Your Arrows!》、Roguelike 卡牌遊戲《Recall Rogue》（搶先體驗版）以及開放世界動物收集平台遊戲《SpellCatcher》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -261,7 +277,7 @@
     "title": "Steam 新增四款永久免費遊戲",
     "summary": "Steam 平台近日新增《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》和《SpellCatcher》四款遊戲，玩家可免費下載並永久收藏。其中《Recall Rogue》為搶先體驗階段的 Roguelike 卡牌遊戲，而《SpellCatcher》則是開放世界動物收集平台遊戲，其餘兩款為找物解謎和雙人合作解謎遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -269,7 +285,7 @@
     "title": "薩爾達風格動作獨立遊戲《Mym's Sword》釋出全新預告片與雙平台免費試玩版",
     "summary": "《Elephantasy》系列開發者Linker公開新作《Mym's Sword》宣傳影片，其免費試玩Demo已於Itch.io與Steam平台同步上架，完整版遊戲預計今年稍晚發售。該作致敬《薩爾達傳說：織夢島》與《魔吉拉的面具》的詭異世界觀，並融合《伊蘇》與《迷宮塔》的戰鬥啟發。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -277,7 +293,7 @@
     "title": "Epic Games 限時免費：《征服之歌》與《Rogue Waters》",
     "summary": "Epic Games 商店推出兩款回合制戰棋遊戲《征服之歌》（Songs of Conquest）和《Rogue Waters》的限時免費活動，領取時間截止至 2026 年 06 月 11 日晚上 23 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -285,7 +301,7 @@
     "title": "Steam《PICO PARK：經典版》將下架前限時免費",
     "summary": "合作解謎遊戲《PICO PARK：經典版》因 Steam 官方政策意外成為永久免費遊戲，但官方宣布即將從平台下架，玩家需於台灣時間 2026 年 06 月 15 日上午 10 點前領取本作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -293,7 +309,7 @@
     "title": "2026 ChinaJoy 獨立遊戲試玩區全介紹",
     "summary": "2026 ChinaJoy 將於 2026 年 07 月 31 日至 08 月 03 日在上海新國際博覽中心舉辦獨立遊戲試玩區，將集結全球超過 90 款未上線或新品獨立遊戲供玩家免費試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -301,7 +317,7 @@
     "title": "Steam 新增 4 款永久免費遊戲",
     "summary": "Steam 於 2026 年 6 月 5 日正式推出 4 款可永久保留的免費遊戲，包括《Hidden Objects - Item Find》、《Recall Rogue》、《INKOCHET: Paint the Walls With Your Arrows!》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -309,7 +325,7 @@
     "title": "Steam 新增 4 款可永久保留免費遊戲",
     "summary": "Steam 平台新增四款可永久免費收藏的遊戲，包括休閒找物遊戲《Hidden Objects - Item Find》、搶先體驗階段的 Roguelike 卡牌遊戲《Recall Rogue》、平台動作遊戲《SpellCatcher》以及解謎射擊遊戲《INKOCHET: Paint The Walls With Your Arrows!》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -317,7 +333,7 @@
     "title": "直播天后丟丟妹遭惡意抹黑停播聲明",
     "summary": "直播主丟丟妹在32歲生日前夕，因遭受不實報導的惡意攻擊，為了自清，她砸下重金出動台灣與西藏拉薩兩地律師攜手調查。在蒐證過程中，意外揭發了一場「冒名記者」的假新聞鏈。她被抹黑販售西藏大昭寺未獲授權商品，怒控這一條龍式的惡意抹黑操作，企圖徹底摧毀她的商譽，逼得她停播三天自證清白，蒙受巨大損失。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -325,7 +341,7 @@
     "title": "Steam：《極限競速：地平線6》擬真輪胎磨損引玩家驚嘆",
     "summary": "遊戲媒體報導指出，Steam平台上的遊戲《極限競速：地平線6》在最新更新中加入了極為逼真的輪胎磨損機制，畫面效果寫實到讓許多玩家分不清虛擬與現實，對此表示驚嘆。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -333,7 +349,7 @@
     "title": "《Arc Raiders》炫砲造型僅限中國區？社群熱議",
     "summary": "遊戲《Arc Raiders》被發現有部分炫砲造型似乎僅限於中國區玩家取得，此事在遊戲社群引發討論，部分玩家質疑此區分策略，但也有內行網友揭露背後原因，認為該造型「不要也罷」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -341,7 +357,7 @@
     "title": "Epic Games 限時免費",
     "summary": "《征服之歌》(Songs of Conquest) 與《Rogue Waters》限時免費領取：Epic Games Store 宣布回合制戰略遊戲《征服之歌》和海盜題材的戰術回合制Roguelite遊戲《Rogue Waters》限時免費領取，活動截止至 2026/06/11 23:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -349,7 +365,7 @@
     "title": "Steam 新增四款免費遊戲供玩家永久收藏",
     "summary": "Steam 平台最新新增四款可免費下載並永久保留的遊戲，類型涵蓋找物、解謎、平台動作及 Roguelike 卡牌。這些作品並非試玩版，而是完整遊戲或可遊玩的搶先體驗版本，包括《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》（搶先體驗）和《SpellCatcher》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -357,7 +373,7 @@
     "title": "國產恐怖遊戲《詭域深行》釋出 DEMO 試玩",
     "summary": "單人開發的國產恐怖遊戲《詭域深行》（Into the Haunted Land）已公開 DEMO 試玩版，這是一款 1 至 6 人的線上合作恐怖探索遊戲，預計於 2026 年末推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -365,7 +381,7 @@
     "title": "Steam 新增 4 款免費遊戲可永久收藏",
     "summary": "Steam 近日新增《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》和《SpellCatcher》共 4 款可永久免費下載的遊戲，涵蓋找物、解謎、平台動作及 Roguelike 卡牌等類型。其中《Recall Rogue》為搶先體驗版本，開發團隊未來有可能調整收費模式。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -373,7 +389,7 @@
     "title": "Steam 新增免費遊戲",
     "summary": "Steam 平台新增四款可永久免費收藏的遊戲，包括找物遊戲《Hidden Objects - Items Find》、平台動作遊戲《SpellCatcher》、復古解謎遊戲《INKOCHET: Paint The Walls With Your Arrows!》以及 Roguelike 卡牌遊戲《Recall Rogue》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -381,23 +397,7 @@
     "title": "Epic Games 公布 2026 年 12 款免費遊戲計畫",
     "summary": "Epic Games 宣布 2026 年將向 PC 用戶免費提供 12 款大預算遊戲，涵蓋多種類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/05",
-    "title": "Steam 新增四款免費遊戲供永久收藏",
-    "summary": "Steam 於 6 月 5 日再次新增四款可免費下載並永久保留的作品，涵蓋尋物、解謎、平台動作及 Roguelike 卡牌等類型，包括《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》和《SpellCatcher》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/05",
-    "title": "Epic Games 宣布 2026 年將推出 12 款免費大作",
-    "summary": "Epic Games 於 6 月 5 日發布消息，計畫在 2026 年向 PC 用戶免費提供 12 款高預算遊戲，玩家只需在平台註冊即可永久擁有。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
