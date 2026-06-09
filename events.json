@@ -17,6 +17,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam 新品節 Demo",
+    "summary": "《地城拓荒》(Dungeon Settlers)：韓國獨立團隊 CanOpener 開發的黑暗奇幻策略新作《地城拓荒》已在 Steam 開放免費試玩 Demo，並參與 6 月新品節活動，已獲極度好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam 新品節 2026 年 6 月版",
+    "summary": "為期一週的慶典已開始，帶來數百款免費可玩的試玩版、開發者實況直播和聊天等內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/08",
     "title": "Steam 新品節預告",
     "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
@@ -89,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Steam 限時免費",
+    "summary": "《父礙》(Remothered: Tormented Fathers)：這款好評恐怖生存遊戲為慶祝系列第三部曲預告片發布，即日起至 2026 年 6 月 9 日凌晨 2 點 45 分止限時免費領取，支援繁體中文。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/07",
     "title": "Xbox Games Showcase 2026",
     "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
@@ -124,14 +148,6 @@
     "date": "2026/06/07",
     "title": "Southeast Asian Games Showcase 2026 發表 36 款獨立遊戲",
     "summary": "東南亞遊戲發表會 2026 於 6 月 7 日凌晨舉行，共公開了 36 款獨立遊戲新作與既有作品的最新消息與預告片。其中《Puni The Florist》預計於 6 月 8 日在 PC 平台推出，而城市建造遊戲《Verde》預定於 2026 年 8 月推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/07",
-    "title": "Steam 限時免費",
-    "summary": "Steam 遊戲《線界同行 (Linebound)》在上市後首月可免費永久擁有，活動預計至台灣時間 2026 年 6 月 30 日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/06/05",
     "title": "《Arc Raiders》炫砲造型僅限中國區？社群熱議",
     "summary": "遊戲《Arc Raiders》被發現有部分炫砲造型似乎僅限於中國區玩家取得，此事在遊戲社群引發討論，部分玩家質疑此區分策略，但也有內行網友揭露背後原因，認為該造型「不要也罷」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/05",
-    "title": "Epic Games 限時免費",
-    "summary": "《征服之歌》(Songs of Conquest) 與《Rogue Waters》限時免費領取：Epic Games Store 宣布回合制戰略遊戲《征服之歌》和海盜題材的戰術回合制Roguelite遊戲《Rogue Waters》限時免費領取，活動截止至 2026/06/11 23:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/05",
-    "title": "Steam 新增四款免費遊戲供玩家永久收藏",
-    "summary": "Steam 平台最新新增四款可免費下載並永久保留的遊戲，類型涵蓋找物、解謎、平台動作及 Roguelike 卡牌。這些作品並非試玩版，而是完整遊戲或可遊玩的搶先體驗版本，包括《Hidden Objects - Items Find》、《INKOCHET: Paint The Walls With Your Arrows!》、《Recall Rogue》（搶先體驗）和《SpellCatcher》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
