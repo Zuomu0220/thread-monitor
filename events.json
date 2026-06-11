@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/06/11",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/06/04 至 2026/06/11 期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件的相關資訊。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/10",
     "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
     "summary": "世新大學校長因「結束自己」失言，在全球爆紅並登上福斯黃金時段脫口秀，引發300萬人關注。",
@@ -77,6 +85,14 @@
     "title": "實況主C失言風波引發社群出征",
     "summary": "一名遊戲實況主C因失言引發社群廣泛爭議，其錯誤言論傷害了特定族群。該實況主在事發48小時內下架影片，並發布了一段真誠的道歉影片，承擔責任並宣布暫停實況一個月，期間將擔任相關公益團體志工，並將頻道所有收益捐出。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam 新增多款免費遊戲 (恐怖、MMORPG 與足球)",
+    "summary": "Steam 平台本週再次新增多款免費遊戲，提供玩家下載體驗。其中包括恐怖遊戲《67 Minutes In Heaven》、科幻策略遊戲《Nexus Legacy》、足球主題遊戲《Goalkeeper Journey》以及奇幻 MMORPG《Eterspire》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/06/06",
     "title": "Steam 限時免費《Gravity Circuit》與《Tell Me Why》",
     "summary": "Steam 於 6 月 6 日提供四款 PC 遊戲限時免費，其中包括高品質 2D 平台遊戲《Gravity Circuit》（免費至 6 月 14 日），以及 Xbox 主機獨佔的敘事冒險遊戲《Tell Me Why》（免費至 7 月 1 日）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/06",
-    "title": "奧克蘭獨立遊戲大展 2026",
-    "summary": "紐西蘭奧克蘭於 6 月 6 日舉辦 2026 獨立遊戲大展，展示 20 多款本地製作的獨立遊戲，提供免費試玩與開發者交流的機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/06",
-    "title": "Steam 免費領取遊戲《Gravity Circuit》與《Tell Me Why》",
-    "summary": "《Gravity Circuit》是一款 2D 平台遊戲，原價 17 美元，好評如潮，可免費領取至 6 月 14 日。《Tell Me Why》是一款敘事冒險遊戲，原價 20 美元，可免費領取至 7 月 1 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
