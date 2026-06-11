@@ -56,6 +56,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games 2026 大特賣免費獎勵",
+    "summary": "Epic Games 2026 大特賣活動提供多項遊戲內免費獎勵，包含《狂野飆車：競速傳奇》車貼包、《糖豆人》電競神機套裝、《要塞英雄》地平線包膜等。部分獎勵領取時間至 2026/06/11 截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/10",
     "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
@@ -204,6 +212,14 @@
     "date": "2026/06/09",
     "title": "Steam 新品節推出大量遊戲試玩版",
     "summary": "2026 年 6 月 Steam 新品節期間，眾多遊戲開發商推出了大量遊戲試玩版（Demo）供玩家免費體驗，涵蓋多種遊戲類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam 彈幕節特賣",
+    "summary": "Steam 平台正在舉辦彈幕節特賣，活動至 2026/06/15 上午 10 時 (PT) 截止。其中，《女武神小隊：突破重圍》(Valkyrie Squadron: Breakthrough) 享有史無前例的 30% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -369,33 +385,17 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/08",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games 平台提供休閒模擬遊戲《Relaxing Simulator》限時免費領取，活動至北京時間 2026/06/15 凌晨 1 點截止。該遊戲是一款無需主線劇情、敵人或強制目標的放鬆步行模擬遊戲，支援多人連線功能。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/07",
     "title": "Xbox Games Showcase 2026",
     "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/07",
-    "title": "札幌獨立遊戲展覽",
-    "summary": "2026年6月7日，一個獨立遊戲展覽將在連接札幌與大通站的「Chi-Ka-Ho」舉行，提供超過30款獨特遊戲免費試玩，並可直接與創作者交流。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/07",
-    "title": "Steam 舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展",
-    "summary": "Steam 平台於 2026 年 6 月 7 日舉辦 SAPPORO GAME ODYSSEY 獨立遊戲展，展出超過 30 款獨特遊戲供玩家免費體驗，並可與開發者直接交流。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/07",
-    "title": "Steam/微軟被控壟斷遊戲定價",
-    "summary": "Steam 與微軟近日遭到玩家提起集體訴訟，原告指控兩大遊戲平台私下達成價格協調機制，聯手定價以限制市場競爭，導致消費者無法享受到應有的優惠。目前案件仍處於早期審理階段。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
