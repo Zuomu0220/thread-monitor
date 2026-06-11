@@ -65,6 +65,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/06/11",
+    "title": "新興電競主播「阿凱」與簽約工會爆發薪資糾紛，恐面臨高額違約金",
+    "summary": "據社群Threads消息，電競主播阿凱公開指控其簽約的直播工會拖欠多月薪資，並在直播中展示部分合約條款，引發網友對直播產業不透明現象的關注。工會方面尚未公開回應，但已有法律專家指出，合約中可能存在「霸王條款」，阿凱恐將面臨違約賠償。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/10",
     "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
     "summary": "世新大學校長因「結束自己」失言，在全球爆紅並登上福斯黃金時段脫口秀，引發300萬人關注。",
@@ -85,6 +93,22 @@
     "title": "HOLOSTARS 男團成員阿爾蘭蒂斯宣布停止直播活動",
     "summary": "COVER 旗下 HOLOSTARS 男團的阿爾蘭蒂斯於 2026 年 6 月 10 日宣布停止直播活動，原因與公司營運方針調整後，成員個人對未來規劃的協議有關。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/06/10",
+    "title": "知名企業勢VTuber「璃月」與動畫師團隊爆發版權爭議",
+    "summary": "VTuber璃月所屬的經紀公司被爆出與合作已久的動畫師團隊因角色美術版權歸屬及報酬問題產生糾紛。動畫師團隊透過社群論壇匿名發文控訴，指責公司未依約支付部分設計費用，並擅自將原創美術元素用於其他專案，引發V圈對智慧財產權的討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/10",
+    "title": "Epic Games預告下週免費遊戲：《機器節奏》與《深空夢裡人》",
+    "summary": "Epic Games Store預告將於台灣時間6月18日23:00至6月25日23:00期間，提供《機器節奏》（Beat Invaders）和《深空夢裡人》（Deep Space Dreamer）兩款遊戲免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -220,6 +244,22 @@
     "date": "2026/06/09",
     "title": "Steam 彈幕節特賣",
     "summary": "Steam 平台正在舉辦彈幕節特賣，活動至 2026/06/15 上午 10 時 (PT) 截止。其中，《女武神小隊：突破重圍》(Valkyrie Squadron: Breakthrough) 享有史無前例的 30% 折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/09",
+    "title": "人氣遊戲實況主「小豪」疑因直播內容涉不當言論遭平台暫時禁播",
+    "summary": "小豪在一次深夜實況中，針對近期某款熱門遊戲的爭議劇情發表了過於激烈的個人意見，部分言論被網友指責有歧視之嫌，引發社群論壇（Dcard, PTT）大量討論與批評，粉絲間出現兩極反應。所屬經紀公司已發出聲明表示小豪將暫停活動進行內部檢討。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam Next Fest 新品節Demo推薦，多款獨立遊戲搶先體驗",
+    "summary": "Steam Next Fest（新品節）已於6月15日開始，但多款獨立遊戲Demo已提前釋出，例如策略模擬、動作冒險和Roguelike等類型，供玩家在6月1日至6月7日期間搶先體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -360,46 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/06/08",
-    "title": "台灣VTuber「煙花」與「阿狗」社群爭吵事件",
-    "summary": "知名評論者「峰哥」發布懶人包，揭露兩位台灣VTuber因私下傳話與誤會引發的社群爭吵，其中「煙花」後續已在直播中向「阿狗」道歉，承認不該輕信謠言，並私訊「阿狗」表達歉意，事件應已告一段落。",
-    "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "GOG 限時免費",
-    "summary": "《父礙：碎瓷 Remothered: Broken Porcelain》：GOG 數位遊戲平台釋出限時免費活動，玩家可免費取得生存驚悚遊戲《Remothered: Broken Porcelain》完整版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "獨立遊戲 Demo 釋出",
-    "summary": "Devolver Digital 在 Summer Game Fest 2026 期間的 PC Gaming Show 線上發表會中，宣布旗下新作《菇域迷城（Shroom and Gloom）》和《美德與大槌（Virtue and a Sledgehammer）》開放試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Epic Games 限時免費",
-    "summary": "Epic Games 平台提供休閒模擬遊戲《Relaxing Simulator》限時免費領取，活動至北京時間 2026/06/15 凌晨 1 點截止。該遊戲是一款無需主線劇情、敵人或強制目標的放鬆步行模擬遊戲，支援多人連線功能。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/07",
-    "title": "Xbox Games Showcase 2026",
-    "summary": "Xbox Games Showcase 2026 將於2026年6月7日舉行，展示即將在Steam及其他平台上發布的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -407,6 +407,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/15",
     "expiry_date": "2026/06/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/11",
+    "title": "中國移動香港卡限制內地激活，疑為中共阻擋「翻牆」通道",
+    "summary": "中國移動香港官網公告，自6月17日起，所有儲值卡將不支援在中國內地激活。此舉被外界解讀為中共進一步收緊網路管制，阻礙部分大陸民眾透過香港手機卡「翻牆」接觸境外資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/17",
+    "expiry_date": "2026/06/18"
   },
   {
     "category": "PROPHECY",
@@ -593,6 +602,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告 2026 年 9 月 26 日將再次現身",
     "summary": "自稱來自 2058 年的「未來人」國分玲，因其高準確率的預言而受關注。據其預告，他將於 2026 年 9 月 26 日再次歸來，並曾預言 2026 年將是日本及全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/08",
+    "title": "「2058未來人國分玲」預言2026年是全球重大轉折點，並將於9月回歸",
+    "summary": "自稱來自2058年的日本「未來人」國分玲，其過去預言的高準確率引發關注。他曾表示2026年是日本及全球的重大轉折點，並預計將於2026年9月26日再次現身社群，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
