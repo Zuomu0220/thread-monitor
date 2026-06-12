@@ -80,6 +80,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games 2026大特賣免費獎勵清單",
+    "summary": "Epic Games Store 2026大特賣期間提供多項免費遊戲內獎勵。截至6月11日，可領取的獎勵包含《狂野飆車：競速傳奇》車貼包、《Discord Nitro》、《二重螺旋》風息角色補給禮箱·海爾法、《糖豆人》電競神機套裝、《火之石－英雄放置點擊RPG》大特賣福利、《要塞英雄》地平線包膜、《被遺忘國度的閒置冠軍》塔索霍夫的龍槍隊伍包、《無限暖暖》限時優惠禮包、《魔御：STAR DIVE》Divers 超級禮包、《絕冬城之夜Online》暮光冒險者包、《RAVEN2：渡鴉》半週年新手包、《火箭聯盟®》黑色三重輪，以及《星際爭霸戰Online》菁英新手包。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/10",
     "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
@@ -297,6 +305,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam推出4款全新免費遊戲",
+    "summary": "Steam於本週再度釋出四款免費遊戲，玩家可永久領取。本次推出的遊戲包括短篇恐怖體驗《67 Minutes In Heaven》、科幻策略遊戲《Nexus Legacy》、足球守門員模擬遊戲《Goalkeeper Journey》以及復古風格MMORPG《Ether Spire》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/08",
     "title": "Steam 新品節預告",
     "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
@@ -380,22 +396,6 @@
     "date": "2026/06/08",
     "title": "Devolver Digital 旗下作品最新資訊與試玩版",
     "summary": "獨立遊戲發行商 Devolver Digital 在 PC Gaming Show 2026 公開旗下四款遊戲最新消息，包括合作型 FPS《重裝武力：破碎宇宙》（Serious Sam: Shatterverse）將展開封閉測試、雙卡組 Roguelike 遊戲《菇域迷城》（Shroom and Gloom）釋出全新試玩版，以及敘事探索遊戲《美德與大槌》（Virtue and a Sledgehammer）釋出預告片與試玩版。《星際探索者：異星遠征》（ASTRONEER: The Alien Expedition）搶先體驗將於 6 月 12 日登場。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "2026 MIX 夏季遊戲線上展",
-    "summary": "2026 MIX 夏季遊戲線上展已於 6 月 2 日打頭陣登場，展出逾 60 款獨立遊戲，其中包含多款令人矚目的恐怖新作，例如充滿黑色幽默的太空生存遊戲續作《Breathedge 2》全球首度亮相，以及由 Emberstorm Entertainment 開發的《REKA》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 恐怖生存遊戲《父礙》限時免費",
-    "summary": "為慶祝《Remothered》系列第三部曲預告片發布，恐怖生存遊戲《父礙》（Remothered: Tormented Fathers）在 Steam 平台推出一日限時免費活動，至 6 月 9 日凌晨 2:45（UTC+8）截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1064,6 +1064,15 @@
     "date": "2026/05/24",
     "title": "來自2058年的未來人國分玲預言2026年底新傳染病肆虐全球",
     "summary": "有報導提及未來人國分玲的預言，警告2026年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲最新警告：2026年底全新傳染病肆虐全球",
+    "summary": "2058未來人國分玲發出最新預言，警告至2026年底將有一種全新傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
