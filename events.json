@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Epic Games 免費遊戲",
+    "summary": "《戰錘40K：極速狂飆 (Warhammer 40,000: Speed Freeks)》和《銜尾蛇王 (The Ouroboros King)》限時免費領取：Epic Games Store 自 2026 年 6 月 12 日起提供這兩款遊戲免費領取，活動持續至 6 月 19 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -34,14 +42,6 @@
   {
     "category": "GAME",
     "date": "2026/06/11",
-    "title": "Epic Games 免費遊戲",
-    "summary": "Epic Games 商店已開放領取本週最新免費遊戲《銜尾蛇國王》（The Ouroboros King）和競速遊戲《戰錘40K:極速狂飆》（Warhammer 40K Speed Freeks），領取時間為 6 月 11 日至 6 月 18 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
     "title": "番茄鐘RPG《死線勇者》Demo 0.2 版本釋出",
     "summary": "由獨立遊戲團隊 Cointinue Games 製作的番茄鐘 RPG 新作《死線勇者》提前公開最新的 Demo 0.2 試玩版本，預計八月展開搶先體驗。新版本新增了「巫師」職業、經濟與整備系統、以及工作風格診斷報告等內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
@@ -69,6 +69,14 @@
     "title": "新興電競主播「阿凱」與簽約工會爆發薪資糾紛，恐面臨高額違約金",
     "summary": "據社群Threads消息，電競主播阿凱公開指控其簽約的直播工會拖欠多月薪資，並在直播中展示部分合約條款，引發網友對直播產業不透明現象的關注。工會方面尚未公開回應，但已有法律專家指出，合約中可能存在「霸王條款」，阿凱恐將面臨違約賠償。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games 大特賣免費獎勵清單",
+    "summary": "Epic Games 2026 年大特賣活動提供多項免費獎勵，例如《狂野飆車：競速傳奇》車貼包、《糖豆人》電競神機套裝、Discord Nitro 一個月會籍，以及透過 Nitro 獎勵同步解鎖的 Xbox Game Pass 入門版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -281,6 +289,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/09",
+    "title": "Steam 新品節 Demo 推薦",
+    "summary": "2026 年 6 月 Steam 新品節期間，眾多遊戲開發商推出了大量 Demo 供玩家體驗，其中包括恐怖遊戲《67 Minutes In Heaven》、科幻策略遊戲《Nexus Legacy》和守門員模擬遊戲《Goalkeeper Journey》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/08",
     "title": "Steam 新品節預告",
     "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
@@ -381,22 +397,6 @@
     "title": "Steam 恐怖生存遊戲《父礙》限時免費",
     "summary": "為慶祝《Remothered》系列第三部曲預告片發布，恐怖生存遊戲《父礙》（Remothered: Tormented Fathers）在 Steam 平台推出一日限時免費活動，至 6 月 9 日凌晨 2:45（UTC+8）截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 彈幕節活動開跑",
-    "summary": "Steam 平台舉辦「彈幕節」主題特賣活動，展示多款以滿螢幕子彈為特色的射擊遊戲，活動期間為 6 月 8 日至 6 月 15 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/08",
-    "title": "HOLOSTARS 男團成員花咲雅、岸堂天真宣布停止直播活動",
-    "summary": "COVER 旗下男團 HOLOSTARS 的花咲雅與岸堂天真於 2026 年 6 月 8 日宣布結束直播活動，此為公司營運體制變更後，成員與公司協調的結果。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -611,6 +611,15 @@
     "date": "2026/06/08",
     "title": "「2058未來人國分玲」預言2026年是全球重大轉折點，並將於9月回歸",
     "summary": "自稱來自2058年的日本「未來人」國分玲，其過去預言的高準確率引發關注。他曾表示2026年是日本及全球的重大轉折點，並預計將於2026年9月26日再次現身社群，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058未來人國分玲最新警告",
+    "summary": "社群討論提及自稱來自 2058 年的「未來人」國分玲可能即將於 2026 年 9 月 26 日回歸，並警告 2026 年底將有全新傳染病肆虐全球，以及俄烏停火時間已定。此外，國分玲曾預言比特幣價值會飆升至天價，但屆時普通人「只能賣，不能買」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
