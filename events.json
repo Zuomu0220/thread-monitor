@@ -33,6 +33,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 推出六款限時免費遊戲",
+    "summary": "Steam 平台提供六款遊戲限時免費下載，玩家可在 6 月 15 日前永久保留，其中包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、戰略遊戲《Hearts of Iron IV》以及賽博神話 Roguelike 遊戲《Neon Abyss 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 數款限時免費遊戲",
+    "summary": "Steam 平台推出多款限時免費遊戲，如《Bunny Guys!》和《BROTHER!!! Save him!》等，玩家需把握時間下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -188,6 +204,14 @@
     "date": "2026/06/11",
     "title": "Epic Games限時免費領取《Warhammer 40,000: Speed Freeks》",
     "summary": "Epic Games Store於6月11日至6月18日期間，限時免費提供《Warhammer 40,000: Speed Freeks》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games 大特賣：免費領取一個月 Discord Nitro",
+    "summary": "Epic Games Store 舉辦大特賣活動，提供為期一個月的 Discord Nitro 會籍免費領取，活動於台灣時間 2026 年 6 月 11 日晚上 11 點截止。此優惠也包含 Xbox Game Pass 入門版會籍。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/06/09",
     "title": "Steam 新品節推出大量遊戲試玩版",
     "summary": "2026 年 6 月 Steam 新品節期間，眾多遊戲開發商推出了大量遊戲試玩版（Demo）供玩家免費體驗，涵蓋多種遊戲類型。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Steam 彈幕節特賣",
-    "summary": "Steam 平台正在舉辦彈幕節特賣，活動至 2026/06/15 上午 10 時 (PT) 截止。其中，《女武神小隊：突破重圍》(Valkyrie Squadron: Breakthrough) 享有史無前例的 30% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/09",
-    "title": "人氣遊戲實況主「小豪」疑因直播內容涉不當言論遭平台暫時禁播",
-    "summary": "小豪在一次深夜實況中，針對近期某款熱門遊戲的爭議劇情發表了過於激烈的個人意見，部分言論被網友指責有歧視之嫌，引發社群論壇（Dcard, PTT）大量討論與批評，粉絲間出現兩極反應。所屬經紀公司已發出聲明表示小豪將暫停活動進行內部檢討。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Steam Next Fest 新品節Demo推薦，多款獨立遊戲搶先體驗",
-    "summary": "Steam Next Fest（新品節）已於6月15日開始，但多款獨立遊戲Demo已提前釋出，例如策略模擬、動作冒險和Roguelike等類型，供玩家在6月1日至6月7日期間搶先體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
