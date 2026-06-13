@@ -49,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 限時免費：《Goblin Cleanup》、《Rogue Point》等六款遊戲",
+    "summary": "Steam 再次提供六款遊戲限時免費下載，活動至 6 月 15 日。其中包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、二戰策略遊戲《Hearts of Iron IV》以及賽博龐克 Roguelike 遊戲《Neon Abyss 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -216,6 +224,30 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games Store 限時免費：《Rogue Waters》",
+    "summary": "航海 Roguelite 遊戲《Rogue Waters》曾於 Epic Games Store 限時免費領取，但活動已於 6 月 11 日上午 10:00 結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games Store 2026 大特賣免費獎勵清單",
+    "summary": "Epic Games Store 2026 大特賣活動期間，玩家可領取多項遊戲內獎勵，例如《狂野飆車：競速傳奇》的車貼包。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games MEGA 大特賣結束",
+    "summary": "Epic Games MEGA 大特賣活動已於 5 月 14 日開始，並於 6 月 11 日結束，期間提供數百款遊戲深度折扣，最高達 75 折。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/10",
     "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
@@ -269,6 +301,14 @@
     "title": "HOLOSTARS男團成員阿爾蘭蒂斯停止直播活動",
     "summary": "COVER公司旗下男團HOLOSTARS的成員阿爾蘭蒂斯於6月10日終止直播活動。此為繼花咲雅、岸堂天真、律可之後，又一位停止直播活動的HOLOSTARS成員。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/10",
+    "title": "Steam 2026 夏季特賣預告",
+    "summary": "Steam 2026 年度夏季特賣將於 6 月 25 日正式展開，預計將是全年折扣力度最大的平台活動，屆時數萬款 3A 大作與獨立遊戲將集體降價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -356,46 +396,6 @@
     "date": "2026/06/09",
     "title": "Steam 本週再推出四款免費遊戲",
     "summary": "Steam 平台推出《67 Minutes In Heaven》（恐怖）、《Nexus Legacy》（科幻策略）、《Goalkeeper Journey》（足球）以及 MMORPG《Eterspire》供玩家免費下載遊玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Steam 限時免費",
-    "summary": "《Drift86》：Steam 平台釋出休閒賽車遊戲《Drift86》的限時免費活動，原價新台幣 45 元，玩家可限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Epic Games 限時免費遊戲",
-    "summary": "《Relaxing Simulator》：Epic Games 商店釋出《Relaxing Simulator》（放鬆模擬器）限時免費活動，這是一款主打無目標與無壓力的休閒模擬遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Steam 夏季特賣 2026 開啟",
-    "summary": "Steam 夏季特賣為全年規模最大、福利最豐厚的遊戲促銷活動，大量熱門遊戲將迎來史低價、限時折扣、免費福利，是玩家入手 3A 大作、獨立精品遊戲的最佳時機。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/09",
-    "title": "英國網紅直播搭訕中國女子並帶回飯店引發道德爭議",
-    "summary": "一名英國網紅在中國西安進行直播時，為了與粉絲打賭，隨機搭訕中國女性並成功邀請對方前往飯店，此舉在中國社群平台Bilibili及PTT等論壇引發激烈討論，許多網友批評其行為不尊重女性，涉嫌物化女性，並引發關於跨文化交流及直播倫理的爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/09",
-    "title": "Steam 新品節推出大量遊戲試玩版",
-    "summary": "2026 年 6 月 Steam 新品節期間，眾多遊戲開發商推出了大量遊戲試玩版（Demo）供玩家免費體驗，涵蓋多種遊戲類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
