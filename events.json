@@ -65,6 +65,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 新品節 2026 年 6 月版",
+    "summary": "Steam 新品節 2026 年 6 月版將於 6 月 15 日至 6 月 22 日（PDT 時間）舉行。在此活動中，玩家可以試玩尚未發行的遊戲 Demo、與開發者交流並將喜愛的遊戲加入願望清單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/12",
     "title": "Epic Games 免費遊戲",
     "summary": "《戰錘40K：極速狂飆 (Warhammer 40,000: Speed Freeks)》和《銜尾蛇王 (The Ouroboros King)》限時免費領取：Epic Games Store 自 2026 年 6 月 12 日起提供這兩款遊戲免費領取，活動持續至 6 月 19 日。",
@@ -132,6 +140,14 @@
     "date": "2026/06/12",
     "title": "Steam 限時免費 6 款遊戲",
     "summary": "Steam 推出多達 6 款遊戲限時免費下載至 6 月 15 日，其中包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、《鋼鐵雄心 IV》策略遊戲，以及類賽博龐克風格的 Roguelike 遊戲《Neon Abyss 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 免費週末活動",
+    "summary": "Steam 舉辦了免費週末促銷活動，直到 6 月 15 日為止，玩家可以免費體驗《Neon Abyss 2》、《Hearts of Iron 4》、《Mechabellum》、《Goblin Cleanup》和《Rogue Point》等多款遊戲。此外，開放世界武俠 RPG《下一站江湖 II》也限時免費，但目前僅支援中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -360,44 +376,28 @@
     "days_left": 4
   },
   {
-    "category": "STREAMER",
-    "date": "2026/06/10",
-    "title": "世新校長「結束自己」失言爆紅全球並登上脫口秀",
-    "summary": "世新大學校長因「結束自己」失言，在全球爆紅並登上福斯黃金時段脫口秀，引發300萬人關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games Store 免費遊戲《The Ouroboros King》與《Warhammer 40,000: Speed Freeks》",
+    "summary": "Epic Games Store 更新了本週免費遊戲陣容，包含結合西洋棋策略與 Roguelike 玩法的《The Ouroboros King》以及《戰鎚 40K》宇宙的載具戰鬥遊戲《Warhammer 40,000: Speed Freeks》。兩款遊戲皆可從 6 月 11 日起至 6 月 18 日免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "GAME",
-    "date": "2026/06/10",
-    "title": "Epic Games下輪免費遊戲提前曝光為《深空夢里人》和《Robobeat》",
-    "summary": "據Epic Games舅舅黨MeguminShiro透露，預計2026年6月18日起，Epic遊戲商店將開放免費領取《深空夢里人》和《Robobeat》。",
+    "date": "2026/06/11",
+    "title": "Steam 限時免費《Happy's Humble Burger Farm》",
+    "summary": "Steam 平台正在免費贈送一款評分高達 93 分的恐怖冒險遊戲《Happy's Humble Burger Farm》，活動將持續至 6 月 15 日。此遊戲旨在宣傳其預計於 7 月發布的續作《Happy's Humble Burgatory》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/10",
-    "title": "HOLOSTARS 男團成員阿爾蘭蒂斯宣布停止直播活動",
-    "summary": "COVER 旗下 HOLOSTARS 男團的阿爾蘭蒂斯於 2026 年 6 月 10 日宣布停止直播活動，原因與公司營運方針調整後，成員個人對未來規劃的協議有關。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/10",
-    "title": "知名企業勢VTuber「璃月」與動畫師團隊爆發版權爭議",
-    "summary": "VTuber璃月所屬的經紀公司被爆出與合作已久的動畫師團隊因角色美術版權歸屬及報酬問題產生糾紛。動畫師團隊透過社群論壇匿名發文控訴，指責公司未依約支付部分設計費用，並擅自將原創美術元素用於其他專案，引發V圈對智慧財產權的討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "GAME",
-    "date": "2026/06/10",
-    "title": "Epic Games預告下週免費遊戲：《機器節奏》與《深空夢裡人》",
-    "summary": "Epic Games Store預告將於台灣時間6月18日23:00至6月25日23:00期間，提供《機器節奏》（Beat Invaders）和《深空夢裡人》（Deep Space Dreamer）兩款遊戲免費領取。",
+    "date": "2026/06/11",
+    "title": "Epic Games Store 預告下週免費遊戲《Citizen Sleeper》與《Robobeat》",
+    "summary": "Epic Games Store 已預告其 6 月 18 日起的免費遊戲將是備受好評的敘事型 RPG《Citizen Sleeper》和節奏第一人稱 Roguelite 遊戲《Robobeat》。兩款遊戲都將首次在 Epic Games Store 免費贈送。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -431,6 +431,15 @@
     "date": "2026/06/12",
     "title": "多國靈媒集體預測 2026 世界盃結果",
     "summary": "英國靈媒歐朱拉預測法國將奪冠，西班牙、巴西、阿根廷進入半決賽，摩洛哥和巴拿馬為黑馬。另一靈媒庫舍爾提醒關注克羅埃西亞和巴拉圭。巴西預言家沙樂美則預見「火焰般色彩」的球隊將走到最後。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "2026 世界盃靈媒預測結果",
+    "summary": "2026 年世界盃足球賽期間，多位靈媒紛紛發表預測。英國靈媒歐朱拉（Nicolas Aujula）預測西班牙、巴西和阿根廷將晉級半決賽，摩洛哥和巴拿馬將是黑馬，並直覺法國將奪冠。超自然現象調查員庫舍爾（Angela Kuschel）則提醒需留意克羅埃西亞和巴拉圭。巴西預言家沙樂美（Athos Salome）則看到「火焰般的顏色」，暗示與這種顏色相關的球隊將走到最後。  (世界盃決賽日期)",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
