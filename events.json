@@ -8,6 +8,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/12",
+    "title": "ESPN女主播Monica McNutt直播失言道歉",
+    "summary": "知名體育頻道ESPN分析師兼紐約尼克隊廣播評論員Monica McNutt，在NBA總冠軍賽G4直播中因麥克風未關，脫口而出質疑天后泰勒絲「不是尼克迷，滾出去」，該言論在X、TikTok與Instagram等社群媒體引發廣大粉絲憤怒，導致公關危機。Monica McNutt隨後於6月12日公開道歉，坦承自己的言論有誤。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/12",
+    "title": "抖音直播主宋珍珍「電梯門」事件引爆桃色風暴與股價大跌",
+    "summary": "大陸抖音直播主宋珍珍上傳與勝宏科技董事長陳濤在電梯內親熱的影片，引爆桃色風暴，並控訴陳濤及多名上市公司老闆占其便宜。此事件導致勝宏科技股價連日暴跌，市值蒸發540億元人民幣。中共網信辦隨後介入，發布新規要求網絡平台管控「企業負面訊息」。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
@@ -116,6 +132,30 @@
     "date": "2026/06/11",
     "title": "Steam 新品節2026年6月版即將登場",
     "summary": "Steam 於2026年6月11日宣布，Steam 新品節2026年6月版將於6月15日至6月22日舉行，屆時將有數千款獨立遊戲Demo供玩家試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/11",
+    "title": "日本聲優伊藤正巳爆發不倫風波",
+    "summary": "日本聲優、演員兼舞台劇導演伊藤正巳被爆料與女性粉絲發展婚外情，公開多張曖昧對話截圖、飯店密會紀錄，甚至流出疑似事後避孕藥照片，引發日本動漫及聲優圈譁然。伊藤正巳於6月11日發表聲明認錯道歉，坦承是不負責任的行為所造成。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Steam多款遊戲限時免費",
+    "summary": "Steam平台於2026年6月11日起陸續推出多款限時免費遊戲，包括《Happy's Humble Burger Farm》（至6月15日）、《The Red Lantern》（至6月19日）及《Eets》（至6月16日）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/11",
+    "title": "Epic Games Store限時免費遊戲更新",
+    "summary": "Epic Games Store於2026年6月11日至6月18日期間，限時免費提供策略遊戲《The Ouroboros King》和戰鬥競速遊戲《Warhammer 40,000 : Speed Freeks》。此外，《Rogue Waters》與《Songs Of Conquest》也於本週稍早限時免費，並於6月11日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -358,46 +398,6 @@
     "summary": "遊民星空於2026年6月9日報導，Steam新品節期間將有大量Demo釋出，並特別推薦了6款涵蓋策略模擬、動作冒險和Roguelike等類型的必玩Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 新品節預告",
-    "summary": "Steam 新品節將於 2026 年 6 月 15 日至 6 月 22 日舉行，屆時將有更多新作 Demo 亮相。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 夏日特賣預告",
-    "summary": "Steam 2026 年夏日特賣將於 2026 年 6 月 25 日至 7 月 9 日舉行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 彈幕節",
-    "summary": "Steam 平台於 6 月 8 日至 6 月 15 日舉行彈幕節活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "Steam 成人內容審查議題",
-    "summary": "有消息指出，針對 Steam 成人內容的審核加強，有前員工爆料 Gabe Newell（G胖）曾對此表達不滿，質疑法務部門的工作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/08",
-    "title": "《Minecraft》假模組藏病毒",
-    "summary": "近日發現《Minecraft》的假模組可能藏有病毒，駭客可藉此偷看玩家螢幕，恐有 11 萬名玩家受害。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
