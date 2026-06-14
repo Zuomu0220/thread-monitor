@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/06/14",
+    "title": "Steam 限時免費",
+    "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/13",
     "title": "呱吉比喻劉在錫與黃子佼遭炎上爭議",
@@ -76,6 +84,14 @@
     "date": "2026/06/13",
     "title": "Steam Next Fest 2026 夏季遊戲 Demo 推薦",
     "summary": "YouTube 頻道推薦多款 Steam Next Fest 夏季遊戲 Demo，其中包括彈幕射擊動作冒險遊戲《Sjun Past》、舒適城市建造遊戲《A Little H》以及黑暗奇幻殖民模擬/即時戰術 RPG《Dungeon Settlers》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 奇妙勞動遊戲節 2026",
+    "summary": "Steam 舉辦「奇妙勞動遊戲節 2026」，匯集經營小生意、完成日常工作、整理空間等主題的休閒放鬆遊戲折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -170,8 +186,8 @@
   {
     "category": "GAME",
     "date": "2026/06/12",
-    "title": "Steam 限時免費",
-    "summary": "Steam 平台推出六款限時免費遊戲，截止至 6 月 15 日，包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、戰略遊戲《Hearts of Iron IV》、賽博神話肉鴿遊戲《Neon Abyss 2》等。",
+    "title": "Steam Smilegate 發行商特賣",
+    "summary": "Steam 舉辦 Smilegate 發行商特賣，旗下遊戲《沙尼‧羊研究室》與《風暴女僕》等祭出特別優惠價格。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/06/11",
     "title": "Epic Games 限時免費：《Rogue Waters》",
     "summary": "海盜主題 Roguelite 回合制戰術遊戲《Rogue Waters》於 Epic Games 平台限時免費領取，活動至 2026/06/11 23:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games",
-    "summary": "兩款遊戲限時免費領取：《The Ouroboros King》與《Warhammer 40,000: Speed Freeks》可在 Epic Games Store 限時免費領取，活動期間為 6 月 11 日至 6 月 18 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games 限時免費遊戲",
-    "summary": "Epic Games Store 宣布《戰鎚 40K：極速狂人》（Warhammer 40,000: Speed Freeks）將於 6 月 11 日至 6 月 18 日期間限時免費領取。 此外，《Rogue Waters》已於 6 月 11 日上午 10 點前結束免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1172,6 +1172,78 @@
     "date": "2026/12/27",
     "title": "未來士兵警告",
     "summary": "一位自稱來自未來的士兵發出警告，聲稱 2026 年只是開始，將涉及伊隆·馬斯克、AI 戰爭和人類命運的殘酷真相。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "來自2058年的未來人國分玲預言",
+    "summary": "國分玲表示，2026年是日本及全球的重大轉折點，並預警2026年底將有全新傳染病肆虐全球，以及俄烏停火時間已定。她也曾預言比特幣價值將持續飆升。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "自稱2048年香港未來人預言",
+    "summary": "一名自稱來自2048年的香港未來人帳號截圖在 Threads 瘋傳，預告2026年香港將有水災、傳染病，社群媒體將充斥震撼新聞，並聲稱這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "4chan未來人預言世界大戰與外星人入侵",
+    "summary": "多個網路討論提及來自 4chan 的未來人預言，指出 2026 年將發生第三次世界大戰和外星人入侵。其中提到以色列與美國將攻擊伊朗，導致核事件，但非人類智慧將介入阻止全面毀滅。另有預言稱美國將爆發內戰，並失去超級大國地位。一份流傳的 2006 年 4chan 預言截圖（後被證實為偽造）也曾指出美伊戰爭將於 2026 年 2 月 28 日開始。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "命理專家艾菲爾預言2026年",
+    "summary": "命理專家艾菲爾根據星象預言，2026年將是變動的災難年、戰爭年，物價與生活成本將慢慢變貴，天災人禍感受度提高，人心更容易焦慮。他特別指出，美洲可能發生內戰（逢美國選舉年），而台灣相對安全。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "來自2075年未來人YJ預言",
+    "summary": "根據自稱來自2075年的未來人YJ的預言，截至2026年，機器人的數量將超越人類。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "2026全球大分流預言",
+    "summary": "YouTube 頻道討論2026年將開始「全球大分流」，指宇宙將把人們帶往不同的人生道路，涉及靈性覺醒、意識提升、新地球等概念。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "兩位未來人緊急預言日本2026年重大事件",
+    "summary": "YouTube 影片討論兩位未來人對2026年日本將發生重大事件的預言，具體內容未詳述，但暗示日本將迎來意識變化與歷史轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "預言家預測2026年中國將發生巨變",
+    "summary": "預言家預測2026年中國將發生大事與巨變，並指出四國之間可能爆發大戰。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
