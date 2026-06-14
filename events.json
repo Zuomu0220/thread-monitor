@@ -265,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 限時免費試玩",
+    "summary": "Steam 推出為期至 2026/06/15 的 6 款遊戲限時免費試玩活動，包括《Goblin Cleanup》、《Rogue Point》、《鋼鐵雄心4》（Hearts of Iron IV）、《Neon Abyss 2》、《Mechabellum》以及《下一站江湖Ⅱ》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games Store限時免費遊戲更新",
-    "summary": "Epic Games Store於2026年6月11日至6月18日期間，限時免費提供策略遊戲《The Ouroboros King》和戰鬥競速遊戲《Warhammer 40,000 : Speed Freeks》。此外，《Rogue Waters》與《Songs Of Conquest》也於本週稍早限時免費，並於6月11日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/11",
     "title": "中國移動香港卡限制內地激活，疑為中共阻擋「翻牆」通道",
@@ -464,6 +464,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/12/08",
+    "title": "2072年時空旅人預言：2026年3I/ATLAS彗星撞擊地球",
+    "summary": "一名自稱來自 2072 年的時空旅行者在 Reddit 上預言，2026 年 7 月將有一顆名為 3I/ATLAS 的彗星在太平洋南部撞擊地球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/31",
+    "expiry_date": "2026/08/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/01/14",
     "title": "靈媒帕克預言2026年4月15日至11月15日為自然災害危險期",
     "summary": "靈媒帕克表示，2026年4月15日至11月15日是自然災害的極度危險週期，特別點在於8月12日的新月之夜，木星、太陽與月亮將聚集在巨蟹座，為重要的觸發點。",
@@ -521,6 +530,15 @@
     "date": "2026/01/18",
     "title": "2062 年未來人警示 2026 年夏日本可能發生複合型災難",
     "summary": "有關自稱來自 2062 年的未來人過去的預言再次被提及，許多報導指出 2026 年夏天日本可能面臨「三重災害」導致的「日本沉沒」絕望情境。這些災害暗示與地震、科學數據及未來人的暗號警示等因素相關。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/18",
+    "title": "2062年未來人等預言：2026年夏季日本沈沒的X日",
+    "summary": "綜合未來人預言、科學警告及各方訊息，有聲音指出 2026 年夏季將是日本發生「三重災害」導致「日本沉沒」的「X日」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
@@ -1262,6 +1280,69 @@
     "date": "2026/06/14",
     "title": "預言家預測2026年中國將發生巨變",
     "summary": "預言家預測2026年中國將發生大事與巨變，並指出四國之間可能爆發大戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058年未來人國分玲預言：2026年底全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，2026 年底將有全新的傳染病肆虐全球，其致死率和傳播速度都令人擔憂。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058年未來人國分玲預言：2026年是全球重大轉折點",
+    "summary": "國分玲指出 2026 年對日本及全球來說是個重大的轉折點，將發生許多關鍵性事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048香港未來人預言：2026年香港將有水災、傳染病與外星接觸",
+    "summary": "一名自稱來自 2048 年的香港未來人預告，2026 年香港將會面臨水災、傳染病，且社群媒體會充斥震撼新聞。此外，也聲稱 2026 至 2027 年間將開始出現「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/08",
+    "title": "2072年時空旅人預言：2026年全球暖化達新高",
+    "summary": "該時空旅行者也預測，2026 年是全球暖化達到令人擔憂新高度的關鍵窗口期，全球平均氣溫紀錄極有可能被刷新，並逼近比工業化前高 1.5°C 的閾值。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/19",
+    "title": "盲眼龍婆預言：2026年大規模天災、台海衝突、AI反噬及外星人降臨",
+    "summary": "保加利亞盲眼預言家「龍婆」曾預測 2026 年將發生大規模天災，影響全球 7-8% 的地區，並預言會有台海衝突、第三次世界大戰、AI 反噬人類以及外星人降臨地球等重大事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/23",
+    "title": "基督教末世預言家預警：2026年是動盪年份，關注AI與經濟",
+    "summary": "基督教末世預言家波尼（Bo Polny）警示 2026 年是個動盪的年份，並有其他預言家提醒要關注人工智能的快速發展和全球經濟的劇烈震盪。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/05",
+    "title": "Chris Bledsoe預言：2026年將有新知識降臨",
+    "summary": "Chris Bledsoe 根據「女神」（The Lady，又稱 Hathor）的預言指出，2026 年會發生一場「啟示」（apocalypse，意指揭示真相），屆時將有新的知識降臨，可能與外星生命有關。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
