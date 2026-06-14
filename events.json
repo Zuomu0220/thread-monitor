@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/06/14",
+    "title": "Steam 最新免費 Demo",
+    "summary": "多款遊戲 Demo 在 Steam 上發布，包含《La Cosa Nostra Demo》、《SCP Foundation: Universe Horror Demo》、《Again：Loop》及《Four Lights Demo》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/13",
     "title": "呱吉比喻劉在錫與黃子佼遭炎上爭議",
@@ -388,14 +396,6 @@
     "date": "2026/06/11",
     "title": "Epic Games 限時免費：《征服之歌》",
     "summary": "致敬《魔法門之英雄無敵3》的回合制戰略遊戲《征服之歌》（Songs of Conquest）於 Epic Games 平台限時免費領取，活動至 2026/06/11 23:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games 限時免費：《Rogue Waters》",
-    "summary": "海盜主題 Roguelite 回合制戰術遊戲《Rogue Waters》於 Epic Games 平台限時免費領取，活動至 2026/06/11 23:00 止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
