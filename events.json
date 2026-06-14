@@ -105,6 +105,38 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 限免遊戲：《黑皮的亨寶漢堡農場餐廳》",
+    "summary": "Steam 平台推出恐怖餐廳經營遊戲《黑皮的亨寶漢堡農場餐廳》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 限免遊戲：《Eets》",
+    "summary": "為紀念發行 20 週年，科雷娛樂（Klei Entertainment）的益智解謎遊戲《Eets》在 Steam 平台開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 限免遊戲：《Wild Terra 2：New Lands》",
+    "summary": "中世紀奇幻沙盒遊戲《Wild Terra 2：New Lands》限時免費領取，活動至 2026 年 6 月 16 日 1:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam 限免遊戲：《The Red Lantern》",
+    "summary": "以雪橇犬為主題的荒野探索生存冒險遊戲《The Red Lantern》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/12",
     "title": "Epic Games 免費遊戲",
     "summary": "《戰錘40K：極速狂飆 (Warhammer 40,000: Speed Freeks)》和《銜尾蛇王 (The Ouroboros King)》限時免費領取：Epic Games Store 自 2026 年 6 月 12 日起提供這兩款遊戲免費領取，活動持續至 6 月 19 日。",
@@ -368,38 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games Store 限時免費：《Rogue Waters》",
-    "summary": "航海 Roguelite 遊戲《Rogue Waters》曾於 Epic Games Store 限時免費領取，但活動已於 6 月 11 日上午 10:00 結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games Store 2026 大特賣免費獎勵清單",
-    "summary": "Epic Games Store 2026 大特賣活動期間，玩家可領取多項遊戲內獎勵，例如《狂野飆車：競速傳奇》的車貼包。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games MEGA 大特賣結束",
-    "summary": "Epic Games MEGA 大特賣活動已於 5 月 14 日開始，並於 6 月 11 日結束，期間提供數百款遊戲深度折扣，最高達 75 折。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games 限時免費：《征服之歌》",
-    "summary": "致敬《魔法門之英雄無敵3》的回合制戰略遊戲《征服之歌》（Songs of Conquest）於 Epic Games 平台限時免費領取，活動至 2026/06/11 23:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -503,6 +503,15 @@
     "date": "2026/01/25",
     "title": "地球失去引力謠言",
     "summary": "社群媒體上流傳一則謠言，聲稱地球將於 2026 年 8 月 12 日失去引力 7 秒，導致數千萬人死亡，並假借 NASA 名義背書。然而，NASA 已明確表示此說法毫無科學依據，並已遭到駁斥。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "英國預言家 Craig Hamilton-Parker 預警 2026 年全球災難與政治動盪",
+    "summary": "英國預言家帕克預測，2026 年日本周邊海底火山噴發可能產生致命毒氣雲，南印度面臨大海嘯。國際政治方面，美中俄三方衝突恐升溫為間接戰爭，國際領導人可能面臨刺殺危機。他指出 4 月 15 日至 11 月 15 日是極度危險週期，其中 8 月 12 日的新月之夜是一個必須小心的時間觸發點。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
