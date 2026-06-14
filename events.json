@@ -136,6 +136,30 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/06/13",
+    "title": "VTuber「斜落せつな」過去身份與炎上傳聞調查",
+    "summary": "關於VTuber「斜落せつな」的過往爭議進行了調查。文章指出，社群上關於她的炎上事件多數是因為剪輯影片標題誇大所造成的誤解，她本人會在直播結束後發布「剪輯自由指南」，並在說明欄中補充，以避免聽眾產生誤會。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/06/13",
+    "title": "VTuber「酒寄颯馬」前世與炎上傳聞分析",
+    "summary": "針對VTuber酒寄颯馬被懷疑是「裏瀨すう」的前世身份進行了討論，並分析了相關的炎上傳聞與臉部曝光資訊。文章認為，儘管聲線和活動時期有許多吻合之處，但在官方未證實前，仍無法斷定。關於炎上和臉部曝光的傳聞，也缺乏確鑿證據。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/13",
+    "title": "Steam舉辦「奇妙勞動遊戲節2026」與多項發行商特賣",
+    "summary": "Steam於2026年6月13日舉辦了第二屆「奇妙勞動遊戲節2026」，匯集了關於經營小生意、完成日常工作、整理空間等令人放鬆的遊戲。同時，6月12日有Qubic Games發行商特賣，6月11日有《Final Fantasy VII》相關作品歷史最高折扣，以及Football Fiesta 2026等多項特惠活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/06/12",
     "title": "Epic Games 免費遊戲",
@@ -372,30 +396,6 @@
     "date": "2026/06/11",
     "title": "Epic Games Store免費遊戲",
     "summary": "本週Epic Games Store開放限時免費領取《The Ouroboros King》和《Warhammer 40,000: Speed Freeks》，活動將持續至6月18日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Steam新品節2026年6月版公告",
-    "summary": "Steam宣布新品節將於太平洋時間6月15日上午10點至6月22日上午10點舉行，屆時將有數千款獨立遊戲試玩版供玩家體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games限時免費領取《Warhammer 40,000: Speed Freeks》",
-    "summary": "Epic Games Store於6月11日至6月18日期間，限時免費提供《Warhammer 40,000: Speed Freeks》供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games 大特賣：免費領取一個月 Discord Nitro",
-    "summary": "Epic Games Store 舉辦大特賣活動，提供為期一個月的 Discord Nitro 會籍免費領取，活動於台灣時間 2026 年 6 月 11 日晚上 11 點截止。此優惠也包含 Xbox Game Pass 入門版會籍。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -718,6 +718,15 @@
     "date": "2026/01/02",
     "title": "科學預言",
     "summary": "美國學者預測 2026 年 11 月 13 日將因人口過剩迎來世界末日：美國伊利諾大學的三位學者於 1960 年發表論文預測，世界末日將在 2026 年 11 月 13 日來臨，原因為人口持續以指數型態成長，最終導致社會崩潰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預測2026年人類將因人口過剩而滅亡",
+    "summary": "已故美國物理學家Heinz von Foerster在1960年於《科學》期刊預測，人類將於2026年11月13日因人口過度擁擠而滅亡。他認為即使沒有核戰，人類最終也會被自己「擠死」，並提出了具爭議的「人口恆定器」方案以控制人口增長。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
