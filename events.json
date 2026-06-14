@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 限時免費",
+    "summary": "Steam 平台推出六款限時免費遊戲，截止至 6 月 15 日，包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、戰略遊戲《Hearts of Iron IV》、賽博神話肉鴿遊戲《Neon Abyss 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -392,14 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games Store 免費遊戲《The Ouroboros King》與《Warhammer 40,000: Speed Freeks》",
-    "summary": "Epic Games Store 更新了本週免費遊戲陣容，包含結合西洋棋策略與 Roguelike 玩法的《The Ouroboros King》以及《戰鎚 40K》宇宙的載具戰鬥遊戲《Warhammer 40,000: Speed Freeks》。兩款遊戲皆可從 6 月 11 日起至 6 月 18 日免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/26",
     "title": "來自2058年的日本未來人國分玲預警全球經濟動盪",
@@ -494,6 +494,15 @@
     "date": "2026/01/14",
     "title": "靈媒帕克預言 2026 年 8 月 12 日為危險時間觸發點",
     "summary": "克雷格·漢密爾頓-帕克指出，2026 年 8 月 12 日新月之夜，木星、太陽與月亮聚集在巨蟹座，將是一個必須多加小心的時間觸發點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/25",
+    "title": "地球失去引力謠言",
+    "summary": "社群媒體上流傳一則謠言，聲稱地球將於 2026 年 8 月 12 日失去引力 7 秒，導致數千萬人死亡，並假借 NASA 名義背書。然而，NASA 已明確表示此說法毫無科學依據，並已遭到駁斥。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -702,6 +711,15 @@
     "summary": "素有「巴爾幹諾查丹瑪斯」之稱的「盲眼龍婆」巴巴·萬加預言，2026 年將是全球巨變的一年。她預測 2026 年 11 月將首次與地外智慧生命接觸，一艘巨大的宇宙飛船將進入地球大氣層。此外，她還預見人工智能將在 2026 年開始重塑人類社會，全球將受到自然災害影響，且第三次世界大戰迫在眉睫。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/30"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/11",
+    "title": "盲眼龍婆預言",
+    "summary": "盲眼龍婆預言 2026 年將是 AI 完全控制人類生活的一年，並存在 AI「反撲人類」的潛在危機。此外，她還預測外星智慧生命將於 2026 年 11 月首次抵達地球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/30",
+    "expiry_date": "2026/12/01"
   },
   {
     "category": "PROPHECY",
@@ -1127,6 +1145,33 @@
     "date": "2026/06/12",
     "title": "「白毛股神」Serenity 帳號影響 A 股市場預言",
     "summary": "海外社群平台一名自稱「Serenity」的帳號，以其白髮二次元頭像和高調投資戰績（自稱 2026 年初至 5 月底回報率 4502%）走紅，其貼文與 A 股股價異動時間吻合，被視為具有市場影響力的預言帳號。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的未來人國分玲預言",
+    "summary": "國分玲表示 2026 年將是日本及全球的重大轉折點。她曾預言日本中央新幹線部分區間將開始運作，以及首都功能會部分轉移或統治機構發生變化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/17",
+    "title": "維也納信函預言",
+    "summary": "一封據稱在 20 世紀後期出現的「維也納信函」描述，人類將在 2026 年左右跨越一個「可見性閾值」，屆時資訊將更難被控制，真相也將更難以辨別，標誌著美國穩定性的緩慢瓦解。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "未來士兵警告",
+    "summary": "一位自稱來自未來的士兵發出警告，聲稱 2026 年只是開始，將涉及伊隆·馬斯克、AI 戰爭和人類命運的殘酷真相。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
