@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam《Edge of Memories》Demo 發布",
+    "summary": "由 NACON 和 Midgar Studio 合作開發的遊戲《Edge of Memories》將於 2026 年 6 月 15 日在 Steam 平台推出免費 Demo。玩家將能體驗遊戲的首個區域和主線任務的開端。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -273,6 +281,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam限時免費遊戲釋出",
+    "summary": "Steam 平台在 6 月 12 日至 6 月 15 日期間提供多款遊戲限時免費領取，包含合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、策略遊戲《Hearts of Iron IV》以及賽博神話 Roguelike 遊戲《Neon Abyss 2》等六款佳作。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 新增免費遊戲",
+    "summary": "Steam 平台在 6 月 12 日發布消息，推薦《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲可限時免費下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -372,30 +396,6 @@
     "date": "2026/06/11",
     "title": "Epic Games Store《征服之歌》限時免費",
     "summary": "Epic Games Store目前開放策略遊戲《征服之歌》（Songs Of Conquest）限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Steam 新品節2026年6月版即將登場",
-    "summary": "Steam 於2026年6月11日宣布，Steam 新品節2026年6月版將於6月15日至6月22日舉行，屆時將有數千款獨立遊戲Demo供玩家試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/11",
-    "title": "日本聲優伊藤正巳爆發不倫風波",
-    "summary": "日本聲優、演員兼舞台劇導演伊藤正巳被爆料與女性粉絲發展婚外情，公開多張曖昧對話截圖、飯店密會紀錄，甚至流出疑似事後避孕藥照片，引發日本動漫及聲優圈譁然。伊藤正巳於6月11日發表聲明認錯道歉，坦承是不負責任的行為所造成。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Steam多款遊戲限時免費",
-    "summary": "Steam平台於2026年6月11日起陸續推出多款限時免費遊戲，包括《Happy's Humble Burger Farm》（至6月15日）、《The Red Lantern》（至6月19日）及《Eets》（至6月16日）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
