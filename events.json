@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam 新品節 6 月版登場",
+    "summary": "Steam 新品節（Steam Next Fest）6 月版於 6 月 15 日至 6 月 22 日舉行，提供大量獨立遊戲的試玩版，讓玩家能搶先體驗多款新作。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -337,6 +345,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/12",
+    "title": "Steam 限時免費暢玩多款遊戲",
+    "summary": "Steam 推出週末免費暢玩活動，截至 6 月 15 日，玩家可免費體驗《霓虹深淵 2 (Neon Abyss 2)》、《鋼鐵雄心 4 (Hearts of Iron 4)》、《機甲大戰 (Mechabellum)》、《哥布林清理隊 (Goblin Cleanup)》和《叛逆點 (Rogue Point)》等多款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/11",
     "title": "Epic Games Store 大特賣即將結束",
     "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
@@ -380,22 +396,6 @@
     "date": "2026/06/11",
     "title": "日本女實況主直播生吞活蚯蚓引發爭議",
     "summary": "日本一名女實況主為了追求流量，在直播中挑戰生吞活蚯蚓，最終引發嘔吐反應，相關影片與行為在社群媒體上引發廣泛討論與批評，認為其內容低俗且危害健康。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games 2026 大特賣免費獎勵",
-    "summary": "Epic Games 2026 大特賣活動提供多項遊戲內免費獎勵，包含《狂野飆車：競速傳奇》車貼包、《糖豆人》電競神機套裝、《要塞英雄》地平線包膜等。部分獎勵領取時間至 2026/06/11 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/11",
-    "title": "新興電競主播「阿凱」與簽約工會爆發薪資糾紛，恐面臨高額違約金",
-    "summary": "據社群Threads消息，電競主播阿凱公開指控其簽約的直播工會拖欠多月薪資，並在直播中展示部分合約條款，引發網友對直播產業不透明現象的關注。工會方面尚未公開回應，但已有法律專家指出，合約中可能存在「霸王條款」，阿凱恐將面臨違約賠償。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1352,6 +1352,15 @@
     "date": "2026/05/24",
     "title": "2058 未來人國分玲警告：2026 年底全球傳染病肆虐",
     "summary": "有網路影片指出，來自 2058 年的「未來人」國分玲曾發出最新警告，預言 2026 年底將有全新的傳染病肆虐全球。 她此前曾成功預測東京奧運金牌數、股市暴跌、安倍晉三辭職等事件，因此其預言受到關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 未來人國分玲預言新傳染病與全球轉折點",
+    "summary": "曾準確預測多項事件的「2058 未來人」國分玲預計於 2026 年 9 月 26 日再次現身。有預言指出，2026 年底將有全新的傳染病肆虐全球，且 2026 年將是日本乃至全球的重大轉折點。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
