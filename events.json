@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "不可思議迷宮風格冒險RPG《一方降妖錄》免費Demo上線",
+    "summary": "由YiFang Studio開發、2P Games發行的新作《一方降妖錄》今日於Steam平台公開免費試玩Demo，並將參與6月Steam新品節。試玩版開放遊戲前三個迷宮關卡，玩家可在變化莫測的秘境中磨練經驗與智慧，體驗斬妖除魔的冒險樂趣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/06/11",
-    "title": "日本女實況主直播生吞活蚯蚓引發爭議",
-    "summary": "日本一名女實況主為了追求流量，在直播中挑戰生吞活蚯蚓，最終引發嘔吐反應，相關影片與行為在社群媒體上引發廣泛討論與批評，認為其內容低俗且危害健康。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/11",
     "title": "中國移動香港卡限制內地激活，疑為中共阻擋「翻牆」通道",
@@ -692,6 +692,15 @@
     "date": "2026/06/08",
     "title": "2058年未來人國分玲預言：將於2026年9月26日再次歸來",
     "summary": "據報導，國分玲曾表示他將於2026年9月26日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言2026至2030年重大事件，並預告將於2026年9月26日再次歸來",
+    "summary": "來自2058年的未來人國分玲因其高準確率的預言而受到關注，她曾預言2026年至2030年會發生重大事件。據稱，她曾提到2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系動搖。國分玲也曾表示，她會在2026年9月26日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
