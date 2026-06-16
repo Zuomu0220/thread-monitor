@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/16",
+    "title": "Steam 新作發售：《絕區零》",
+    "summary": "動作、可愛風格的免費遊玩遊戲《絕區零》於 Steam 平台發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/15",
     "title": "Steam《Edge of Memories》Demo 發布",
     "summary": "由 NACON 和 Midgar Studio 合作開發的遊戲《Edge of Memories》將於 2026 年 6 月 15 日在 Steam 平台推出免費 Demo。玩家將能體驗遊戲的首個區域和主線任務的開端。",
@@ -76,6 +84,14 @@
     "date": "2026/06/15",
     "title": "Steam 新品節 2026 年 6 月版",
     "summary": "Valve 主辦的 Steam 新品節已於太平洋時間 2026 年 6 月 15 日上午 10 時（UTC-7）正式開啟，持續至 6 月 22 日上午 10 時。本次活動為期 7 天，聚焦於尚未發售的即將推出遊戲，提供數百款可玩試用版（Demo），並同步舉辦開發者直播與實時互動。確認參展的重點遊戲包括暗黑奇幻 MMORPG《Embers of the Uncrowned》、韓國心理恐怖遊戲《深巷》、真人出演都市傳說冒險遊戲《AKIBA LOST（秋葉原迷蹤）》、敘事向釣魚冒險遊戲《待釣之魚》、卡牌構築與塔防 Roguelite《Runeforged Monolith》、最多 8 人 PvP 中世紀戰馬對戰《Horse & Horse》。此外，國產獨立遊戲如《今古群俠傳》、《中國足球模擬器》、《餃子與店主》及《魔女：終末旅途》也確認參展。部分作品如《AKIBA LOST》明確支持試玩存檔繼承至正式版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam Next Fest 2026 獨立遊戲試玩版",
+    "summary": "2026 年 6 月的 Steam Next Fest 期間，多款獨立遊戲推出試玩版供玩家體驗，其中包括 Roguelike Deckbuilder 遊戲《The Devil's Due》、超現實心理驚悚敘事解謎平台遊戲《Time To Wake Up》、合作解謎冒險遊戲《Lost In Tandem》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/06/12",
     "title": "Steam 限時免費試玩",
     "summary": "Steam 推出為期至 2026/06/15 的 6 款遊戲限時免費試玩活動，包括《Goblin Cleanup》、《Rogue Point》、《鋼鐵雄心4》（Hearts of Iron IV）、《Neon Abyss 2》、《Mechabellum》以及《下一站江湖Ⅱ》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam限時免費遊戲釋出",
-    "summary": "Steam 平台在 6 月 12 日至 6 月 15 日期間提供多款遊戲限時免費領取，包含合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、策略遊戲《Hearts of Iron IV》以及賽博神話 Roguelike 遊戲《Neon Abyss 2》等六款佳作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 新增免費遊戲",
-    "summary": "Steam 平台在 6 月 12 日發布消息，推薦《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲可限時免費下載。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
