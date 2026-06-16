@@ -1,5 +1,21 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/06/17",
+    "title": "無相關事件",
+    "summary": "本週（2026/06/10 至 2026/06/17）未搜捕到台灣/華語圈實況主相關的重大負面與爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/16",
+    "title": "Steam 特價：《Gastova: The Witches of Arkana》",
+    "summary": "《Gastova: The Witches of Arkana》在 Steam 上提供 25% 的折扣優惠，活動將於 2026 年 6 月 22 日截止。這是一款輕鬆愉快的 2D 平台冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/06/15",
     "title": "Steam《Edge of Memories》Demo 發布",
@@ -53,6 +69,14 @@
     "title": "Angelababy直播帶貨陷「高定爭議」與「資源降級」討論",
     "summary": "藝人Angelababy於6月13日的紅蜻蜓品牌帶貨直播，因身著RVDK高定禮服卻搭配平價國貨鞋，引發品牌設計師不滿並公開表態。此事件導致外界對其時尚資源和演藝事業「資源降級」的質疑聲浪，輿論呈現粉絲力挺與路人唱衰的兩極分化。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam 新品節 2026 年 6 月版",
+    "summary": "Valve 主辦的 Steam 新品節已於太平洋時間 2026 年 6 月 15 日上午 10 時（UTC-7）正式開啟，持續至 6 月 22 日上午 10 時。本次活動為期 7 天，聚焦於尚未發售的即將推出遊戲，提供數百款可玩試用版（Demo），並同步舉辦開發者直播與實時互動。確認參展的重點遊戲包括暗黑奇幻 MMORPG《Embers of the Uncrowned》、韓國心理恐怖遊戲《深巷》、真人出演都市傳說冒險遊戲《AKIBA LOST（秋葉原迷蹤）》、敘事向釣魚冒險遊戲《待釣之魚》、卡牌構築與塔防 Roguelite《Runeforged Monolith》、最多 8 人 PvP 中世紀戰馬對戰《Horse & Horse》。此外，國產獨立遊戲如《今古群俠傳》、《中國足球模擬器》、《餃子與店主》及《魔女：終末旅途》也確認參展。部分作品如《AKIBA LOST》明確支持試玩存檔繼承至正式版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -132,14 +156,6 @@
     "date": "2026/06/13",
     "title": "Epic Games 承諾 2026 年提供 12 款免費遊戲",
     "summary": "Epic Games 持續其積極的市場策略，承諾在 2026 年全年向 PC 用戶免費提供十幾款主要遊戲，旨在與 Steam 競爭，並已推出《要塞英雄》、《Apex 英雄》和《漫威對手》等熱門免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam 新品節 2026 年 6 月版",
-    "summary": "Steam 新品節 2026 年 6 月版將於 6 月 15 日至 6 月 22 日（PDT 時間）舉行。在此活動中，玩家可以試玩尚未發行的遊戲 Demo、與開發者交流並將喜愛的遊戲加入願望清單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -384,22 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "惡搞遊戲《Elders K.O.》Demo 釋出",
-    "summary": "由獨立遊戲開發工作室 Eufonia Studio 打造的多人派對亂鬥遊戲《Elders K.O.》於 2026 年 6 月中旬釋出限時免費體驗版（Demo），玩家可操控高齡長者進行荒誕的動作對決。本作預計於 2026 年 8 月 1 日正式發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 限時免費暢玩多款遊戲",
-    "summary": "Steam 推出週末免費暢玩活動，截至 6 月 15 日，玩家可免費體驗《霓虹深淵 2 (Neon Abyss 2)》、《鋼鐵雄心 4 (Hearts of Iron 4)》、《機甲大戰 (Mechabellum)》、《哥布林清理隊 (Goblin Cleanup)》和《叛逆點 (Rogue Point)》等多款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "Reddit 討論：2026年6月24日外星人/時間旅行者事件預警",
@@ -413,6 +413,15 @@
     "date": "2026/06/12",
     "title": "Reddit 論壇討論《明日之戰》電影中 2026 年 6 月 24 日的外星人/時空旅人警告",
     "summary": "Reddit 社群中出現討論，指出電影《明日之戰》中，未來人類在 2026 年 6 月 24 日的世界盃足球賽期間回到過去，警告即將發生的外星人戰爭。儘管是電影情節，但有網友將其與現實中的一些象徵主義聯繫起來，討論其可能性。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/24",
+    "expiry_date": "2026/06/25"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/14",
+    "title": "靈媒預言世足賽期間外星人入侵與綁架事件",
+    "summary": "一位靈媒夢到在世足賽期間，美國邁阿密足球場將被「邪惡外星人」入侵，並預言在 6 月 24 日將有可怕事件發生，可能與「巴西對戰蘇格蘭」的比賽有關，甚至可能發生大規模綁架。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/24",
     "expiry_date": "2026/06/25"
