@@ -40,6 +40,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/15",
+    "title": "實況主Ac7ionMan直播疑似染毒爭議",
+    "summary": "國外實況主Ac7ionMan在直播中被拍到與另一名男子神情渙散、雙眼緊閉癱軟，社群平台Threads上瘋傳截圖，引發網友對其戒毒15年後疑似再次吸毒的討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/15",
+    "title": "Angelababy直播帶貨陷「高定爭議」與「資源降級」討論",
+    "summary": "藝人Angelababy於6月13日的紅蜻蜓品牌帶貨直播，因身著RVDK高定禮服卻搭配平價國貨鞋，引發品牌設計師不滿並公開表態。此事件導致外界對其時尚資源和演藝事業「資源降級」的質疑聲浪，輿論呈現粉絲力挺與路人唱衰的兩極分化。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
@@ -232,6 +248,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/13",
+    "title": "中國知名網紅直播引發狗肉爭議",
+    "summary": "一位中國知名網紅在直播中展示將狗變成餐點的內容，引發數百萬粉絲強烈憤怒，輿論譁然。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/06/12",
     "title": "Epic Games 免費遊戲",
@@ -374,30 +398,6 @@
     "summary": "Steam 推出週末免費暢玩活動，截至 6 月 15 日，玩家可免費體驗《霓虹深淵 2 (Neon Abyss 2)》、《鋼鐵雄心 4 (Hearts of Iron 4)》、《機甲大戰 (Mechabellum)》、《哥布林清理隊 (Goblin Cleanup)》和《叛逆點 (Rogue Point)》等多款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 限時免費體驗 6 款遊戲",
-    "summary": "Steam 本週推出 6 款限時免費試玩遊戲，活動至 6 月 15 日或 16 日凌晨 1 時左右結束。玩家可在期限內體驗包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、《鋼鐵雄心4》（Hearts of Iron IV）、賽博龐克 Roguelike 遊戲《Neon Abyss 2》、大型機甲自動戰鬥遊戲《Mechabellum》以及武俠開放世界角色扮演遊戲《下一站江湖Ⅱ》等作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 限時免費六款遊戲至 6 月 15 日",
-    "summary": "Steam 平台在 6 月 12 日至 6 月 15 日期間，提供六款遊戲限時免費下載並可永久保留，其中包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、二戰策略遊戲《Hearts of Iron IV》以及賽博龐克 Roguelike 遊戲《Neon Abyss 2》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/11",
-    "title": "Epic Games Store 大特賣即將結束",
-    "summary": "Epic Games Store 的夏季大特賣活動將於美東時間 6 月 11 日上午 11 點結束，提供多款遊戲的超級優惠、免費遊戲和購物贈禮。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
