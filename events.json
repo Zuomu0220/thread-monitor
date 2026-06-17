@@ -97,6 +97,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam 免費領取遊戲",
+    "summary": "Steam 於 2026 年 6 月份提供多款遊戲免費領取並永久保留。其中包含《地獄 67 分鐘 (67 Minutes In Heaven)》、《星系傳承 (Nexus Legacy)》、《守門員旅程 (Goalkeeper Journey)》及《以太尖塔 (Ether Spire)》等。此外，《美食大冒險 (Eets)》和《荒野星球 2：新大陸 (Wild Terra 2: New Lands)》的免費領取活動於 2026 年 6 月 15 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam 新品節 2026 年 6 月 Demo 釋出",
+    "summary": "Steam 新品節於 2026 年 6 月舉行，釋出數千款遊戲 Demo 供玩家體驗。值得關注的 Demo 包括：《剝皮器 (The Skin Stapler)》、《波特蘭綠霧 (Green Mist over Portland)》、《骨堡 (Bonehold)》、《多邊形鬥士 (Poly Fighter)》、《逃離嬰兒警報 (Escape the Baby Alarm)》、《巫術之劍 (Swordcery)》、《鳳凰隕落 (One Fenix Down)》、《地獄奴隸 II (HellSlave II)》、《計畫 P.I.T.T. (Project P.I.T.T.)》、《歡迎來到艾德菲爾德 (Welcome to Elderfield)》、《荒野之息：失落的春天 (Wilderings: The Lost Spring)》、《幕僚長復古版 (Staffer Retro)》、《佐佐與失落的夢 (Zozo and the Lost Dreams)》、《五分鐘 (Five More Minutes)》、《貓咪秘書 (Cat Secretary)》、《引擎墜落 (Enginefall)》、《零點蔓延 (Sprawl Zero)》、《下沉之星的秩序 (Order Of The Sinking Star)》、《薄霧獵人 (Mistfall Hunter)》、《鋼鐵之巢 (Iron Nest)》、《塵埃前線 (Dustfront)》、《濤之領域 (Realm of Taou)》、《赫什 (Hish)》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -108,6 +124,14 @@
     "date": "2026/06/14",
     "title": "Steam 最新免費 Demo",
     "summary": "多款遊戲 Demo 在 Steam 上發布，包含《La Cosa Nostra Demo》、《SCP Foundation: Universe Horror Demo》、《Again：Loop》及《Four Lights Demo》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/14",
+    "title": "Steam 限時免費試玩",
+    "summary": "Steam 推出為期週末的 6 款遊戲限時免費試玩活動，並於香港時間 2026 年 6 月 16 日凌晨 1 點左右結束。參與遊戲包括：《哥布林清潔工 (Goblin Cleanup)》、《叛徒據點 (Rogue Point)》、《鋼鐵雄心 4 (Hearts of Iron IV)》、《霓虹深淵 2 (Neon Abyss 2)》、《機甲戰鬥 (Mechabellum)》以及《下一站江湖Ⅱ (Next Stop Jianghu II)》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -372,30 +396,6 @@
     "date": "2026/06/12",
     "title": "Steam 平台六款遊戲限時免費",
     "summary": "Steam 平台提供六款遊戲限時免費下載至 6 月 15 日，其中包括合作清潔遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、二戰策略遊戲《Hearts of Iron IV》以及賽博神話 Roguelike 遊戲《Neon Abyss 2》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam Smilegate 發行商特賣",
-    "summary": "Steam 舉辦 Smilegate 發行商特賣，旗下遊戲《沙尼‧羊研究室》與《風暴女僕》等祭出特別優惠價格。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 限時免費遊戲釋出",
-    "summary": "Steam 平台釋出六款遊戲供玩家限時免費下載並永久保留，包括合作清理遊戲《Goblin Cleanup》、四人合作射擊遊戲《Rogue Point》、戰略遊戲《Hearts of Iron IV》、賽博神話肉鴿遊戲《Neon Abyss 2》等，活動至 2026 年 6 月 15 日結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/12",
-    "title": "Steam 限時免費試玩",
-    "summary": "Steam 推出為期至 2026/06/15 的 6 款遊戲限時免費試玩活動，包括《Goblin Cleanup》、《Rogue Point》、《鋼鐵雄心4》（Hearts of Iron IV）、《Neon Abyss 2》、《Mechabellum》以及《下一站江湖Ⅱ》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
