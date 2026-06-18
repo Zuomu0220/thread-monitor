@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/06/19",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/06/12 至 2026/06/19 期間，未發現台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/18",
     "title": "無相關事件",
     "summary": "在 2026/06/11 至 2026/06/18 期間，未發現台灣/華語圈實況主與 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
@@ -20,6 +28,30 @@
     "date": "2026/06/18",
     "title": "Epic Games Store 公布 6 月最後一批免費遊戲",
     "summary": "Epic Games Store 正式公布其 2026 年 6 月的最後一批免費遊戲，包含一款類《空洞騎士 (Hollow Knight)》的作品《虛空鍛造 (Voidwrought)》以及一款經典遊戲的重製版，這些遊戲於 6 月 18 日開始提供。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Capcom 確認參加 2026 科隆遊戲展",
+    "summary": "Capcom 宣布將參展 2026 年科隆遊戲展，預計展出《鬼武者：Way of the Sword (Onimusha: Way of the Sword)》與《洛克人：Dual Override (Mega Man: Dual Override)》兩款新作，並將展示《快打旋風 6 (Street Fighter 6)》和《龍族教義 2 (Dragon's Dogma 2)》的 Nintendo Switch 2 版本。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store《Voidwrought》與經典遊戲限時免費",
+    "summary": "Epic Games Store 公布 6 月最終波限時免費遊戲，預計於 6 月 18 日至 6 月 25 日期間，提供《Voidwrought》與一款未公開的經典遊戲重製版供玩家免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "2026 中國遊戲開發者大會 CGDC 嘉賓資訊更新",
+    "summary": "2026 中國遊戲開發者大會 (CGDC) 將於 7 月 31 日至 8 月 1 日在上海舉行，官方持續更新重磅嘉賓名單與議程資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -60,6 +92,14 @@
     "date": "2026/06/17",
     "title": "Steam 新品節開跑 大量免費試玩登場",
     "summary": "Steam 於 2026 年 6 月 16 日起舉辦新一輪 Steam 新品節活動，玩家可於即日起至 6 月 22 日期間免費下載及試玩眾多未發售遊戲的 Demo，涵蓋 RPG、競速、Roguelike、敘事冒險等多種類型作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/17",
+    "title": "Xbox 確認參加 2026 科隆遊戲展",
+    "summary": "Xbox 官方確認將參加 2026 年德國科隆遊戲展（Gamescom 2026），並將提供玩家現場試玩《戰爭機器：E-Day (Gears of War: E-Day)》的戰役活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -257,6 +297,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam Next Fest 多款獨立遊戲 Demo 釋出",
+    "summary": "Steam 新品節於六月登場，多款獨立遊戲 Demo 持續開放試玩，包含 Roguelike 卡牌構築遊戲《The Devil's Due》、超現實心理驚悚敘事解謎遊戲《Time To Wake Up》以及合作解謎冒險遊戲《Lost In Tandem》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -348,54 +396,6 @@
     "date": "2026/06/13",
     "title": "Steam 限時免費：《The Red Lantern》",
     "summary": "雪橇犬生存冒險遊戲《The Red Lantern》在 Steam 平台限時免費領取，活動至 2026/06/19 1:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam 免費遊戲：《Gravity Circuit》",
-    "summary": "像素風格動作遊戲《Gravity Circuit》於 Steam 平台限時免費領取，活動至 2026/06/15 01:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam 免費遊戲：《Tell Me Why》",
-    "summary": "敘事冒險遊戲《Tell Me Why》於 Steam 平台限時免費領取，活動至 2026/07/02 01:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Epic Games 承諾 2026 年提供 12 款免費遊戲",
-    "summary": "Epic Games 持續其積極的市場策略，承諾在 2026 年全年向 PC 用戶免費提供十幾款主要遊戲，旨在與 Steam 競爭，並已推出《要塞英雄》、《Apex 英雄》和《漫威對手》等熱門免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam Next Fest 2026 夏季遊戲 Demo 推薦",
-    "summary": "YouTube 頻道推薦多款 Steam Next Fest 夏季遊戲 Demo，其中包括彈幕射擊動作冒險遊戲《Sjun Past》、舒適城市建造遊戲《A Little H》以及黑暗奇幻殖民模擬/即時戰術 RPG《Dungeon Settlers》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam 奇妙勞動遊戲節 2026",
-    "summary": "Steam 舉辦「奇妙勞動遊戲節 2026」，匯集經營小生意、完成日常工作、整理空間等主題的休閒放鬆遊戲折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam 限免遊戲：《黑皮的亨寶漢堡農場餐廳》",
-    "summary": "Steam 平台推出恐怖餐廳經營遊戲《黑皮的亨寶漢堡農場餐廳》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
