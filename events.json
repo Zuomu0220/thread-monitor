@@ -280,6 +280,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/06/14",
+    "title": "Steam 限時免費試玩六款遊戲",
+    "summary": "Steam 平台於本週推出限時免費試玩活動，共有六款遊戲開放體驗，包括《哥布林清潔工》(Goblin Cleanup)、《流氓點》(Rogue Point)、《鋼鐵雄心 IV》(Hearts of Iron IV)、《霓虹深淵 2》(Neon Abyss 2)、《機械戰隊》(Mechabellum) 以及《下一站江湖Ⅱ》(Next Stop Jianghu II)。此活動的免費試玩資格預計於香港時間 6 月 16 日凌晨 1 時左右結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/13",
     "title": "呱吉比喻劉在錫與黃子佼遭炎上爭議",
@@ -389,14 +397,6 @@
     "title": "Steam 限免遊戲：《The Red Lantern》",
     "summary": "以雪橇犬為主題的荒野探索生存冒險遊戲《The Red Lantern》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/13",
-    "title": "VTuber「斜落せつな」過去身份與炎上傳聞調查",
-    "summary": "關於VTuber「斜落せつな」的過往爭議進行了調查。文章指出，社群上關於她的炎上事件多數是因為剪輯影片標題誇大所造成的誤解，她本人會在直播結束後發布「剪輯自由指南」，並在說明欄中補充，以避免聽眾產生誤會。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 2
   },
   {
@@ -1406,6 +1406,15 @@
     "date": "2026/05/24",
     "title": "2058 未來人國分玲預言新傳染病與全球轉折點",
     "summary": "曾準確預測多項事件的「2058 未來人」國分玲預計於 2026 年 9 月 26 日再次現身。有預言指出，2026 年底將有全新的傳染病肆虐全球，且 2026 年將是日本乃至全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 年未來人國分玲警告 2026 年底傳染病與「黃泉客輪」",
+    "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）再次發出警告，預言 2026 年將是日本及全球的重大轉折點。她特別指出，2026 年底將有全新的傳染病肆虐全球，並提到俄烏戰爭的停火時間已定。此外，她還預言在 2026 年的最後七個月將有「黃泉客輪」帶走許多生命。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
