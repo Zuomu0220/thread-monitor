@@ -1,11 +1,19 @@
 [
   {
     "category": "STREAMER",
-    "date": "2026/06/17",
+    "date": "2026/06/18",
     "title": "無相關事件",
-    "summary": "本週（2026/06/10 至 2026/06/17）未搜捕到台灣/華語圈實況主相關的重大負面與爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "summary": "在 2026/06/11 至 2026/06/18 期間，未發現台灣/華語圈實況主與 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "KRAFTON 2026 Steam 發行商特賣活動",
+    "summary": "KRAFTON 於 Steam 平台舉辦 2026 年發行商特賣，自台灣時間 6 月 18 日凌晨 01:00 至 6 月 26 日凌晨 00:59 止。此次特賣提供旗下超過 30 款作品最高達 15 折 (85% OFF) 的優惠，包含《絕地求生 (PUBG: BATTLEGROUNDS)》、《inZOI》、《卡利斯托協議 (The Callisto Protocol)》、《最後紀元 (Last Epoch)》與《永恆輪迴 (Eternal Return)》等。活動期間《絕地求生》也將推出「G-Coin 雙倍儲值送」活動，並首度揭密新作《Age Twisters》及公開《PUBG: Black Budget》的全新公開測試參與指南。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
   },
   {
     "category": "GAME",
@@ -217,6 +225,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/15",
+    "title": "Steam 2026 年 6 月新品節開啟",
+    "summary": "Steam 2026 年 6 月新品節已於台灣時間 6 月 15 日開啟，活動持續至 6 月 22 日。在此期間，玩家可體驗來自全球開發者的大量免費遊戲試玩版 (Demo)，並參與實況直播與開發者聊天。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/14",
     "title": "Steam 限時免費",
     "summary": "《Don't Starve》開發商 Klei Entertainment 的益智解謎遊戲《Eets》於 Steam 限時免費。",
@@ -381,22 +397,6 @@
     "title": "VTuber「斜落せつな」過去身份與炎上傳聞調查",
     "summary": "關於VTuber「斜落せつな」的過往爭議進行了調查。文章指出，社群上關於她的炎上事件多數是因為剪輯影片標題誇大所造成的誤解，她本人會在直播結束後發布「剪輯自由指南」，並在說明欄中補充，以避免聽眾產生誤會。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/13",
-    "title": "VTuber「酒寄颯馬」前世與炎上傳聞分析",
-    "summary": "針對VTuber酒寄颯馬被懷疑是「裏瀨すう」的前世身份進行了討論，並分析了相關的炎上傳聞與臉部曝光資訊。文章認為，儘管聲線和活動時期有許多吻合之處，但在官方未證實前，仍無法斷定。關於炎上和臉部曝光的傳聞，也缺乏確鑿證據。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/13",
-    "title": "Steam舉辦「奇妙勞動遊戲節2026」與多項發行商特賣",
-    "summary": "Steam於2026年6月13日舉辦了第二屆「奇妙勞動遊戲節2026」，匯集了關於經營小生意、完成日常工作、整理空間等令人放鬆的遊戲。同時，6月12日有Qubic Games發行商特賣，6月11日有《Final Fantasy VII》相關作品歷史最高折扣，以及Football Fiesta 2026等多項特惠活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
