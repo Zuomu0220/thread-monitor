@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Steam新品節",
+    "summary": "2026 年 Steam 6 月新品節已於北京時間 6 月 16 日 01:00 正式開啟，將持續至 6 月 23 日 01:00，提供超過 8000 款尚未正式發售的遊戲免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -153,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/17",
+    "title": "Steam遊戲下架前領取",
+    "summary": "殭屍逃殺射擊遊戲《Fight or Flight》宣布將從 Steam 商店下架並結束開發，玩家可在停售前領取並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/16",
     "title": "Steam 特價：《Gastova: The Witches of Arkana》",
     "summary": "《Gastova: The Witches of Arkana》在 Steam 上提供 25% 的折扣優惠，活動將於 2026 年 6 月 22 日截止。這是一款輕鬆愉快的 2D 平台冒險遊戲。",
@@ -212,6 +228,14 @@
     "date": "2026/06/16",
     "title": "《傳奇》系列 30 週年特賣",
     "summary": "為慶祝《傳奇》系列 30 週年，Steam 平台推出限時特價活動，讓玩家重溫喜愛的冒險故事或探索全新作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/16",
+    "title": "Epic Games特惠",
+    "summary": "《湯姆克蘭西：全境封鎖2》推出「深入黑暗同捆」優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -372,30 +396,6 @@
     "date": "2026/06/15",
     "title": "Steam 新品節 2026 年 6 月版開啟",
     "summary": "Steam 新品節於 2026 年 6 月 15 日（PT）至 6 月 22 日（PT）舉行，期間提供數百款即將發行遊戲的免費試玩 Demo，涵蓋策略模擬、動作冒險、Roguelike 等多種遊戲類型。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/15",
-    "title": "Steam Milestone 6 月賽車遊戲特賣",
-    "summary": "Steam 於 2026 年 6 月 15 日展開「Milestone 6 月特賣」，多款賽車遊戲提供優惠折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/15",
-    "title": "Steam Next Fest 多款獨立遊戲 Demo 釋出",
-    "summary": "Steam 新品節於六月登場，多款獨立遊戲 Demo 持續開放試玩，包含 Roguelike 卡牌構築遊戲《The Devil's Due》、超現實心理驚悚敘事解謎遊戲《Time To Wake Up》以及合作解謎冒險遊戲《Lost In Tandem》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/15",
-    "title": "Steam新品節（Steam Next Fest）開跑",
-    "summary": "Steam新品節於2026年6月15日至6月22日舉行，將展示數百款即將發行遊戲的免費試玩版、開發者實況直播與聊天活動，提供玩家體驗新作並給予回饋的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
