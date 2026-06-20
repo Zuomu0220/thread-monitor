@@ -56,6 +56,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/19",
+    "title": "Steam 新品節重點 Demo 推薦",
+    "summary": "Steam 2026 年 6 月新品節期間，多款精彩 Demo 供玩家體驗，其中包括動作角色扮演遊戲《鬼武者：劍之道 (Onimusha: Way of the Sword)》，預計於 2026 年 9 月 25 日發售。另有 Lovecraftian 恐怖遊戲《Penguin Colony》等獨特作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/18",
     "title": "無相關事件",
@@ -249,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 免費遊戲",
+    "summary": "Epic Games Store 於 2026 年 6 月 18 日公布本月最後兩款限時免費遊戲為《雲霄飛車大亨 3：完整版 (RollerCoaster Tycoon 3 Complete Edition)》和《Voidwrought》，玩家可於 6 月 25 日前領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam 限時免費《Fight or Flight》結束多年開發，領取可永久保留",
-    "summary": "殭屍逃殺射擊遊戲《Fight or Flight》宣布結束開發並將從 Steam 商店下架。玩家可在停售前將遊戲加入收藏庫，即可永久保留並繼續遊玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/16",
-    "title": "Steam 特價：《Gastova: The Witches of Arkana》",
-    "summary": "《Gastova: The Witches of Arkana》在 Steam 上提供 25% 的折扣優惠，活動將於 2026 年 6 月 22 日截止。這是一款輕鬆愉快的 2D 平台冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "Reddit 討論：2026年6月24日外星人/時間旅行者事件預警",
@@ -449,6 +449,15 @@
     "date": "2026/06/12",
     "title": "Reddit 討論：2026 年 6 月 24 日外星人/時間旅行者事件",
     "summary": "Reddit 論壇上有討論指出，電影《明日之戰》中未來人類回溯時空警告外星戰爭的橋段，被聯想到 2026 年 6 月 24 日可能有外星人或時間旅行者相關事件發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/24",
+    "expiry_date": "2026/06/25"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "Reddit 討論 2026 年 6 月 24 日外星人/時間旅行者事件",
+    "summary": "Reddit 論壇上有人討論，電影《明日之戰》中未來人類回溯時空警告外星人戰爭的場景，與近期 TikTok 上一位女性發布的內容有所關聯，推測 2026 年 6 月 24 日可能會有外星人或時間旅行者相關事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/24",
     "expiry_date": "2026/06/25"
