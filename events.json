@@ -1,11 +1,11 @@
 [
   {
     "category": "STREAMER",
-    "date": "2026/06/19",
+    "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
-    "summary": "在 2026/06/12 至 2026/06/19 期間，未發現台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
+    "summary": "在 2026 年 6 月 13 日至 6 月 20 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等符合條件的最新負面與爭議事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 7
   },
   {
     "category": "GAME",
@@ -241,6 +241,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 公布 6 月最終免費遊戲",
+    "summary": "Epic Games Store 正式宣布 2026 年 6 月的最後一批免費遊戲，包含《RollerCoaster Tycoon 3 Complete Edition》和《Voidwrought》。這兩款遊戲將於 6 月 25 日至 7 月 2 日開放限時領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -388,14 +396,6 @@
     "date": "2026/06/16",
     "title": "Steam 特價：《Gastova: The Witches of Arkana》",
     "summary": "《Gastova: The Witches of Arkana》在 Steam 上提供 25% 的折扣優惠，活動將於 2026 年 6 月 22 日截止。這是一款輕鬆愉快的 2D 平台冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/16",
-    "title": "Steam 新作發售：《絕區零》",
-    "summary": "動作、可愛風格的免費遊玩遊戲《絕區零》於 Steam 平台發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -764,6 +764,15 @@
     "date": "2026/05/23",
     "title": "來自 2058 年的國分玲預言：2026 年是日本及全球的重大轉折點",
     "summary": "來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點，並預告她將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人「國分玲」預告 2026 年 9 月 26 日再度歸來",
+    "summary": "自稱來自 2058 年的未來人「國分玲」曾表示，她將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -1559,6 +1568,78 @@
     "date": "2026/12/29",
     "title": "2062 年未來人預言：2023-2026 年機器人數量將超越人類",
     "summary": "該 2062 年未來人預測，從 2023 年到 2026 年，機器人的數量將會超越人類。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058 年未來人「國分玲」預言 2026 年將是全球重大轉折點",
+    "summary": "「國分玲」表示，2026 年將是日本乃至全球的重大轉折點。她還預言比特幣價值將飆升至天價，且她所處的未來世界普遍學習中文，這與一位帶來糟糕後果的女首相有關。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 年未來人「國分玲」警告 2026 年底全新傳染病將肆虐全球",
+    "summary": "根據「國分玲」的預言，2026 年底將有全新的傳染病在全球範圍內肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2026 年國際事故",
+    "summary": "自稱來自其他時間線的「未來人」sombrero2079 在 Threads 上表示，2026 年將因 AI 引發一起嚴重的國際事故。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2026 年美歐嚴重野火",
+    "summary": "sombrero2079 預言，2026 年美國和歐洲地區將發生嚴重的大型野火，導致當地人口大量流失與外移。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048 香港未來人預言 2026 年香港將有水災、傳染病",
+    "summary": "一名自稱來自 2048 年的香港未來人曾在 Threads 上預告，2026 年香港將會發生水災和傳染病，且社交媒體上將充斥震撼新聞。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048 香港未來人預言 2026 年開始有外星接觸",
+    "summary": "該香港未來人也聲稱，從 2026 年起將開始出現「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/14",
+    "title": "香港未來人預言 2026 年有新病毒",
+    "summary": "一位自稱來自香港的未來人提及，2026 年將出現一種新的病毒。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "未來士兵警告：2026 年只是開始",
+    "summary": "一則 YouTube 影片引述一位「未來士兵」的警告，稱 2026 年將是許多重大事件的開端，並提及馬斯克、AI 戰爭與人類命運等相關議題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
