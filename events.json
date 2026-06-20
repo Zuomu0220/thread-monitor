@@ -233,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 公布2026年6月最後一批免費遊戲",
+    "summary": "Epic Games Store 正式宣布了2026年6月的最後一批免費遊戲，其中包括一款類似《Hollow Knight》的遊戲和一款邪典經典重製版。此外，從6月18日至6月25日，免費遊戲為《Citizen Sleeper》和《ROBOBEAT》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -388,14 +396,6 @@
     "date": "2026/06/16",
     "title": "Steam 新作發售：《絕區零》",
     "summary": "動作、可愛風格的免費遊玩遊戲《絕區零》於 Steam 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/16",
-    "title": "Steam 2026 夏季特賣時程預告與必買推薦",
-    "summary": "Valve 官方公布 Steam 2026 夏季特賣將於 6 月 25 日至 7 月 9 日舉行。雖然特賣尚未開始，但有遊戲新聞網站提前整理了上半年爆紅的三款必買神作：《極限競速：地平線 6》、《燕雲十六聲》和《007：初露鋒芒》，建議玩家提前加入願望清單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -835,6 +835,15 @@
     "date": "2026/01/02",
     "title": "2026 年 11 月 13 日世界末日預言再起",
     "summary": "根據 1960 年代物理學家提出的人口成長模型推算，以及盲眼龍婆的「不安的轉折年」預言，2026 年 11 月 13 日被部分人視為潛在的世界末日日期。此預言與國際風險評估交織，提醒人類正視人口增長、資源分配、氣候變遷與國際衝突等全球性挑戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "物理學家預言「人口恆定器」以避免2026年世界終結",
+    "summary": "三立新聞網報導物理學家Heinz von Foerster在1960年預言，若人口增長不加控制，世界將在2026年11月13日因「太擠」而滅絕。他提出「人口恆定器」政策，建議對生育超過兩胎的家庭課稅。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
