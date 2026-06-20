@@ -96,6 +96,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/06/19",
+    "title": "Steam 限時免費《機甲戰士5》、《雙點博物館》等5款遊戲免費遊玩",
+    "summary": "Steam 平台推出多款遊戲限時免費體驗，包含《機甲戰士5：僱傭兵》、《雙點博物館》、《Speedball》、《恆星戰役》和《黎明死線》，活動至 2026 年 6 月 23 日 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/18",
     "title": "無相關事件",
@@ -313,6 +321,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 揭曉 2026 年 6 月最終免費遊戲",
+    "summary": "Epic Games Store 宣布其 2026 年 6 月的最終免費遊戲，預計於 6 月 25 日至 7 月 2 日期間開放領取，其中包括《Rollercoaster Tycoon 3 Complete Edition》和《Voidwrought 6》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "GameSpain 2026 獨立遊戲產業慶典直播",
-    "summary": "Steam 平台於 2026 年 6 月 17 日週三舉辦 GameSpain 2026 實況直播，慶祝西班牙獨立遊戲產業。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam遊戲下架前領取",
-    "summary": "殭屍逃殺射擊遊戲《Fight or Flight》宣布將從 Steam 商店下架並結束開發，玩家可在停售前領取並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "Reddit 討論：2026年6月24日外星人/時間旅行者事件預警",
@@ -458,6 +458,15 @@
     "date": "2026/06/12",
     "title": "Reddit 討論 2026 年 6 月 24 日外星人/時間旅行者事件",
     "summary": "Reddit 論壇上有人討論，電影《明日之戰》中未來人類回溯時空警告外星人戰爭的場景，與近期 TikTok 上一位女性發布的內容有所關聯，推測 2026 年 6 月 24 日可能會有外星人或時間旅行者相關事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/24",
+    "expiry_date": "2026/06/25"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "2026 年 6 月 24 日外星人/時間旅行者入侵預言",
+    "summary": "Reddit 上有討論指出，有 TikTok 用戶聲稱夢到在 2026 年 6 月 24 日（世界盃期間巴西與蘇格蘭的比賽中），邁阿密將發生外星人入侵。該日期被解讀為「6.6.6」的象徵。此預言與電影《明日之戰》中未來人類回溯時空警告外星戰爭的情節有所呼應。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/24",
     "expiry_date": "2026/06/25"
