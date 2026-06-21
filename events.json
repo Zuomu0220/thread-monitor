@@ -152,6 +152,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/19",
+    "title": "Steam限時免費暢玩五款大作，另有額外免費遊戲可永久保留",
+    "summary": "即日起至 6 月 22 日止，Steam用戶可免費暢玩《群星 (Stellaris)》、《雙點博物館 (Two Point Museum)》、《黎明死線 (Dead by Daylight)》、《機甲戰士5：傭兵 (MechWarrior 5: Mercenaries)》和《疾速球 (Speedball)》五款遊戲。此外，還有另一款遊戲可永久免費領取並保留在遊戲庫中。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/18",
     "title": "無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/06/18",
     "title": "Steam 夏日折扣與發行商特賣",
     "summary": "Steam 平台於本週推出多項遊戲折扣活動。Curve Games 激爽夏日折扣提供最高 90% 的優惠，WB Games 的 DC 漫畫主題遊戲系列（包含《蝙蝠俠：阿卡漢瘋人院》、《阿卡漢之城》、《阿卡漢騎士》）最高享 90% 折扣，「真人快打」系列遊戲也有特賣活動。此外，Bohemia Interactive 發行商特賣提供旗下遊戲最高 85% 的折扣。EA app 也舉辦夏日大促銷，至 7 月 9 日止，包含《戰地風雲 6》、《EA SPORTS FC™ 26》等遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/18",
-    "title": "2026 秘魯遊戲展盛大開幕",
-    "summary": "2026 年秘魯遊戲展 (Peru Gaming Show, PGS) 於 6 月 17 日在利馬賽馬會展中心盛大開幕，匯聚拉丁美洲遊戲產業的領導者。本次展覽廳將展示超過 50 家國內外參展商的最新產品和解決方案，涵蓋陸基和線上遊戲領域，並舉辦教育和資訊交流會，探討監管、線上博彩和金融安全等議題。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
