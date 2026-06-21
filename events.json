@@ -1,5 +1,13 @@
 [
   {
+    "category": "VTUBER",
+    "date": "2026/06/21",
+    "title": "個人勢VTuber名取さな疑遭「コレコレ砲」鎖定引發討論",
+    "summary": "日本社群媒體上出現關於個人勢VTuber名取さな可能成為知名爆料直播主コレコレ目標的討論。儘管留言中多為猜測與對VTuber界現狀的討論，並無具體爆料內容，但此消息仍引發部分粉絲關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
@@ -353,6 +361,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 公布 2026 年 6 月底最終免費遊戲：節奏射擊遊戲《ROBOBEAT》與敘事 RPG《Citizen Sleeper》",
+    "summary": "Epic Games Store 於 2026 年 6 月 18 日公布了當週限時免費遊戲，包含節奏跑酷射擊遊戲《ROBOBEAT》和好評敘事 RPG《Citizen Sleeper》。玩家可在限時內領取並永久擁有這些遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -380,22 +396,6 @@
     "date": "2026/06/17",
     "title": "Steam tinyBuild 發行商特賣與Bus Simulator特惠",
     "summary": "Steam上tinyBuild的遊戲享有高達80%折扣，活動於6月18日結束。Bus Simulator系列特惠則持續至6月24日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam 新品節開跑 大量免費試玩登場",
-    "summary": "Steam 於 2026 年 6 月 16 日起舉辦新一輪 Steam 新品節活動，玩家可於即日起至 6 月 22 日期間免費下載及試玩眾多未發售遊戲的 Demo，涵蓋 RPG、競速、Roguelike、敘事冒險等多種類型作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Xbox 確認參加 2026 科隆遊戲展",
-    "summary": "Xbox 官方確認將參加 2026 年德國科隆遊戲展（Gamescom 2026），並將提供玩家現場試玩《戰爭機器：E-Day (Gears of War: E-Day)》的戰役活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1838,6 +1838,24 @@
     "date": "2026/01/06",
     "title": "Reddit 用戶尼莫預測：2026 年底前宗教領袖更迭",
     "summary": "Reddit 用戶「尼莫」預測，某宗教團體領袖迪特將在 2026 年底之前成為先知。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/01",
+    "title": "匿名 4chan 用戶預測比特幣在 2026 年底達到 100 萬美元",
+    "summary": "一位匿名的 4chan 用戶於 2 月 25 日發布預測，聲稱比特幣將在 2026 年底達到 100 萬美元。此預測因該用戶在 2019 年曾準確預測比特幣底部而引發關注。然而，市場專家對此抱持懷疑態度，認為其缺乏基本面支撐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶再次發布加密貨幣預言，稱比特幣將於 2026 年底達到 100 萬美元，以太坊達到 10 萬美元",
+    "summary": "一位在 2019 年曾準確預測比特幣底部行情的匿名 4chan 用戶再次現身，於 2025 年 11 月發布預言，指出比特幣將在 2026 年底達到 100 萬美元，以太坊達到 10 萬美元。此預言在社群媒體上廣泛傳播，但也有人對其真實性提出質疑，認為帖子號碼異常且缺乏「tripcode」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
