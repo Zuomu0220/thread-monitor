@@ -16,6 +16,14 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/06/21",
+    "title": "個人勢VTuber名取さな疑遭「コレコレ砲」鎖定：涉及竊聽與感情問題",
+    "summary": "日本個人勢VTuber名取さな（Natori Sana）成為知名爆料主コレコレ的最新目標，引發社群熱議。報導指出，事件可能涉及「竊聽」及不當的「戀人關係」，導致粉絲和V圈社群的廣泛討論與擔憂。",
+    "avatar_url": "https://img.nijigen.com/natori_sana.jpg",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
@@ -28,6 +36,14 @@
     "date": "2026/06/20",
     "title": "知名VTuber因炎上事件後轉往小帳取暖再遭炎上",
     "summary": "某位知名VTuber在經歷公開炎上事件後，試圖在其私人小帳（裡帳）尋求安慰與支持，不料其小帳內容再次遭到曝光，進而引發了第二次的炎上風波，導致其負面輿論進一步擴大。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/06/20",
+    "title": "にじさんじ VTuber レオス・ヴィンセント於《快打旋風6》大賽中口出惡言引發炎上",
+    "summary": "彩虹社（Nijisanji）所屬VTuberレオス・ヴィンセント（Leos Vincent）在參與一場有贊助商的《快打旋風6》大賽直播中，因遊戲情緒激動而口出「死ね（去死）」、「殺すぞ（殺了你）」等具攻擊性的暴言。此舉迅速引起觀眾不滿，認為在有協辦單位的正式比賽中，此類言論極不恰當，導致評論區留言大暴走，引發炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/06/18",
     "title": "Epic Games Store 揭曉 2026 年 6 月最終免費遊戲",
     "summary": "Epic Games Store 宣布其 2026 年 6 月的最終免費遊戲，預計於 6 月 25 日至 7 月 2 日期間開放領取，其中包括《Rollercoaster Tycoon 3 Complete Edition》和《Voidwrought 6》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/18",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "本週 Epic Games Store 推出兩款限時免費遊戲：《Citizen Sleeper》和《ROBOBEAT》。《Citizen Sleeper》是一款科幻角色扮演遊戲，玩家將在一個衰敗的太空站上求生；《ROBOBEAT》則是一款節奏射擊遊戲。兩款遊戲皆可免費領取至 2026 年 6 月 25 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/18",
-    "title": "Steam 夏日折扣與發行商特賣",
-    "summary": "Steam 平台於本週推出多項遊戲折扣活動。Curve Games 激爽夏日折扣提供最高 90% 的優惠，WB Games 的 DC 漫畫主題遊戲系列（包含《蝙蝠俠：阿卡漢瘋人院》、《阿卡漢之城》、《阿卡漢騎士》）最高享 90% 折扣，「真人快打」系列遊戲也有特賣活動。此外，Bohemia Interactive 發行商特賣提供旗下遊戲最高 85% 的折扣。EA app 也舉辦夏日大促銷，至 7 月 9 日止，包含《戰地風雲 6》、《EA SPORTS FC™ 26》等遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
