@@ -329,6 +329,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "本週 Epic Games Store 推出兩款限時免費遊戲：《Citizen Sleeper》和《ROBOBEAT》。《Citizen Sleeper》是一款科幻角色扮演遊戲，玩家將在一個衰敗的太空站上求生；《ROBOBEAT》則是一款節奏射擊遊戲。兩款遊戲皆可免費領取至 2026 年 6 月 25 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Steam 夏日折扣與發行商特賣",
+    "summary": "Steam 平台於本週推出多項遊戲折扣活動。Curve Games 激爽夏日折扣提供最高 90% 的優惠，WB Games 的 DC 漫畫主題遊戲系列（包含《蝙蝠俠：阿卡漢瘋人院》、《阿卡漢之城》、《阿卡漢騎士》）最高享 90% 折扣，「真人快打」系列遊戲也有特賣活動。此外，Bohemia Interactive 發行商特賣提供旗下遊戲最高 85% 的折扣。EA app 也舉辦夏日大促銷，至 7 月 9 日止，包含《戰地風雲 6》、《EA SPORTS FC™ 26》等遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "2026 秘魯遊戲展盛大開幕",
+    "summary": "2026 年秘魯遊戲展 (Peru Gaming Show, PGS) 於 6 月 17 日在利馬賽馬會展中心盛大開幕，匯聚拉丁美洲遊戲產業的領導者。本次展覽廳將展示超過 50 家國內外參展商的最新產品和解決方案，涵蓋陸基和線上遊戲領域，並舉辦教育和資訊交流會，探討監管、線上博彩和金融安全等議題。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
@@ -372,30 +396,6 @@
     "date": "2026/06/17",
     "title": "Xbox 確認參加 2026 科隆遊戲展",
     "summary": "Xbox 官方確認將參加 2026 年德國科隆遊戲展（Gamescom 2026），並將提供玩家現場試玩《戰爭機器：E-Day (Gears of War: E-Day)》的戰役活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam多款遊戲進行發行商特賣活動",
-    "summary": "Steam平台多款遊戲展開特價活動，包括KRAFTON發行商特賣、The Behemoth發行商特賣、《黎明死線》10周年慶優惠，以及《傳奇》系列特賣，為玩家帶來多樣折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam 限時免費領取劇情冒險遊戲《The Red Lantern》",
-    "summary": "Steam 正舉行 Next Fest 活動，並限時免費開放劇情冒險遊戲《The Red Lantern》供玩家永久保留。玩家需在美東時間 6 月 19 日上午 1:00 前領取。該遊戲以阿拉斯加荒野為背景，獲得「極度好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "KRAFTON 發行商特賣與 The Behemoth 年度特賣",
-    "summary": "KRAFTON 發行商在 Steam 推出折扣活動，凡購買 G-Coin 皆享雙倍優惠。同時，The Behemoth 也展開第三屆年度發行商特賣，旗下所有遊戲和組合包皆有優惠，最高可享 1 折折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
