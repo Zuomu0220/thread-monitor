@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/06/21",
+    "title": "無最新動態",
+    "summary": "在2026年6月14日至2026年6月21日期間，未發現台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件的最新動態。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026 年 6 月 13 日至 6 月 20 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等符合條件的最新負面與爭議事件。",
@@ -369,33 +377,25 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store公布6月最終免費遊戲",
+    "summary": "Epic Games Store正式公布了2026年6月的最終免費遊戲，包括科幻角色扮演遊戲《Citizen Sleeper》和科幻音樂射擊遊戲《ROBOBEAT》。這兩款遊戲可限時免費領取至2026年6月25日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/18",
+    "title": "Epic Games Store預告下週免費遊戲",
+    "summary": "Epic Games Store宣布將於2026年6月25日至7月2日提供《Voidwrought》和《RollerCoaster Tycoon 3: Complete Edition》作為新的免費遊戲供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/17",
     "title": "《1348 Ex Voto》於Epic Games Store 上線",
     "summary": "開發商Sedleo的遊戲《1348 Ex Voto》今日在Epic Games Store上發售，這是一款以中世紀義大利為背景的第三人稱劍術動作遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam 免費領取劇情冒險遊戲《The Red Lantern》",
-    "summary": "Steam 舉行限時免費領取活動，玩家可永久保留劇情冒險遊戲《The Red Lantern》。這是一款以阿拉斯加荒野為背景的敘事生存遊戲，玩家扮演雪橇領航員與雪橇犬隊伍尋找回家之路。活動時間相當短暫，玩家必須於美東時間 6 月 19 日上午 1:00 前完成領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/17",
-    "title": "VTuber 浠Mizuki失言炎上遭暫停活動2個月",
-    "summary": "台灣VTuber團體子午計畫成員浠Mizuki，因在社群平台Threads上回應粉絲貼文時用詞不當，引發社群怒火。營運方於5月21日勒令其暫停活動兩個月，並取消個人工商合作與進行中的專案，本人也公開道歉。此事在6月17日仍有相關討論於PTT上出現。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/17",
-    "title": "Steam tinyBuild 發行商特賣與Bus Simulator特惠",
-    "summary": "Steam上tinyBuild的遊戲享有高達80%折扣，活動於6月18日結束。Bus Simulator系列特惠則持續至6月24日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -467,6 +467,15 @@
     "date": "2026/06/12",
     "title": "2026 年 6 月 24 日外星人/時間旅行者入侵預言",
     "summary": "Reddit 上有討論指出，有 TikTok 用戶聲稱夢到在 2026 年 6 月 24 日（世界盃期間巴西與蘇格蘭的比賽中），邁阿密將發生外星人入侵。該日期被解讀為「6.6.6」的象徵。此預言與電影《明日之戰》中未來人類回溯時空警告外星戰爭的情節有所呼應。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/06/24",
+    "expiry_date": "2026/06/25"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/20",
+    "title": "預言者2026年上半期回顧與下半期展望報告發布",
+    "summary": "一份關於世界預言者在2026年上半年預言結果及下半期展望的調查報告發布，內容涵蓋中東情勢、太陽活動及AI技術等，並特別關注預言家Voe Baiana關於6月24日的預言。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/06/24",
     "expiry_date": "2026/06/25"
