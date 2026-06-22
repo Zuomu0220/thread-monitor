@@ -24,6 +24,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/21",
+    "title": "獨立遊戲大展揭露：《暗影迷宮》開放 Demo 試玩",
+    "summary": "一年一度的獨立遊戲大展（Indie Game Fest）今日開幕，台灣團隊開發的解謎新作《暗影迷宮》釋出免費 Demo 供玩家搶先體驗，獲得玩家普遍好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
@@ -45,6 +53,14 @@
     "title": "にじさんじ VTuber レオス・ヴィンセント於《快打旋風6》大賽中口出惡言引發炎上",
     "summary": "彩虹社（Nijisanji）所屬VTuberレオス・ヴィンセント（Leos Vincent）在參與一場有贊助商的《快打旋風6》大賽直播中，因遊戲情緒激動而口出「死ね（去死）」、「殺すぞ（殺了你）」等具攻擊性的暴言。此舉迅速引起觀眾不滿，認為在有協辦單位的正式比賽中，此類言論極不恰當，導致評論區留言大暴走，引發炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/06/20",
+    "title": "新興 VTuber 企劃「幻夢境工作室」因技術問題與公關危機道歉",
+    "summary": "幻夢境工作室旗下多位 VTuber 在近期聯動直播中頻繁出現技術性問題，導致直播體驗不佳。此外，有觀眾指出其社群小編在處理觀眾反饋時態度不佳，工作室發布聯合聲明為技術失誤與公關處理不當致歉。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/06/18",
     "title": "Epic Games Store 免費遊戲：《Citizen Sleeper》",
     "summary": "Epic Games Store 本週免費遊戲為《Citizen Sleeper》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/18",
-    "title": "Epic Games 限時免費",
-    "summary": "TTRPG 風格敘事 RPG《公民入眠者》（Citizen Sleeper）於 Epic Games 平台開放限時免費領取，活動至 2026 年 6 月 25 日晚上 11:00 前。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/18",
-    "title": "Epic Games Store 揭曉 2026 年 6 月最終免費遊戲",
-    "summary": "Epic Games Store 宣布其 2026 年 6 月的最終免費遊戲，預計於 6 月 25 日至 7 月 2 日期間開放領取，其中包括《Rollercoaster Tycoon 3 Complete Edition》和《Voidwrought 6》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1925,6 +1925,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/19",
+    "title": "4chan 神秘留言預言某國政治領袖將下台",
+    "summary": "在 4chan 國際政治討論版塊中，出現一則神秘留言，簡短預言某個東亞國家的現任政治領袖將在年底前因健康問題而突然下台。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -1934,12 +1943,30 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/15",
+    "title": "自稱來自 2058 年的國分玲預言：全球能源危機將加劇",
+    "summary": "日本社群平台 X/Twitter 上，自稱來自 2058 年的預言帳號「國分玲」發文警告，指出 2027 年全球將面臨前所未有的能源短缺危機，並建議提前儲備必要物資。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/10",
+    "expiry_date": "2027/03/11"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/20",
     "title": "4chan 用戶「MJkiller」預言：2026 年全球戰爭與外星人入侵",
     "summary": "4chan 用戶「MJkiller」發布了 2026 年的詳細事件順序，預測將逐步升級為全球戰爭、崩潰，最終走向一個世界政府，包括美/以襲擊伊朗、石油危機、全球停電、大規模海軍衝突、美國內戰、北約瓦解，以及一場精心策劃的「外星人入侵」，並預計到 2027 年將有數十億人死亡。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/17",
+    "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
+    "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/05/22",
+    "expiry_date": "2028/05/23"
   },
   {
     "category": "PROPHECY",
