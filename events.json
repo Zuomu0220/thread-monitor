@@ -57,6 +57,14 @@
   },
   {
     "category": "VTUBER",
+    "date": "2026/06/22",
+    "title": "日本個人勢VTuber「花凪まな」引退，自爆散布謠言與洩漏隱私",
+    "summary": "以「森林女神」為概念活動的日本個人勢VTuber「花凪まな」於6月21日突然宣布引退，其引退聲明在X等社群媒體上引發熱議。花凪まな坦承自己散布虛假資訊，將聽眾誣陷為跟蹤狂及強姦犯，並洩漏相關人士的私人與機密資訊，對多人進行詆毀。她承認所有謊言都已被證據揭穿，並表示因自身人格問題，無法改善，因此決定結束VTuber活動，並關閉其YouTube頻道。由於聲明內容相當罕見且具毀滅性，許多網友對此感到困惑，並持續討論受害者權益及後續責任歸屬問題。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
     "date": "2026/06/21",
     "title": "個人勢VTuber名取さな疑遭「コレコレ砲」鎖定引發討論",
     "summary": "日本社群媒體上出現關於個人勢VTuber名取さな可能成為知名爆料直播主コレコレ目標的討論。儘管留言中多為猜測與對VTuber界現狀的討論，並無具體爆料內容，但此消息仍引發部分粉絲關注。",
@@ -213,6 +221,14 @@
     "title": "個人勢VTuber「星夜璃亞」爆出與經紀公司合約糾紛，無限期停播",
     "summary": "星夜璃亞於社群平台發布聲明，表示因與其合作的個人經紀公司在合約條款上出現嚴重分歧，導致其無法繼續活動，宣布無限期停播。粉絲對此感到震驚與不捨，部分粉絲自發性發起連署活動，希望能協助璃亞解決合約問題。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 3
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/20",
+    "title": "百萬YTR「The DoDo Men 嘟嘟人」陷退訂潮",
+    "summary": "前美國蘋果工程師Ian與前矽谷精算師Eric組成的百萬YouTuber「The DoDo Men 嘟嘟人」，因其團隊在Podcast中以「回應酸民」為主題，正面迎戰提出意見的觀眾，惹怒部分長期支持的老粉，導致許多人紛紛表示退訂。部分觀眾不滿Jeannie頻繁出現在影片與Podcast中，認為其音量過大且說話方式與頻道原有調性不同。儘管團隊透過IG回應會「持續進步」，但此次正面迎戰的態度仍讓老粉感到被歸類為酸民，引發爭議。",
+    "avatar_url": "https://img.ltn.com.tw/Upload/news/600/2026/06/20/phprE92gS.jpg",
     "days_left": 3
   },
   {
@@ -381,22 +397,6 @@
     "title": "香港實況主「遊戲狂人阿Sam」直播中失言引發性別歧視爭議",
     "summary": "阿Sam在一次遊戲直播中，針對女性玩家發表不當言論，稱其「只會玩奶媽角」。言論一出立即引發大量觀眾不滿，認為其有性別歧視之嫌。事後阿Sam雖發布道歉聲明，但網友反應仍兩極，部分粉絲認為是無心之過，但更多人要求其為此負責並進行更深層的反省。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "獨立遊戲《星塵迷宮》於Steam釋出免費Demo，好評如潮",
-    "summary": "由台灣獨立遊戲團隊開發的Roguelike動作遊戲《星塵迷宮》（Stardust Labyrinth）於Steam釋出免費試玩版，其獨特的視覺風格與爽快的戰鬥體驗獲得玩家一致好評，預計將於明年上半年發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Steam 限時免費遊玩《機甲戰士 5》、《雙點博物館》、《黎明死線》等遊戲",
-    "summary": "Steam 於 2026 年 6 月 19 日提供多款遊戲限時免費遊玩，包括《機甲戰士 5》、《雙點博物館》、《黎明死線》、《恆星戰役》和《Speedball》，免費時間至 2026 年 6 月 23 日凌晨 1 點止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
