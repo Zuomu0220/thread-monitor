@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Epic Games Store 下週免費遊戲公布：《雲霄飛車之星 3》與《Voidwrought》",
+    "summary": "Epic Games Store 預計將在 6 月 25 日至 7 月 2 日期間，免費贈送《雲霄飛車之星 3 完整版》（RollerCoaster Tycoon 3 Complete Edition）和《Voidwrought》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/24",
     "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
     "summary": "Steam平台年度夏季特賣活動於今日凌晨正式開始，包含《艾爾登法環》、《柏德之門3》等眾多3A大作及獨立遊戲均有史低折扣。特賣將持續至7月8日。",
@@ -152,6 +160,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/06/22",
+    "title": "Steam 新品節 2026 六月版活動結束",
+    "summary": "Steam 新品節 2026 六月版活動已於 6 月 22 日結束，期間玩家可免費體驗大量即將推出的新作試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "VTUBER",
     "date": "2026/06/21",
     "title": "個人勢VTuber名取さな疑遭「コレコレ砲」鎖定引發討論",
@@ -264,6 +280,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/06/21",
+    "title": "Steam 夏季特賣 2026 預告與部分參與作品曝光",
+    "summary": "Valve 公布了「Steam 夏季特賣 2026」的官方預告片，活動將於 6 月 25 日正式展開並持續至 7 月 9 日。預計將有大量遊戲提供折扣，部分已確認參與的熱門作品包括《魔物獵人 荒野》、《小小夢魘 3》、《真・三國無雙 ORIGINS》和《黑帝斯 II》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/20",
     "title": "無最新負面與爭議事件",
@@ -372,30 +396,6 @@
     "date": "2026/06/19",
     "title": "Epic Games 雙遊戲限時免費領取",
     "summary": "《ROBOBEAT》（音遊射擊）和《深空夢里人》（科幻敘事 RPG）目前在 Epic Games 平台開放免費領取，活動將於 2026 年 6 月 25 日 23:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Steam 平台多款大作限時免費試玩",
-    "summary": "Steam 平台推出《Stellaris (群星)》、《Dead by Daylight (黎明殺機)》、《MechWarrior 5: Mercenaries (機甲爭霸戰5)》、《雙點博物館(Two Point Museum)》和《Speedball》等多款遊戲限時免費試玩，活動至 2026 年 6 月 23 日 01:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Steam《感謝你的投遞》新品上市享 85 折優惠",
-    "summary": "模擬面試官遊戲《感謝你的投遞》在 Steam 平台正式上市，並提供 85 折的上市優惠，折扣將持續兩週。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Steam限時免費與特價",
-    "summary": "Steam 推出多款遊戲限時免費遊玩，包含《機甲戰士5：僱傭兵》、《黎明死線》、《雙點博物館》、《Speedball》和《恆星戰役》，活動截止至 2026/6/23 01:00。其中《機甲戰士5：僱傭兵》享 75% 折扣，《雙點博物館》享 33% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -853,6 +853,15 @@
     "date": "2026/01/10",
     "title": "美國三學者65年前預言2026年11月13日世界末日因人口暴增",
     "summary": "美國伊利諾大學的三位學者在1960年發表的研究報告中預測，如果人類人口繼續按照過去兩千年的速度增長，世界末日將在2026年11月13日來臨，屆時人口將趨於無限大，糧食供應嚴重不足。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言 2026 年 11 月 13 日人類將因人口過剩而面臨「科學死法」",
+    "summary": "根據 1960 年物理學家馮．佛斯特在《科學》期刊上提出的人口成長模型推算，人類社會可能在 2026 年 11 月 13 日達到極限，導致因過度擁擠而滅亡的「科學死法」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
