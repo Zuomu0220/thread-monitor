@@ -48,6 +48,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/25",
+    "title": "知名YouTuber蔡阿嘎因AI繪圖爭議遭炎上，反擊報導媒體為「中共同路人」",
+    "summary": "百萬YouTuber蔡阿嘎近日在社群平台Instagram上傳三則限時動態，內容將日本街頭畫家為其小孩繪製的似顏繪與AI生成圖進行比較投票，此舉引發網友炎上，認為其不尊重創作者。事件延燒至日本並登上當地媒體《Record China》報導，蔡阿嘎隨後於2026年6月25日發布影片反擊，強調並無侮辱畫家之意，同時指出《Record China》為報導中國日語新聞的網站，與中國共產黨保持聯繫，質疑是因其先前發表「中國是敵國」等言論，才成為中國攻擊的目標。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Epic Games Store限時免費遊戲：《Voidwrought》與《模擬樂園3 完全版》",
+    "summary": "Epic Games Store於2026年6月25日宣布，本週將提供快節奏動作平台遊戲《Voidwrought》（星穹遺蹟）及經典遊樂園經營模擬遊戲《模擬樂園3 完全版》（RollerCoaster Tycoon 3 Complete Edition）供玩家限時免費領取。活動將持續至2026年7月2日23:00，領取後即可永久保存至Epic Games Store收藏庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/06/24",
     "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
@@ -380,22 +396,6 @@
     "date": "2026/06/20",
     "title": "呱吉將劉在錫比喻為吳宗憲黃子佼引爭議",
     "summary": "實況主呱吉在社群平台發言，將韓國知名主持人劉在錫比喻為台灣主持人吳宗憲與黃子佼，引發網友熱議及爭議，部分網友認為此比喻不恰當。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/20",
-    "title": "六嘆Threads發表Show Girl言論引發炎上",
-    "summary": "實況主六嘆在Threads上發表對於Computex展覽Show Girl必要性的看法，指出大部分事物都無必要，但認同其創造的經濟與文化價值，此番言論在社群引起激烈討論，被指引發「炎上」。",
-    "avatar_url": "https://ui-avatars.com/api/?name=6tan&background=16a34a&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/20",
-    "title": "SWAG女直播主花博辦「粉絲感謝祭」遭警送辦",
-    "summary": "一名26歲林姓SWAG女直播主在台北花博公園舉辦戶外「粉絲感謝祭」直播，因與多名男性粉絲互動過於親密，被警方認定可能涉及違反社會秩序及妨害風化相關規定，遭通知到案說明。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -1907,9 +1907,36 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/03/06",
+    "title": "4chan匿名使用者預言2026年加密貨幣價格",
+    "summary": "一位曾準確預測比特幣在2025年10月達到126,198美元高峰的匿名4chan使用者，預測比特幣將在2026年達到250,000美元，以太坊將達到20,000美元，Solana則達到1,500美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/05",
+    "title": "4chan「三戰劇本」預測2026-2027年全球大戰與假外星人入侵",
+    "summary": "一份於2025年6月在4chan論壇流傳的「三戰劇本」，詳細描述了可能在2026至2027年間發生的全球性衝突，包括以色列與伊朗緊張局勢升級、美國軍事介入、海灣油田遇襲、油價飆升、美國三艘航母中兩艘被擊沉、美國內戰爆發、土耳其背叛北約攻擊以色列、中國入侵台灣和關島、朝鮮入侵韓國、俄羅斯入侵波蘭和波羅的海國家等。該劇本還預言2027年將有假外星人入侵，由神秘組織MJ12釋放合成外星士兵追捕倖存者，最終導致全球50億人死亡，並建立一個由MJ12和聯合國主導的單一世界政府。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/14",
+    "title": "諾亞（Noah）預言2027年AI將達到可生成電影劇本的能力",
+    "summary": "自稱來自2030年的時間旅行者諾亞（Noah）曾預言，到2027年，人工智慧（AI）將發展到可以生成電影劇本，並具備其他更進階的能力。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
@@ -2024,6 +2051,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "來自2058年的未來人國分玲預言2037年沖繩將有強烈地震與颱風複合災害",
+    "summary": "自稱來自2058年的「未來人」國分玲曾預言，2037年1月沖繩地區將會發生「直下型地震」，同年8月除了會有餘震，還將同時受到颱風的侵襲，導致災情更加嚴重。她也曾預言比特幣價格將飆升至約494萬美元（7.8億日圓）後，將「只能賣不能買」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/01",
+    "expiry_date": "2037/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2038 年外星文明將被正式接觸",
     "summary": "來自 2058 年的國分玲預言，到了 2038 年，太陽系將不再是地球文明的孤島，外星文明會被人類正式接觸，並指出這些外星文明可能藏匿在木星或土星的衛星上。",
@@ -2063,6 +2099,15 @@
     "date": "2026/12/15",
     "title": "2058 年未來人國分玲預言：比特幣將飆升至高點，但未來「只能賣不能買」",
     "summary": "自稱來自 2058 年的日本未來人國分玲（又稱國分遼）預言，比特幣將會達到驚人的高價（約 494 萬美元），但到了那個時候，普通人將「只能賣，不能買」。她解釋說，這可能是因為比特幣的流通渠道受限，或其性質不再適合交易。她還提到自己在 2019 年底至 2020 年初購買了約 1400 枚以太坊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2058/01/01",
+    "expiry_date": "2058/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "來自2058年的未來人國分玲預言未來科技與日本首都遷徙",
+    "summary": "國分玲預言，直到2058年，飛行汽車將會出現但主要用於緊急車輛或島嶼間運輸，且未來沒有iPhone，取而代之的是更薄更細如信用卡般的手機。此外，她還預測到2058年，日本的首都將因地震或海平面上升影響，從東京遷至岡山縣。她也曾提到，由於一位帶來糟糕事態的女首相，未來世界將以中文為主要學習語言。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2058/01/01",
     "expiry_date": "2058/01/02"
