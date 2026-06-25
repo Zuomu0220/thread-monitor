@@ -17,6 +17,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Steam 限時免費遊戲更新",
+    "summary": "2026 年 6 月 25 日，Steam 持續更新限時免費遊戲列表，目前包含《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲可供下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/25",
+    "title": "時空中的繪旅人 遊戲更新",
+    "summary": "《時空中的繪旅人》官方網站發布公告，遊戲將於 2026 年 6 月 25 日 09:30 - 10:30 進行不停服更新。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/24",
     "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
     "summary": "Steam平台年度夏季特賣活動於今日凌晨正式開始，包含《艾爾登法環》、《柏德之門3》等眾多3A大作及獨立遊戲均有史低折扣。特賣將持續至7月8日。",
@@ -36,6 +52,14 @@
     "date": "2026/06/24",
     "title": "King's Bounty Franchise Sale 2026 舉行，系列作品優惠中",
     "summary": "King's Bounty 系列遊戲於2026年6月24日舉行特賣活動，包括《King's Bounty II》、《King's Bounty: The Legend》等回合制RPG作品提供折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/24",
+    "title": "Meta 秘密測試預測市場 App「Arena」",
+    "summary": "據 2026 年 6 月 24 日報導，Meta 執行長祖克柏指示內部團隊開發一款名為「Arena」的預測市場應用程式，用戶可在其中預測未來事件。初期可能採用遊戲積分機制，但不排除未來引入真實資金交易的可能性。該 App 將獨立於 Facebook、Instagram 等現有社群平台運作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -164,6 +188,14 @@
     "date": "2026/06/22",
     "title": "Steam 新品節 2026 六月版活動結束",
     "summary": "Steam 新品節 2026 六月版活動已於 6 月 22 日結束，期間玩家可免費體驗大量即將推出的新作試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/22",
+    "title": "Steam 六月新增免費遊戲",
+    "summary": "Steam 於 2026 年 6 月新增多款免費遊戲，包括《Ship It》，這是一款時間管理分類遊戲，獲得 70% 的好評率。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -366,38 +398,6 @@
     "summary": "星夜璃亞於社群平台發布聲明，表示因與其合作的個人經紀公司在合約條款上出現嚴重分歧，導致其無法繼續活動，宣布無限期停播。粉絲對此感到震驚與不捨，部分粉絲自發性發起連署活動，希望能協助璃亞解決合約問題。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/20",
-    "title": "百萬YTR「The DoDo Men 嘟嘟人」陷退訂潮",
-    "summary": "前美國蘋果工程師Ian與前矽谷精算師Eric組成的百萬YouTuber「The DoDo Men 嘟嘟人」，因其團隊在Podcast中以「回應酸民」為主題，正面迎戰提出意見的觀眾，惹怒部分長期支持的老粉，導致許多人紛紛表示退訂。部分觀眾不滿Jeannie頻繁出現在影片與Podcast中，認為其音量過大且說話方式與頻道原有調性不同。儘管團隊透過IG回應會「持續進步」，但此次正面迎戰的態度仍讓老粉感到被歸類為酸民，引發爭議。",
-    "avatar_url": "https://img.ltn.com.tw/Upload/news/600/2026/06/20/phprE92gS.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/20",
-    "title": "Steam Next Fest 獨立遊戲 Demo 釋出",
-    "summary": "Steam Next Fest（遊戲新品節）於本週持續進行中，多款獨立遊戲開放 Demo 試玩，其中包括《The 9th Seraph》和《Entropy》等，讓玩家在活動期間體驗各類新作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Steam 限時免費遊戲開放試玩",
-    "summary": "Steam 平台於本週末推出多款已上市好評遊戲限時免費遊玩，包括《機甲戰士5》、《雙點博物館》、《黎明死線》、《Speedball》和《恆星戰役》，活動預計於 2026 年 6 月 23 日凌晨 01:00 截止，多數遊戲支援繁體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/19",
-    "title": "Epic Games 雙遊戲限時免費領取",
-    "summary": "《ROBOBEAT》（音遊射擊）和《深空夢里人》（科幻敘事 RPG）目前在 Epic Games 平台開放免費領取，活動將於 2026 年 6 月 25 日 23:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
