@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/06/27",
+    "title": "Epic Games (手機版) 限時免費領取：《忍者龜：許瑞德的復仇》",
+    "summary": "Epic Games 手機版平台開放限時免費領取《忍者龜：許瑞德的復仇》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/26",
     "title": "Steam/Epic最新遊戲特價與免費情報",
     "summary": "目前尚無關於2026年06月19日至06月26日期間Steam或Epic Games平台有最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo釋出的直接資訊。",
@@ -52,6 +60,22 @@
     "date": "2026/06/26",
     "title": "Steam Next Fest 六月獨立遊戲試玩推薦",
     "summary": "Steam Next Fest 在六月推出了數百款遊戲試玩版，其中有十款獨立遊戲受到推薦，包含《Chivalware》、《Deka Duck》、《Growing My Manhole》、《Littlelands》、《Poly Fighter》、《Pulsebreaker》、《Sprawl Zero》、《Toada Brava》、《Vice: Magic City Mayhem》和《Well Dweller》。這些試玩版均支援 Steam Deck。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 夏季特賣 2026 開跑",
+    "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」於 6 月 26 日正式開跑，活動將持續至 7 月 9 日凌晨。本次特賣涵蓋全站 3A 大作、獨立遊戲及經典老作，多款遊戲達到歷史新低價，其中包括《電馭叛客2077》、《天國降臨：救贖2》、《女神異聞錄3重製版》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Epic Games 限時免費領取：《模擬樂園3 完整版》、《Voidwrought》",
+    "summary": "Epic Games Store 推出最新限時免費活動，經典經營模擬遊戲《模擬樂園3 完整版》與類銀河戰士惡魔城 2D 動作平台遊戲《Voidwrought》開放玩家免費領取。活動截止至台灣時間 2026 年 7 月 2 日晚上 11:00 前，領取後可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -328,6 +352,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/25",
+    "title": "蔡阿嘎AI畫家爭議延燒，日媒點名批評",
+    "summary": "知名YouTuber蔡阿嘎日前在日本請街頭畫家繪製兒子肖像，事後卻將畫作與AI生成圖片進行比較並發起投票，此舉引發網友批評對創作者不尊重，爭議延燒至日本媒體報導。蔡阿嘎雖拍片道歉，但後續又被爆料在粉絲群組號召「嘎家軍」協助擴散訊息，再度引發外界討論。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/06/24",
     "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
@@ -368,38 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "VTUBER",
-    "date": "2026/06/24",
-    "title": "hololive VTuber常闇永遠因疑似罹患梅尼爾氏症暫停活動至六月底",
-    "summary": "日本VTuber女團hololive四期生常闇永遠於24日緊急透過X發文宣布，因日前出現嚴重暈眩症狀緊急送醫，經醫師診斷後有罹患梅尼爾氏症的可能性，因此將暫停所有活動至六月底。她表示6月21日早上突然出現強烈暈眩與頭暈目眩症狀，無法自行站立行走而被緊急送醫，並對臨時退出V最協決定戰《快打旋風6》賽事致歉。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/24",
-    "title": "2026 ChinaJoy將於7月31日開幕，主題「與AI同遊」，千款遊戲提供試玩",
-    "summary": "2026年第二十三屆中國國際數碼互動娛樂展覽會（ChinaJoy）宣布將於7月31日至8月3日在上海新國際博覽中心舉辦，主題為「與AI同遊」。展會將匯聚近900家企業，提供超過1000款遊戲線下試玩，並聚焦AI技術在遊戲產業的應用。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/24",
-    "title": "彩虹社VTuber ルンルン宣布暫停活動",
-    "summary": "彩虹社旗下的VTuber ルンルン於6月24日宣布暫停活動。本人特別強調此次僅為暫停，並非引退，讓粉絲們鬆了一口氣，但仍對其健康狀況和回歸時間表示擔憂。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/24",
-    "title": "Hololive 常闇永遠因身體亮紅燈暫停直播",
-    "summary": "Hololive所屬VTuber常闇永遠於6月24日宣布因身體狀況亮紅燈，將暫停6月份的直播活動進行休養。她的小帳也發文呼籲粉絲不要尋找戰犯，希望大家能理解並給予她休息的空間。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/23",
     "title": "Reddit未來人預言2026年7月將出現新型態極端氣候",
@@ -431,6 +431,15 @@
     "date": "2026/06/25",
     "title": "TikTok 時空旅人預測 2026 世界盃冠軍",
     "summary": "一位名叫 Tona Multiverso 的 TikTok 用戶發布影片，聲稱自己來自未來，並知道 2026 年世界盃的冠軍將由阿根廷和墨西哥在決賽中爭奪，影片聲稱是在 2026 年 7 月 19 日錄製。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/25",
+    "title": "TikTok 時空旅人Tona Multiverso：2026世界盃決賽阿根廷對墨西哥，墨西哥奪冠",
+    "summary": "一名自稱「時空旅人」的 TikTok 用戶 Tona Multiverso 發布影片，聲稱該影片錄製於 2026 年 7 月 19 日，預言 2026 年世界盃足球賽決賽將由阿根廷對陣墨西哥，最終墨西哥將贏得冠軍。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
