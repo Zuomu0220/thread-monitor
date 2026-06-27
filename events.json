@@ -81,6 +81,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 夏季特賣 2026 啟動",
+    "summary": "Steam 夏季特賣已於 2026 年 6 月 26 日凌晨 1 點（台灣時間）開始，活動將持續至 7 月 10 日凌晨 1 點。多款 3A 大作如《文明7》、《戰地風雲6》、《電馭叛客2077》、《天國降臨2》、《女神異聞錄3 Reload》等皆有新史低折扣，最低優惠可達一折起。萬代南夢宮娛樂的《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語 時空異客》等遊戲也加入特賣行列。玩家可透過探索佇列活動領取免費貼紙。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -389,14 +397,6 @@
     "title": "Meta 秘密測試預測市場 App「Arena」",
     "summary": "據 2026 年 6 月 24 日報導，Meta 執行長祖克柏指示內部團隊開發一款名為「Arena」的預測市場應用程式，用戶可在其中預測未來事件。初期可能採用遊戲積分機制，但不排除未來引入真實資金交易的可能性。該 App 將獨立於 Facebook、Instagram 等現有社群平台運作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/24",
-    "title": "LPL主播炫神辱罵TheShy等職業選手，法院判決道歉賠償",
-    "summary": "LPL主播炫神（許昊龍）因直播中多次使用貶損性言論辱罵職業選手TheShy、Rookie等，被福州倉山區法院終審裁定構成名譽侵權。法院判決炫神發布標準化道歉聲明，並賠償選手精神損失費及訴訟費用。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -1964,6 +1964,15 @@
     "date": "2026/05/24",
     "title": "2058 未來人國分玲預言：2026 年底全新傳染病肆虐全球",
     "summary": "自稱來自 2058 年的未來人國分玲，曾有許多預言命中，最新警告指出 2026 年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名預言者預測 2026 年底比特幣將達 100 萬美元",
+    "summary": "據稱是 2019 年一位準確預測比特幣底部價位的匿名預言者，在 4chan 上再次發布預言。他聲稱比特幣在 2026 年底前將達到 100 萬美元，以太坊將達到 10 萬美元。然而，社群對此預言的真實性存疑，因其貼文編號異常低且缺乏「tripcode」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
