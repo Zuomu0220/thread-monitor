@@ -89,6 +89,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 2026 夏季特賣盛大開跑",
+    "summary": "Steam 平台於 2026 年 6 月 26 日正式啟動年度最大規模的「夏季特賣」活動，將持續至 7 月 10 日凌晨 1 點（或 7 月 9 日）。本次特賣提供數千款遊戲的深度折扣，包含眾多 3A 大作、往年好評作品及熱門獨立遊戲，折扣幅度最高可達 90% 至 95%，許多遊戲達到歷史最低價。推薦遊戲包括《席德·梅爾的文明帝國VII》、《地平線西域禁地 完全版》、《質量效應 傳奇版》、《底特律：變人》、《柏德之門3》、《以撒的結合：重生》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -352,19 +360,19 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "Steam 2026 夏季特賣盛大開跑",
-    "summary": "Valve 年度大型促銷活動「Steam 夏季特賣」於 2026 年 6 月 25 日正式開跑，活動將持續至 7 月 9 日凌晨。本次特賣涵蓋多款 3A 大作、獨立遊戲及經典作品，許多遊戲價格創下歷史新低，例如《電馭叛客2077》、《自由幻局》、《天國降臨：救贖2》、《女神異聞錄３ Reload》、《戰地風雲6》等。活動期間，玩家也可透過「探索佇列」活動免費領取貼紙。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "STREAMER",
     "date": "2026/06/25",
     "title": "蔡阿嘎AI畫家爭議延燒，日媒點名批評",
     "summary": "知名YouTuber蔡阿嘎日前在日本請街頭畫家繪製兒子肖像，事後卻將畫作與AI生成圖片進行比較並發起投票，此舉引發網友批評對創作者不尊重，爭議延燒至日本媒體報導。蔡阿嘎雖拍片道歉，但後續又被爆料在粉絲群組號召「嘎家軍」協助擴散訊息，再度引發外界討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Epic Games Store 公布 6 月最後一批限時免費遊戲",
+    "summary": "Epic Games Store 於 2026 年 6 月 25 日起開放領取 6 月的最後一批限時免費遊戲，包括《雲霄飛車大亨 3：完整版 (RollerCoaster Tycoon 3: Complete Edition)》和《虛空之軀 (Voidwrought)》。這些遊戲可免費領取至 7 月 2 日。此外，Epic Games Store 也預告了下週（7 月 2 日後）將會送出《熱血硬派少女 2 (River City Girls 2)》和《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -388,14 +396,6 @@
     "date": "2026/06/24",
     "title": "King's Bounty Franchise Sale 2026 舉行，系列作品優惠中",
     "summary": "King's Bounty 系列遊戲於2026年6月24日舉行特賣活動，包括《King's Bounty II》、《King's Bounty: The Legend》等回合制RPG作品提供折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/24",
-    "title": "Meta 秘密測試預測市場 App「Arena」",
-    "summary": "據 2026 年 6 月 24 日報導，Meta 執行長祖克柏指示內部團隊開發一款名為「Arena」的預測市場應用程式，用戶可在其中預測未來事件。初期可能採用遊戲積分機制，但不排除未來引入真實資金交易的可能性。該 App 將獨立於 Facebook、Instagram 等現有社群平台運作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -782,6 +782,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言：2026 年將再度現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾預告，他將於 2026 年 9 月 26 日再次歸來。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告 2026 年為日本及全球重大轉折點",
+    "summary": "自稱來自 2058 年的日本未來人國分玲，曾表示將於 2026 年 9 月 26 日再次現身回答問題。他曾預言 2028 年全球將爆發新一輪金融危機，導火線為美國國債違約，導致美元全球結算體系動搖。國分玲的預言因高準確率而備受關注，他還提到 2058 年日本首都將遷至岡山縣，以及 2038 年外星文明將被正式接觸等。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
