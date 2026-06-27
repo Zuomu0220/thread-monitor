@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 夏季特賣 2026 正式開跑",
+    "summary": "Steam 一年一度的夏季特賣於 6 月 26 日凌晨 1 點正式開跑，持續至 7 月 10 日凌晨 1 點，為期 14 日。數千款遊戲提供大幅折扣，包含多款 3A 級大作、往年佳作和熱門獨立遊戲，折扣幅度介於 90% 到 95% 之間，甚至有最低 1 折起優惠。其中，萬代南夢宮娛樂也同步公布旗下多款遊戲特惠，如《艾爾登法環黑夜君臨》7.5折、《鐵拳8》6折等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -388,14 +396,6 @@
     "date": "2026/06/23",
     "title": "Steam 新增四款免費遊戲",
     "summary": "Steam 平台近日新增《Hyper Glee Semik》、《VHS // Anima 021》、《Philly Ball》及《Skillwood》四款可永久免費遊玩的完整遊戲，涵蓋第一人稱射擊、探索解謎、派對競技及模擬經營等類型。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/23",
-    "title": "第三屆游機會（Game Gacha Party）開放報名",
-    "summary": "由CiGA中國獨立遊戲聯盟主辦的第三屆游機會將於2026年7月31日在上海舉辦，提供獨立遊戲展示試玩與路演機會，旨在搭建開發者、投資方、發行商與玩家的交流平台。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1937,6 +1937,15 @@
     "date": "2026/05/24",
     "title": "國分玲預言 2026 年底全新傳染病肆虐全球",
     "summary": "有傳聞指出，自稱來自 2058 年的「未來人」國分玲將再次出現，並預警 2026 年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 未來人國分玲預言：2026 年底全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的未來人國分玲，曾有許多預言命中，最新警告指出 2026 年底將有全新的傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
