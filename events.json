@@ -313,6 +313,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Epic Games Store 限時免費：《雲霄飛車之星3 完整版》與《虛空詛咒》",
+    "summary": "Epic Games Store 宣布於 2026 年 6 月 25 日至 7 月 2 日期間，玩家可限時免費領取《雲霄飛車之星3 完整版 (RollerCoaster Tycoon 3 Complete Edition)》和《虛空詛咒 (Voidwrought)》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/25",
+    "title": "Steam 2026 夏季特賣盛大開跑",
+    "summary": "Valve 年度大型促銷活動「Steam 夏季特賣」於 2026 年 6 月 25 日正式開跑，活動將持續至 7 月 9 日凌晨。本次特賣涵蓋多款 3A 大作、獨立遊戲及經典作品，許多遊戲價格創下歷史新低，例如《電馭叛客2077》、《自由幻局》、《天國降臨：救贖2》、《女神異聞錄３ Reload》、《戰地風雲6》等。活動期間，玩家也可透過「探索佇列」活動免費領取貼紙。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/24",
     "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
     "summary": "Steam平台年度夏季特賣活動於今日凌晨正式開始，包含《艾爾登法環》、《柏德之門3》等眾多3A大作及獨立遊戲均有史低折扣。特賣將持續至7月8日。",
@@ -382,22 +398,6 @@
     "summary": "Hololive所屬VTuber常闇永遠於6月24日宣布因身體狀況亮紅燈，將暫停6月份的直播活動進行休養。她的小帳也發文呼籲粉絲不要尋找戰犯，希望大家能理解並給予她休息的空間。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/24",
-    "title": "Steam King's Bounty 系列特賣",
-    "summary": "Steam 平台於 6 月 24 日開始 King's Bounty 系列遊戲的折扣活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/23",
-    "title": "Steam 2026 年夏日特賣即將開啟",
-    "summary": "Valve 正式發布 2026 年 Steam 夏日特賣宣傳片，活動將於北京時間 2026 年 6 月 26 日凌晨 1 點正式開啟，持續至 7 月 10 日，為期兩週，預計將有大量遊戲參與折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -539,6 +539,15 @@
     "date": "2026/01/14",
     "title": "靈媒帕克 2026 全球災難預言：日本毒氣雲與地緣衝突",
     "summary": "英國知名預言家克雷格·漢密爾頓-帕克（Craig Hamilton-Parker）預言，2026 年日本周邊可能因海底火山噴發產生致命毒氣雲，並從東北方向飄入，影響範圍甚至可能波及俄羅斯。他推斷這可能指的是日本的古稱「大和」（Yamato）。在政經局勢方面，他指出美中俄三方衝突恐升溫為間接戰爭，國際領導人可能面臨刺殺危機。他特別提到，2026 年 4 月 15 日到 11 月 15 日是極度危險的週期，特別是 8 月 12 日，木星、太陽與月亮將聚集在巨蟹座，是一個必須多加小心的時間觸發點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "台灣命理師小孟老師預言 2026 下半年股市與衝突",
+    "summary": "知名命理師小孟老師預言台灣股市在 2026 年下半年將呈現劇烈暴漲暴跌格局，但最終會往上。他提醒投資人勿頻繁進出，並避免使用質押或融資融券，否則可能面臨「斷頭爆掉」危機。此外，他預測在 8 月 12 日獅子座日全蝕前後，恐怖衝突或暴力事件將增多。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
