@@ -385,17 +385,17 @@
   },
   {
     "category": "GAME",
-    "date": "2026/06/24",
-    "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
-    "summary": "Steam平台年度夏季特賣活動於今日凌晨正式開始，包含《艾爾登法環》、《柏德之門3》等眾多3A大作及獨立遊戲均有史低折扣。特賣將持續至7月8日。",
+    "date": "2026/06/25",
+    "title": "G-Fusion Game Festival 2026 深圳",
+    "summary": "中國最大的遊戲活動之一 G-Fusion Game Festival 2026 於 2026 年 6 月 25 日在深圳舉辦，現場同時提供遊戲折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "GAME",
     "date": "2026/06/24",
-    "title": "ChinaJoy 2026 將於上海盛大舉行",
-    "summary": "第二十三屆中國國際數碼互動娛樂展覽會（ChinaJoy）確認將於 2026 年 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，大漫匠等知名廠商將參展並帶來新產品與內容。",
+    "title": "Steam夏季特賣正式開跑，數千款遊戲史低折扣",
+    "summary": "Steam平台年度夏季特賣活動於今日凌晨正式開始，包含《艾爾登法環》、《柏德之門3》等眾多3A大作及獨立遊戲均有史低折扣。特賣將持續至7月8日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -791,6 +791,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告 2026 年為日本及全球重大轉折點",
     "summary": "自稱來自 2058 年的日本未來人國分玲，曾表示將於 2026 年 9 月 26 日再次現身回答問題。他曾預言 2028 年全球將爆發新一輪金融危機，導火線為美國國債違約，導致美元全球結算體系動搖。國分玲的預言因高準確率而備受關注，他還提到 2058 年日本首都將遷至岡山縣，以及 2038 年外星文明將被正式接觸等。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告 2026 年再次歸來",
+    "summary": "據稱，來自 2058 年的神祕人國分玲曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
