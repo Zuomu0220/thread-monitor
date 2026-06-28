@@ -49,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/27",
+    "title": "Epic + Steam 免費遊戲彙整",
+    "summary": "Epic Games Store 持續提供克蘇魯風格惡魔城遊戲《虛空鍛造》與經典樂園模擬器《模擬樂園3：完全版》免費領取至 7 月 2 日。Steam 則曾於 6 月 28 日 11:00 前限時免費送出 96% 壓倒性好評的復古 RPG《POPGOES Arcade》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/26",
     "title": "Steam/Epic最新遊戲特價與免費情報",
     "summary": "目前尚無關於2026年06月19日至06月26日期間Steam或Epic Games平台有最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo釋出的直接資訊。",
@@ -188,6 +196,14 @@
     "date": "2026/06/26",
     "title": "Steam 限時免費 RPG《POPGOES Arcade》",
     "summary": "《佛雷迪的五夜驚魂》衍伸 RPG 作品《POPGOES Arcade》於 Steam 展開限時免費活動，活動期限至 2026 年 6 月 29 日上午 2:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 夏季特賣限時登場！",
+    "summary": "萬代南夢宮娛樂宣布，Steam 夏季特賣活動於 2026 年 6 月 26 日至 7 月 10 日展開，指定遊戲享最高 1 折優惠。特賣品項包括《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語時空異客》、《超級機器人大戰Y》、《空戰奇兵7 未知天際》以及《機戰傭兵™VI 境界天火™》等，折扣幅度從 1.6 折到 8 折不等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -381,22 +397,6 @@
     "title": "ANYCOLOR 遭冒名寄送爆破恐嚇信",
     "summary": "知名VTuber經紀公司ANYCOLOR於6月25日發布聲明，指出公司遭人冒名寄送爆破恐嚇信。官方強調公司與旗下Liver完全無關，並呼籲粉絲切勿輕信不實消息。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/25",
-    "title": "Holostars 水無世燐央宣布停止直播活動",
-    "summary": "根據Holostars於5月26日發布的營運體制變更公告，水無世燐央於6月25日結束直播活動，未來將轉為個人活動體制。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "Epic Games Store 限時免費遊戲釋出",
-    "summary": "Epic Games Store 宣布自 2026 年 6 月 25 日至 7 月 2 日，玩家可免費領取經典模擬遊戲《雲霄飛車之星 3 完整版 (RollerCoaster Tycoon 3 Complete Edition)》與奇幻恐怖平台遊戲《Voidwrought》。同時，手機平台也開放免費領取《忍者龜：許瑞德的復仇 (Teenage Mutant Ninja Turtles: Shredder's Revenge)》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -845,6 +845,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的國分玲預言：2026至2030年將發生重大事件，並預計於2026年9月26日再次歸來",
     "summary": "自稱來自2058年的日本神祕預言家國分玲，因其過去預言的準確性而備受關注。她預言 2026 年至 2030 年將發生一系列重大事件，並表示自己將在 2026 年 9 月 26 日再次回到網路社群，回答大眾的提問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 未來人國分玲預告 2026 年 9 月 26 日再次歸來",
+    "summary": "自稱來自 2058 年的日本神秘人「國分玲」，因其預言準確率高而備受關注。他曾表示將於 2026 年 9 月 26 日再次現身，回答人們的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -2054,6 +2063,42 @@
     "date": "2026/05/31",
     "title": "2058未來人國分玲警告：2026年底全新傳染病將肆虐全球",
     "summary": "自稱來自2058年的未來人國分玲，其預言的精準度引發廣泛討論。她發出最新警告，預計在 2026 年底將有一種全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 未來人國分玲警告 2026 年底全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的「國分玲」發出最新預言警告，預計在 2026 年底將有一種全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "三位預言家皆指出 2026 年是人類的「奇點」",
+    "summary": "來自美國的 Brandon Biggs、印度的 Abhigya Anand 和英國的 Craig Hamilton-Parker 三位預言家，儘管背景和信仰不同，卻不約而同地指出 2026 年是人類社會的巨大轉折點。他們預測經濟崩潰、科技危機（AI 信任危機、深度偽造）、地球災害（新馬德里斷層線斷裂、維蘇威火山爆發）和新型瘟疫。然而，他們都認為這不是世界末日，而是痛苦但必要的催化劑，將帶來一場全球性的覺醒。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/19",
+    "title": "4chan 舊貼文預測世界大戰與外星人入侵",
+    "summary": "Reddit 上討論一則據稱來自 4chan 的舊貼文預言，描述了 2026 年以後一系列的災難性事件，包括以色列打破停火協議攻擊伊朗、美國遭到入侵、戰術核武器使用、歐洲爆發核戰爭、以色列被摧毀、航空旅行中斷、犯罪與混亂、虛假的外星人入侵以及合成外星士兵的出現。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/26",
+    "title": "Reddit 社群對 2026 年底事件的預測",
+    "summary": "Reddit 的 AskReddit 社群中有許多用戶討論他們對 2026 年底會發生什麼事的預測。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
