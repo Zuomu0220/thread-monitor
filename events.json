@@ -56,6 +56,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/27",
+    "title": "Twitch 實況主「小楓」因遊戲中辱罵言論引發爭議",
+    "summary": "中小型 Twitch 實況主「小楓」（化名）在 6 月 27 日的直播中，因遊戲表現不佳對隊友使用不當言論，引發社群平台（Dcard、PTT）網友截圖討論並批評其態度惡劣，認為其嚴重影響觀看體驗。目前小楓已在個人社群上發布道歉聲明，並表示將會進行反省。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/06/26",
     "title": "Steam/Epic最新遊戲特價與免費情報",
@@ -205,6 +213,14 @@
     "title": "Steam 夏季特賣限時登場！",
     "summary": "萬代南夢宮娛樂宣布，Steam 夏季特賣活動於 2026 年 6 月 26 日至 7 月 10 日展開，指定遊戲享最高 1 折優惠。特賣品項包括《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語時空異客》、《超級機器人大戰Y》、《空戰奇兵7 未知天際》以及《機戰傭兵™VI 境界天火™》等，折扣幅度從 1.6 折到 8 折不等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/06/26",
+    "title": "VTuber 個人勢「星野琉璃」遭爆料合約糾紛，無限期停播",
+    "summary": "個人勢 VTuber「星野琉璃」（Hoshino Ruri）於 6 月 26 日在社群平台 X 上發布公告，表示因與其前經紀人存在合約糾紛，導致她無法繼續進行直播活動，宣布無限期停播。網友在社群論壇（Dcard、Komica）上討論，對其處境表示同情，並呼籲相關單位能協助釐清合約內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -381,22 +397,6 @@
     "title": "Steam 2026夏季特賣正式開啟，多款人氣作加入折扣",
     "summary": "Steam「夏季特賣」已於台灣時間2026年6月26日凌晨2點正式開啟，活動將持續至7月10日凌晨2點。多款熱門大作和獨立遊戲將有超值折扣，包含《巫師3》、《星際大戰絕地》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "Steam平台KeyXP限量免費隨機領取5款遊戲Key",
-    "summary": "KeyXP作為一個玩家研究與數據收集平台，正舉辦限量總1萬組Steam遊戲Key的免費領取活動。玩家需註冊/登入Discord帳號並連接Steam帳號，填寫問卷後可隨機獲得《遠離：未知之旅》、《隨風而逝》、《reky》、《相濡以沫》或《悠諾與飛天大象》其中一款遊戲Key。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/25",
-    "title": "ANYCOLOR 遭冒名寄送爆破恐嚇信",
-    "summary": "知名VTuber經紀公司ANYCOLOR於6月25日發布聲明，指出公司遭人冒名寄送爆破恐嚇信。官方強調公司與旗下Liver完全無關，並呼籲粉絲切勿輕信不實消息。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -578,6 +578,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "Twitter 帳號「TimeWalker_Alpha」預告新型病毒出現",
+    "summary": "Twitter 上一個經常發布預言的帳號「TimeWalker_Alpha」發文表示，2026 年 8 月將出現一種新型變種病毒，雖然致死率不高但傳染性極強，可能會再次導致全球性的旅遊限制。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/15",
+    "expiry_date": "2026/08/16"
   },
   {
     "category": "PROPHECY",
@@ -2105,6 +2114,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/28",
+    "title": "Reddit 網友自稱未來人預測 2026 年底重大科技突破",
+    "summary": "一名匿名網友在 Reddit 論壇上發文，自稱來自 2077 年，預言 2026 年底人類將在量子計算和再生能源領域取得突破性進展，徹底改變全球經濟格局。他特別提到某項「小型化核融合電池技術」將在年底首次公開。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -2126,6 +2144,15 @@
     "date": "2026/01/14",
     "title": "諾亞（Noah）預言2027年AI將達到可生成電影劇本的能力",
     "summary": "自稱來自2030年的時間旅行者諾亞（Noah）曾預言，到2027年，人工智慧（AI）將發展到可以生成電影劇本，並具備其他更進階的能力。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/27",
+    "title": "日本 2ch 網友「來自 2058 年的國分玲」警告全球糧食危機",
+    "summary": "在日本 2ch 論壇上，一位自稱「國分玲」（Kokubun Rei）的未來人發布一則警告，指出由於全球氣候變遷與地緣政治緊張，2027 年將面臨前所未有的全球性糧食危機，呼籲各國政府應提前儲備物資並調整農業政策。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
