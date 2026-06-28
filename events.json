@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 2026 夏季特賣正式開跑",
+    "summary": "Steam 一年一度的夏季特賣已於台灣時間 6 月 26 日凌晨 1 點正式開跑，活動將持續至 7 月 10 日凌晨 1 點，為期 14 天。此次特賣包含數千款遊戲的折扣，其中多款 3A 大作、獨立遊戲和經典老作達到歷史新低價，最高可享 1 折優惠。包括《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語時空異客》、《超級機器人大戰Y》、《空戰奇兵7 未知天際》以及《機戰傭兵™VI 境界天火™》等遊戲都有不同幅度的折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -392,14 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "《伊莫》「握爪測試」招募",
-    "summary": "由爪印工作室開發的多人線上捉寵大世界 RPG《伊莫(Aniimo)》宣布全球限量刪檔封閉測試「握爪測試」將於 2026 年 7 月 9 日正式開啟。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/23",
     "title": "Reddit未來人預言2026年7月將出現新型態極端氣候",
@@ -407,6 +407,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/15",
     "expiry_date": "2026/07/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/13",
+    "title": "4chan 匿名用戶預言 2026 年 7 月 16 日 MJ12 將發起假外星人入侵",
+    "summary": "一名 4chan 匿名用戶於 2026 年 6 月 13 日發文，預言「到 2026 年 7 月 16 日，MJ12 將發起一場假的外星人入侵」。該用戶還提到 60% 的人類將在明年死亡，並聲稱許多關於外星人的電影都是為了讓公眾習慣外星人存在而進行的宣傳。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/16",
+    "expiry_date": "2026/07/17"
   },
   {
     "category": "PROPHECY",
