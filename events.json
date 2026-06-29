@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/28",
+    "title": "Steam 限時免費領取：《飼槽之主》(Lord Of The Trough)",
+    "summary": "獨立遊戲《飼槽之主》(Lord Of The Trough) 開放限時免費領取，開發者表示遊戲未來將轉為付費，鼓勵玩家把握時間免費收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/27",
     "title": "Epic Games (手機版) 限時免費領取：《忍者龜：許瑞德的復仇》",
     "summary": "Epic Games 手機版平台開放限時免費領取《忍者龜：許瑞德的復仇》。",
@@ -241,6 +249,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam 2026 夏季特賣：數千款大作與獨立遊戲史低優惠",
+    "summary": "Steam 平台年度大型促銷活動「Steam 夏季特賣」於 6 月 26 日正式開跑，活動將持續至 7 月 9 日凌晨，數千款 3A 大作、獨立遊戲與經典老作提供大幅折扣，多款遊戲達到歷史最低價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -381,22 +397,6 @@
     "title": "Epic Games Store公布2026年6月最終免費遊戲",
     "summary": "Epic Games Store已正式公布2026年6月最後一批免費遊戲，包含《RollerCoaster Tycoon 3 Complete Edition》和《Voidwrought》。這兩款遊戲合計價值近40美元，將是Epic Games Store在2026年6月提供給用戶的最終免費領取遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/25",
-    "title": "YouTuber「老高與小茉」公開「被封存影片」封面文字引發陰謀論",
-    "summary": "擁有超過600萬訂閱的YouTuber「老高與小茉」頻道於24日深夜上架一支標註「2024年拍攝、因特殊原因被封存」的限時公開影片。影片封面僅留下斗大的「去幹掉他」四個字，加上老高在影片開頭的敘述，引發不少網友聯想到近期圍繞在他身上的各種爭議與流言，推測影片內容暗藏弦外之音。",
-    "avatar_url": "https://ui-avatars.com/api/?name=老高&background=facc15&color=a16207&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/25",
-    "title": "百萬YouTuber蔡阿嘎因AI對決畫家事件引發爭議，遭日媒點名",
-    "summary": "百萬YouTuber蔡阿嘎近日在日本請街頭畫家繪製兒子肖像，隨後將手繪作品與AI生成圖片放在網路上進行對比票選，引發「不尊重創作者」的爭議，事件延燒並遭日本媒體《Record China》以「對日本畫家太失禮」為題報導。蔡阿嘎隨後發布影片道歉，承認此舉可能冒犯創作者，但於25日再度發布影片回應，強調本意是想表達「畫家贏了AI」，並質疑引用報導的媒體立場。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 2
   },
   {
@@ -2135,6 +2135,15 @@
     "date": "2026/05/31",
     "title": "專家預測旅行者一號將於 2026 年下半年與地球失聯",
     "summary": "科學家研究發現旅行者一號傳回一串神秘數據，專家預測旅行者一號將於 2026 年下半年與地球失去聯繫。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058未來人國分玲最新預言：2026年底全新傳染病肆虐全球",
+    "summary": "據稱來自 2058 年的「未來人」國分玲再次現身並發布最新預言，警告 2026 年底將有全新的傳染病肆虐全球，其致死率和傳播速度均令人擔憂。此外，預言內容還提及俄烏戰爭的停火時間已定，以及一個象徵大規模死亡的「黃泉客輪」將在未來七個月內帶走一些人。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
