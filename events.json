@@ -33,6 +33,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/28",
+    "title": "Steam限時免費領取《飼槽之主》",
+    "summary": "Steam平台限時免費領取遊戲《飼槽之主》（Lord Of The Trough）。開發者表示原為免費遊戲後續考慮轉為付費，但目前以100%折扣方式供玩家免費領取，以便吸引玩家，尤其對於多人派對遊戲。有網友討論Steam政策規定免費上架後不得改為付費，認為此舉是炒作話題。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/28",
+    "title": "Steam免費序號領取：《Assassin Of Aliens》",
+    "summary": "Steam免費遊戲情報站提供《Assassin Of Aliens》的免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/27",
     "title": "Epic Games (手機版) 限時免費領取：《忍者龜：許瑞德的復仇》",
     "summary": "Epic Games 手機版平台開放限時免費領取《忍者龜：許瑞德的復仇》。",
@@ -273,6 +289,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/26",
+    "title": "Steam限時免費：《POPGOES Arcade》",
+    "summary": "Steam平台限時免費提供FNAF衍生作《POPGOES Arcade》這款街機風格的恐怖RPG遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/25",
     "title": "Steam 夏日特賣 2026 正式開跑",
     "summary": "Steam 官方宣布 2026 年夏日特賣於今日（6 月 25 日）正式開始，活動將持續至 7 月 9 日。本次特賣預計將有大量遊戲提供折扣，包含 3A 大作、獨立遊戲、策略、動作、模擬等各類作品。",
@@ -376,30 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "獨立遊戲《謐漩星記錄》登陸Steam",
-    "summary": "個人開發的RPG獨立遊戲《謐漩星記錄》已登陸Steam平台，這是一款細節豐富、文本量大的微恐RPG，主打核類美學與心理恐怖。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/25",
-    "title": "2026 ChinaJoy 將展示多款獨立遊戲與新作Demo",
-    "summary": "2026 ChinaJoy（7月26日舉辦）將集結多款獨立遊戲與新作，提供現場試玩Demo，包括《不朽遺志Valor Mortis》、《Falling Apart》、《節奏裂隙》、《守墓人2》、《土豆兄弟》最新DLC“史前懼獸”等。Pocketpair也將展示《幻獸帕魯》1.0正式版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/25",
-    "title": "百萬YouTuber嘟嘟人爆退訂潮！緊急宣布停更兩週",
-    "summary": "知名百萬YouTube頻道「The DoDo Men嘟嘟人」近期因幕後成員Jeannie頻繁出鏡，引發老粉絲對頻道風格改變的不滿。團隊在Podcast中以「回應酸民」為題，將提出建議的粉絲歸類為「酸民」，態度強硬引發大規模退訂潮。Ian於21日發布道歉影片，坦承處理觀眾反饋失當，並宣布Jeannie正式「畢業」成為獨立創作者，但強調此決定早於5月定案。頻道已於24日宣布本週及下週YouTube正片暫停更新，以重新調整內容方向。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/26",
     "title": "台灣命理師小孟老師預言台灣下半年運勢",
@@ -458,6 +458,15 @@
     "date": "2026/06/25",
     "title": "TikTok 時空旅人Tona Multiverso：2026世界盃決賽阿根廷對墨西哥，墨西哥奪冠",
     "summary": "一名自稱「時空旅人」的 TikTok 用戶 Tona Multiverso 發布影片，聲稱該影片錄製於 2026 年 7 月 19 日，預言 2026 年世界盃足球賽決賽將由阿根廷對陣墨西哥，最終墨西哥將贏得冠軍。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "TikTok時空旅人預言2026世界盃決賽由墨西哥擊敗阿根廷",
+    "summary": "一名自稱「Tona Multiverso」的TikTok用戶發布短片，聲稱自己去過2026年7月19日的世界盃決賽現場，預言墨西哥將在決賽中以互射十二碼擊敗阿根廷奪冠。然而，影片被眼尖網友和媒體發現為AI生成，其中一名墨西哥球員在射十二碼時以「跣腳」姿勢滑倒，畫面極具喜感。網友認為這更像是該用戶對墨西哥世界盃旅程的美好祝願，且指出若兩隊皆以分組第一出線，將會在準決賽相遇而非決賽。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
@@ -881,6 +890,15 @@
     "date": "2026/05/19",
     "title": "國分玲預告將於 2026 年 9 月 26 日再次現身",
     "summary": "自稱來自 2058 年的未來人「國分玲」曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058年未來人國分玲預言2026年為全球重大轉折點",
+    "summary": "自稱來自2058年的未來人國分玲曾預言2026年是日本及全球的重大轉折點。她還提到未來學習的將是中文，並指出這與一位毀了一切的女首相有關。此外，她肯定表示比特幣價值會飆升到天價，並警告普通人屆時只能賣不能買。國分玲曾在2019年出現並精準預言東京奧運金牌數、股市暴跌、安倍辭職等事件，並表示將於2026年9月26日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
