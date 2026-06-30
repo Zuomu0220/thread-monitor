@@ -32,6 +32,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/06/30",
+    "title": "Steam 限時免費領取 Tell Me Why",
+    "summary": "Steam 平台於 2026 年 6 月 30 日提供遊戲《Tell Me Why》限時免費領取，活動將於 7 月 1 日上午 10 點 (PT) 結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/29",
     "title": "蔡阿嘎「AI比畫家」事件炎上擴大，二度道歉並承認「嘎家軍」存在引發抵制潮",
@@ -92,6 +100,14 @@
     "date": "2026/06/29",
     "title": "Steam 新增 8 款永久免費遊戲",
     "summary": "Steam 於 2026 年 6 月 29 日新增了 8 款可永久保留的免費遊戲，其中包括敘事懸疑遊戲《奧托叔叔的豪宅 (Uncle Otto's Mansion)》、第一人稱生存射擊遊戲《地獄統治 (Hellocracy)》、2D 精準平台遊戲《核心下降 (HeartCore Descent)》以及休閒撞球遊戲《Pokerist 的 8 球 (8 Ball by Pokerist)》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/29",
+    "title": "Steam 推出 8 款永久免費遊戲",
+    "summary": "Steam 於 2026 年 6 月 29 日推出 8 款新的永久免費遊戲，涵蓋多種遊戲類型，包括神秘遊戲《奧托叔叔的豪宅 (Uncle Otto's Mansion)》、第一人稱生存射擊遊戲《地獄統治 (Hellocracy)》、2D 精準平台遊戲《核心下降 (HeartCore Descent)》以及休閒撞球遊戲《8 Ball by Pokerist》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -240,6 +256,14 @@
     "days_left": 3
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/27",
+    "title": "中國實況主黃一鳴帳號「永久封禁」",
+    "summary": "知名網紅黃一鳴因聲稱孩子生父是王思聰，其社群帳號遭到永久封禁，引發網友熱議。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/06/26",
     "title": "Steam/Epic最新遊戲特價與免費情報",
@@ -373,30 +397,6 @@
     "title": "Epic Games 限時免費",
     "summary": "Epic Games Store 於 2026 年 6 月 26 日至 7 月 2 日提供《模擬樂園 3 完整版》及《Voidwrought》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 限時免費 RPG《POPGOES Arcade》",
-    "summary": "《佛雷迪的五夜驚魂》衍伸 RPG 作品《POPGOES Arcade》於 Steam 展開限時免費活動，活動期限至 2026 年 6 月 29 日上午 2:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 夏季特賣限時登場！",
-    "summary": "萬代南夢宮娛樂宣布，Steam 夏季特賣活動於 2026 年 6 月 26 日至 7 月 10 日展開，指定遊戲享最高 1 折優惠。特賣品項包括《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語時空異客》、《超級機器人大戰Y》、《空戰奇兵7 未知天際》以及《機戰傭兵™VI 境界天火™》等，折扣幅度從 1.6 折到 8 折不等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/26",
-    "title": "VTuber 個人勢「星野琉璃」遭爆料合約糾紛，無限期停播",
-    "summary": "個人勢 VTuber「星野琉璃」（Hoshino Ruri）於 6 月 26 日在社群平台 X 上發布公告，表示因與其前經紀人存在合約糾紛，導致她無法繼續進行直播活動，宣布無限期停播。網友在社群論壇（Dcard、Komica）上討論，對其處境表示同情，並呼籲相關單位能協助釐清合約內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -890,6 +890,15 @@
     "date": "2026/04/08",
     "title": "2058年未來人國分玲預言2026年為全球重大轉折點",
     "summary": "自稱來自2058年的未來人國分玲曾預言2026年是日本及全球的重大轉折點。她還提到未來學習的將是中文，並指出這與一位毀了一切的女首相有關。此外，她肯定表示比特幣價值會飆升到天價，並警告普通人屆時只能賣不能買。國分玲曾在2019年出現並精準預言東京奧運金牌數、股市暴跌、安倍辭職等事件，並表示將於2026年9月26日再次歸來。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2026 年 9 月 26 日將再次歸來",
+    "summary": "來自 2058 年的未來人國分玲（Rei Kokubun）曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。他還預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
