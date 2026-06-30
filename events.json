@@ -464,6 +464,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "TikTok 時空旅人「劇透」2026 世界盃冠軍",
+    "summary": "一名名為「Tona Multiverso」的 TikTok 用戶自稱是時空旅行者，並聲稱去過 2026 年 7 月 19 日的世界盃決賽現場，預言墨西哥將在點球大戰中擊敗阿根廷奪冠。然而，眼尖的網友和媒體很快發現其上傳的影片為 AI 生成。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "華語社群流傳「穿越者」警告極端氣候事件將加劇",
     "summary": "華語網路社群Dcard與PTT上，有自稱「穿越者」的帳號發布訊息，警告全球極端氣候事件將在未來數月內顯著加劇，特別是亞洲地區將面臨連續高溫與強降雨的挑戰。",
@@ -908,6 +917,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告 2026 年 9 月 26 日再次歸來",
     "summary": "來自 2058 年的國分玲曾表示，他將於 2026 年 9 月 26 日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預告 2026 年底全新傳染病肆虐",
+    "summary": "據稱是來自 2058 年的未來人國分玲曾預言，到 2026 年底全球將有全新的傳染病肆虐。她也表示將在 2026 年 9 月 26 日再次回歸。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
