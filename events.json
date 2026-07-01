@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Epic 商店限時免費領取《A Simple Garbage Sorting Game》",
+    "summary": "Epic Games 商店於 2026 年 7 月 1 日提供限時免費領取遊戲《A Simple Garbage Sorting Game》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/30",
     "title": "查無近期負面與爭議事件",
@@ -201,6 +209,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/28",
+    "title": "免費序號領取：Assassin Of Aliens",
+    "summary": "2026 年 6 月 28 日開放《Assassin Of Aliens》免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/27",
     "title": "Epic Games (手機版) 限時免費領取：《忍者龜：許瑞德的復仇》",
     "summary": "Epic Games 手機版平台開放限時免費領取《忍者龜：許瑞德的復仇》。",
@@ -380,22 +396,6 @@
     "date": "2026/06/26",
     "title": "Steam 2026 夏季特賣盛大開啟",
     "summary": "Steam 平台於 6 月 26 日正式啟動 2026 年夏季特賣活動，將持續至 7 月 10 日凌晨 1 點。本次特賣涵蓋數千款遊戲，包括眾多 3A 大作、獨立遊戲和經典老作，提供高達 95% 的折扣，其中多款遊戲達到歷史最低價。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/26",
-    "title": "Hololive VTuber 博衣小夜璃直播突中止引發關注",
-    "summary": "Hololive VTuber 博衣小夜璃（博衣こより）於6月26日晚間8點左右，突然中止原訂的直播，並在社群上表示「突然發生了〇〇，所以休息」。具體原因未詳，但突發的停播引起粉絲的關心與社群討論，推測可能與個人突發狀況有關。",
-    "avatar_url": "https://img.zerochan.net/Hakui.Koyori.full.3860086.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 2026夏季特賣正式開跑，數千款遊戲大幅折扣",
-    "summary": "Steam一年一度的「夏季特賣」於台灣時間6月26日凌晨1點正式展開，將持續至7月10日凌晨1點。此次特賣涵蓋數千款遊戲，多款3A大作與獨立遊戲達到歷史新低價，折扣幅度最高達95%。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
