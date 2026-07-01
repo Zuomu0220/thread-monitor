@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Steam 夏季特賣 2026：刺客信條：影、光與影：33號遠征隊、怪物獵人：荒野優惠推薦",
+    "summary": "在 2026 年 Steam 夏季特賣期間，《刺客信條：影 (Assassin's Creed Shadows)》標準版享 45 折，折後價 134.1 人民幣，創發售以來新低。《光與影：33號遠征隊 (The 33rd Expedition)》與《怪物獵人：荒野 (Monster Hunter Wilds)》也分別提供超值折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/30",
     "title": "查無近期負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/06/26",
     "title": "Steam 2026夏季特賣正式開跑，數千款遊戲大幅折扣",
     "summary": "Steam一年一度的「夏季特賣」於台灣時間6月26日凌晨1點正式展開，將持續至7月10日凌晨1點。此次特賣涵蓋數千款遊戲，多款3A大作與獨立遊戲達到歷史新低價，折扣幅度最高達95%。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 2026 夏季特賣正式開跑",
-    "summary": "Steam 一年一度的夏季特賣已於台灣時間 6 月 26 日凌晨 1 點正式開跑，活動將持續至 7 月 10 日凌晨 1 點，為期 14 天。此次特賣包含數千款遊戲的折扣，其中多款 3A 大作、獨立遊戲和經典老作達到歷史新低價，最高可享 1 折優惠。包括《艾爾登法環黑夜君臨》、《鐵拳8》、《數碼寶貝物語時空異客》、《超級機器人大戰Y》、《空戰奇兵7 未知天際》以及《機戰傭兵™VI 境界天火™》等遊戲都有不同幅度的折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -2198,6 +2198,15 @@
     "date": "2026/05/24",
     "title": "2058未來人國分玲最新預言：2026年底全新傳染病肆虐全球",
     "summary": "據稱來自 2058 年的「未來人」國分玲再次現身並發布最新預言，警告 2026 年底將有全新的傳染病肆虐全球，其致死率和傳播速度均令人擔憂。此外，預言內容還提及俄烏戰爭的停火時間已定，以及一個象徵大規模死亡的「黃泉客輪」將在未來七個月內帶走一些人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 比特幣先知預言2026年底加密貨幣價格將飆升",
+    "summary": "一個匿名帖子在 4chan 上再次出現，據稱是2019年成功預測比特幣底部價位的「先知」。這次他預言比特幣將在2026年底達到100萬美元，以太坊達到10萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
