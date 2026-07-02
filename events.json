@@ -56,6 +56,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Epic Games Store 限時免費領取《A Simple Garbage Sorting Game》",
+    "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《A Simple Garbage Sorting Game》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/30",
     "title": "查無近期負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/06/26",
     "title": "Steam 夏季特賣會 2026 正式開啟",
     "summary": "Steam 年度最大型促銷活動之一的夏季特賣會已於 6 月 26 日凌晨（北京時間）正式啟動，預計將持續至 7 月 10 日凌晨。本次特賣會涵蓋了全品類遊戲，包括 3A 大作、獨立遊戲、模擬經營和角色扮演等，預計將有 80 款遊戲達到常規歷史最低價，40 款遊戲刷新歷史最低價，還有 27 款遊戲折扣力度低於一折。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 夏季特賣 2026",
-    "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」於今日開跑，活動持續至 7 月 9 日凌晨，提供數千款遊戲大幅折扣，涵蓋 3A 大作、獨立遊戲、經典老作，部分遊戲折扣幅度高達 90% 至 95%。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -935,6 +935,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的未來人國分玲預告 2026 年底全新傳染病肆虐",
     "summary": "據稱是來自 2058 年的未來人國分玲曾預言，到 2026 年底全球將有全新的傳染病肆虐。她也表示將在 2026 年 9 月 26 日再次回歸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言 2026 年將再次歸來",
+    "summary": "據稱來自 2058 年的「未來人」國分玲，曾精準預測日本在東京奧運奪得 27 面金牌、2020 年 3 月全球股市因疫情跳水、安倍晉三辭職由菅義偉繼任、以及 2020 東京奧運延期至 2021 年 7 月 23 日舉辦。國分玲表示，他會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
