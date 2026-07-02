@@ -25,6 +25,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 免費遊戲：《原神》、《Arena Breakout: Infinite》、《Delta Force》",
+    "summary": "Epic Games Store 宣布於 2026 年 7 月 2 日至 7 月 9 日期間，開放《原神》新版本、「Arena Breakout: Infinite」與「Delta Force」限時免費遊玩或領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 年度大特賣",
+    "summary": "2026 年 Epic Games 年度大特賣活動通常在五月至六月間舉辦，並持續提供遊戲與 DLC 的超值優惠、免費遊戲與贈禮，為玩家準備遊戲夏日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -241,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/06/29",
+    "title": "Steam 夏季特賣：Ziggurat Steam Summer Sale",
+    "summary": "Ziggurat 旗下遊戲在 Steam 平台展開夏季特賣，多款經典、隱藏寶石及新作享優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/06/28",
     "title": "Steam 限時免費領取：《飼槽之主》(Lord Of The Trough)",
     "summary": "獨立遊戲《飼槽之主》(Lord Of The Trough) 開放限時免費領取，開發者表示遊戲未來將轉為付費，鼓勵玩家把握時間免費收藏。",
@@ -372,30 +396,6 @@
     "date": "2026/06/27",
     "title": "蔡阿嘎AI畫家爭議延燒並下令「嘎家軍」反擊",
     "summary": "知名YouTuber蔡阿嘎近期因在日本請街頭畫家繪製肖像後，又將畫作與AI生成圖片並列發起投票比較，此舉引發網友批評不尊重創作者，爭議更延燒至日本媒體。雖然他已拍片道歉，但後續又有疑似內部社群對話流出，內容顯示他要求粉絲團「嘎家軍」協助擴散「正確訊息」並反擊酸民，他本人也在IG限時動態間接證實此事，引發外界對其行為的雙標質疑與網軍操作的討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/27",
-    "title": "Steam 6月份限免遊戲《POPGOES Arcade》開放領取",
-    "summary": "Steam於6月持續推出多款限時免費遊戲供玩家領取，其中《POPGOES Arcade》於6月27日至6月29日期間開放免費下載，玩家可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/27",
-    "title": "Epic + Steam 免費遊戲彙整",
-    "summary": "Epic Games Store 持續提供克蘇魯風格惡魔城遊戲《虛空鍛造》與經典樂園模擬器《模擬樂園3：完全版》免費領取至 7 月 2 日。Steam 則曾於 6 月 28 日 11:00 前限時免費送出 96% 壓倒性好評的復古 RPG《POPGOES Arcade》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/27",
-    "title": "Twitch 實況主「小楓」因遊戲中辱罵言論引發爭議",
-    "summary": "中小型 Twitch 實況主「小楓」（化名）在 6 月 27 日的直播中，因遊戲表現不佳對隊友使用不當言論，引發社群平台（Dcard、PTT）網友截圖討論並批評其態度惡劣，認為其嚴重影響觀看體驗。目前小楓已在個人社群上發布道歉聲明，並表示將會進行反省。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 1
   },
