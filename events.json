@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 下週免費遊戲預告：《I Have No Mouth, and I Must Scream》與《River City Girls 2》",
+    "summary": "Epic Games Store 預告將於2026年7月2日至7月9日期間，推出《我沒有嘴巴，我必須尖叫》（I Have No Mouth, and I Must Scream）以及《熱血硬派少女2》（River City Girls 2）作為限時免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -61,6 +69,14 @@
     "title": "Epic Games Store 限時免費領取《A Simple Garbage Sorting Game》",
     "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《A Simple Garbage Sorting Game》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/07/01",
+    "title": "VSPO! 小森美特與千燈由日復出澄清：停工非因犯罪或不倫",
+    "summary": "電競VTuber團體VSPO!成員小森美特（小森めと）與千燈由日（千燈ゆうひ）於7月1日恢復活動，並在直播中向粉絲致歉。兩人曾因「抵觸合約內容」遭停工兩個月。小森美特強調，停工是因違反公司內部規則，並非外界揣測的犯罪或不倫事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/06/26",
     "title": "Steam 2026 夏季特賣開跑",
     "summary": "Valve 的季度大型促銷活動「Steam 夏季特賣」於 2026 年 6 月 26 日凌晨開跑，活動將持續至 7 月 9 日凌晨。本次特賣包含多款 3A 大作、獨立遊戲及經典作品，折扣幅度驚人，如《文明帝國 VII》、《戰地風雲 6》、《電馭叛客 2077》、《天國降臨：救贖 2》、《女神異聞錄 3 Reload》、《闇龍紀元：紗障守護者 (Dragon Age: Dreadwolf)》、《異形：黑暗血統 (Alien: Dark Descent)》、《OPUS：龍脈常歌-最終版-》和《地平線 西域禁地 完全版》等遊戲均有特價。香港遊戲發行商 Game Source Entertainment 旗下五款熱門遊戲也同步祭出史低折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 2026 夏季特賣盛大開啟，數千款大作與獨立遊戲折扣",
-    "summary": "Steam 夏季特賣於 6 月 26 日正式開始，活動將持續至 7 月 10 日凌晨 1 點。本次特賣涵蓋數千款遊戲，包括許多 3A 級大作與獨立遊戲都提供大幅折扣，多款遊戲創下歷史新低價，例如《Farthest Frontier》、《Wartales》、《The Outer Worlds 2》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 夏季特賣會 2026 正式開啟",
-    "summary": "Steam 年度最大型促銷活動之一的夏季特賣會已於 6 月 26 日凌晨（北京時間）正式啟動，預計將持續至 7 月 10 日凌晨。本次特賣會涵蓋了全品類遊戲，包括 3A 大作、獨立遊戲、模擬經營和角色扮演等，預計將有 80 款遊戲達到常規歷史最低價，40 款遊戲刷新歷史最低價，還有 27 款遊戲折扣力度低於一折。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
