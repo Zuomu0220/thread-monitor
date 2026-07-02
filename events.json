@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 宣布下週免費遊戲",
+    "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -156,6 +164,14 @@
     "date": "2026/06/29",
     "title": "Steam 推出 8 款永久免費遊戲",
     "summary": "Steam 於 2026 年 6 月 29 日推出 8 款新的永久免費遊戲，涵蓋多種遊戲類型，包括神秘遊戲《奧托叔叔的豪宅 (Uncle Otto's Mansion)》、第一人稱生存射擊遊戲《地獄統治 (Hellocracy)》、2D 精準平台遊戲《核心下降 (HeartCore Descent)》以及休閒撞球遊戲《8 Ball by Pokerist》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/06/29",
+    "title": "Steam 最新遊戲 Demo 釋出",
+    "summary": "Steam 平台於 6 月 29 日至 7 月 5 日期間，有多款新遊戲 Demo 上線，包括角色扮演遊戲《Boli》、動作射擊遊戲《Code RAPID》、視覺小說《Guilty As Charged!》、模擬遊戲《Next Star》、動作遊戲《Cold Sweat》以及生存恐怖遊戲《Mr. Grin's Final Act》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -384,22 +400,6 @@
     "days_left": 1
   },
   {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Steam 夏季特賣 2026 開跑",
-    "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」於 6 月 26 日正式開跑，活動將持續至 7 月 9 日凌晨。本次特賣涵蓋全站 3A 大作、獨立遊戲及經典老作，多款遊戲達到歷史新低價，其中包括《電馭叛客2077》、《天國降臨：救贖2》、《女神異聞錄3重製版》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/26",
-    "title": "Epic Games 限時免費領取：《模擬樂園3 完整版》、《Voidwrought》",
-    "summary": "Epic Games Store 推出最新限時免費活動，經典經營模擬遊戲《模擬樂園3 完整版》與類銀河戰士惡魔城 2D 動作平台遊戲《Voidwrought》開放玩家免費領取。活動截止至台灣時間 2026 年 7 月 2 日晚上 11:00 前，領取後可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/23",
     "title": "Reddit未來人預言2026年7月將出現新型態極端氣候",
@@ -467,6 +467,15 @@
     "date": "2026/06/26",
     "title": "TikTok 時空旅人「劇透」2026 世界盃冠軍",
     "summary": "一名名為「Tona Multiverso」的 TikTok 用戶自稱是時空旅行者，並聲稱去過 2026 年 7 月 19 日的世界盃決賽現場，預言墨西哥將在點球大戰中擊敗阿根廷奪冠。然而，眼尖的網友和媒體很快發現其上傳的影片為 AI 生成。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "TikTok 時空旅人預言世界盃 2026 決賽",
+    "summary": "一位名為「Tona Multiverso」的 TikTok 用戶自稱是時空旅行者，預言在 2026 年世界盃決賽中，墨西哥將在點球大戰中擊敗阿根廷奪冠。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
@@ -1051,6 +1060,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特預言2026年11月13日人口爆炸導致地球毀滅",
     "summary": "2026年1月2日有報導回顧指出，1960年代物理學家海因茨．馮．佛斯特（Heinz von Foerster）的人口成長模型預測，全球人口將於2026年11月13日達到無限大，導致地球資源枯竭而毀滅，此一「世界末日預言」在社群媒體上再次被討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特模型預測人類滅絕",
+    "summary": "根據物理學家馮．佛斯特 (Heinz von Foerster) 於 1960 年提出的人口成長模型推算，人類滅絕的日期可能落在 2026 年 11 月 13 日。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -2273,6 +2291,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言 2028 年金融危機",
+    "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，美元的全球結算體系將出現根本性動搖。她也曾表示將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
   },
   {
     "category": "PROPHECY",
