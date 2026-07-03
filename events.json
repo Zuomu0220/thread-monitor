@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 平台限時免費領取《熱血少女2》與《無聲狂嘯》",
+    "summary": "Epic Games Store 本週（7月2日至7月9日23:00）限時免費提供熱血搞笑動作遊戲《熱血硬派國夫君外傳熱血少女2》（River City Girls 2），以及改編自美國科幻恐怖名作的同名ADV遊戲《無聲狂嘯》（I Have No Mouth, and I Must Scream），領取後即可永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -172,6 +180,14 @@
     "date": "2026/07/01",
     "title": "Steam 限時免費：《告訴我為什麼》",
     "summary": "Steam 平台在 7 月 1 日前提供敘事冒險遊戲《告訴我為什麼》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "《小丑牌》登陸Epic平台享折扣",
+    "summary": "備受好評的牌組構築Roguelike遊戲《Balatro》（小丑牌）已於近日正式登陸Epic Games Store平台，首發期間提供20%折扣優惠，國區售價43元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -336,6 +352,14 @@
     "days_left": 3
   },
   {
+    "category": "STREAMER",
+    "date": "2026/06/29",
+    "title": "蔡阿嘎AI似顏繪爭議二度道歉",
+    "summary": "百萬YouTuber蔡阿嘎因將日本畫家作品與AI生成圖比較，引發不尊重創作者的爭議，風波延燒至日本社群與媒體，並影響20多家品牌合作。儘管他於6月29日再次發布道歉影片，坦承對藝術創作理解不足，並對粉絲社群「嘎家軍」遭質疑出征帶風向一事深刻反省，承諾未來將謹慎發言，但多數網友仍不買單，認為其道歉是因商業損失，負面輿論持續發酵。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/06/28",
     "title": "Steam 限時免費領取：《飼槽之主》(Lord Of The Trough)",
@@ -373,30 +397,6 @@
     "title": "Steam 限時免費領取免轉付遊戲《飼槽之主》",
     "summary": "Steam商店推出限時免費領取免轉付遊戲《飼槽之主》（Lord Of The Trough）。開發者表示未來會改為付費遊戲，但目前為免費期間，玩家可透過點擊「進行遊戲」後取消下載即可領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/28",
-    "title": "知名YouTuber蔡阿嘎因AI似顏繪爭議被網友抵制，連帶合作廠商受影響",
-    "summary": "蔡阿嘎日前在日本旅遊時，請街頭畫家為兒子作畫，隨後卻將作品與AI生成圖比較並發布影片，引發大量網友不滿，認為其「版權意識零分」且「歧視性少數」等。事件發酵後，蔡阿嘎雖發布道歉影片，但後續言論與疑似「護衛軍」群組對話截圖流出，使爭議持續延燒，導致多個合作品牌遭網友發動抵制。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/28",
-    "title": "科技評論者「電腦王阿達」因支持中國Steam封鎖LGBTQ+標籤，引發網友炎上",
-    "summary": "「電腦王阿達」在其臉書粉絲專頁公開表示認可中國版Steam平台全面封鎖「LGBTQ+」標籤的搜尋功能，稱「早該封殺了」。此言論遭到大量網友撻伐，指責其歧視性少數並支持言論審查。文中也回顧其過往多次爭議，包括貶低VTuber、涉嫌教學下載盜版影音APP及未經授權濫用VTuber圖像生成AI影片等黑歷史。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/28",
-    "title": "台灣VTuber「諾芙.exe」虛擬形象遭「電腦王阿達」未經授權用於AI影片生成，引發版權爭議",
-    "summary": "台灣VTuber「諾芙.exe」的虛擬形象圖素，未經本人同意，被科技評論者「電腦王阿達」擅自用於OpenAI的影片生成工具（Sora 2）產出影片並公開發布。受害創作者發文抨擊此行為「版權意識零分」，引發VTuber圈對於AI生成內容與著作權的討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -953,6 +953,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2026 年將再次歸來",
     "summary": "據稱來自 2058 年的「未來人」國分玲，曾精準預測日本在東京奧運奪得 27 面金牌、2020 年 3 月全球股市因疫情跳水、安倍晉三辭職由菅義偉繼任、以及 2020 東京奧運延期至 2021 年 7 月 23 日舉辦。國分玲表示，他會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲重現網路",
+    "summary": "自稱來自2058年的未來人國分玲表示，他將於2026年9月26日再次歸來，回答網友問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
