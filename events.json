@@ -1,11 +1,11 @@
 [
   {
     "category": "STREAMER",
-    "date": "2026/07/03",
+    "date": "2026/07/04",
     "title": "無最新負面與爭議事件",
-    "summary": "在 2026/06/26 至 2026/07/03 期間，未搜尋到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
+    "summary": "根據目前掌握的網路資訊，在 2026/06/27 至 2026/07/04 期間，華語圈實況主與 VTuber 領域未出現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 7
   },
   {
     "category": "GAME",
@@ -140,6 +140,22 @@
     "date": "2026/07/02",
     "title": "Epic Games Store 免費遊戲：《我沒有嘴巴，但我必須尖叫》及《河城少女 2》",
     "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日期間，開放限時免費領取經典恐怖點擊冒險遊戲《我沒有嘴巴，但我必須尖叫》以及動作遊戲《河城少女 2》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 限時免費",
+    "summary": "River City Girls 2 與 I Have No Mouth, and I Must Scream：Epic Games Store 自 7 月 2 日起提供《River City Girls 2》和《I Have No Mouth, and I Must Scream》限時免費領取，活動將持續至 7 月 9 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 免費遊戲預告",
+    "summary": "Nova Lands 與 Tattoo Tycoon：Epic Games Store 預告將於 7 月 9 日起提供《Nova Lands》和《Tattoo Tycoon》作為新的限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -381,22 +397,6 @@
     "title": "台裔日籍VTuber「さや」拒絕企業招攬，稱不想看中國臉色",
     "summary": "台灣出身並取得日本國籍的VTuber「さや」（Saya）在社群上發文，透露自己婉拒了多家企業的招攬。她表示，選擇維持個人勢是為了避免企業對言論和自我表達的嚴格限制，特別是她不想因此「看中國臉色」。",
     "avatar_url": "https://i.imgur.com/eB3sY4X.png",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/29",
-    "title": "Steam 新增 8 款免費永久領取遊戲",
-    "summary": "Steam 近日新增 8 款可永久免費領取的遊戲，涵蓋恐怖、射擊、RPG 等不同類型。其中包括敘事解謎遊戲《Uncle Otto's Mansion》、第一人稱生存射擊遊戲《Hellocracy》、高難度 2D 平台遊戲《HeartCore Descent》、經典美式桌球遊戲《8 Ball by Pokerist》，以及《Backrooms: Lost Dimension》、《Slipstick Panic》、《Myth Requiem》、《BIND》等作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/29",
-    "title": "Steam 夏季特賣：Ziggurat Steam Summer Sale",
-    "summary": "Ziggurat 旗下遊戲在 Steam 平台展開夏季特賣，多款經典、隱藏寶石及新作享優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
