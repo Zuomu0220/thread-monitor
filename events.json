@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/03",
+    "title": "Epic Games Store 手遊免費領取：《旅行者索菲亞》",
+    "summary": "Epic Games 宣布，將於 7 月 3 日至 7 月 9 日期間，向 Android 和 iOS 玩家免費贈送手遊《旅行者索菲亞》(Sophia the Traveler)。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
     "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
@@ -129,6 +137,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 免費遊戲：《我沒有嘴巴，但我必須尖叫》及《河城少女 2》",
+    "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日期間，開放限時免費領取經典恐怖點擊冒險遊戲《我沒有嘴巴，但我必須尖叫》以及動作遊戲《河城少女 2》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -204,6 +220,14 @@
     "date": "2026/07/01",
     "title": "《小丑牌》登陸Epic平台享折扣",
     "summary": "備受好評的牌組構築Roguelike遊戲《Balatro》（小丑牌）已於近日正式登陸Epic Games Store平台，首發期間提供20%折扣優惠，國區售價43元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Steam 限時免費：《謂何》(Tell Me Why)",
+    "summary": "冒險遊戲《謂何》(Tell Me Why) 在 Steam 上提供限時免費領取，活動已於 7 月 1 日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -374,30 +398,6 @@
     "summary": "Ziggurat 旗下遊戲在 Steam 平台展開夏季特賣，多款經典、隱藏寶石及新作享優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/29",
-    "title": "蔡阿嘎AI似顏繪爭議二度道歉",
-    "summary": "百萬YouTuber蔡阿嘎因將日本畫家作品與AI生成圖比較，引發不尊重創作者的爭議，風波延燒至日本社群與媒體，並影響20多家品牌合作。儘管他於6月29日再次發布道歉影片，坦承對藝術創作理解不足，並對粉絲社群「嘎家軍」遭質疑出征帶風向一事深刻反省，承諾未來將謹慎發言，但多數網友仍不買單，認為其道歉是因商業損失，負面輿論持續發酵。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/28",
-    "title": "Steam 限時免費領取：《飼槽之主》(Lord Of The Trough)",
-    "summary": "獨立遊戲《飼槽之主》(Lord Of The Trough) 開放限時免費領取，開發者表示遊戲未來將轉為付費，鼓勵玩家把握時間免費收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/28",
-    "title": "Steam限時免費領取《飼槽之主》",
-    "summary": "Steam平台限時免費領取遊戲《飼槽之主》（Lord Of The Trough）。開發者表示原為免費遊戲後續考慮轉為付費，但目前以100%折扣方式供玩家免費領取，以便吸引玩家，尤其對於多人派對遊戲。有網友討論Steam政策規定免費上架後不得改為付費，認為此舉是炒作話題。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -977,6 +977,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告 2026 年 9 月 26 日再次歸來",
+    "summary": "國分玲曾表示她將在 2026 年 9 月 26 日再次現身，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1105,6 +1114,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特模型預測人類滅絕",
     "summary": "根據物理學家馮．佛斯特 (Heinz von Foerster) 於 1960 年提出的人口成長模型推算，人類滅絕的日期可能落在 2026 年 11 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "美國三學者 65 年前預言 2026 年 11 月 13 日世界末日",
+    "summary": "美國伊利諾大學的三位學者在 1960 年發表的研究報告中預測，如果人類人口繼續像過去兩千年那樣增長，世界末日將在 2026 年 11 月 13 日來臨，屆時人口將趨於無限大，糧食供應嚴重不足。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
