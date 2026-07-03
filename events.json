@@ -161,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store限時免費遊戲：《I Have No Mouth, and I Must Scream》與《River City Girls 2》",
+    "summary": "Epic Games Store宣布於2026年7月2日至7月9日期間，限時免費提供經典邪典遊戲《I Have No Mouth, and I Must Scream》以及《River City Girls 2》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -389,14 +397,6 @@
     "title": "Steam 2026 夏季特賣盛大開啟：《電馭叛客 2077》等大作創歷史新低",
     "summary": "Steam 一年一度的夏季特賣於 2026 年 6 月 26 日至 7 月 9 日舉行，多款 3A 大作與獨立遊戲祭出超值折扣。其中，《電馭叛客 2077》及其 DLC《自由幻局》、Final Fantasy 系列多款作品、潛水員戴夫、隻狼、仁王系列、惡靈古堡系列及惡魔獵人 5 等皆達歷史新低價位。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/29",
-    "title": "台裔日籍VTuber「さや」拒絕企業招攬，稱不想看中國臉色",
-    "summary": "台灣出身並取得日本國籍的VTuber「さや」（Saya）在社群上發文，透露自己婉拒了多家企業的招攬。她表示，選擇維持個人勢是為了避免企業對言論和自我表達的嚴格限制，特別是她不想因此「看中國臉色」。",
-    "avatar_url": "https://i.imgur.com/eB3sY4X.png",
     "days_left": 2
   },
   {
@@ -980,6 +980,15 @@
     "date": "2026/05/19",
     "title": "國分玲預告 2026 年 9 月 26 日再次歸來",
     "summary": "國分玲曾表示她將在 2026 年 9 月 26 日再次現身，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的未來人國分玲預告：2026年9月26日再次歸來",
+    "summary": "國分玲曾表示，他將在2026年9月26日再次回到網路上，回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
