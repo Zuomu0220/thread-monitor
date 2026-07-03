@@ -64,6 +64,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/02",
+    "title": "VTuber Deme 嘲諷私人創傷引發炎上",
+    "summary": "英文系個人勢 VTuber Deme 因嘲諷他人私人創傷，以及過去疑似在觀眾面前直播「做運動」的爭議內容，在社群上遭到大炎上，引發網友熱烈討論與批評。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 即將免費領取遊戲",
+    "summary": "「我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)」與「熱血硬派少女 2 (River City Girls 2)」將於 2026 年 7 月 2 日至 7 月 9 日在 Epic Games Store 開放免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
@@ -382,22 +398,6 @@
     "summary": "Steam 新品節 2026 年 6 月版帶來數百款免費試玩版、開發者直播和聊天等內容，讓玩家能搶先體驗即將發行的遊戲。此次活動中，許多動作角色扮演、城市建造、平台動作及獨立恐怖遊戲等類型的新作展示了試玩版，吸引了大量玩家參與體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/27",
-    "title": "Epic Games (手機版) 限時免費領取：《忍者龜：許瑞德的復仇》",
-    "summary": "Epic Games 手機版平台開放限時免費領取《忍者龜：許瑞德的復仇》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/27",
-    "title": "The DoDo Men嘟嘟人爆退訂潮，宣布停更兩週",
-    "summary": "百萬YouTube頻道「The DoDo Men嘟嘟人」因幕後成員Jeannie頻繁出鏡，引發老粉絲不滿認為頻道風格改變。團隊在Podcast節目中以「回應酸民」為題，將建議的粉絲貼上「酸民」標籤，態度強硬引發大規模退訂潮。Ian於6月21日發布道歉影片，坦承處理方式錯誤，並宣布Jeannie正式「畢業」成為獨立創作者，澄清此決定早於5月定案。團隊於6月24日宣布YouTube正片暫停更新兩週，以重新調整內容方向。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
