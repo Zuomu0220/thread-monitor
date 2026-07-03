@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/03",
+    "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
+    "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
     "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
@@ -44,6 +52,14 @@
     "date": "2026/07/02",
     "title": "Epic Games 年度大特賣",
     "summary": "2026 年 Epic Games 年度大特賣活動通常在五月至六月間舉辦，並持續提供遊戲與 DLC 的超值優惠、免費遊戲與贈禮，為玩家準備遊戲夏日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 7 月免費遊戲陣容",
+    "summary": "Epic Games Store 公布了 7 月 2 日至 7 月 9 日期間的免費遊戲陣容，其中包括經典邪典遊戲《我沒有嘴巴，但我必須尖叫》（I Have No Mouth, and I Must Scream）以及廣受好評的《河城少女 2》（River City Girls 2）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "The DoDo Men嘟嘟人爆退訂潮，宣布停更兩週",
     "summary": "百萬YouTube頻道「The DoDo Men嘟嘟人」因幕後成員Jeannie頻繁出鏡，引發老粉絲不滿認為頻道風格改變。團隊在Podcast節目中以「回應酸民」為題，將建議的粉絲貼上「酸民」標籤，態度強硬引發大規模退訂潮。Ian於6月21日發布道歉影片，坦承處理方式錯誤，並宣布Jeannie正式「畢業」成為獨立創作者，澄清此決定早於5月定案。團隊於6月24日宣布YouTube正片暫停更新兩週，以重新調整內容方向。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/27",
-    "title": "蔡阿嘎AI對決日本畫家遭炎上，社群爆發「嘎家軍」出征爭議",
-    "summary": "百萬YouTuber蔡阿嘎因將日本街頭畫家繪製的兒子肖像與AI生成圖進行比較投票，引發「不尊重創作者」的炎上爭議，事件更登上日本媒體。蔡阿嘎於6月22日晚間下架貼文並拍片道歉，但隨後於25日拍片反擊稱遭斷章取義，並質疑日本媒體有中國資金背景。27日，網路流出疑似其粉絲群組「嘎哥護衛軍GArmy」的對話截圖，內容顯示有人下令成員到各大平台反擊酸民、擴散「正確訊息」，蔡阿嘎本人則在IG限時動態轉貼報導，直言「正確訊息必須靠嘎家軍擴散」，間接證實截圖屬實。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/06/27",
-    "title": "VTuber 浠Mizuki 因失言風波遭停播兩個月",
-    "summary": "子午計畫旗下 VTuber 浠Mizuki 因對學生粉絲留言「就沒有心想買還要發出來也是挺慘的」而引發社群炎上。儘管事件初發於 5 月中，但截至 6 月 27 日，相關爭議及處分（暫停所有直播與社群活動兩個月，取消所有工商合作與個人專案，至 2026 年 7 月 18 日止）仍在社群上持續受到關注與討論。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kXg-b3fK7e3s-rQ4yXyY2M3A8z6E6i9k-1Q9GzJ5S1=s176-c-k-c0x00ffffff-no-rj",
     "days_left": 1
   },
   {
