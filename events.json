@@ -233,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "Epic Games Store 公布本週最新免費遊戲為《River City Girls 2》和《I Have No Mouth, and I Must Scream》，可免費領取至 7 月 9 日。此外，下一波將送出的遊戲已確定為《Nova Lands》和《Tattoo Tycoon》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -389,14 +397,6 @@
     "title": "蔡阿嘎AI繪圖與嘎家軍爭議",
     "summary": "百萬YouTuber蔡阿嘎因將AI生成圖片與日本街頭畫家的手繪作品進行比較，引發外界對其不尊重創作者的批評。事件延燒後，蔡阿嘎在群組中號召粉絲「嘎家軍」反擊酸民，並在回應影片中指責批評者為「中共同路人」，導致公關危機升級，多個合作品牌遭到抵制。蔡阿嘎隨後發布第二次道歉聲明，承認對創作價值的理解不足及情緒管控不成熟。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/30",
-    "title": "Epic限免",
-    "summary": "《一個簡單的扔垃圾遊戲》：Epic Games Store 提供解謎闖關遊戲《一個簡單的扔垃圾遊戲》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1141,6 +1141,15 @@
     "date": "2026/01/10",
     "title": "美國三學者 65 年前預言 2026 年 11 月 13 日世界末日",
     "summary": "美國伊利諾大學的三位學者在 1960 年發表的研究報告中預測，如果人類人口繼續像過去兩千年那樣增長，世界末日將在 2026 年 11 月 13 日來臨，屆時人口將趨於無限大，糧食供應嚴重不足。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/04",
+    "title": "物理學家馮·佛斯特預言 2026 年 11 月 13 日全球滅絕",
+    "summary": "物理學家馮·佛斯特（Heinz von Foerster）在 1960 年的《科學》期刊上預測，世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日。他認為元兇是人口過剩，而非核戰爭，但亦提出人類可透過有效的人口控制機制來避免災難。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
