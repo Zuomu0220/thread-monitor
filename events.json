@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/05",
+    "title": "目前無最新負面與爭議事件",
+    "summary": "在 2026/06/28 至 2026/07/05 期間，未發現台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/04",
     "title": "無最新負面與爭議事件",
     "summary": "根據目前掌握的網路資訊，在 2026/06/27 至 2026/07/04 期間，華語圈實況主與 VTuber 領域未出現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
@@ -353,6 +361,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store 限時免費：《熱血少女2》與《無聲狂嘯》",
+    "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日期間，提供格鬥少女清版動作遊戲《熱血少女2》（River City Girls 2）與科幻冒險遊戲《無聲狂嘯》（I Have No Mouth, and I Must Scream）限時免費領取.",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games Store「Epic Savings」優惠活動結束",
+    "summary": "Epic Games Store 的「Epic Savings」優惠活動已於 2026 年 7 月 2 日結束，該活動從 6 月 18 日開始，提供了多款遊戲高達 95% 的折扣，包括《戰地風雲》系列、《星際大戰絕地：組織殞落》及《極速快感：熱焰》等.",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -372,30 +396,6 @@
     "date": "2026/07/01",
     "title": "Epic 商店限時免費領取《A Simple Garbage Sorting Game》",
     "summary": "Epic Games 商店於 2026 年 7 月 1 日提供限時免費領取遊戲《A Simple Garbage Sorting Game》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/01",
-    "title": "VTuber VSPO! 小森めと與千燈ゆうひ解除停播恢復活動",
-    "summary": "兩位電競VTuber小森めと（小森美特）與千燈ゆうひ（千燈由日）在因違反內部規範與合約條款被停播兩個月後，於7月1日正式恢復活動。她們透過X平台向粉絲報告復出消息，並在YouTube進行簡短直播，親自向觀眾致歉並表達重新努力的決心。兩人皆強調其行為絕不涉及任何犯罪活動或不倫戀情，並因合約規範無法公開更多具體細節，僅承諾未來將深刻反省並重新投入活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "Epic Games Store 即將免費：《我沒有嘴巴，我必須尖叫》與《熱血硬派少女2》",
-    "summary": "Epic Games Store 預計於2026年7月2日至7月9日期間，將開放《我沒有嘴巴，我必須尖叫 (I Have No Mouth, and I Must Scream)》和《熱血硬派少女2 (River City Girls 2)》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "Steam 限時免費：《A Simple Garbage Sorting Game》",
-    "summary": "Epic 商店於2026年7月1日提供《A Simple Garbage Sorting Game》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
