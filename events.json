@@ -88,6 +88,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/03",
+    "title": "中國頂流實況主旭旭寶寶宣布無限期停播",
+    "summary": "在2026年盛夏，中國知名遊戲實況主旭旭寶寶突然宣布無限期停播。此消息震驚了遊戲直播圈，但也揭示了直播行業的殘酷現況，包括平台營收下滑、流量分配不均以及實況主因長時間高強度直播導致的健康危機。有報導指出，僅0.4%的頭部主播瓜分了80%的收益，而95%的底層主播月收入不足5000元人民幣，新人平均生存週期不到一年。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
@@ -388,14 +396,6 @@
     "date": "2026/07/01",
     "title": "Epic Games Store 限時免費：《一個簡單的扔垃圾遊戲》",
     "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《一個簡單的扔垃圾遊戲 (A Simple Garbage Sorting Game)》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "Epic Games Store 限時免費：《愛上Coser 5》",
-    "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《愛上Coser 5 (Fell in love with coser 5)》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
