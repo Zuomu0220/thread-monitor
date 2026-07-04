@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic即將免費",
+    "summary": "《我沒有嘴巴，但我必須尖叫》與《River City Girls 2》：Epic Games Store 預告將於7月2日至7月9日期間，限時免費提供經典恐怖遊戲《我沒有嘴巴，但我必須尖叫》以及動作遊戲《River City Girls 2》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
@@ -312,6 +320,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/06/30",
+    "title": "Epic限免",
+    "summary": "《一個簡單的扔垃圾遊戲》：Epic Games Store 提供解謎闖關遊戲《一個簡單的扔垃圾遊戲》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/29",
     "title": "蔡阿嘎「AI比畫家」事件炎上擴大，二度道歉並承認「嘎家軍」存在引發抵制潮",
@@ -380,22 +396,6 @@
     "date": "2026/06/29",
     "title": "Steam 推出 8 款永久免費遊戲",
     "summary": "Steam 於 2026 年 6 月 29 日推出 8 款新的永久免費遊戲，涵蓋多種遊戲類型，包括神秘遊戲《奧托叔叔的豪宅 (Uncle Otto's Mansion)》、第一人稱生存射擊遊戲《地獄統治 (Hellocracy)》、2D 精準平台遊戲《核心下降 (HeartCore Descent)》以及休閒撞球遊戲《8 Ball by Pokerist》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/29",
-    "title": "Steam 最新遊戲 Demo 釋出",
-    "summary": "Steam 平台於 6 月 29 日至 7 月 5 日期間，有多款新遊戲 Demo 上線，包括角色扮演遊戲《Boli》、動作射擊遊戲《Code RAPID》、視覺小說《Guilty As Charged!》、模擬遊戲《Next Star》、動作遊戲《Cold Sweat》以及生存恐怖遊戲《Mr. Grin's Final Act》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/29",
-    "title": "Steam 2026 夏季特賣盛大開啟：《電馭叛客 2077》等大作創歷史新低",
-    "summary": "Steam 一年一度的夏季特賣於 2026 年 6 月 26 日至 7 月 9 日舉行，多款 3A 大作與獨立遊戲祭出超值折扣。其中，《電馭叛客 2077》及其 DLC《自由幻局》、Final Fantasy 系列多款作品、潛水員戴夫、隻狼、仁王系列、惡靈古堡系列及惡魔獵人 5 等皆達歷史新低價位。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
