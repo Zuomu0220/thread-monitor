@@ -65,6 +65,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/03",
+    "title": "GOG 商店限時免費：《Nexus: The Jupite》",
+    "summary": "GOG 商店於 2026 年 7 月 3 日限時免費領取《Nexus: The Jupite》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
     "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
@@ -344,6 +352,30 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Epic Games Store 限時免費：《一個簡單的扔垃圾遊戲》",
+    "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《一個簡單的扔垃圾遊戲 (A Simple Garbage Sorting Game)》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Epic Games Store 限時免費：《愛上Coser 5》",
+    "summary": "Epic Games Store 於 2026 年 7 月 1 日提供《愛上Coser 5 (Fell in love with coser 5)》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/01",
+    "title": "Steam 免費序號領取：Synth Ninja",
+    "summary": "Steam 於 2026 年 7 月 1 日提供《Synth Ninja》免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/06/30",
     "title": "查無近期負面與爭議事件",
@@ -365,38 +397,6 @@
     "title": "像素風生活模擬 RPG《月霜》更新免費試玩版，支援繁體中文",
     "summary": "獨立遊戲工作室 Oxalis Games 宣布，旗下像素風生活模擬 RPG《月霜》的免費 Demo 已在 Steam 上線並更新，本次更新引入繁體中文支援。遊戲背景設定在飽受隕石風暴摧殘的世界，玩家可耕作、釣魚、製作物品並打造家園。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/30",
-    "title": "Steam 限時免費遊戲",
-    "summary": "冒險遊戲《告訴我為什麼 (Tell Me Why)》在 Steam 上限時免費領取，活動截止至 2026 年 7 月 1 日上午 10 點（PT）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/30",
-    "title": "Steam 限時免費領取 Tell Me Why",
-    "summary": "Steam 平台於 2026 年 6 月 30 日提供遊戲《Tell Me Why》限時免費領取，活動將於 7 月 1 日上午 10 點 (PT) 結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/06/30",
-    "title": "Steam 數款熱門免費遊戲推薦",
-    "summary": "截至 2026 年 6 月底，Steam 上仍有許多優秀的免費遊戲可供玩家永久遊玩，其中包括高人氣的開放世界角色扮演遊戲《鳴潮》、第一人稱射擊遊戲《絕對武力 2》、英雄射擊遊戲《漫威大對決》以及多人線上戰術競技遊戲《Dota 2》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/06/30",
-    "title": "蔡阿嘎AI繪圖與嘎家軍爭議",
-    "summary": "百萬YouTuber蔡阿嘎因將AI生成圖片與日本街頭畫家的手繪作品進行比較，引發外界對其不尊重創作者的批評。事件延燒後，蔡阿嘎在群組中號召粉絲「嘎家軍」反擊酸民，並在回應影片中指責批評者為「中共同路人」，導致公關危機升級，多個合作品牌遭到抵制。蔡阿嘎隨後發布第二次道歉聲明，承認對創作價值的理解不足及情緒管控不成熟。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 3
   },
   {
