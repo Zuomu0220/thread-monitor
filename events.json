@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 免費遊戲推薦：WinBolo",
+    "summary": "WinBolo 於 2026 年 6 月 30 日發行，獲得 90% 好評，並支援繁體中文，玩家可下載並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 免費遊戲推薦：The Miki Komori Project",
+    "summary": "The Miki Komori Project 於 2026 年 6 月 23 日發行，獲得 93% 好評，支援簡體中文，玩家將探索虛擬主播背後的奇異事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -380,22 +396,6 @@
     "date": "2026/07/02",
     "title": "Epic Games Store 限時免費：《熱血少女2》與《無聲狂嘯》",
     "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日期間，提供格鬥少女清版動作遊戲《熱血少女2》（River City Girls 2）與科幻冒險遊戲《無聲狂嘯》（I Have No Mouth, and I Must Scream）限時免費領取.",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store「Epic Savings」優惠活動結束",
-    "summary": "Epic Games Store 的「Epic Savings」優惠活動已於 2026 年 7 月 2 日結束，該活動從 6 月 18 日開始，提供了多款遊戲高達 95% 的折扣，包括《戰地風雲》系列、《星際大戰絕地：組織殞落》及《極速快感：熱焰》等.",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games 限時免費遊戲釋出",
-    "summary": "Epic Games Store 宣布本週限時免費遊戲為《熱血硬派外傳 熱血少女物語2》（River City Girls 2）和《我沒有嘴，但我必須尖叫》（I Have No Mouth, and I Must Scream），玩家可在 7 月 9 日前領取。下週的免費遊戲將是《新星之地》（Nova Lands）和《刺青大亨》（Tattoo Tycoon）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
