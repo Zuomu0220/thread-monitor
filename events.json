@@ -49,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 免費遊戲",
+    "summary": "Steam 推薦 18 款 2026 年 6 月獨立遊戲可永久保留，其中包含 6 月 29 日發行的冒險解謎遊戲《REWIND》等。其他推薦遊戲有《WinBolo》、《Glisynth》、《Lord Of The Trough》、《WOBBLY HEIST》、《The Queen's Gondola》、《The Light that Binds Us》和《Frog Climb》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -132,6 +140,14 @@
     "date": "2026/07/03",
     "title": "GOG 商店限時免費領取：《Nexus: The Jupiter Incident》",
     "summary": "GOG 商店於 2026 年 7 月 3 日提供策略遊戲《Nexus: The Jupiter Incident》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/03",
+    "title": "Epic Games Store 免費遊戲預告",
+    "summary": "Epic Games Store 宣布下週將贈送兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》，兩款遊戲將於 7 月 9 日起開放領取。目前可免費領取的遊戲為《我沒有嘴，但我必須尖叫》和《河城少女 2》，活動將持續至 7 月 9 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -382,22 +398,6 @@
     "summary": "Epic Games Store 宣布本週限時免費遊戲為《熱血硬派外傳 熱血少女物語2》（River City Girls 2）和《我沒有嘴，但我必須尖叫》（I Have No Mouth, and I Must Scream），玩家可在 7 月 9 日前領取。下週的免費遊戲將是《新星之地》（Nova Lands）和《刺青大亨》（Tattoo Tycoon）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Steam 新品節 Demo 釋出：《怪奇漫遊指南》",
-    "summary": "沙盒生存遊戲《怪奇漫遊指南》的搶先體驗 Demo 已在 Steam 新品節期間開放，支援 8 人連線進行異星開拓。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
-    "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
