@@ -377,25 +377,25 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Epic Games 限時免費遊戲釋出",
+    "summary": "Epic Games Store 宣布本週限時免費遊戲為《熱血硬派外傳 熱血少女物語2》（River City Girls 2）和《我沒有嘴，但我必須尖叫》（I Have No Mouth, and I Must Scream），玩家可在 7 月 9 日前領取。下週的免費遊戲將是《新星之地》（Nova Lands）和《刺青大亨》（Tattoo Tycoon）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/02",
+    "title": "Steam 新品節 Demo 釋出：《怪奇漫遊指南》",
+    "summary": "沙盒生存遊戲《怪奇漫遊指南》的搶先體驗 Demo 已在 Steam 新品節期間開放，支援 8 人連線進行異星開拓。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/01",
     "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會開放報名",
     "summary": "台北國際電玩展 (Taipei Game Show) 宣布 GAME LINKER 2026 夏季開發者交流會現已開放免費入場報名，並同步公布 2027 年台北國際電玩展的參展報名已全面開跑。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "Steam 夏季特賣 2026：刺客信條：影、光與影：33號遠征隊、怪物獵人：荒野優惠推薦",
-    "summary": "在 2026 年 Steam 夏季特賣期間，《刺客信條：影 (Assassin's Creed Shadows)》標準版享 45 折，折後價 134.1 人民幣，創發售以來新低。《光與影：33號遠征隊 (The 33rd Expedition)》與《怪物獵人：荒野 (Monster Hunter Wilds)》也分別提供超值折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/01",
-    "title": "Epic 商店限時免費領取《A Simple Garbage Sorting Game》",
-    "summary": "Epic Games 商店於 2026 年 7 月 1 日提供限時免費領取遊戲《A Simple Garbage Sorting Game》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -494,6 +494,15 @@
     "date": "2026/07/02",
     "title": "TikTok 時空旅人預測 2026 世界盃：阿根廷對墨西哥，墨西哥點球奪冠",
     "summary": "自稱時空旅人 Tona Multiverso 於 2026 年 7 月 2 日在 TikTok 上聲稱已穿越到 2026 年世界盃決賽現場，預測阿根廷將與墨西哥對戰，最終比分 1:1，墨西哥在點球大戰中獲勝，首次奪得世界盃冠軍。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/26",
+    "title": "時空旅人 Tona Multiverso 預言 2026 世界盃冠軍",
+    "summary": "一名自稱來自未來的 TikTok 創作者 Tona Multiverso 預測，2026 年世界盃足球賽決賽將由阿根廷對陣墨西哥，最終墨西哥將在點球大戰中擊敗阿根廷奪冠。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
@@ -2429,6 +2438,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言全球金融危機與日本遷都",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，全球將於 2028 年爆發新一輪金融危機，導火線是美國的國債違約，恐動搖美元全球結算體系。她也提及，日本的首都將在 2058 年前從東京遷至岡山縣，以及沖繩地區在 2037 年 1 月將發生直下型地震，同年 8 月遭受餘震及颱風襲擊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
     "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
@@ -2543,6 +2561,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2043/01/01",
     "expiry_date": "2043/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/01",
+    "title": "時空旅人 Alexander Smith 預言人類將面臨三戰與外星接觸",
+    "summary": "自稱來自 2118 年的時空旅人 Alexander Smith 預言，地球將在未來一百年內爆發第三次世界大戰，並指出至 2028 年，商業時空旅行將普及，美國政府也會公開高智慧外星生物的存在。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2050/01/01",
+    "expiry_date": "2050/01/02"
   },
   {
     "category": "PROPHECY",
