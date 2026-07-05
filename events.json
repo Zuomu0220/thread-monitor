@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam精選多款2026年6月發行免費獨立遊戲",
+    "summary": "Steam平台於2026年6月下旬至7月初陸續推出多款免費獨立遊戲，包括6月23日發行的解謎遊戲《Light of the Abyss》（支援繁體中文）、6月23日發行的攀登遊戲《The Climb》（支援繁體中文）、6月26日發行的可愛Q版角色遊戲《Project Aethia》、以及6月30日發行的坦克戰鬥遊戲《Tanky》（支援繁體中文）等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -164,6 +172,14 @@
     "date": "2026/07/03",
     "title": "Epic Games Store 免費遊戲預告",
     "summary": "Epic Games Store 宣布下週將贈送兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》，兩款遊戲將於 7 月 9 日起開放領取。目前可免費領取的遊戲為《我沒有嘴，但我必須尖叫》和《河城少女 2》，活動將持續至 7 月 9 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/03",
+    "title": "GOG商店限時免費領取《Nexus: The Jupiter Incident》",
+    "summary": "GOG平台於2026年7月3日提供太空即時戰略遊戲《Nexus: The Jupiter Incident》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/02",
     "title": "Epic Games Store 限時免費：《River City Girls 2》與《I Have No Mouth, And I Must Scream》",
     "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日提供兩款遊戲限時免費領取，分別為動作冒險遊戲《River City Girls 2》以及 культовый (cult classic) 點擊式恐怖遊戲《I Have No Mouth, And I Must Scream》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 預告下週免費遊戲：《Nova Lands》與《Tattoo Tycoon》",
-    "summary": "Epic Games Store 於 2026 年 7 月 2 日宣布，將於 7 月 9 日起提供《Nova Lands》和《Tattoo Tycoon》兩款遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 限時免費：《熱血少女2》與《無聲狂嘯》",
-    "summary": "Epic Games Store 於 2026 年 7 月 2 日至 7 月 9 日期間，提供格鬥少女清版動作遊戲《熱血少女2》（River City Girls 2）與科幻冒險遊戲《無聲狂嘯》（I Have No Mouth, and I Must Scream）限時免費領取.",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1040,6 +1040,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告將於2026年9月26日再次現身",
+    "summary": "自稱來自2058年的日本未來人「國分玲」，因曾準確預言多起事件而廣受關注，他曾表示將於2026年9月26日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1186,6 +1195,15 @@
     "date": "2026/02/04",
     "title": "物理學家馮·佛斯特預言 2026 年 11 月 13 日全球滅絕",
     "summary": "物理學家馮·佛斯特（Heinz von Foerster）在 1960 年的《科學》期刊上預測，世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日。他認為元兇是人口過剩，而非核戰爭，但亦提出人類可透過有效的人口控制機制來避免災難。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特60年前預言2026年11月13日世界末日",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）於1960年在《科學》期刊中預測，由於人口無限過剩，人類將會滅絕，最有可能的日期是西元2026年11月13日，星期五。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
