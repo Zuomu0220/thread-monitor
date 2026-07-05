@@ -16,6 +16,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/05",
+    "title": "Steam夏季特賣2026正式開跑",
+    "summary": "2026 年度 Steam 夏季特賣於 7 月 5 日正式啟動，活動將持續至 7 月 9 日，提供大量遊戲折扣，部分遊戲甚至低至 2 折。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/04",
     "title": "無最新負面與爭議事件",
@@ -209,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/03",
+    "title": "Steam即將推出多款永久免費遊戲",
+    "summary": "Steam 後台資訊確認，將在 2026 年 7 月和 8 月陸續推出多款 100% 免費永久保留的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
     "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
@@ -380,22 +396,6 @@
     "date": "2026/07/02",
     "title": "Epic Games Store 免費遊戲更新",
     "summary": "Epic Games Store 公布本週最新免費遊戲為《River City Girls 2》和《I Have No Mouth, and I Must Scream》，可免費領取至 7 月 9 日。此外，下一波將送出的遊戲已確定為《Nova Lands》和《Tattoo Tycoon》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games 限時免費遊戲",
-    "summary": "Epic Games Store 宣布《River City Girls 2》和《I Have No Mouth, and I Must Scream》限時免費領取，活動至 7 月 9 日止。同時預告下一波免費遊戲為《Nova Lands》和《Tattoo Tycoon》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Steam Demo 釋出",
-    "summary": "《Cold Sweat》動作射擊遊戲 Demo 上架，強調 PvE 玩法。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1052,6 +1052,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告將於2026年9月26日再次現身",
     "summary": "自稱來自2058年的日本未來人「國分玲」，因曾準確預言多起事件而廣受關注，他曾表示將於2026年9月26日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/03",
+    "title": "來自2058年的國分玲預言將於2026年9月26日再次歸來",
+    "summary": "多個網路社群與媒體報導指出，自稱來自2058年的「未來人」國分玲在沉寂五年後，其社交媒體帳號於 2026 年 2 月 24 日出現短暫登錄痕跡。她曾在 2021 年的最後一則貼文中預告將於 2026 年 9 月 26 日再次歸來，揭露未來十年的所有答案。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
