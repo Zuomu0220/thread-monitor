@@ -88,6 +88,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/04",
+    "title": "《英雄聯盟》實況主超負荷復出兩日又遭Ban 台",
+    "summary": "知名《英雄聯盟》實況主超負荷（張家盛）在解禁復出Twitch平台兩日後，再次遭到Ban台。此次Ban台的具體原因尚未公開，但網友普遍認為與其過往爭議言行及復出後可能引發的觀眾出征行為有關。許多粉絲對此事件感到錯愕與惋惜，社群討論熱烈。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/07/02",
-    "title": "知名遊戲實況主「電玩阿傑」直播失言風波",
-    "summary": "電玩阿傑在深夜實況中，針對近期某款獨立遊戲的玩法發表不當評論，言詞涉及歧視特定玩家群體，引發大量網友不滿。事後雖緊急發文道歉，但部分合作廠商已暫停其工商活動，社群討論熱度持續延燒，許多玩家呼籲他應更重視言論的影響力。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/23",
     "title": "Reddit未來人預言2026年7月將出現新型態極端氣候",
@@ -503,6 +503,15 @@
     "date": "2026/06/26",
     "title": "時空旅人 Tona Multiverso 預言 2026 世界盃冠軍",
     "summary": "一名自稱來自未來的 TikTok 創作者 Tona Multiverso 預測，2026 年世界盃足球賽決賽將由阿根廷對陣墨西哥，最終墨西哥將在點球大戰中擊敗阿根廷奪冠。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/02",
+    "title": "自稱2026年時空旅人預言世界盃決賽",
+    "summary": "一位自稱來自2026年的TikTok創作者Tona Multiverso聲稱已見證2026年世界盃決賽，預測阿根廷將對戰墨西哥，並由墨西哥獲勝。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
