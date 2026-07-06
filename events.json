@@ -113,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 推薦 18 款 6 月獨立免費遊戲",
+    "summary": "報導推薦了 18 款於 2026 年 6 月發行的獨立遊戲，其中《WinBolo》於 6 月 30 日發行並支援繁體中文，《REWIND》於 6 月 29 日發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -388,14 +396,6 @@
     "date": "2026/07/02",
     "title": "Epic Games Store 限時免費遊戲釋出",
     "summary": "「River City Girls 2」與「I Have No Mouth, and I Must Scream」即日起至 2026 年 7 月 9 日止可在 Epic Games Store 免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 即將免費發放遊戲預告",
-    "summary": "「Nova Lands」與「Tattoo Tycoon」將成為 Epic Games Store 下一波的免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1061,6 +1061,15 @@
     "date": "2026/03/03",
     "title": "來自2058年的國分玲預言將於2026年9月26日再次歸來",
     "summary": "多個網路社群與媒體報導指出，自稱來自2058年的「未來人」國分玲在沉寂五年後，其社交媒體帳號於 2026 年 2 月 24 日出現短暫登錄痕跡。她曾在 2021 年的最後一則貼文中預告將於 2026 年 9 月 26 日再次歸來，揭露未來十年的所有答案。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言將於 2026 年 9 月 26 日再次歸來",
+    "summary": "來自 2058 年的國分玲曾表示，她將於 2026 年 9 月 26 日再次出現，以回答大家想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
