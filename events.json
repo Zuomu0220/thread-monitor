@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/06",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/06/29 至 2026/07/06 期間，未發現台灣/華語圈實況主相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/05",
     "title": "Holostars部分成員活動轉型引發討論",
@@ -22,14 +30,6 @@
     "summary": "2026 年度 Steam 夏季特賣於 7 月 5 日正式啟動，活動將持續至 7 月 9 日，提供大量遊戲折扣，部分遊戲甚至低至 2 折。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/04",
-    "title": "無最新負面與爭議事件",
-    "summary": "根據目前掌握的網路資訊，在 2026/06/27 至 2026/07/04 期間，華語圈實況主與 VTuber 領域未出現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
   },
   {
     "category": "GAME",
