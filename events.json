@@ -32,6 +32,14 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/05",
+    "title": "VSPO旗下VTuber千燈ゆうひ與小森めと結束兩個月停播懲罰並公開澄清",
+    "summary": "日本VTuber團體VSPO旗下的千燈ゆうひ與小森めと，在因違反合約內容遭停播兩個月後，於X（原Twitter）宣布回歸並進行直播澄清。她們表示停播原因非關犯罪或不倫，並為造成的爭議向大眾道歉，表示將重新開始活動。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/07/04",
     "title": "Steam 免費遊戲推薦",
@@ -248,6 +256,30 @@
     "days_left": 3
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/03",
+    "title": "台灣個人勢VTuber 515疑因直播內容涉刑事官司",
+    "summary": "台灣個人勢VTuber 515據報導因直播內容被檢舉，疑似牽扯上刑事官司，但詳細案情和直播內容未明確揭露，引起社群關注與討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/03",
+    "title": "《星際大爭霸死結》Steam 限時免費",
+    "summary": "策略遊戲《星際大爭霸死結》於 Steam 平台開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/03",
+    "title": "解謎冒險遊戲《UNDERGROUNDED》Steam 版今日正式上市並享首發 9 折優惠",
+    "summary": "解謎冒險遊戲《UNDERGROUNDED》Steam 版本於今日正式上市，並提供首發 9 折優惠，同時發布遊戲原聲帶。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
@@ -365,38 +397,6 @@
     "title": "Epic Games 免費遊戲預告",
     "summary": "Nova Lands 與 Tattoo Tycoon：Epic Games Store 預告將於 7 月 9 日起提供《Nova Lands》和《Tattoo Tycoon》作為新的限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store限時免費遊戲：《I Have No Mouth, and I Must Scream》與《River City Girls 2》",
-    "summary": "Epic Games Store宣布於2026年7月2日至7月9日期間，限時免費提供經典邪典遊戲《I Have No Mouth, and I Must Scream》以及《River City Girls 2》供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic即將免費",
-    "summary": "《我沒有嘴巴，但我必須尖叫》與《River City Girls 2》：Epic Games Store 預告將於7月2日至7月9日期間，限時免費提供經典恐怖遊戲《我沒有嘴巴，但我必須尖叫》以及動作遊戲《River City Girls 2》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games 限時免費領取《River City Girls 2》與《I Have No Mouth, and I Must Scream》",
-    "summary": "Epic Games 商店將於 2026 年 7 月 2 日至 7 月 9 日期間，提供《River City Girls 2》與經典遊戲《I Have No Mouth, and I Must Scream》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/02",
-    "title": "網友發起抵制蔡阿嘎行動，討論相關網頁設計",
-    "summary": "針對YouTuber蔡阿嘎的抵制行動持續延燒，有網友討論用於抵制蔡阿嘎合作品牌的網頁設計，認為其Vibe感很重，並有許多人加入表態抵制。",
-    "avatar_url": "https://ui-avatars.com/api/?name=⛔&background=991b1b&color=fff&size=128",
     "days_left": 2
   },
   {
@@ -1070,6 +1070,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言將於 2026 年 9 月 26 日再次歸來",
     "summary": "來自 2058 年的國分玲曾表示，她將於 2026 年 9 月 26 日再次出現，以回答大家想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告2026年9月26日將再次歸來",
+    "summary": "據稱來自2058年的未來人國分玲，曾表示她將在2026年9月26日再次歸來，回答大家想知道的事情。她也預言2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
