@@ -1,5 +1,37 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "Steam 夏季特賣 2026 進行中",
+    "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "Summer Game Fest 2026 公佈新作消息",
+    "summary": "Summer Game Fest 2026 揭露了多款新遊戲資訊，包括上田文人（Fumito Ueda）未命名新作的正式名稱，以及前《極限競速：地平線5》創意總監 Mike Brown 領軍工作室 Maverick Games 的 3A 級賽車競速新作《Clutch》預告片。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "Day of the Devs: Summer Games Fest 2026 展示獨立遊戲",
+    "summary": "Day of the Devs: Summer Games Fest 2026 期間展示了一批精選的獨立遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "MGN2026 獨立遊戲嘉年華持續進行",
+    "summary": "始於 2026 年 5 月的 MGN2026 獨立遊戲嘉年華持續進行，旨在幫助那些不被聚光燈關注的「第三世界」獨立開發者。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/07",
     "title": "台灣VTuber「ORI央莉」與「艾美麗」因工商合約爆發社群爭議",
@@ -233,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 限時免費領取《首位異鄉人》",
+    "summary": "Steam 平台遊戲《首位異鄉人》將於 2026 年 7 月 11 日轉換為付費版本，在此之前玩家仍可免費將其加入遊戲庫並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -357,46 +397,6 @@
     "title": "台灣個人勢VTuber 515疑因直播內容涉刑事官司",
     "summary": "台灣個人勢VTuber 515據報導因直播內容被檢舉，疑似牽扯上刑事官司，但詳細案情和直播內容未明確揭露，引起社群關注與討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "《星際大爭霸死結》Steam 限時免費",
-    "summary": "策略遊戲《星際大爭霸死結》於 Steam 平台開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "解謎冒險遊戲《UNDERGROUNDED》Steam 版今日正式上市並享首發 9 折優惠",
-    "summary": "解謎冒險遊戲《UNDERGROUNDED》Steam 版本於今日正式上市，並提供首發 9 折優惠，同時發布遊戲原聲帶。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/03",
-    "title": "VTuber柚木りりな不滿《艦隊收藏》玩家在無關直播中洗版公然開罵",
-    "summary": "女性VTuber柚木りりな於7月3日發布影片，直接點名批評《艦隊收藏》社群部分玩家在與該遊戲無關的直播中，持續談論艦隊收藏話題，經提醒後仍屢勸不聽。她詳細說明了自己遇到的情況，影片引起不少日本網友共鳴，紛紛分享類似經驗，再次凸顯《艦隊收藏》社群的「民度」爭議。",
-    "avatar_url": "https://img.league-funny.com/Files/1699772262-a_1.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/03",
-    "title": "知名實況主「遊戲狂人」因直播中不當言論引發爭議",
-    "summary": "知名實況主「遊戲狂人」在7月2日深夜的遊戲實況中，針對某款遊戲的女性角色發表具性別歧視的不當言論，引發大量觀眾不滿。社群論壇PTT及Dcard上出現多篇討論文章，譴責其言論，部分遊戲廠商也表示考慮終止合作關係，導致「遊戲狂人」於7月3日凌晨發布道歉聲明，並宣布暫時停播。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "Steam 2026 年 7 月新品節活動預告",
-    "summary": "Steam 平台預計於 7 月 3 日舉辦 Open Game Fest 2026，屆時將有許多獨立遊戲的 Demo 釋出並提供折扣。目前已知 7 月 8 日將推出《Nerds Revenge》，7 月 9 日則有《東京ワルキューレ》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -1124,6 +1124,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的未來人國分玲：2026 年 9 月 26 日再次歸來",
     "summary": "國分玲曾表示，她將於 2026 年 9 月 26 日再次回到社群平台，屆時將回答更多關於未來的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言 2026 年 9 月 26 日將再次現身",
+    "summary": "來自 2058 年的未來人國分玲曾表示，他將於 2026 年 9 月 26 日再次歸來，回答大眾的問題。她也預測 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -2477,6 +2486,15 @@
     "date": "2026/05/24",
     "title": "來自 2058 年的未來人國分玲警告：2026 年底全新傳染病肆虐全球",
     "summary": "根據相關報導，國分玲曾預警 2026 年底將有全新的傳染病在全球範圍內肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲警告 2026 年底全新傳染病將肆虐全球",
+    "summary": "有報導指出，來自 2058 年的未來人國分玲警告，2026 年底將有全新的傳染病肆虐全球。她還預言了中國內部將因「海上霸權」與「太空戰場」問題產生分裂，並預測亞洲將出現一個新國家「台灣」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
