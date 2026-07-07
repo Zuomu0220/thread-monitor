@@ -72,6 +72,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "社交推理遊戲《致命詭計》將於 7 月 14 日展開搶先體驗",
+    "summary": "獨立遊戲開發商 Finalblow Co. 宣布，其二次元風格社交推理遊戲《致命詭計》將於台灣時間 2026 年 7 月 14 日凌晨 1 時在 Steam 平台展開搶先體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/06",
     "title": "無最新負面與爭議事件",
@@ -101,6 +109,14 @@
     "title": "正妹直播主跳槽遭判賠5百萬，不服上訴曝光月薪",
     "summary": "高人氣直播主G女，原與Uplive直播簽訂為期一年的「獨家主播」合約，在其月收入飆至46萬元時，她表示要「休息一個月」，一個月後卻要求終止合約，並跳槽至17直播平台。Uplive提告後，台北地院認為G女為更高薪資惡意違約，判其須依合約賠償Uplive 500萬元。G女對此判決不服並已提出上訴，全案仍在審理中，也因此意外曝光直播主月薪。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/06",
+    "title": "Steam 2026 年水上主題特賣「Tidal Splash Festival」登場",
+    "summary": "Steam 平台於 2026 年 7 月 6 日推出以水元素為主題的「Tidal Splash Festival 2026」特賣活動，精選多款與水相關的遊戲提供折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -297,6 +313,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 2026 年「Seoul Game Town 2」線下活動",
+    "summary": "第二屆「Seoul Game Town 2」線下活動於 2026 年 7 月 4 日在韓國板橋舉行，Steam 平台也同步推出獨立遊戲優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/04",
+    "title": "机核发行確認參展 CCG EXPO 2026",
+    "summary": "机核发行於 2026 年 7 月 4 日至 6 日確認參展第 21 屆中國國際動漫遊戲博覽會 (CCG EXPO 2026)，並在獨立遊戲區 C4 展位提供 7 款精品獨立遊戲現場試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -364,38 +396,6 @@
     "date": "2026/07/03",
     "title": "獨立遊戲活動",
     "summary": "OPEN GAME FEST 2026 線下活動於日本京都舉辦，旨在促進遊戲開發者與學生的成長與動力。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/03",
-    "title": "中國頂流實況主旭旭寶寶宣布無限期停播",
-    "summary": "在2026年盛夏，中國知名遊戲實況主旭旭寶寶突然宣布無限期停播。此消息震驚了遊戲直播圈，但也揭示了直播行業的殘酷現況，包括平台營收下滑、流量分配不均以及實況主因長時間高強度直播導致的健康危機。有報導指出，僅0.4%的頭部主播瓜分了80%的收益，而95%的底層主播月收入不足5000元人民幣，新人平均生存週期不到一年。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "GOG 商店限時免費領取：《Nexus: The Jupiter Incident》",
-    "summary": "GOG 商店於 2026 年 7 月 3 日提供策略遊戲《Nexus: The Jupiter Incident》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "Epic Games Store 免費遊戲預告",
-    "summary": "Epic Games Store 宣布下週將贈送兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》，兩款遊戲將於 7 月 9 日起開放領取。目前可免費領取的遊戲為《我沒有嘴，但我必須尖叫》和《河城少女 2》，活動將持續至 7 月 9 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "GOG商店限時免費領取《Nexus: The Jupiter Incident》",
-    "summary": "GOG平台於2026年7月3日提供太空即時戰略遊戲《Nexus: The Jupiter Incident》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
