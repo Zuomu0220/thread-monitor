@@ -217,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/04",
+    "title": "Steam 2026 年 6 月獨立遊戲免費領取",
+    "summary": "Steam 平台於 6 月份釋出多款可永久保留的免費獨立遊戲，包括《WinBolo》（6 月 30 日發行）、《REWIND》（6 月 29 日發行）、《Glisynth》（6 月 23 日發行）、《Lord Of The Trough》、《WOBBLY HEIST》、《The Queen's Gondola》、《The Light that Binds Us》和《Frog Climb》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/03",
     "title": "Epic Games 為手遊玩家贈送《旅行者索菲亞》",
     "summary": "Epic Games Store 在 7 月初為 Android 和 iOS 玩家免費贈送單人遊戲《旅行者索菲亞》（Sophia the Traveler），該遊戲靈感來自《威利在哪裡？》，包含超過 1,800 個角色和 10 個關卡。此免費領取活動將持續至 7 月 9 日。",
@@ -385,19 +393,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 宣布下週免費遊戲",
-    "summary": "Epic Games Store 已預告 7 月 2 日至 7 月 9 日期間的免費遊戲，將會是經典邪典之作《我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)》以及《熱血硬派少女 2 (River City Girls 2)》。",
+    "date": "2026/07/03",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "除了《我沒有嘴，但我必須尖叫》及《河城少女 2》外，Epic Games Store 在 7 月 2 日也提供了《CyClones》（GOG 平台）、《LoneStar》（Epic Games Store）和《Symphony of War: The Nephilim Saga》（Epic Games Store）等遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 下週免費遊戲預告：《I Have No Mouth, and I Must Scream》與《River City Girls 2》",
-    "summary": "Epic Games Store 預告將於2026年7月2日至7月9日期間，推出《我沒有嘴巴，我必須尖叫》（I Have No Mouth, and I Must Scream）以及《熱血硬派少女2》（River City Girls 2）作為限時免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -1115,6 +1115,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言2026年9月26日將再次現身",
     "summary": "來自2058年的日本未來人國分玲，曾精準預測多項歷史事件。近期網路流傳訊息指出，她曾表示將於2026年9月26日再次現身，回覆眾人的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲：2026 年 9 月 26 日再次歸來",
+    "summary": "國分玲曾表示，她將於 2026 年 9 月 26 日再次回到社群平台，屆時將回答更多關於未來的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -2459,6 +2468,15 @@
     "date": "2026/05/18",
     "title": "自稱 2048 年香港未來人預言 2026 年重大事件",
     "summary": "Threads 上近日瘋傳一名自稱「來自 2048 年的香港人」的帳號截圖，他預告 2026 年香港將有水災、傳染病，社群媒體將充斥震撼新聞，甚至聲稱這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "來自 2058 年的未來人國分玲警告：2026 年底全新傳染病肆虐全球",
+    "summary": "根據相關報導，國分玲曾預警 2026 年底將有全新的傳染病在全球範圍內肆虐。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
