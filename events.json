@@ -64,6 +64,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "Steam 新增四款免費遊戲永久入庫",
+    "summary": "Steam 近日更新了免費遊戲陣容，玩家可永久將四款不同類型的 PC 遊戲加入收藏庫，包括解謎平台遊戲《WOBBLY HEIST》、奇幻 RPG《Rise of Eurevia》、創意故事遊戲《One Death at a Time》，以及戀愛視覺小說《The Colors of Love - Re-Colored》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/06",
     "title": "無最新負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/07/03",
     "title": "GOG商店限時免費領取《Nexus: The Jupiter Incident》",
     "summary": "GOG平台於2026年7月3日提供太空即時戰略遊戲《Nexus: The Jupiter Incident》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/03",
-    "title": "OPEN GAME FEST 2026 遊戲折扣與活動",
-    "summary": "2026 年 7 月 3 日，Steam 平台舉辦 OPEN GAME FEST 2026，提供多款遊戲折扣與相關活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -1133,6 +1133,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言 2026 年 9 月 26 日將再次現身",
     "summary": "來自 2058 年的未來人國分玲曾表示，他將於 2026 年 9 月 26 日再次歸來，回答大眾的問題。她也預測 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2026 年為全球重大轉折點",
+    "summary": "自稱來自 2058 年的國分玲曾表示，2026 年是日本及全球的重大轉折點，並暗示在她的時代中文將成為主要學習語言，這與一位「毀了一切的女首相」有關。她還預言 2028 年將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。國分玲預計將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
