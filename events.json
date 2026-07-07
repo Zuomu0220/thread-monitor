@@ -16,6 +16,14 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/06",
+    "title": "中小型實況主「阿宅的日常」遭爆隱私外洩，個人資料於社群瘋傳",
+    "summary": "中小型實況主「阿宅的日常」於7月6日晚間在Discord社群中發生管理員帳號被盜事件，導致其真實姓名、住址等個人隱私資料被惡意公開並在多個論壇傳播。雖然當事人已緊急報警處理並呼籲網友不要散佈，但相關截圖仍在社群媒體上快速流傳，引發實況圈對資訊安全的擔憂。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/05",
     "title": "Holostars部分成員活動轉型引發討論",
@@ -69,6 +77,22 @@
     "title": "Twitch實況主ExtraEmily因分心駕駛遭停權，引發平台執法一致性爭議",
     "summary": "知名實況主ExtraEmily（Emily Xuechun Zhang）於6月28日的IRL直播中，被拍到在轉彎時低頭看手機，險與對向來車碰撞。Twitch隨後對她處以24小時停權。此事件引發社群熱議，許多人將其與實況主Asian Andy因類似分心駕駛行為被永久禁言9年的案例進行比較，質疑Twitch在處理違規行為時執法標準不一。",
     "avatar_url": "https://images.games.gg/extraemily-twitch-distracted-driving-ban-asian-andy.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/05",
+    "title": "VTuber團體「星光計畫」新人合約糾紛，部分成員宣布無限期停播",
+    "summary": "VTuber經紀公司「星光計畫」於7月5日傳出與旗下多位新人VTuber的合約糾紛。據Threads及X（原Twitter）上的匿名爆料指出，公司提供的合約內容對VTuber極為不利，引發內部不滿。事件爆發後，多名中小型VTuber，包括剛出道不久的個人勢VTuber「迷途貓咪Mimi」和「電波少女Rei」，在個人頻道宣布將無限期停播，要求公司公開透明化合約內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/05",
+    "title": "GMG 平台 Playstack 夏季特賣，Balatro 享優惠",
+    "summary": "遊戲銷售平台 GMG (Green Man Gaming) 於 7 月 5 日開啟 Playstack 夏季特賣，其中遊戲《Balatro》以 1,088 日圓的價格販售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -320,6 +344,22 @@
     "days_left": 3
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/03",
+    "title": "知名實況主「遊戲狂人」因直播中不當言論引發爭議",
+    "summary": "知名實況主「遊戲狂人」在7月2日深夜的遊戲實況中，針對某款遊戲的女性角色發表具性別歧視的不當言論，引發大量觀眾不滿。社群論壇PTT及Dcard上出現多篇討論文章，譴責其言論，部分遊戲廠商也表示考慮終止合作關係，導致「遊戲狂人」於7月3日凌晨發布道歉聲明，並宣布暫時停播。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/03",
+    "title": "Steam 2026 年 7 月新品節活動預告",
+    "summary": "Steam 平台預計於 7 月 3 日舉辦 Open Game Fest 2026，屆時將有許多獨立遊戲的 Demo 釋出並提供折扣。目前已知 7 月 8 日將推出《Nerds Revenge》，7 月 9 日則有《東京ワルキューレ》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/07/02",
     "title": "Epic Games Store 宣布下週免費遊戲",
@@ -356,46 +396,6 @@
     "date": "2026/07/02",
     "title": "Epic Games 年度大特賣",
     "summary": "2026 年 Epic Games 年度大特賣活動通常在五月至六月間舉辦，並持續提供遊戲與 DLC 的超值優惠、免費遊戲與贈禮，為玩家準備遊戲夏日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 7 月免費遊戲陣容",
-    "summary": "Epic Games Store 公布了 7 月 2 日至 7 月 9 日期間的免費遊戲陣容，其中包括經典邪典遊戲《我沒有嘴巴，但我必須尖叫》（I Have No Mouth, and I Must Scream）以及廣受好評的《河城少女 2》（River City Girls 2）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/02",
-    "title": "VTuber Deme 嘲諷私人創傷引發炎上",
-    "summary": "英文系個人勢 VTuber Deme 因嘲諷他人私人創傷，以及過去疑似在觀眾面前直播「做運動」的爭議內容，在社群上遭到大炎上，引發網友熱烈討論與批評。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 即將免費領取遊戲",
-    "summary": "「我沒有嘴巴，但我必須尖叫 (I Have No Mouth, and I Must Scream)」與「熱血硬派少女 2 (River City Girls 2)」將於 2026 年 7 月 2 日至 7 月 9 日在 Epic Games Store 開放免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games Store 限時免費遊戲領取",
-    "summary": "Epic Games Store 宣布，從 2026 年 7 月 2 日至 7 月 9 日期間，玩家可限時免費領取兩款遊戲：邪典經典心理恐怖遊戲《我沒有嘴巴，但我必須尖叫》 (I Have No Mouth, and I Must Scream) 和動作冒險遊戲《熱血硬派少女 2》 (River City Girls 2)。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/02",
-    "title": "Epic Games 平台限時免費領取《熱血少女2》與《無聲狂嘯》",
-    "summary": "Epic Games Store 本週（7月2日至7月9日23:00）限時免費提供熱血搞笑動作遊戲《熱血硬派國夫君外傳熱血少女2》（River City Girls 2），以及改編自美國科幻恐怖名作的同名ADV遊戲《無聲狂嘯》（I Have No Mouth, and I Must Scream），領取後即可永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -512,6 +512,15 @@
     "date": "2026/07/02",
     "title": "自稱2026年時空旅人預言世界盃決賽",
     "summary": "一位自稱來自2026年的TikTok創作者Tona Multiverso聲稱已見證2026年世界盃決賽，預測阿根廷將對戰墨西哥，並由墨西哥獲勝。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/02",
+    "title": "自稱時空旅人預測 2026 年世界盃足球賽冠軍",
+    "summary": "一位自稱「Tona Multiverso」的 TikTok 創作者發布影片，聲稱他已前往未來觀看 2026 年世界盃決賽，並預測阿根廷將與墨西哥爭奪冠軍。他表示比賽將以 1:1 結束，最終墨西哥在點球大戰中勝出，歷史性地奪得世界盃冠軍。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
@@ -665,6 +674,15 @@
     "date": "2026/01/18",
     "title": "2062年未來人等預言：2026年夏季日本沈沒的X日",
     "summary": "綜合未來人預言、科學警告及各方訊息，有聲音指出 2026 年夏季將是日本發生「三重災害」導致「日本沉沒」的「X日」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/18",
+    "title": "日本 YouTuber 彙整「日本沉沒」預言，直指 2026 年夏季為 X 日",
+    "summary": "日本 YouTuber 頻道發布影片，聲稱根據「我所看見的未來」、未來人留言及最新科學分析，所有警告都「完全一致」，指向 2026 年夏季為日本沉沒的「X 日」，預計將發生「三重災害」的絕望情景。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
@@ -1124,6 +1142,15 @@
     "date": "2026/12/30",
     "title": "盲眼龍婆預言2026年11月外星文明將現身",
     "summary": "盲眼龍婆巴巴萬加預言，人類將在2026年11月不再孤單，她預見一艘體積龐大的不明飛行物將劃破地球大氣層，人類將首次收到來自遙遠星系的智慧文明訊息。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/01",
+    "expiry_date": "2026/11/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/13",
+    "title": "盲眼預言家「萬加婆婆」預測 2026 年將爆發第三次世界大戰",
+    "summary": "根據海外小報報導，保加利亞盲眼預言家萬加婆婆 (Baba Vanga) 留下的預言再次受到關注，其中提及 2026 年將爆發第三次世界大戰，以及 11 月將與外星人接觸。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
@@ -2411,6 +2438,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/11",
+    "title": "YouTube 紀錄片回顧多位時空旅人對 2026 年的警告",
+    "summary": "YouTube 上發布的紀錄片《10 Time Travelers Who Warned Us About 2026》回顧了約翰·提托、來自 2030 年的諾亞、安德魯·卡爾森等多位自稱時空旅人對 2026 年的預測。其中提及 2026 年 AI 系統將能生成 indistinguishable from human-authored scientific research papers，並預測大型社群平台將會崩潰，被去中心化通訊網絡取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "自稱 2048 年香港未來人預言 2026 年重大事件",
+    "summary": "Threads 上近日瘋傳一名自稱「來自 2048 年的香港人」的帳號截圖，他預告 2026 年香港將有水災、傳染病，社群媒體將充斥震撼新聞，甚至聲稱這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -2537,6 +2582,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/06",
+    "title": "馬斯克與貝瑞針對 AI 未來影響的預言論戰",
+    "summary": "伊隆·馬斯克 (Elon Musk) 在 X 平台上發文預測，AI 將創造極大富足，政府將供養所有人，工作將成為一種選項。然而，電影《大賣空》主角麥可·貝瑞 (Michael Burry) 則回覆指出，通往該目標的道路將充滿坎坷，「會先發生革命」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/11/12",
+    "title": "「2062未來人」預測 2030 年前第三次世界大戰爆發",
+    "summary": "一位戴著「V 煞面具」的「2062未來人」自 2010 年起在日本網路論壇「2ch」現身，他預測在 2030 年前全球將爆發第三次世界大戰，並指出戰後中國將陷入暴力混亂與印度爆發大規模衝突，最終成為印度的附庸國，而美國霸權地位將不復存在，印度則迅速崛起。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/29",
     "title": "2030年時間旅行者Noah預警AI系統將無縫融入生活，2036年曾出現美國內戰與全球核衝突",
     "summary": "2025年7月29日報導，自稱來自2030年的時間旅行者Noah聲稱，他被招募參與一項將參與者送往未來幾十年以收集關鍵信息的機密計劃。他描述了AI系統將遠超現今水平，無縫融入生活的各個方面。另一位名為John Titor的時間旅行者則在2000年11月聲稱自己來自2036年，並警告其時間線曾經歷毀滅性的動盪，包括第二次美國內戰和全球核衝突。",
@@ -2573,6 +2636,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/26",
+    "title": "「2062未來人」再次現身，預言 2031 年將引爆第三次世界大戰",
+    "summary": "日本論壇「2ch」（現為 5ch）上自稱來自 2062 年的「未來人」近日再度現身回應網友提問，他預言 2031 年將會引爆第三次世界大戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/01/01",
+    "expiry_date": "2031/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "和碩董事長童子賢預言：10年後加油站消失，AI時代下人類生存需靠好奇心與終身學習",
     "summary": "和碩聯合科技董事長童子賢在國立台灣師範大學畢業典禮上預測，未來10年加油站可能走入歷史，電影中高風險任務將由無人機取代，提醒學子在AI時代，課本知識不再是護身符，需保持好奇心、終身學習及人文素養才能生存。",
@@ -2603,6 +2675,15 @@
     "date": "2026/12/29",
     "title": "2062年未來人預言：第三次世界大戰將會發生，書籍應妥善保管",
     "summary": "根據2025年12月29日整理的2ch（現5ch）發文，自稱來自2062年的未來人預言第三次世界大戰將會發生，美國和日本將對中國應戰，印度將鎮壓。他也建議應妥善保管書籍，並預言2040年代前半，美日印將在月球建立第一個基地。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2040/01/01",
+    "expiry_date": "2040/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/17",
+    "title": "日本「2026未來人」預言海鮮將來吃不到",
+    "summary": "一位自稱「2026未來人」的日本網友曾預言，未來海鮮類食物將會消失，因為整個海洋將被核污染。這項預言隨著近年來核廢水排放問題再次引起討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2040/01/01",
     "expiry_date": "2040/01/02"
