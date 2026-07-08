@@ -81,6 +81,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/08",
+    "title": "目前無相關負面與爭議事件",
+    "summary": "在 2026 年 7 月 1 日至 7 月 8 日期間，未發現華語圈實況主或 VTuber 有任何符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/07",
     "title": "台灣VTuber「ORI央莉」與「艾美麗」因工商合約爆發社群爭議",
     "summary": "VTuber「ORI央莉」與某廠商因活動結算物料及請款流程時間差產生糾紛。ORI央莉在直播中質疑廠商背景，並暗示VTuber「艾美麗」聲援廠商可能與其存在密切利益關係。艾美麗隨後在社群上反擊，此事件在台V圈引發兩極討論，凸顯台灣Vtuber圈在缺乏專業經紀體制下，面對公關危機時易出現情緒化發言與小圈子抱團現象，影響產業社會形象。",
@@ -173,6 +181,14 @@
     "title": "美籍實況主Cjayride辱台言論引爭議",
     "summary": "美籍實況主Cjayride在Twitch直播中發表辱台言論，引發台灣網友強烈不滿。網紅「館長」陳之漢呼籲民眾抵制Twitch，許多網友也湧入Google Play給予Twitch一星負評，但部分網友誤將負評灌到社群網站X/Twitter。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "Steam 解謎遊戲《Ellingboy House》永久免費",
+    "summary": "一款名為《Ellingboy House》的第一人稱寫實解謎遊戲，開發商 Jepfore Games 於 2026 年 6 月 20 日宣布將其從付費轉為永久免費。這款遊戲原價約 5 美元，現已可永久加入任何玩家的 Steam 遊戲庫。此消息於 2026 年 7 月 7 日報導。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/07/04",
     "title": "Steam 2026年6月獨立遊戲免費推薦",
     "summary": "蘋果仁於 7 月 4 日整理了 Steam 上 2026 年 6 月發行的 18 款獨立免費遊戲推薦，其中包括 6 月 29 日發行的《REWIND》和 6 月 30 日發行的《WinBolo》等，多數支援簡體或繁體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/04",
-    "title": "Steam 推薦 18 款 6 月獨立免費遊戲",
-    "summary": "報導推薦了 18 款於 2026 年 6 月發行的獨立遊戲，其中《WinBolo》於 6 月 30 日發行並支援繁體中文，《REWIND》於 6 月 29 日發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/04",
-    "title": "Steam 2026 年 6 月獨立遊戲推薦",
-    "summary": "一篇於 7 月 4 日發布的報導推薦了 2026 年 6 月在 Steam 上線的多款免費獨立遊戲，包括《WinBolo》、《REWIND》、《Glisynth》、《Lord Of The Trough》、《WOBBLY HEIST》、《The Queen's Gondola》、《The Light that Binds Us》和《Frog Climb》。這些遊戲提供多樣化的玩法，且部分已獲得良好評價，玩家可下載後永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
