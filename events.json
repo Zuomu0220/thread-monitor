@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Steam 夏季特賣 2026 截止",
+    "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -388,14 +396,6 @@
     "date": "2026/07/04",
     "title": "Steam 免費遊戲",
     "summary": "Steam 推薦 18 款 2026 年 6 月獨立遊戲可永久保留，其中包含 6 月 29 日發行的冒險解謎遊戲《REWIND》等。其他推薦遊戲有《WinBolo》、《Glisynth》、《Lord Of The Trough》、《WOBBLY HEIST》、《The Queen's Gondola》、《The Light that Binds Us》和《Frog Climb》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/04",
-    "title": "Steam 免費遊戲推薦：WinBolo",
-    "summary": "WinBolo 於 2026 年 6 月 30 日發行，獲得 90% 好評，並支援繁體中文，玩家可下載並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
