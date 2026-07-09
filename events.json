@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/09",
+    "title": "無最新事件報告",
+    "summary": "在 2026/07/02 至 2026/07/09 期間，透過「實況主/VTuber 炎上、爭議、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等關鍵字進行廣泛搜尋，未發現台灣/華語圈有明確符合上述定義的知名或中小型實況主及 VTuber 負面與爭議事件的最新報告。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
@@ -389,14 +397,6 @@
     "title": "VTuber團體「星光計畫」新人合約糾紛，部分成員宣布無限期停播",
     "summary": "VTuber經紀公司「星光計畫」於7月5日傳出與旗下多位新人VTuber的合約糾紛。據Threads及X（原Twitter）上的匿名爆料指出，公司提供的合約內容對VTuber極為不利，引發內部不滿。事件爆發後，多名中小型VTuber，包括剛出道不久的個人勢VTuber「迷途貓咪Mimi」和「電波少女Rei」，在個人頻道宣布將無限期停播，要求公司公開透明化合約內容。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/05",
-    "title": "GMG 平台 Playstack 夏季特賣，Balatro 享優惠",
-    "summary": "遊戲銷售平台 GMG (Green Man Gaming) 於 7 月 5 日開啟 Playstack 夏季特賣，其中遊戲《Balatro》以 1,088 日圓的價格販售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -2585,6 +2585,15 @@
     "date": "2026/07/08",
     "title": "盲眼龍婆2026年預言中國接管台灣",
     "summary": "盲眼預言家龍婆（Baba Vanga）據稱預言中國將在2026年接管台灣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預測 2026 年加密貨幣價格",
+    "summary": "一名在 4chan 論壇上被認為是 2019 年比特幣預言者的匿名用戶，於 2025 年 11 月發布新預測，指出比特幣在 2026 年底可能達到 100 萬美元，以太坊達到 10 萬美元。然而，該預言的真實性因線程編號異常低及缺乏驗證碼而受到質疑。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
