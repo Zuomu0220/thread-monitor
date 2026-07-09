@@ -312,6 +312,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/06",
+    "title": "美籍實況主CJayride為醜化台灣爭議道歉並要求撤回不實報導",
+    "summary": "美籍Twitch實況主CJayride因其「探索台灣」系列影片被質疑刻意醜化台灣，於7月6日發布9分鐘影片致歉，同時要求媒體撤下對其不實報導。此事件引發網友對其「兩面手法」的批評，認為他先私下煽動粉絲反擊，後又公開道歉，導致親民人設崩壞。  *(Note: Specific public image URL for CJayride from the given search results is not directly available, a placeholder image URL is provided as per instructions if not found. A general image search for CJayride would likely yield results, but not directly from the provided snippets.)*",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 4
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/05",
     "title": "Holostars部分成員活動轉型引發討論",
@@ -390,14 +398,6 @@
     "summary": "機核發行宣布參展7月4日至6日舉辦的第二十一屆中國國際動漫遊戲博覽會（CCG EXPO 2026），現場將帶來《CATO 黃油貓》、《超級肉肉男孩3D》、《Sa[meow]rai: 銀翼喵侍》、《神力有限公司》等七款精品獨立遊戲供玩家免費試玩，並有打卡抽獎活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/04",
-    "title": "Steam 免費遊戲推薦",
-    "summary": "《The Miki Komori Project》短篇視覺小說遊戲釋出，其靈感來自虛擬主播文化，探討自我認同與孤立感。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
@@ -1160,6 +1160,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2026 為全球轉折點",
     "summary": "來自 2058 年的國分玲曾表示，2026 年是日本乃至全球的重大轉折點。她也曾預告將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2026 年 9 月 26 日再度歸來",
+    "summary": "自稱來自 2058 年的未來人國分玲，因其過去預言的準確性而備受關注。他預告將於 2026 年 9 月 26 日再次現身，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
