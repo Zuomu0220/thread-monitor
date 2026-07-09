@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 限時免費遊戲《Nova Lands》與《Tattoo Tycoon》開放領取",
+    "summary": "Epic Games Store 宣布本週（自7月9日起）限時免費遊戲為工廠建造探索遊戲《Nova Lands》以及模擬經營遊戲《Tattoo Tycoon》。玩家可在期限內將其永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -249,6 +257,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/07",
+    "title": "美籍實況主Cjayride醜化台灣惹議",
+    "summary": "長期於Twitch分享台灣生活的美籍實況主Cjayride，近日被網友發現經常假借「探索」名義消費台灣，甚至刻意醜化、扭曲台灣形象，引發大量網友不滿。資深主播龔懷主（Robin）也於臉書發表看法，批評「一堆老外在台灣『拐吃騙幹』」，並呼籲相關單位應徹底清查有無違規行為。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/07",
+    "title": "正妹直播主G女跳槽遭判賠500萬",
+    "summary": "高人氣直播主G女原與Uplive直播簽訂獨家主播合約，在月收入達46萬元後，卻以「休息一個月」為由要求終止合約，隨後現身17直播平台。台北地院認定G女為更高薪資惡意違約，判其需賠償Uplive 500萬元。G女深夜在臉書發布聲明，表示將堅強面對。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 4
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/06",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/06/29 至 2026/07/06 期間，未發現台灣/華語圈實況主相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
@@ -373,30 +397,6 @@
     "title": "VSPO旗下VTuber千燈ゆうひ與小森めと結束兩個月停播懲罰並公開澄清",
     "summary": "日本VTuber團體VSPO旗下的千燈ゆうひ與小森めと，在因違反合約內容遭停播兩個月後，於X（原Twitter）宣布回歸並進行直播澄清。她們表示停播原因非關犯罪或不倫，並為造成的爭議向大眾道歉，表示將重新開始活動。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/05",
-    "title": "日本實況主ファン太工商中遭爆外遇與性病",
-    "summary": "擁有YouTube 33萬訂閱、Twitch 30萬追隨的日本實況主ファン太（Fanfa），於7月5日在參與《ARC Raiders》工商節目直播期間，聊天室突然湧入大量爆料，指稱他婚後育有子女卻多次外遇，甚至染上性病。事件引發網路軒然大波，聊天室瞬間「群魔亂舞」。",
-    "avatar_url": "https://i.imgur.com/dK3fW1Z.png",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/05",
-    "title": "蔡阿嘎因AI繪圖爭議二度道歉，引發公關危機與品牌抵制",
-    "summary": "百萬YouTuber蔡阿嘎日前因在東京旅遊時，將街頭畫家的似顏繪與AI生成圖進行對比並發起投票，引發「不尊重真人創作」的巨大爭議。事件隨後演變成公關危機，並有超過15萬人連署抵制其合作品牌，導致蔡阿嘎不得不二度出面道歉。網紅「廣告小妹」指出，蔡阿嘎的核心問題在於沒有聽懂最初對AI議題敏感性的抗議聲浪。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/05",
-    "title": "Twitch實況主ExtraEmily因分心駕駛遭停權，引發平台執法一致性爭議",
-    "summary": "知名實況主ExtraEmily（Emily Xuechun Zhang）於6月28日的IRL直播中，被拍到在轉彎時低頭看手機，險與對向來車碰撞。Twitch隨後對她處以24小時停權。此事件引發社群熱議，許多人將其與實況主Asian Andy因類似分心駕駛行為被永久禁言9年的案例進行比較，質疑Twitch在處理違規行為時執法標準不一。",
-    "avatar_url": "https://images.games.gg/extraemily-twitch-distracted-driving-ban-asian-andy.jpg",
     "days_left": 2
   },
   {
@@ -551,6 +551,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/30",
+    "title": "印度神童提醒2026年需特別關注的特定月份",
+    "summary": "阿南德指出，2026年的「4月下半月」、「7月24日前9天和最後10天」，以及「11月中旬左右」是三個需要特別關注的時間點，提醒人們保持警惕。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/24",
+    "expiry_date": "2026/07/25"
   },
   {
     "category": "PROPHECY",
