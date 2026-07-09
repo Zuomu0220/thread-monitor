@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 免費遊戲預告：《新星之地》及《刺青大亨》",
+    "summary": "Epic Games Store 預告將於 2026 年 7 月 9 日起至 7 月 16 日免費贈送策略建設遊戲《新星之地》（Nova Lands）與模擬經營遊戲《刺青大亨》（Tattoo Tycoon）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -321,6 +329,14 @@
   },
   {
     "category": "VTUBER",
+    "date": "2026/07/06",
+    "title": "日本VTuber花園Serena辱華事件",
+    "summary": "日本VTuber花園Serena在直播中因地圖未將台灣標示為「台灣省」而引發中國網友「辱華」爭議，花園Serena隨後緊急發布道歉聲明。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
     "date": "2026/07/05",
     "title": "Holostars部分成員活動轉型引發討論",
     "summary": "Holostars部分成員，包括影山シエン，已於2026年7月5日停止直播活動，未來將轉向以個人活動為主的體制。此消息雖早前已公布，但在正式生效日仍引起粉絲社群的熱烈討論與不捨。",
@@ -380,22 +396,6 @@
     "date": "2026/07/05",
     "title": "GMG 平台 Playstack 夏季特賣，Balatro 享優惠",
     "summary": "遊戲銷售平台 GMG (Green Man Gaming) 於 7 月 5 日開啟 Playstack 夏季特賣，其中遊戲《Balatro》以 1,088 日圓的價格販售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/05",
-    "title": "台灣 VTuber 李李鈴蘭遭中國粉絲盜錄事件",
-    "summary": "台灣本土原創 VTuber 李李鈴蘭的影片遭到中國網民盜錄，並上傳至中國論壇 Bilibili 供人觀賞。台灣官方團隊對此發出聲明，強調旗下 VTuber 藝人「目前僅在台灣國內進行活動」，引起熱議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/05",
-    "title": "機核發行確認參展CCG EXPO 2026，七款獨立遊戲開放試玩",
-    "summary": "機核發行宣布參展7月4日至6日舉辦的第二十一屆中國國際動漫遊戲博覽會（CCG EXPO 2026），現場將帶來《CATO 黃油貓》、《超級肉肉男孩3D》、《Sa[meow]rai: 銀翼喵侍》、《神力有限公司》等七款精品獨立遊戲供玩家免費試玩，並有打卡抽獎活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1169,6 +1169,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言 2026 年 9 月 26 日再度歸來",
     "summary": "自稱來自 2058 年的未來人國分玲，因其過去預言的準確性而備受關注。他預告將於 2026 年 9 月 26 日再次現身，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告 2026 年 9 月再次現身",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，他將於 2026 年 9 月 26 日再次現身，並回答網路社群提出的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
