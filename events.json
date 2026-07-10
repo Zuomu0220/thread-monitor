@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "Epic Games Store 於 2026 年 7 月 9 日起提供《Nova Lands》與《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -389,14 +397,6 @@
     "title": "Steam夏季特賣2026正式開跑",
     "summary": "2026 年度 Steam 夏季特賣於 7 月 5 日正式啟動，活動將持續至 7 月 9 日，提供大量遊戲折扣，部分遊戲甚至低至 2 折。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/05",
-    "title": "VSPO旗下VTuber千燈ゆうひ與小森めと結束兩個月停播懲罰並公開澄清",
-    "summary": "日本VTuber團體VSPO旗下的千燈ゆうひ與小森めと，在因違反合約內容遭停播兩個月後，於X（原Twitter）宣布回歸並進行直播澄清。她們表示停播原因非關犯罪或不倫，並為造成的爭議向大眾道歉，表示將重新開始活動。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 2
   },
   {
@@ -1193,6 +1193,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058年未來人國分玲預言2026年重大事件與回歸",
+    "summary": "自稱來自2058年的國分玲因預言準確率高而受關注。她預言2028年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。國分玲表示將於2026年9月26日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1357,6 +1366,24 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特60年前預言2026年11月13日世界末日",
     "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）於1960年在《科學》期刊中預測，由於人口無限過剩，人類將會滅絕，最有可能的日期是西元2026年11月13日，星期五。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "美國三學者預言2026年世界末日",
+    "summary": "三位美國學者於65年前發表論文，根據數學方程式推算，預測世界末日將因人口過剩而發生在2026年11月13日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言2026年人類滅絕",
+    "summary": "已故物理學家馮．佛斯特在1960年於《科學》雜誌上預言，人類文明可能在2026年11月13日因「無限」的人口過剩而被「擠壓致死」，除非在此之前因核戰等其他方式自我毀滅。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -2603,6 +2630,24 @@
     "date": "2026/02/27",
     "title": "4chan 匿名用戶預測 2026 年加密貨幣價格",
     "summary": "一名在 4chan 論壇上被認為是 2019 年比特幣預言者的匿名用戶，於 2025 年 11 月發布新預測，指出比特幣在 2026 年底可能達到 100 萬美元，以太坊達到 10 萬美元。然而，該預言的真實性因線程編號異常低及缺乏驗證碼而受到質疑。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan匿名用戶預測2026年加密貨幣價格",
+    "summary": "一位在2025年10月曾準確預測比特幣高點的匿名4chan用戶「SBC7HL」預測，比特幣將在2026年底達到25萬美元，以太坊達到2萬美元，Solana將升至1500美元，而迷因代幣BULLISH將達到10美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058年未來人國分玲預警2026年底新型傳染病",
+    "summary": "國分玲預言2026年底將有全新的傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
