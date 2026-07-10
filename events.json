@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games 限時免費",
+    "summary": "工廠自動化冒險遊戲《Nova Lands》與經營模擬遊戲《紋身大亨》（Tattoo Tycoon）在 Epic Games 平台開放限時免費領取，活動至香港時間 7 月 16 日晚上 11 點截止。玩家可在陌生星球上打造生產帝國，或扮演紋身師經營專屬紋身店。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -389,14 +397,6 @@
     "title": "正妹直播主G女跳槽遭判賠500萬",
     "summary": "高人氣直播主G女原與Uplive直播簽訂獨家主播合約，在月收入達46萬元後，卻以「休息一個月」為由要求終止合約，隨後現身17直播平台。台北地院認定G女為更高薪資惡意違約，判其需賠償Uplive 500萬元。G女深夜在臉書發布聲明，表示將堅強面對。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/07",
-    "title": "Steam 免費序號領取：《X-teroids》",
-    "summary": "Steam 平台開放免費序號領取遊戲《X-teroids》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1229,6 +1229,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/04",
+    "title": "未來人國分玲預言：2026年9月26日再次歸來",
+    "summary": "據傳，曾精準預言多起事件的未來人國分玲，曾表示她將在 2026 年 9 月 26 日再次現身網路，回答各界提問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1411,6 +1420,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特預言2026年人類滅絕",
     "summary": "已故物理學家馮．佛斯特在1960年於《科學》雜誌上預言，人類文明可能在2026年11月13日因「無限」的人口過剩而被「擠壓致死」，除非在此之前因核戰等其他方式自我毀滅。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/04",
+    "title": "2026年11月13日世界末日預言",
+    "summary": "根據 1960 年物理學家提出的人口成長模型推算，有人推測 2026 年 11 月 13 日可能逼近人類毀滅的「午夜時鐘」，此說法近期再度引起討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
