@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games 免費遊戲：《紋身大亨》與《Nova Lands》",
+    "summary": "Epic Games 商店提供《紋身大亨》（Tattoo Tycoon）和自動化冒險遊戲《Nova Lands》限時免費領取，活動持續至 2026 年 7 月 16 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -216,6 +224,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "Steam 免費序號領取：《Play a game with me》",
+    "summary": "Steam 平台開放免費序號領取遊戲《Play a game with me》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/07",
     "title": "台灣VTuber「ORI央莉」與「艾美麗」因工商合約爆發社群爭議",
@@ -344,6 +360,30 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "Steam 免費序號領取：《X-teroids》",
+    "summary": "Steam 平台開放免費序號領取遊戲《X-teroids》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "GOG 商店限時免費：《Silence》",
+    "summary": "GOG 商店提供冒險遊戲《Silence》限時免費領取，活動於 2026 年 7 月 10 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/07",
+    "title": "Steam 免費週末：《方舟：生存飛升》、《風暴之城》、《gogh: 虛擬形象與專注》",
+    "summary": "Steam 舉辦免費週末活動，玩家可暢玩《方舟：生存飛升》（Ark: Survival Ascended）、肉鴿城建遊戲《風暴之城》（Against the Storm）以及休閒治癒遊戲《gogh: 虛擬形象與專注》（gogh: Avatar and Focus），活動截止至 7 月 14 日上午。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/06",
     "title": "無最新負面與爭議事件",
@@ -356,46 +396,6 @@
     "date": "2026/07/06",
     "title": "愛爾達電視提告世足盜播Twitch實況主涉侵權",
     "summary": "2026年美加墨世界盃足球賽進入淘汰賽階段，FIFA台灣轉播權總代理愛爾達電視指出，開踢24天以來，公司查盜小組已查獲逾7000起盜播行為，並已針對部分惡意慣犯提告，其中包含未經授權在直播時播放比賽內容的Twitch實況主。愛爾達公開受理案件證明，顯示有Twitch實況主於6月21日播放世足賽事內容遭提告侵權。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/06",
-    "title": "中小型實況主「阿宅的日常」遭爆隱私外洩，個人資料於社群瘋傳",
-    "summary": "中小型實況主「阿宅的日常」於7月6日晚間在Discord社群中發生管理員帳號被盜事件，導致其真實姓名、住址等個人隱私資料被惡意公開並在多個論壇傳播。雖然當事人已緊急報警處理並呼籲網友不要散佈，但相關截圖仍在社群媒體上快速流傳，引發實況圈對資訊安全的擔憂。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/06",
-    "title": "正妹直播主跳槽遭判賠5百萬，不服上訴曝光月薪",
-    "summary": "高人氣直播主G女，原與Uplive直播簽訂為期一年的「獨家主播」合約，在其月收入飆至46萬元時，她表示要「休息一個月」，一個月後卻要求終止合約，並跳槽至17直播平台。Uplive提告後，台北地院認為G女為更高薪資惡意違約，判其須依合約賠償Uplive 500萬元。G女對此判決不服並已提出上訴，全案仍在審理中，也因此意外曝光直播主月薪。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/06",
-    "title": "Steam 2026 年水上主題特賣「Tidal Splash Festival」登場",
-    "summary": "Steam 平台於 2026 年 7 月 6 日推出以水元素為主題的「Tidal Splash Festival 2026」特賣活動，精選多款與水相關的遊戲提供折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/06",
-    "title": "Steam 免費遊戲《Glitched Out》限時領取",
-    "summary": "遊戲《Glitched Out: Chapter 1》目前於 Steam 開放免費領取，遊戲官方表示未來將會下架，建議有興趣的玩家儘早領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/06",
-    "title": "Twitch實況主世足盜播侵權",
-    "summary": "2026美加墨世足賽期間，有Twitch實況主未經授權於直播中播放賽事內容，遭FIFA台灣轉播權總代理愛爾達電視提告侵權，愛爾達已查獲逾7000起盜播行為並對惡意慣犯採取法律行動。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1214,6 +1214,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的未來人國分玲預言：2026 年為日本及全球重大轉折點",
     "summary": "自稱來自 2058 年的國分玲表示，2026 年將是日本及全球的重大轉折點。她預言未來將有一位「毀了一切」的女性首相，導致未來學校學習中文。國分玲也曾表示，她將於 2026 年 9 月 26 日再次現身，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的國分玲預言 2026-2030 年重大事件",
+    "summary": "自稱來自 2058 年的國分玲，因預言準確率高而被認為是穿越者。他表示將於 2026 年 9 月 26 日再次歸來，並預言 2028 年全球將爆發新一輪金融危機，導火索是美國國債違約，美元全球結算體系將動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
