@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games 下週免費遊戲預告：《Nova Lands》與《紋身大亨》",
+    "summary": "Epic Games 宣布自 2026 年 7 月 9 日至 7 月 16 日，將限時免費提供《Nova Lands》與《紋身大亨》（Tattoo Tycoon）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Steam 樂高遊戲包超值促銷",
+    "summary": "線上遊戲零售商 Green Man Gaming 與 Steam 合作推出樂高遊戲組合包，原價 223 美元（約新台幣 7,200 元）的遊戲組合，限時以 9 美元（約新台幣 290 元）販售，部分收益捐贈予 Breakthrough T1D 慈善組織。此組合包含 7 款完整遊戲及多款 DLC，例如《樂高星際大戰：天行者傳奇（銀河版）》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -188,6 +204,14 @@
     "date": "2026/07/08",
     "title": "3D 機甲動作遊戲《武裝機凰Ω》中文內測啟動",
     "summary": "阿狗社宣布將發行 SURUME 遊戲工房的 3D 機甲動作遊戲《武裝機凰Ω》，並於今日啟動 Steam PC 內測版，支援簡體與繁體中文，限量測試將持續至 7 月 25 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "Steam 夏季特賣進入尾聲，多款遊戲折扣",
+    "summary": "Steam 夏季特賣持續進行中，預計至台灣時間 7 月 9 日太平洋時間上午 10 點結束。多款遊戲提供低至 2.5 折的優惠。例如，國產遊戲《返校》原價 299 元，特價 200 元；雙人合作遊戲《雙人成行》（It Takes Two）也以 $11.99 美元特價販售。此外，《夢碎之境》享有 34% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/07/06",
     "title": "Twitch實況主世足盜播侵權",
     "summary": "2026美加墨世足賽期間，有Twitch實況主未經授權於直播中播放賽事內容，遭FIFA台灣轉播權總代理愛爾達電視提告侵權，愛爾達已查獲逾7000起盜播行為並對惡意慣犯採取法律行動。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/06",
-    "title": "Steam「Tidal Splash Festival 2026」遊戲折扣活動",
-    "summary": "Steam 於 2026 年 7 月 6 日起舉辦「Tidal Splash Festival 2026」遊戲折扣活動，主打與水相關主題的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/06",
-    "title": "Steam 新品節 Demo 釋出",
-    "summary": "Steam 於 2026 年 7 月 6 日至 7 月 12 日期間推出多款遊戲 Demo，包含《Pistol Cat》、《Mayak Demo》和《The Missing Rune》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/06",
-    "title": "Twitch實況主涉侵權挨告",
-    "summary": "愛爾達電視在2026美加墨世界盃淘汰賽階段，於24天內查獲超過7000件世足盜播行為，並對涉嫌侵權的Twitch實況主提告，呼籲共同維護版權、支持正版。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1205,6 +1205,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言：再次歸來",
     "summary": "國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預言：2026 年為日本及全球重大轉折點",
+    "summary": "自稱來自 2058 年的國分玲表示，2026 年將是日本及全球的重大轉折點。她預言未來將有一位「毀了一切」的女性首相，導致未來學校學習中文。國分玲也曾表示，她將於 2026 年 9 月 26 日再次現身，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
