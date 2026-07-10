@@ -97,6 +97,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 限時免費：《Nova Lands》和《Tattoo Tycoon》開放領取",
+    "summary": "Epic Games Store 更新本週限時免費遊戲，玩家可在台灣時間7月9日前領取《Nova Lands》和《Tattoo Tycoon》。下週將有其他遊戲接替免費陣容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -248,6 +256,14 @@
     "days_left": 4
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/08",
+    "title": "台V「ORI央莉」直播踢爆廠商糾紛引發「艾美麗」反駁涉嫌「衝塔」爭議",
+    "summary": "台灣VTuber「ORI央莉」在直播中公開指出與某廠商的活動結算和請款問題，並透過排查廠商公開資訊及聲音比對，質疑同行VTuber「艾美麗」對該廠商的聲援可能存在利益關係。艾美麗隨後在Threads（X）上發文，反駁遭到「衝塔」（真實身分遭曝光），並強調自身隱私權受侵害，否認與廠商有利益往來，但有社群截圖流出指控她私下仍與廠商保持聯繫，並涉嫌號召同業發表針對同行的言論，引發社群兩極討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/07",
     "title": "台灣VTuber「ORI央莉」與「艾美麗」因工商合約爆發社群爭議",
@@ -380,22 +396,6 @@
     "date": "2026/07/07",
     "title": "Steam 免費序號領取：《X-teroids》",
     "summary": "Steam 平台開放免費序號領取遊戲《X-teroids》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/07",
-    "title": "GOG 商店限時免費：《Silence》",
-    "summary": "GOG 商店提供冒險遊戲《Silence》限時免費領取，活動於 2026 年 7 月 10 日結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/07",
-    "title": "Steam 免費週末：《方舟：生存飛升》、《風暴之城》、《gogh: 虛擬形象與專注》",
-    "summary": "Steam 舉辦免費週末活動，玩家可暢玩《方舟：生存飛升》（Ark: Survival Ascended）、肉鴿城建遊戲《風暴之城》（Against the Storm）以及休閒治癒遊戲《gogh: 虛擬形象與專注》（gogh: Avatar and Focus），活動截止至 7 月 14 日上午。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
