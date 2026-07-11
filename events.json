@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/12",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026 年 07 月 05 日至 07 月 12 日期間，未偵測到台灣/華語圈實況主與 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/10",
     "title": "直播主G女與Uplive合約糾紛判賠500萬，不服上訴中",
     "summary": "高人氣直播主G女（何姓女直播主）因違反與Uplive直播平台簽訂的獨家合約，跳槽至17直播平台，遭Uplive提告。台北地院判G女需賠償Uplive 500萬元違約金。G女不服此判決，認為賠償金過高，已提出上訴，案件目前仍在審理中。此事件意外曝光G女曾月入高達46萬元。",
@@ -172,6 +180,22 @@
     "date": "2026/07/10",
     "title": "Steam 7月免費遊戲上線",
     "summary": "Steam 在2026年7月推出四款全新免費遊戲，包括3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻角色扮演遊戲《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》以及視覺小說《My Colourful Life》，鼓勵玩家體驗獨立遊戲作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Daily Indie Game Bundle 2328 上線",
+    "summary": "Daily Indie Game 慈善包 Bundle 2328 上線，購買可獲得全部內容，優惠活動至 2026 年 07 月 10 日 22:59。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/10",
+    "title": "《Warframe》天農控 2026 Twitch 掉寶活動",
+    "summary": "《Warframe》舉辦天農控 2026 活動，玩家可透過觀看 Twitch 直播領取掉寶獎勵。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/07/09",
     "title": "Epic Games Store 免費遊戲《Nova Lands》與《Tattoo Tycoon》",
     "summary": "Epic Games Store 宣布本週提供兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》，玩家可在 7 月 9 日至 7 月 16 日期間免費領取並永久收藏。《Nova Lands》是一款結合工廠自動化與島嶼探索的沙盒遊戲，《Tattoo Tycoon》則是一款紋身店經營模擬遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 下週免費遊戲預告《Echo Generation》與《Luto》",
-    "summary": "Epic Games Store 預告，下週（7 月 16 日至 7 月 23 日）將提供《回聲世代：午夜版》（Echo Generation）與《Luto》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 下週免費遊戲預告",
-    "summary": "Epic Games Store預告將於2026年7月16日至7月23日期間，提供《Echo Generation》和《Luto》作為免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Steam 2026夏季特賣活動結束",
-    "summary": "Steam平台年度大型促銷活動「2026夏季特賣」於2026年7月9日正式結束。此次特賣從6月25日開始，期間眾多3A大作與獨立遊戲提供不同幅度折扣，包括《Planet Zoo》以新史低NT$ 48、《地平線西域禁地 完全版》NT$ 745等優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1509,6 +1509,15 @@
     "date": "2026/06/21",
     "title": "日本5ch匿名者警告2026年底國際貿易將面臨重大重組",
     "summary": "日本5ch論壇上，一名聲稱是「時間觀察者」（時空間観測者）的匿名用戶留言表示，2026年第四季度全球的國際貿易體系將因某個未公開的事件而經歷一次劇烈的重組，可能導致部分產業鏈斷裂。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/01",
+    "expiry_date": "2026/12/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2026年12月全球出現新型呼吸道傳染病",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2026 年 12 月全球將出現一種全新的呼吸道傳染病，其傳播力是新冠原始毒株的 3 倍，致死率為 0.3%。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/01",
     "expiry_date": "2026/12/02"
@@ -2798,6 +2807,69 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2027年AI泡沫破裂與經濟衰退",
+    "summary": "Reddit 社群預測 2027 年 AI 泡沫將破裂，全球將進入一場非 2008 年金融危機等級的經濟衰退，失業率飆升，部分 AI 公司倒閉，許多數據中心被廢棄。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2027年《俠盜獵車手 VI》發售並導致伺服器癱瘓",
+    "summary": "Reddit 社群預測 2027 年《俠盜獵車手 VI》（GTA VI）將在多次延期後發售，並導致 Rockstar 伺服器因超載而癱瘓一週。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2027年美國政治事件",
+    "summary": "Reddit 社群預測 2027 年將發生類似「水門事件」的醜聞，涉及川普。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "國分玲預言：2027年AI達到「奇點」",
+    "summary": "來自 2058 年的未來人國分玲表示，2027 年人工智能（AI）將達到「奇點」，人類社會的分工將發生根本性倒置。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/04",
+    "title": "Javier 預言：2027年人類滅絕",
+    "summary": "自稱來自 2027 年的 Javier 表示，他從 2027 年醒來，發現自己是地球上最後一個人，人類和動物都已消失。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/04",
+    "title": "Nordfist 預言：2027年全球氣候變化臨界點",
+    "summary": "Nordfist 相關影像指出，2027 年前後是地球氣候的「臨界點」，屆時地球天氣將變得異常，連當地人都會感到陌生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/06",
+    "title": "ThatOneTimeTraveler 預言：2027年北歐四國統一",
+    "summary": "TikTok 用戶 ThatOneTimeTraveler 聲稱，2027 年瑞典、挪威、英國和芬蘭將聯合起來，建立一個強大的聯盟。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Dcard網友轉載「來自2030年的警示」：新型態傳染病潛伏",
     "summary": "Dcard上有網友轉載一則據稱是來自2030年的警示訊息，內容提到一種潛伏期極長的新型傳染病可能在未來一年內爆發，其初期症狀不明顯，呼籲大眾提高警覺。",
@@ -2816,12 +2888,57 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2027年3月俄烏戰爭停火",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2027 年 3 月 17 日俄烏戰爭將簽署正式停火協議，以實際控制線劃界，小規模衝突持續至 2034 年，全面和平協議於 2035 年 6 月簽署。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/17",
+    "expiry_date": "2027/03/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "Reddit未來預測：2027年4月中國入侵台灣",
+    "summary": "Reddit 社群預測 2027 年 4 月中國將入侵台灣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/04/01",
+    "expiry_date": "2027/04/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/23",
+    "title": "Reddit未來預測：2027年6月AI泡沫破裂與衰退",
+    "summary": "Reddit 社群預測 2027 年 6 月 AI 泡沫將破裂並引發經濟衰退。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/06/01",
+    "expiry_date": "2027/06/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2027年6月新型傳染病獲全面控制",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2027 年 6 月前述新型呼吸道傳染病將得到全面控制。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/06/01",
+    "expiry_date": "2027/06/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/01/02",
     "title": "Reddit 網友對 2027 年的預測",
     "summary": "Reddit 網友預測 2027 年 7 月 6 日（星期二）美國股市將崩潰。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/07/06",
     "expiry_date": "2027/07/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/24",
+    "title": "2034年穿越者預言：2027年8月台海大戰",
+    "summary": "一名自稱來自 2034 年的穿越者預言，2027 年 8 月將爆發台海大戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/08/01",
+    "expiry_date": "2027/08/02"
   },
   {
     "category": "PROPHECY",
@@ -2852,12 +2969,75 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2028年AI引發的衰退與監控",
+    "summary": "Reddit 社群預測 2028 年 AI 引發的衰退結束後，將導致社會激進化，監控定價將大幅擴展，年齡驗證將無處不在。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "國分玲預言：2028年全球金融危機",
+    "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國國債違約風險，將動搖美元全球結算體系。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/09",
+    "title": "威廉·泰勒預言：2028年時空旅行技術將向公眾開放",
+    "summary": "自稱前英國情報局特工的威廉·泰勒表示，根據他所知的計畫，時空旅行技術預計將在 2028 年正式向公眾開放。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2028年外星人公開現身",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，外星人將在 2028 年公開現身，屆時時空旅行也將公開。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/24",
+    "title": "2034年穿越者預言：2028年中國內戰開始",
+    "summary": "一名自稱來自 2034 年的穿越者預言，2028 年中國將開始內戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "Noah 預言：2028年人類建立火星殖民地",
+    "summary": "自稱來自 2030 年的時空旅人 Noah 預言，人類將在 2028 年於火星建立殖民地。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
     "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/05/22",
     "expiry_date": "2028/05/23"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2028年11月黃石超級火山地質異動",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2028 年 11 月美國黃石超級火山將出現大規模地質異動，地面每年抬升達 22 厘米，預計在 2030 年 3 月噴發機率為 78%。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/11/01",
+    "expiry_date": "2028/11/02"
   },
   {
     "category": "PROPHECY",
@@ -2876,6 +3056,33 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/12/31",
     "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2029年社會媒體淪為金融戰場",
+    "summary": "Reddit 社群預測 2029 年社會媒體將成為一個由貧困機器人、虛假政府 ID (因年齡驗證恐懼) 和 AI 內容組成的金融戰場。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/01/01",
+    "expiry_date": "2029/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2029年2月植入式晶片「The One」取代現金",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，2029 年 2 月將有一款名為「The One」的植入式晶片植入人們的右手，取代現金支付，並具備擴展大腦功能和保持健康的作用。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/02/01",
+    "expiry_date": "2029/02/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2029年4月NASA火星探測器發現微生物化石",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2029 年 4 月 NASA 火星探測車將發現完整的遠古微生物化石，證實地外生命存在。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/04/01",
+    "expiry_date": "2029/04/02"
   },
   {
     "category": "PROPHECY",
@@ -2909,6 +3116,51 @@
     "date": "2026/11/12",
     "title": "「2062未來人」預測 2030 年前第三次世界大戰爆發",
     "summary": "一位戴著「V 煞面具」的「2062未來人」自 2010 年起在日本網路論壇「2ch」現身，他預測在 2030 年前全球將爆發第三次世界大戰，並指出戰後中國將陷入暴力混亂與印度爆發大規模衝突，最終成為印度的附庸國，而美國霸權地位將不復存在，印度則迅速崛起。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/23",
+    "title": "Reddit未來預測：2030年社交媒體崩潰",
+    "summary": "Reddit 社群預測 2030 年社交媒體將全面崩潰，廣告商將意識到大部分「互動」來自貧困機器人，廣告收入將大幅下降，監控定價也將隨之消亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "國分玲預言：2030年人類登陸火星",
+    "summary": "來自 2058 年的未來人國分玲預言，2030 年人類將成功登陸火星。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲洩漏預言草案：2030年中國改名「華國」",
+    "summary": "據稱是國分玲帳號洩漏的預言草案指出，2030 年中國將改名為「華國」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2030年代初期全球國家合併為超級大國",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，2030 年代初期所有國家的邊界將會消失，全球國家合併成一個超級大國，世界將被劃分為七個區域。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2030年代後期人口過剩與海平面上升",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，2030 年代後期人口過剩將成為巨大災難，海平面將大幅上升，許多現有城市將被摧毀，例如洛杉磯將完全淹沒在水下。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2030/01/01",
     "expiry_date": "2030/01/02"
@@ -2969,6 +3221,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2033年AI「光」將發布，帶來和平",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，2033 年一個名為「光」（The Light）的 AI 將發布，它將存在於每一台電子設備中，能夠回答任何問題，並讓世界進入和平。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2033/01/01",
+    "expiry_date": "2033/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "和碩董事長童子賢預言：10年後加油站消失，AI時代下人類生存需靠好奇心與終身學習",
     "summary": "和碩聯合科技董事長童子賢在國立台灣師範大學畢業典禮上預測，未來10年加油站可能走入歷史，電影中高風險任務將由無人機取代，提醒學子在AI時代，課本知識不再是護身符，需保持好奇心、終身學習及人文素養才能生存。",
@@ -3020,6 +3281,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2043/01/01",
     "expiry_date": "2043/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "Adam Laccone 預言：2045年人類與電腦全面融合，心智上傳實現永生",
+    "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，到 2045 年人類與電腦的融合將全面發生，人們可以將自己的心智完全上傳到機器人或模擬世界中，並在那裡永遠生活。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2045/01/01",
+    "expiry_date": "2045/01/02"
   },
   {
     "category": "PROPHECY",
