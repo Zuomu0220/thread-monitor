@@ -89,6 +89,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 免費週末暢玩三款遊戲",
+    "summary": "Steam 於 2026 年 7 月 10 日起開放三款遊戲供玩家免費週末暢玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 免費序號領取：《SQUASER 2》",
+    "summary": "Steam 免費遊戲情報站於 2026 年 7 月 10 日發布《SQUASER 2》免費序號領取資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
     "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
@@ -241,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games 商店限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》",
+    "summary": "Epic Games Store 於 2026 年 7 月 9 日起提供《Nova Lands》和《Tattoo Tycoon》兩款遊戲限時免費領取，活動將持續至 7 月 16 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -373,30 +397,6 @@
     "title": "3D 機甲動作遊戲《武裝機凰Ω》中文內測啟動",
     "summary": "阿狗社宣布將發行 SURUME 遊戲工房的 3D 機甲動作遊戲《武裝機凰Ω》，並於今日啟動 Steam PC 內測版，支援簡體與繁體中文，限量測試將持續至 7 月 25 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/08",
-    "title": "Steam 夏季特賣進入尾聲，多款遊戲折扣",
-    "summary": "Steam 夏季特賣持續進行中，預計至台灣時間 7 月 9 日太平洋時間上午 10 點結束。多款遊戲提供低至 2.5 折的優惠。例如，國產遊戲《返校》原價 299 元，特價 200 元；雙人合作遊戲《雙人成行》（It Takes Two）也以 $11.99 美元特價販售。此外，《夢碎之境》享有 34% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/08",
-    "title": "Steam 免費序號領取：《Play a game with me》",
-    "summary": "Steam 平台開放免費序號領取遊戲《Play a game with me》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/08",
-    "title": "台V「ORI央莉」直播踢爆廠商糾紛引發「艾美麗」反駁涉嫌「衝塔」爭議",
-    "summary": "台灣VTuber「ORI央莉」在直播中公開指出與某廠商的活動結算和請款問題，並透過排查廠商公開資訊及聲音比對，質疑同行VTuber「艾美麗」對該廠商的聲援可能存在利益關係。艾美麗隨後在Threads（X）上發文，反駁遭到「衝塔」（真實身分遭曝光），並強調自身隱私權受侵害，否認與廠商有利益往來，但有社群截圖流出指控她私下仍與廠商保持聯繫，並涉嫌號召同業發表針對同行的言論，引發社群兩極討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -1259,6 +1259,15 @@
     "date": "2026/05/19",
     "title": "2058未來人國分玲預言2026年再次歸來",
     "summary": "自稱來自 2058 年的「未來人」國分玲預言，她將在 2026 年 9 月 26 日再次現身網路，回答人們關於未來的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的國分玲預言將於2026年9月再次歸來",
+    "summary": "自稱來自 2058 年的日本 2CH 論壇神秘人國分玲曾表示，他將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
