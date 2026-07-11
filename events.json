@@ -73,6 +73,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 週末免費玩：《Against the Storm》",
+    "summary": "《Against the Storm》這款「極度好評」的類 Roguelite 城市建造遊戲，在 Steam 平台開放週末免費遊玩，活動將持續至 7 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 七月四款新免費遊戲推薦",
+    "summary": "Steam 平台於七月推出四款獲得高評價的新免費遊戲，包含潛行動作解謎遊戲《Wobbly Heist》、多人奇幻 CRPG《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》、文本偵探遊戲《Rewind》以及戰鬥動作冒險遊戲《Blue Oath》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
     "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
@@ -212,6 +228,14 @@
     "date": "2026/07/09",
     "title": "Epic Games Store 限時免費遊戲：Nova Lands、Tattoo Tycoon",
     "summary": "Epic Games Store 宣布自台灣時間 2026 年 7 月 9 日起至 7 月 16 日止，玩家可免費領取《Nova Lands》與《Tattoo Tycoon》。其中《Nova Lands》是一款受《Factorio》、《Forager》和《Satisfactory》啟發的異星球製作與自動化模擬遊戲，《Tattoo Tycoon》則是一款經營管理大亨遊戲，玩家需設計理想的刺青店並滿足顧客需求。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 限時免費：《Nova Lands》與《Tattoo Tycoon》",
+    "summary": "Epic Games Store 於本週開放《Nova Lands》和《Tattoo Tycoon》兩款遊戲限時免費領取，活動將持續至 7 月 16 日。下週（7 月 16 日至 7 月 23 日）將提供《Echo Generation》和《Luto》供玩家免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -373,30 +397,6 @@
     "title": "台V「ORI央莉」直播踢爆廠商糾紛引發「艾美麗」反駁涉嫌「衝塔」爭議",
     "summary": "台灣VTuber「ORI央莉」在直播中公開指出與某廠商的活動結算和請款問題，並透過排查廠商公開資訊及聲音比對，質疑同行VTuber「艾美麗」對該廠商的聲援可能存在利益關係。艾美麗隨後在Threads（X）上發文，反駁遭到「衝塔」（真實身分遭曝光），並強調自身隱私權受侵害，否認與廠商有利益往來，但有社群截圖流出指控她私下仍與廠商保持聯繫，並涉嫌號召同業發表針對同行的言論，引發社群兩極討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/08",
-    "title": "絆愛（Kizuna AI）分身影片稱「中國台灣」並封鎖台灣IP引發爭議",
-    "summary": "VTuber絆愛（Kizuna AI）的四號分身在中國影音平台Bilibili上傳了一則名為「十一出門遊學吧！方言插件補全企劃」的影片，其中將台灣稱為「中國台灣」，且影片設定為非中國IP位址無法觀看。此舉引發台灣及華語圈粉絲強烈不滿，認為其矮化台灣並觸及敏感政治神經，導致人氣持續下滑。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/08",
-    "title": "中文主播悠五世界賽播報表現不佳遭網友炎上",
-    "summary": "主播U5在LOL世界賽播報時，因被網友批評表現無聊且與賽評搭配不佳，導致主播台氣氛尷尬，進而引發社群炎上。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/08",
-    "title": "小島秀夫警告純數位化遊戲未來",
-    "summary": "知名遊戲製作人小島秀夫警告，PlayStation 主機的實體遊戲光碟將在 2028 年 1 月正式停產，所有新遊戲將僅以數位形式發行。他對「純串流化」的娛樂未來表示擔憂，認為消費者僅擁有「開啟水龍頭的權利」，而非真正擁有內容，並指出 2021 年時他便已預警此趨勢。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
