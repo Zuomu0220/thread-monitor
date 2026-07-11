@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/09",
+    "title": "Epic Games Store 限時免費遊戲：Nova Lands 與 Tattoo Tycoon",
+    "summary": "Epic Games Store 於本週開放《Nova Lands》與《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。此外，下週（7 月 16 日至 7 月 23 日）將提供《Echo Generation》與《Luto》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/08",
     "title": "Steam 夏季特賣 2026 進行中",
     "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
@@ -389,14 +397,6 @@
     "title": "台裔日籍VTuber「さや」拒絕企業招攬，堅持個人勢避免受中國因素限制",
     "summary": "台灣出身、已取得日本國籍的VTuber「さや」（Saya）近日在社群平台發文，表示多次收到企業招攬，但最終皆婉拒。她認為企業勢在言論和自我表達上會受到嚴格限制，不願因顧及中國市場而看臉色，因此選擇維持個人勢身份，以堅守初衷。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/07",
-    "title": "Steam 新遊戲發售：《異環》",
-    "summary": "國產都市怪談題材二次元開放世界 RPG 遊戲《異環》於 2026 年 7 月 8 日正式在 Steam 解鎖。本作已登陸 PS5、PC (Windows 客戶端) 及行動裝置，並在海外市場，尤其日本地區，掀起熱潮。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -2702,6 +2702,15 @@
     "date": "2026/07/08",
     "title": "ChatGPT AI模型預測：比特幣2026年有望上看12.5萬美元",
     "summary": "據報導，與奧特曼（Sam Altman）相關的ChatGPT AI模型近日預測，比特幣價格有望在2026年底達到11萬至12.5萬美元，若機構對指數股票型基金（ETF）的需求大幅增加，價格甚至可能衝上15萬美元。模型指出，今年11月將是市場轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/09",
+    "title": "Threads未來人「jjjkf.j」預測加密貨幣走勢",
+    "summary": "一位Threads用戶「jjjkf.j」預測以太幣（ETH）將在今年底達到3143美元，而比特幣（BTC）價格最高將達到400萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
