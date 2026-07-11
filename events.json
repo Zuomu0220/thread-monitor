@@ -65,6 +65,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》，玩家可在 7 月 10 日至 7 月 16 日期間免費領取。其中《Nova Lands》是一款 2D 開放世界基地建設與探索遊戲，而《Tattoo Tycoon》則是一款結合刺青藝術創作的模擬經營遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
     "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
@@ -92,14 +100,6 @@
     "date": "2026/07/09",
     "title": "Epic Games Store 限時免費遊戲《Nova Lands》與《Tattoo Tycoon》開放領取",
     "summary": "Epic Games Store 宣布本週（自7月9日起）限時免費遊戲為工廠建造探索遊戲《Nova Lands》以及模擬經營遊戲《Tattoo Tycoon》。玩家可在期限內將其永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "Epic Games Store 於 2026 年 7 月 9 日起提供《Nova Lands》與《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -392,12 +392,12 @@
     "days_left": 4
   },
   {
-    "category": "STREAMER",
-    "date": "2026/07/07",
-    "title": "台灣VTuber「ORI央莉」與「艾美麗」因工商合約爆發社群爭議",
-    "summary": "VTuber「ORI央莉」與某廠商因活動結算物料及請款流程時間差產生糾紛。ORI央莉在直播中質疑廠商背景，並暗示VTuber「艾美麗」聲援廠商可能與其存在密切利益關係。艾美麗隨後在社群上反擊，此事件在台V圈引發兩極討論，凸顯台灣Vtuber圈在缺乏專業經紀體制下，面對公關危機時易出現情緒化發言與小圈子抱團現象，影響產業社會形象。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "category": "GAME",
+    "date": "2026/07/08",
+    "title": "小島秀夫警告純數位化遊戲未來",
+    "summary": "知名遊戲製作人小島秀夫警告，PlayStation 主機的實體遊戲光碟將在 2028 年 1 月正式停產，所有新遊戲將僅以數位形式發行。他對「純串流化」的娛樂未來表示擔憂，認為消費者僅擁有「開啟水龍頭的權利」，而非真正擁有內容，並指出 2021 年時他便已預警此趨勢。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -1250,6 +1250,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言：2028年全球金融危機爆發，2026年9月26日將再次現身",
     "summary": "自稱來自2058年的國分玲預言，全球將於2028年爆發新一輪金融危機，導火線是美國的國債違約，這將從根本上動搖美元的全球結算體系。她也曾表示將於2026年9月26日再次歸來，回答眾人疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058未來人國分玲預言2026年再次歸來",
+    "summary": "自稱來自 2058 年的「未來人」國分玲預言，她將在 2026 年 9 月 26 日再次現身網路，回答人們關於未來的疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
