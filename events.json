@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 7月免費遊戲上線",
+    "summary": "Steam 在2026年7月推出四款全新免費遊戲，包括3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻角色扮演遊戲《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》以及視覺小說《My Colourful Life》，鼓勵玩家體驗獨立遊戲作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
     "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
@@ -390,14 +398,6 @@
     "summary": "Steam平台年度大型促銷活動「2026夏季特賣」於2026年7月9日正式結束。此次特賣從6月25日開始，期間眾多3A大作與獨立遊戲提供不同幅度折扣，包括《Planet Zoo》以新史低NT$ 48、《地平線西域禁地 完全版》NT$ 745等優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/08",
-    "title": "Steam 夏季特賣 2026 進行中",
-    "summary": "Steam 2026 年夏季特賣已於 6 月 26 日開跑，並持續至 7 月 9 日凌晨，包含《文明帝國7》、《戰地風雲6》、《電馭叛客2077》等眾多 3A 大作與獨立遊戲提供史低折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
