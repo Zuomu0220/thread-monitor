@@ -48,6 +48,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/11",
+    "title": "獨立遊戲《Corsair Cove》發售",
+    "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/10",
     "title": "直播主G女與Uplive合約糾紛判賠500萬，不服上訴中",
@@ -265,6 +273,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/10",
+    "title": "Steam 釋出四款免費遊戲",
+    "summary": "Steam 於2026年7月10日正式釋出四款可永久保留的免費遊戲，包含3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻CRP G《Rise of Eurevia》和第一人稱探索遊戲《One Death at a Time》。這些遊戲均於2026年6月發行，並獲得玩家正面評價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
     "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
@@ -380,22 +396,6 @@
     "date": "2026/07/09",
     "title": "Epic Games Store 免費遊戲：《新星之地》與《紋身大亨》/《公主農夫》",
     "summary": "Epic Games Store 宣布將從 2026 年 7 月 9 日起免費提供《新星之地》（Nova Lands）和《紋身大亨》（Tattoo Tycoon），另有報導指出當週免費遊戲為視覺小說搭配三消玩法的《公主農夫》（Princess Farmer）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 最新免費遊戲",
-    "summary": "Epic Games Store 本週（7 月 9 日至 7 月 16 日）提供兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》供玩家領取。而下週（7 月 16 日至 7 月 23 日）將免費推出《Echo Generation》和《Luto》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 限時免費遊戲：Nova Lands 與 Tattoo Tycoon",
-    "summary": "Epic Games Store 於本週開放《Nova Lands》與《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。此外，下週（7 月 16 日至 7 月 23 日）將提供《Echo Generation》與《Luto》免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
