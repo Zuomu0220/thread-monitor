@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 額外限時免費：《NoRush! – Tower Edition》",
+    "summary": "Epic Games Store 驚喜額外推出獨立 3D 平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至 7 月 20 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
@@ -304,6 +312,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/10",
+    "title": "實況主騷擾 15 歲少女遭喜劇藝人父親怒斥",
+    "summary": "一名實況主被指控騷擾一名 15 歲少女，隨後遭到少女的喜劇藝人父親公開怒斥。該實況主僅在面對男性家長時才道歉，網友批評他並未真正意識到自己的錯誤，且不尊重女性感受。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
@@ -381,22 +397,6 @@
     "title": "Dcard網友疑因追蹤好友遭知名網紅封鎖：社群關係引發的紛爭",
     "summary": "一名Dcard網友發文表示，自己長期追蹤並互動的某知名網紅突然將其封鎖，原因可能與該網友同時追蹤並留言給另一位與該網紅交好的網紅B有關。該網友推測，網紅B可能誤解其留言，但卻是網紅A進行封鎖，對此感到無奈。此事件反映出社群平台中，網紅之間的人際關係及粉絲互動可能導致的連帶效應與爭議。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "三立新聞網報導：PTT當機12小時，Dcard小編邀鄉民跳槽慘遭打槍",
-    "summary": "PTT於7月8日晚間突然大當機，長達12小時無法使用，官方公告稱可能為硬碟損壞。Dcard小編藉機在PTT官方臉書貼文下留言，邀請鄉民轉往Dcard，卻遭到PTT死忠鄉民的拒絕與「打槍」，引發網友熱議。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 限時免費：《Nova Lands》和《Tattoo Tycoon》開放領取",
-    "summary": "Epic Games Store 更新本週限時免費遊戲，玩家可在台灣時間7月9日前領取《Nova Lands》和《Tattoo Tycoon》。下週將有其他遊戲接替免費陣容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
