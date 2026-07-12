@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 限時免費：《奇異人生：本色》現可免費領取",
+    "summary": "Epic Games Store 本週推出《奇異人生：本色 (Life is Strange: True Colors)》為期一週的限時免費領取活動，活動將持續至 07/19。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
@@ -344,6 +352,14 @@
     "days_left": 4
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/10",
+    "title": "個人勢 VTuber「星野夢境」爆出「中之人隱私外洩」疑雲，宣布無限期停播",
+    "summary": "有匿名人士在 X/Twitter 洩漏疑似星野夢境中之人的個人照片與真實身份資訊，引發粉絲恐慌與討論。星野夢境所屬經紀公司表示正在調查，並為保護中之人安全宣布星野夢境無限期停播。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/07/09",
     "title": "Steam 夏季特賣 2026 截止",
@@ -380,22 +396,6 @@
     "date": "2026/07/09",
     "title": "Epic Games Store 限時免費：《Nova Lands》與《紋身大亨》",
     "summary": "Epic Games Store 宣布限時免費贈送《Nova Lands》和《紋身大亨》兩款模擬經營遊戲，玩家可於 7 月 9 日至 7 月 16 日期間免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "《墨境》限定新皮膚上線，Steam 夏促折扣即將結束",
-    "summary": "國風動作 Roguelite 遊戲《墨境》推出夏日限定新皮膚，並提醒玩家 Steam 夏季促銷即將結束，可把握機會以折扣價購買。該遊戲在 Steam 平台獲得「特別好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games 下週免費遊戲預告：《Nova Lands》與《紋身大亨》",
-    "summary": "Epic Games 宣布自 2026 年 7 月 9 日至 7 月 16 日，將限時免費提供《Nova Lands》與《紋身大亨》（Tattoo Tycoon）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -614,6 +614,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/31",
     "expiry_date": "2026/08/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/09",
+    "title": "Reddit 網友自稱「2077年穿越者」預警全球網路恐攻事件",
+    "summary": "一名自稱來自 2077 年的 Reddit 用戶在 r/conspiracy 子版塊發文，警告在未來一個月內全球主要網路基礎設施將遭受大規模攻擊，呼籲人們做好數位斷網準備。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/05",
+    "expiry_date": "2026/08/06"
   },
   {
     "category": "PROPHECY",
@@ -2936,6 +2945,15 @@
     "date": "2026/05/23",
     "title": "Reddit未來預測：2027年4月中國入侵台灣",
     "summary": "Reddit 社群預測 2027 年 4 月中國將入侵台灣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/04/01",
+    "expiry_date": "2027/04/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/11",
+    "title": "日本 5ch 論壇「來自2058的國分玲」留言提及「亞洲新型態金融危機」",
+    "summary": "在日本 5ch 論壇的「未來預言」討論串中，知名帳號「國分玲」留言暗示，亞洲地區將在明年第二季度面臨一場由數位貨幣崩盤引發的新型態金融危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/04/01",
     "expiry_date": "2027/04/02"
