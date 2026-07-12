@@ -16,6 +16,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Steam 即將發行：《Forensics: Crime Scene Detective》",
+    "summary": "模擬調查遊戲《Forensics: Crime Scene Detective》預計於 2026 年 7 月 13 日在 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Steam 即將發行：《零秒》",
+    "summary": "動作類 Rogue、彈幕砍殺遊戲《零秒》預計於 2026 年 7 月 13 日在 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/10",
     "title": "直播主G女與Uplive合約糾紛判賠500萬，不服上訴中",
@@ -380,22 +396,6 @@
     "date": "2026/07/09",
     "title": "Epic Games Store限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》",
     "summary": "Epic Games Store宣布自7月9日起至7月16日，玩家可免費領取並永久保留《Nova Lands》和《Tattoo Tycoon》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Steam 物理動作遊戲《填滿虛空》9 月 9 日發售",
-    "summary": "獨立遊戲團隊 Morph 宣布，其物理驅動動作遊戲《填滿虛空》（Fill The Void）將於 9 月 9 日在 Steam 平台發售。玩家將化身黑洞，吞噬一切並不斷成長。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 免費遊戲《Nova Lands》與《Tattoo Tycoon》",
-    "summary": "Epic Games Store 宣布本週提供兩款免費遊戲：《Nova Lands》和《Tattoo Tycoon》，玩家可在 7 月 9 日至 7 月 16 日期間免費領取並永久收藏。《Nova Lands》是一款結合工廠自動化與島嶼探索的沙盒遊戲，《Tattoo Tycoon》則是一款紋身店經營模擬遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
