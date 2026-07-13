@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/14",
+    "title": "台 V ORI央莉與艾美麗捲入商業合作與隱私爭議",
+    "summary": "台灣 VTuber 圈近期頻傳爭議，其中 ORI央莉因與廠商的活動結算與請款流程出現問題，直播中質疑廠商背景，並針對 VTuber 艾美麗對廠商的聲援提出質疑。艾美麗隨後在社群平台指控自身「中之人」隱私權受侵害，並被爆出私下號召同業對同行發表言論，引發社會兩極討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
@@ -153,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games Store 限時免費領取《KeepUp Survival》",
+    "summary": "Epic Games Store 於 7 月 13 日起提供開放世界生存冒險遊戲《KeepUp Survival》限時免費領取，活動將持續至 7 月 19 日，玩家可永久入庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -273,6 +289,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 限時免費領取《Nova Lands》與《Tattoo Tycoon》",
+    "summary": "Epic Games Store 於 7 月 12 日起提供工廠建設探索遊戲《Nova Lands》以及紋身店經營遊戲《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 限時免費領取《NoRush! – Tower Edition》",
+    "summary": "Epic Games Store 於 7 月 12 日起提供《NoRush! – Tower Edition》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Steam 免費週末活動，三款遊戲限時試玩",
+    "summary": "Steam 於 7 月 12 日至 7 月 14 日凌晨期間，舉辦免費週末活動，提供《gogh: Focus with Your Avatar》、《風暴之城 Against the Storm》及《方舟：生存飛升 ARK: Survival Ascended》限時免費試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
@@ -357,46 +397,6 @@
     "title": "Epic Games Store 限時免費遊戲",
     "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》，玩家可在 7 月 10 日至 7 月 16 日期間免費領取。其中《Nova Lands》是一款 2D 開放世界基地建設與探索遊戲，而《Tattoo Tycoon》則是一款結合刺青藝術創作的模擬經營遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 週末免費玩：《Against the Storm》",
-    "summary": "《Against the Storm》這款「極度好評」的類 Roguelite 城市建造遊戲，在 Steam 平台開放週末免費遊玩，活動將持續至 7 月 13 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 七月四款新免費遊戲推薦",
-    "summary": "Steam 平台於七月推出四款獲得高評價的新免費遊戲，包含潛行動作解謎遊戲《Wobbly Heist》、多人奇幻 CRPG《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》、文本偵探遊戲《Rewind》以及戰鬥動作冒險遊戲《Blue Oath》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 免費週末暢玩三款遊戲",
-    "summary": "Steam 於 2026 年 7 月 10 日起開放三款遊戲供玩家免費週末暢玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 免費序號領取：《SQUASER 2》",
-    "summary": "Steam 免費遊戲情報站於 2026 年 7 月 10 日發布《SQUASER 2》免費序號領取資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/10",
-    "title": "直播主G女違約跳槽遭判賠500萬元後不服上訴",
-    "summary": "高人氣直播主G女（何姓女直播主）因違反與Uplive直播簽訂的獨家合約，跳槽至17直播平台，被Uplive提告求償。台北地方法院一審判決G女需賠償Uplive 500萬元。G女對判決不服並提出上訴，同時在臉書發布聲明表示將堅強面對。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -710,6 +710,15 @@
     "date": "2026/01/14",
     "title": "英國靈媒帕克預言 2026年日本附近海域將發生海底火山噴發並產生毒氣雲",
     "summary": "英國知名預言家克雷格·漢密爾頓-帕克（Craig Hamilton-Parker）預測，2026年日本周邊海域可能因海底火山噴發而產生致命毒氣雲，南印度則可能面臨大規模海嘯威脅。此外，他指出美中俄三方衝突將升溫為間接戰爭，國際領導人可能遭遇暗殺，而 8 月 12 日將是一個特別需要小心的時間點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/14",
+    "title": "多位預言家預警：2026 年 8 月 12 日台海及日本海域將發生重大地緣政治與天氣事件",
+    "summary": "美國吠陀占星師喬尼、英國靈媒帕克以及印度占星大師卡皮爾·拉傑等多位預言家，在 2026 年預言 8 月 12 日將是關鍵日期，預計台海與日本海域將發生重大的地緣政治事件及特殊天氣現象。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
