@@ -1,11 +1,19 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Steam 社交推理遊戲節",
+    "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "Steam 推出 11 款最新遊戲試玩版 (Demo)",
     "summary": "GameGrin 於 2026 年 7 月 13 日報導，Steam 將於 7 月 13 日至 7 月 19 日期間推出 11 款最新遊戲試玩版，讓玩家免費體驗。其中包括獨立策略遊戲《Crownrats Demo》、動作獨立遊戲《Solar Core Demo》以及動作射擊遊戲《The voodoo soldier Demo》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "Epic Games Store限時免費遊戲：Nova Lands 與紋身大亨",
     "summary": "Epic Games Store目前提供《Nova Lands》與《紋身大亨 (Tattoo Tycoon)》兩款遊戲限時免費領取，活動至7月16日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -29,7 +37,31 @@
     "title": "巴哈姆特開放2026東京電玩展參展補助申請",
     "summary": "為協助台灣獨立遊戲開發團隊拓展海外交流機會，巴哈姆特電玩資訊站即日起開放2026東京電玩展（Tokyo Game Show）參展補助申請。符合資格的團隊參與實體展出最高可獲得新台幣3萬元補助，線上參展則為1萬元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games Store 額外限時免費遊戲",
+    "summary": "Epic Games Store 在其常規促銷之外，於 2026 年 7 月 13 日額外提供生存遊戲《KeepUp Survival》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Steam 獨立遊戲 Demo 釋出",
+    "summary": "GameGrin 於 2026 年 7 月 13 日報導，多款獨立遊戲 Demo 將在 7 月 13 日至 19 日期間陸續推出，其中包括 7 月 12 日發布的《The Voodoo Soldier Demo》、7 月 15 日發布的《Crownrats Demo》和《Nicotine Merchant Simulator Demo》，以及 7 月 17 日發布的《Solar Core Demo》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "融合遊戲展 (The Convergence Games Showcase)",
+    "summary": "一場專為獨立遊戲舉辦的線上直播活動「The Convergence Games Showcase」將於 2026 年 7 月 16 日播出，預計時長超過兩小時，並將展示逾 70 款新作。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -37,7 +69,7 @@
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -45,7 +77,7 @@
     "title": "無最新負面與爭議事件",
     "summary": "在 2026 年 07 月 05 日至 07 月 12 日期間，未偵測到台灣/華語圈實況主與 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -53,7 +85,7 @@
     "title": "Steam 即將發行：《Forensics: Crime Scene Detective》",
     "summary": "模擬調查遊戲《Forensics: Crime Scene Detective》預計於 2026 年 7 月 13 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +93,7 @@
     "title": "Steam 即將發行：《零秒》",
     "summary": "動作類 Rogue、彈幕砍殺遊戲《零秒》預計於 2026 年 7 月 13 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -69,7 +101,7 @@
     "title": "蔡阿嘎與二伯近期爭議延燒，社群討論熱烈",
     "summary": "百萬YouTuber蔡阿嘎因「AI繪圖對決日本畫家」事件（發生於6月底，但討論持續延燒至本週）與「滿口髒話」等言行持續引發爭議。 此外，其妻二伯的品牌HAHABABY也因涉嫌抄襲日本品牌，以及「蚊不到香包」產品被檢舉涉嫌廣告不實（聲稱「隨時隨地防蚊」、「有效的防護力」卻查無環境用藥許可證），導致社群討論熱烈。",
     "avatar_url": "https://pic.pimg.tw/tsaiaga/1435222045-3882236940.jpg",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -77,7 +109,7 @@
     "title": "二伯品牌HAHABABY捲入抄襲與廣告不實爭議",
     "summary": "百萬YouTuber蔡阿嘎的妻子二伯創立的親子品牌HAHABABY，近日爆出疑似抄襲日本品牌SOU・SOU的爭議。 此外，其銷售的「蚊不到香包」產品，因廣告宣稱「隨時隨地防蚊」、「有效的防護力」等，被網友向主管機關檢舉可能涉及廣告不實，雲林縣環保局已介入調查。",
     "avatar_url": "https://imgs.gvm.com.tw/upload/gallery/20230620/100063_01.jpg",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -85,7 +117,7 @@
     "title": "國產肉鴿動作遊戲《奇境扭蛋屋：英雄集結》試玩Demo上架Steam",
     "summary": "由中國獨立開發團隊 Hexadeca Dimensions 製作的可愛手辦風格輕度肉鴿動作遊戲《奇境扭蛋屋：英雄集結》免費試玩 Demo 已於 2026 年 7 月 12 日上架 Steam 平台，支援簡體中文介面與字幕。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -93,7 +125,7 @@
     "title": "Epic Games Store 額外限時免費：《NoRush! – Tower Edition》",
     "summary": "Epic Games Store 驚喜額外推出獨立 3D 平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至 7 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -101,7 +133,7 @@
     "title": "Steam平台「夏季特賣」預熱，多款獨立遊戲釋出Demo與折扣預告",
     "summary": "Steam平台即將迎來年度夏季特賣，多個遊戲工作室已提前釋出旗下作品的限時Demo供玩家體驗，並預告在夏季特賣期間將有大幅度折扣。其中包含多款備受期待的獨立遊戲新作，涵蓋策略、角色扮演及動作冒險等多種類型，建議玩家可提早將心儀遊戲加入願望清單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -109,7 +141,7 @@
     "title": "Epic Games Store 限時免費：《奇異人生：本色》現可免費領取",
     "summary": "Epic Games Store 本週推出《奇異人生：本色 (Life is Strange: True Colors)》為期一週的限時免費領取活動，活動將持續至 07/19。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -117,7 +149,7 @@
     "title": "Epic Games Store 額外免費遊戲：NoRush! – Tower Edition",
     "summary": "Epic Games Store 在2026年7月12日意外加碼一款獨立3D平台遊戲《NoRush! – Tower Edition》可供免費領取，領取期限至7月20日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -125,7 +157,7 @@
     "title": "Epic Games Store 免費領取《NoRush! – Tower Edition》",
     "summary": "獨立遊戲工作室 FiveStar 開發的平台跳躍闖關遊戲《NoRush! – Tower Edition》在 Epic Games Store 推出限時免費領取活動，玩家可在北京時間 7 月 20 日前免費取得。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -133,7 +165,7 @@
     "title": "Epic Games Store限時免費遊戲：NoRush! – Tower Edition",
     "summary": "Epic Games Store額外提供一款獨立3D平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至7月20日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -141,7 +173,7 @@
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -149,7 +181,7 @@
     "title": "七月獨立遊戲推薦",
     "summary": "GameSpot 報導了 2026 年 7 月份的多款獨立遊戲新作，其中包括具超自然元素的舒適生活模擬遊戲《Moonlight Peaks》和動作 Roguelite 遊戲《Realm of Ink》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -157,7 +189,7 @@
     "title": "直播主G女與Uplive合約糾紛判賠500萬，不服上訴中",
     "summary": "高人氣直播主G女（何姓女直播主）因違反與Uplive直播平台簽訂的獨家合約，跳槽至17直播平台，遭Uplive提告。台北地院判G女需賠償Uplive 500萬元違約金。G女不服此判決，認為賠償金過高，已提出上訴，案件目前仍在審理中。此事件意外曝光G女曾月入高達46萬元。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -165,7 +197,7 @@
     "title": "Epic Games Store限時免費領取《Nova Lands》與《紋身大亨》",
     "summary": "Epic Games Store本週推出兩款限時免費遊戲：《Nova Lands》和《紋身大亨（Tattoo Tycoon）》。玩家可在2026年7月16日23點前免費領取這兩款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -173,7 +205,7 @@
     "title": "Steam發布多款新遊戲與免費試玩版，包含《Deep in the Dark》等",
     "summary": "Steam平台於7月10日有多款新遊戲上市，並釋出多個免費試玩版，包括冒險休閒遊戲《Deep in the Dark》、貓咪主題輕度Rogue像素風格遊戲《Whiskers In The Sand Demo》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -181,7 +213,7 @@
     "title": "「情趣夢天堂」相關爭議延燒，多名合作VTuber與實況主切割自清",
     "summary": "一家公司的前主管涉及販售兒童私密影像，導致許多曾與其旗下情趣用品品牌「情趣夢天堂」合作的VTuber、實況主及企業紛紛發表切割聲明，其中包括比鄰星域、沐屋工作室、ReLive旗下VTuber（如十六月、濛瀧、灰妲等）、亞洲統神-張家航、赤鬼伯伯等。部分合作方已刪除相關推文，但仍有部分尚未表態，引發社群持續關注與要求澄清。",
     "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -189,7 +221,7 @@
     "title": "Steam 四款免費遊戲上架：《WOBBLY HEIST》、《Rise of Eurevia》等",
     "summary": "Steam 於 2026 年 7 月 10 日正式上架四款好評免費遊戲，包含 3D 潛行解謎遊戲《WOBBLY HEIST》、多人奇幻 CRPG《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》，以及另一款未明確名稱的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -197,7 +229,7 @@
     "title": "TGS 2026 東京電玩展邁入 30 週年，NEXON、Game Freak 確定參展",
     "summary": "2026 年東京電玩展（Tokyo Game Show 2026）將於 9 月 17 日至 9 月 21 日在千葉縣幕張展覽館舉行，今年適逢展會創辦 30 週年，首次將展期延長為五天。NEXON 已宣布將展出《瑪奇Mobile》及代號《Project RX》等作品，其中《瑪奇Mobile》已開放事前預約。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -205,7 +237,7 @@
     "title": "蔡阿嘎妻子二伯品牌hahababy捲入抄襲日本品牌設計疑雲",
     "summary": "YouTuber蔡阿嘎妻子二伯創立的親子品牌「hahababy」被網友比對指出，部分商品印花與外型設計與日本京都知名印花品牌「SOU・SOU」高度相似。SOU・SOU官方證實已「密切關注該品牌長達4年」，但hahababy與二伯尚未正式回應。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -213,7 +245,7 @@
     "title": "Threads熱議：多位YT網紅過去誇張行為與爭議再浮上檯面",
     "summary": "Threads社群熱議多位YouTube網紅的過往爭議行為，其中黃山料與多米多羅的爭議再次延燒，以及眾量級家寧在開庭中秀出錄音檔，顯示Andy曾表示「頻道歸妳」等新進展。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -221,7 +253,7 @@
     "title": "Epic Games Store 限時免費遊戲",
     "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》，玩家可在 7 月 10 日至 7 月 16 日期間免費領取。其中《Nova Lands》是一款 2D 開放世界基地建設與探索遊戲，而《Tattoo Tycoon》則是一款結合刺青藝術創作的模擬經營遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -229,7 +261,7 @@
     "title": "Steam 週末免費玩：《Against the Storm》",
     "summary": "《Against the Storm》這款「極度好評」的類 Roguelite 城市建造遊戲，在 Steam 平台開放週末免費遊玩，活動將持續至 7 月 13 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -237,7 +269,7 @@
     "title": "Steam 七月四款新免費遊戲推薦",
     "summary": "Steam 平台於七月推出四款獲得高評價的新免費遊戲，包含潛行動作解謎遊戲《Wobbly Heist》、多人奇幻 CRPG《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》、文本偵探遊戲《Rewind》以及戰鬥動作冒險遊戲《Blue Oath》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -245,7 +277,7 @@
     "title": "Steam 免費週末暢玩三款遊戲",
     "summary": "Steam 於 2026 年 7 月 10 日起開放三款遊戲供玩家免費週末暢玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -253,7 +285,7 @@
     "title": "Steam 免費序號領取：《SQUASER 2》",
     "summary": "Steam 免費遊戲情報站於 2026 年 7 月 10 日發布《SQUASER 2》免費序號領取資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -261,7 +293,7 @@
     "title": "直播主G女違約跳槽遭判賠500萬元後不服上訴",
     "summary": "高人氣直播主G女（何姓女直播主）因違反與Uplive直播簽訂的獨家合約，跳槽至17直播平台，被Uplive提告求償。台北地方法院一審判決G女需賠償Uplive 500萬元。G女對判決不服並提出上訴，同時在臉書發布聲明表示將堅強面對。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -269,7 +301,7 @@
     "title": "Steam週末免費暢玩三款遊戲",
     "summary": "Steam於7月10日提供《Against the Storm》、《Gogh》和《Ark》（可能為《方舟：生存進化》）的免費週末暢玩活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -277,7 +309,7 @@
     "title": "Epic Games 限時免費《Nova Lands》",
     "summary": "Epic Games Store 推出限時免費活動，玩家可在台灣時間 2026 年 7 月 16 日晚上 11:00 前領取《Nova Lands》，永久收藏這款結合工廠建造、資源採集與島嶼探索的沙盒遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -285,7 +317,7 @@
     "title": "Epic Games 限時免費《紋身大亨》(Tattoo Tycoon)",
     "summary": "Epic Games Store 同步開放《紋身大亨》限時免費領取，優惠期限至 2026 年 7 月 16 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -293,7 +325,7 @@
     "title": "Steam 免費週末暢玩《Against the Storm》、《Gogh》、《ARK》",
     "summary": "Steam 於 2026 年 7 月提供多款遊戲的免費週末暢玩活動，包括《Against the Storm》、《Gogh》以及《ARK》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -301,7 +333,7 @@
     "title": "Steam 免費序號領取：SQUASER 2",
     "summary": "Steam 平台於 2026 年 7 月 10 日開放限時免費序號領取遊戲《SQUASER 2》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -309,7 +341,7 @@
     "title": "Steam 夏季特賣 2026 於 7 月 10 日結束",
     "summary": "Steam 2026 年夏季特賣已於台灣時間 7 月 10 日凌晨 1 點結束。本次夏促提供了大量遊戲史低折扣，許多玩家在活動尾聲積極補齊遊戲庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -317,7 +349,7 @@
     "title": "Steam 7月免費遊戲上線",
     "summary": "Steam 在2026年7月推出四款全新免費遊戲，包括3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻角色扮演遊戲《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》以及視覺小說《My Colourful Life》，鼓勵玩家體驗獨立遊戲作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -325,7 +357,7 @@
     "title": "Daily Indie Game Bundle 2328 上線",
     "summary": "Daily Indie Game 慈善包 Bundle 2328 上線，購買可獲得全部內容，優惠活動至 2026 年 07 月 10 日 22:59。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -333,7 +365,7 @@
     "title": "《Warframe》天農控 2026 Twitch 掉寶活動",
     "summary": "《Warframe》舉辦天農控 2026 活動，玩家可透過觀看 Twitch 直播領取掉寶獎勵。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -341,7 +373,7 @@
     "title": "直播主騷擾15歲少女，遭喜劇藝人父親怒嗆而卻步",
     "summary": "一名直播主因在街上騷擾一名15歲少女，被少女的喜劇藝人父親當場怒斥，該直播主隨即「秒孬」。網友討論指出，他道歉並非出於真正意識到錯誤，而是因為有男性長輩在場。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -349,7 +381,7 @@
     "title": "Steam 7月免費週末暢玩3款遊戲",
     "summary": "Steam於2026年7月提供免費週末暢玩活動，玩家可以體驗《Against the Storm》、《Gogh》以及《ARK》三款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -357,7 +389,7 @@
     "title": "Steam 免費週末遊戲",
     "summary": "Steam 正舉行免費週末活動，玩家可暢玩《方舟：生存飛升》(Ark: Survival Ascended)、肉鴿城建遊戲《風暴之城》(Against the Storm) 和休閒治癒類遊戲《gogh: 虛擬形象與專注》，活動截止至 2026 年 7 月 14 日上午。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -365,39 +397,7 @@
     "title": "Steam 免費週末暢玩：《Against the Storm》",
     "summary": "備受好評的Roguelite城市建設遊戲《Against the Storm》於2026年7月10日至7月13日在Steam平台開放免費週末暢玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 釋出四款免費遊戲",
-    "summary": "Steam 於2026年7月10日正式釋出四款可永久保留的免費遊戲，包含3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻CRP G《Rise of Eurevia》和第一人稱探索遊戲《One Death at a Time》。這些遊戲均於2026年6月發行，並獲得玩家正面評價。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "2026 年格拉斯哥獨立遊戲節優惠",
-    "summary": "Steam 平台於 2026 年 7 月 10 日週五舉辦格拉斯哥獨立遊戲節，期間將提供多款遊戲折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/10",
-    "title": "實況主騷擾 15 歲少女遭喜劇藝人父親怒斥",
-    "summary": "一名實況主被指控騷擾一名 15 歲少女，隨後遭到少女的喜劇藝人父親公開怒斥。該實況主僅在面對男性家長時才道歉，網友批評他並未真正意識到自己的錯誤，且不尊重女性感受。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/10",
-    "title": "日媒踢爆知名VTuber經紀公司「REALITY Studios」涉嫌員工過勞與欠薪",
-    "summary": "根據日媒報導，VTuber經紀管理公司「REALITY Studios」被踢爆其員工有超時工作（單月加班逾80小時，已達「過勞死警戒線」），公司卻僅支付約一半的加班費。該公司已被厚生勞動省勞動基準監督署認定違反《勞動基準法》並收到改善勸告。公司方面承認制度運作有不足之處，並表示將誠摯面對並改善。",
-    "avatar_url": "https://pbs.twimg.com/profile_images/1544040924403310592/qL9w8N-m_400x400.jpg",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
