@@ -17,6 +17,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games Store限時免費遊戲：Nova Lands 與紋身大亨",
+    "summary": "Epic Games Store目前提供《Nova Lands》與《紋身大亨 (Tattoo Tycoon)》兩款遊戲限時免費領取，活動至7月16日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "巴哈姆特開放2026東京電玩展參展補助申請",
+    "summary": "為協助台灣獨立遊戲開發團隊拓展海外交流機會，巴哈姆特電玩資訊站即日起開放2026東京電玩展（Tokyo Game Show）參展補助申請。符合資格的團隊參與實體展出最高可獲得新台幣3萬元補助，線上參展則為1萬元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -108,6 +124,14 @@
     "date": "2026/07/12",
     "title": "Epic Games Store 免費領取《NoRush! – Tower Edition》",
     "summary": "獨立遊戲工作室 FiveStar 開發的平台跳躍闖關遊戲《NoRush! – Tower Edition》在 Epic Games Store 推出限時免費領取活動，玩家可在北京時間 7 月 20 日前免費取得。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store限時免費遊戲：NoRush! – Tower Edition",
+    "summary": "Epic Games Store額外提供一款獨立3D平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至7月20日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -373,30 +397,6 @@
     "title": "日媒踢爆知名VTuber經紀公司「REALITY Studios」涉嫌員工過勞與欠薪",
     "summary": "根據日媒報導，VTuber經紀管理公司「REALITY Studios」被踢爆其員工有超時工作（單月加班逾80小時，已達「過勞死警戒線」），公司卻僅支付約一半的加班費。該公司已被厚生勞動省勞動基準監督署認定違反《勞動基準法》並收到改善勸告。公司方面承認制度運作有不足之處，並表示將誠摯面對並改善。",
     "avatar_url": "https://pbs.twimg.com/profile_images/1544040924403310592/qL9w8N-m_400x400.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 免費週末暢玩三款遊戲：《Against the Storm》、《Gogh》和《ARK》",
-    "summary": "Steam 於 2026 年 7 月宣布了週末免費暢玩活動，包括策略遊戲《Against the Storm》、藝術遊戲《Gogh》以及生存遊戲《ARK》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/10",
-    "title": "個人勢 VTuber「星野夢境」爆出「中之人隱私外洩」疑雲，宣布無限期停播",
-    "summary": "有匿名人士在 X/Twitter 洩漏疑似星野夢境中之人的個人照片與真實身份資訊，引發粉絲恐慌與討論。星野夢境所屬經紀公司表示正在調查，並為保護中之人安全宣布星野夢境無限期停播。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 夏季特賣結束與精選遊戲優惠",
-    "summary": "Steam 一年一度的夏季特賣於 6 月 26 日開跑，並於 7 月 10 日凌晨 1 點結束。期間有多款遊戲提供折扣，例如香港遊戲發行商 GSE 旗下 5 款遊戲享限時優惠，其中卡牌構築遊戲《幽室鬼牌》有 50% 半價優惠，節奏動作遊戲《Ratatan》則有 20% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -1007,15 +1007,6 @@
     "date": "2026/05/19",
     "title": "國分玲預告將於 2026 年 9 月 26 日再次現身",
     "summary": "自稱來自 2058 年的未來人「國分玲」曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/09/26",
-    "expiry_date": "2026/09/27"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/04/08",
-    "title": "2058年未來人國分玲預言2026年為全球重大轉折點",
-    "summary": "自稱來自2058年的未來人國分玲曾預言2026年是日本及全球的重大轉折點。她還提到未來學習的將是中文，並指出這與一位毀了一切的女首相有關。此外，她肯定表示比特幣價值會飆升到天價，並警告普通人屆時只能賣不能買。國分玲曾在2019年出現並精準預言東京奧運金牌數、股市暴跌、安倍辭職等事件，並表示將於2026年9月26日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -2846,6 +2837,15 @@
     "date": "2026/05/24",
     "title": "2058 年未來人國分玲警告 2026 年底將有全新傳染病肆虐全球",
     "summary": "自稱來自 2058 年的未來人國分玲預言，2026 年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "來自2058年未來人國分玲預警2026年底全新傳染病肆虐",
+    "summary": "自稱來自2058年的未來人國分玲，在社群平台發布最新警告，預言2026年底將有全新的傳染病肆虐全球。她曾多次預言成功，因此引起廣泛關注。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
