@@ -97,6 +97,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 免費領取《NoRush! – Tower Edition》",
+    "summary": "獨立遊戲工作室 FiveStar 開發的平台跳躍闖關遊戲《NoRush! – Tower Edition》在 Epic Games Store 推出限時免費領取活動，玩家可在北京時間 7 月 20 日前免費取得。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
@@ -377,27 +385,19 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Steam 夏季特賣 2026 截止",
-    "summary": "Valve 季度大型促銷活動「Steam 夏季特賣」將於 2026 年 7 月 9 日凌晨（UTC+8）截止。本次特賣涵蓋全站多款 3A 大作、獨立遊戲及經典老作，提供大幅折扣優惠，是玩家把握機會入手的最後時刻。",
+    "date": "2026/07/10",
+    "title": "Steam 夏季特賣結束與精選遊戲優惠",
+    "summary": "Steam 一年一度的夏季特賣於 6 月 26 日開跑，並於 7 月 10 日凌晨 1 點結束。期間有多款遊戲提供折扣，例如香港遊戲發行商 GSE 旗下 5 款遊戲享限時優惠，其中卡牌構築遊戲《幽室鬼牌》有 50% 半價優惠，節奏動作遊戲《Ratatan》則有 20% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "GAME",
-    "date": "2026/07/09",
-    "title": "Epic Games Store 免費遊戲預告：《新星之地》及《刺青大亨》",
-    "summary": "Epic Games Store 預告將於 2026 年 7 月 9 日起至 7 月 16 日免費贈送策略建設遊戲《新星之地》（Nova Lands）與模擬經營遊戲《刺青大亨》（Tattoo Tycoon）。",
+    "date": "2026/07/10",
+    "title": "Epic Games Store 本週免費遊戲《Nova Lands》與《紋身大亨》",
+    "summary": "Epic Games Store 本週提供《Nova Lands》（一款著重於工廠建造、探索及島嶼管理的開放世界遊戲）和《紋身大亨（Tattoo Tycoon）》限時免費領取，兩款遊戲的領取截止時間皆為 2026 年 7 月 16 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/09",
-    "title": "無最新事件報告",
-    "summary": "在 2026/07/02 至 2026/07/09 期間，透過「實況主/VTuber 炎上、爭議、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等關鍵字進行廣泛搜尋，未發現台灣/華語圈有明確符合上述定義的知名或中小型實況主及 VTuber 負面與爭議事件的最新報告。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
