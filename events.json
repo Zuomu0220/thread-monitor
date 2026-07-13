@@ -105,6 +105,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games",
+    "summary": "限時免費《NoRush! – Tower Edition》：由獨立開發商 FiveStar 製作的 3D 平台跳躍遊戲《NoRush! – Tower Edition》在 Epic Games Store 開放限時免費領取，活動至 7 月 20 日截止。這項促銷由發行商直接發起，非 Epic 官方每週贈送計畫的一部分。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "獨立遊戲",
+    "summary": "巴哈姆特 2026 東京電玩展參展補助開放申請：為協助台灣獨立遊戲開發團隊拓展海外交流機會，巴哈姆特電玩資訊站即日起開放 2026 東京電玩展（Tokyo Game Show）參展團隊申請補助，符合資格的團隊最高可獲得新台幣 3 萬元補助。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -204,6 +220,14 @@
     "date": "2026/07/12",
     "title": "Epic Games Store限時免費遊戲：NoRush! – Tower Edition",
     "summary": "Epic Games Store額外提供一款獨立3D平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至7月20日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/12",
+    "title": "遊戲開發",
+    "summary": "獨立開發者誤傳壞包 Steam 官方手動修復助其參展：海外獨立遊戲《Red Flag》的開發者因在 Steam 新品節上傳錯誤的試玩包，Steam 客服不僅開啟加急審核，更親自手動修改配置、補齊運行庫文件，確保遊戲順利參展。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -376,30 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 夏季特賣 2026 於 7 月 10 日結束",
-    "summary": "Steam 2026 年夏季特賣已於台灣時間 7 月 10 日凌晨 1 點結束。本次夏促提供了大量遊戲史低折扣，許多玩家在活動尾聲積極補齊遊戲庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam 7月免費遊戲上線",
-    "summary": "Steam 在2026年7月推出四款全新免費遊戲，包括3D潛行解謎遊戲《WOBBLY HEIST》、多人奇幻角色扮演遊戲《Rise of Eurevia》、第一人稱探索遊戲《One Death at a Time》以及視覺小說《My Colourful Life》，鼓勵玩家體驗獨立遊戲作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Daily Indie Game Bundle 2328 上線",
-    "summary": "Daily Indie Game 慈善包 Bundle 2328 上線，購買可獲得全部內容，優惠活動至 2026 年 07 月 10 日 22:59。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/23",
     "title": "Reddit未來人預言2026年7月將出現新型態極端氣候",
@@ -431,6 +431,15 @@
     "date": "2026/07/08",
     "title": "網易 AI 穿越者之夜預測未來",
     "summary": "網易舉行「AI 穿越者之夜」活動，邀請業界人士回顧 AI 發展週期並預測未來。內容討論了 AI 的演進、踩過的坑以及對未來的「暴論」預測。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/17",
+    "expiry_date": "2026/07/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/08",
+    "title": "未來人聚會",
+    "summary": "「AI 穿越者之夜」聚焦未來預測：網易新聞報導了一場名為「AI 穿越者之夜」的活動，活動旨在匯聚「穿越者」們，討論從 2023 年到 2026 年 AI 產業的發展週期，並期待參與者對未來趨勢發表預言與見解，活動預計於 7 月 17 日舉行。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/17",
     "expiry_date": "2026/07/18"
