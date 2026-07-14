@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Steam 社交推理遊戲節開始",
+    "summary": "Steam「社交推理遊戲節」於 7 月 14 日至 7 月 17 日舉行，期間將針對狼人殺、懸疑推理等類型的遊戲提供專項折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
@@ -169,6 +177,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games Store 限免遊戲《NoRush!》",
+    "summary": "Epic Games Store 於 2026 年限時免費遊戲列表中，包含遊戲《NoRush!》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -313,6 +329,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/12",
+    "title": "Epic Games Store 額外限免遊戲",
+    "summary": "Epic Games Store 在七月份提供了一款額外遊戲供 PC 玩家免費領取，作為其官方促銷活動之外的驚喜贈禮。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
     "summary": "遊戲《Corsair Cove》於2026年7月11日發售。",
@@ -372,30 +396,6 @@
     "date": "2026/07/10",
     "title": "TGS 2026 東京電玩展邁入 30 週年，NEXON、Game Freak 確定參展",
     "summary": "2026 年東京電玩展（Tokyo Game Show 2026）將於 9 月 17 日至 9 月 21 日在千葉縣幕張展覽館舉行，今年適逢展會創辦 30 週年，首次將展期延長為五天。NEXON 已宣布將展出《瑪奇Mobile》及代號《Project RX》等作品，其中《瑪奇Mobile》已開放事前預約。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/10",
-    "title": "蔡阿嘎妻子二伯品牌hahababy捲入抄襲日本品牌設計疑雲",
-    "summary": "YouTuber蔡阿嘎妻子二伯創立的親子品牌「hahababy」被網友比對指出，部分商品印花與外型設計與日本京都知名印花品牌「SOU・SOU」高度相似。SOU・SOU官方證實已「密切關注該品牌長達4年」，但hahababy與二伯尚未正式回應。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/10",
-    "title": "Threads熱議：多位YT網紅過去誇張行為與爭議再浮上檯面",
-    "summary": "Threads社群熱議多位YouTube網紅的過往爭議行為，其中黃山料與多米多羅的爭議再次延燒，以及眾量級家寧在開庭中秀出錄音檔，顯示Andy曾表示「頻道歸妳」等新進展。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《Nova Lands》與《Tattoo Tycoon》，玩家可在 7 月 10 日至 7 月 16 日期間免費領取。其中《Nova Lands》是一款 2D 開放世界基地建設與探索遊戲，而《Tattoo Tycoon》則是一款結合刺青藝術創作的模擬經營遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
