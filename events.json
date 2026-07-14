@@ -41,6 +41,46 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Epic Games 限時免費領取《維持生存》",
+    "summary": "Epic Games 商城推出「喜加一」福利，開放世界動作冒險遊戲《維持生存》現已可免費領取，活動截止至 2026 年 7 月 20 日 00:01 止，入庫後即可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Epic Games 限時免費領取《Together After Dark》",
+    "summary": "恐怖逃生遊戲《Together After Dark》在 Epic Games Store 二度開放限時免費領取，活動預計持續至台灣時間 2026 年 7 月 27 日上午 09:02 截止。開發團隊曾於今年 4 月宣布結束後續開發並為此致歉。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Steam 2026 社交推理遊戲節開啟",
+    "summary": "Steam 平台於即日起至北京時間 2026 年 7 月 17 日凌晨 1 點舉辦社交推理遊戲節，多款推理遊戲推出折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Steam 爆紅遊戲《BOMBANANA!》",
+    "summary": "《BOMBANANA!》（猴子拆炸彈）是一款在 Steam 平台爆紅的遊戲，其玩法介紹與攻略懶人包在社群中廣為流傳。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Steam《漩光奇旅：爭分奪秒》限時特惠",
+    "summary": "《漩光奇旅：爭分奪秒》（Whirlight: No Time To Trip）在 Steam 平台推出限時 85 折特惠，活動至 2026 年 7 月 20 日，邀請玩家踏足維里斯灣，解開時間彎曲的點擊式冒險謎團。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
@@ -241,6 +281,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games 限時免費領取《NoRush! - Tower Edition》",
+    "summary": "高難度爬塔跑酷遊戲《NoRush! - Tower Edition》在 Epic Games Store 開放限時免費領取，活動期限內登入 Epic 帳號並加入遊戲庫即可永久保留，截止至 2026 年 7 月 20 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Steam 免費試玩版《海鼠的詛咒》限量領取結束",
+    "summary": "AMD Gaming 曾推出限量 1,500 組的 Steam 遊戲 Key《海鼠的詛咒》免費領取活動，目前已結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -341,62 +397,6 @@
     "title": "Epic Games Store限時免費遊戲：NoRush! – Tower Edition",
     "summary": "Epic Games Store額外提供一款獨立3D平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至7月20日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "遊戲開發",
-    "summary": "獨立開發者誤傳壞包 Steam 官方手動修復助其參展：海外獨立遊戲《Red Flag》的開發者因在 Steam 新品節上傳錯誤的試玩包，Steam 客服不僅開啟加急審核，更親自手動修改配置、補齊運行庫文件，確保遊戲順利參展。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games 平台獨立遊戲《NoRush! – Tower Edition》限時免費",
-    "summary": "由獨立工作室 FiveStar 開發的平台跳躍闖關遊戲《NoRush! – Tower Edition》在 Epic Games Store 開啟限時免費領取活動，玩家可在 7 月 20 日前免費領取。此活動由開發團隊發起，並非 Epic 官方標準週免。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games Store 限時免費領取《Nova Lands》與《Tattoo Tycoon》",
-    "summary": "Epic Games Store 於 7 月 12 日起提供工廠建設探索遊戲《Nova Lands》以及紋身店經營遊戲《Tattoo Tycoon》限時免費領取，活動將持續至 7 月 16 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games Store 限時免費領取《NoRush! – Tower Edition》",
-    "summary": "Epic Games Store 於 7 月 12 日起提供《NoRush! – Tower Edition》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Steam 免費週末活動，三款遊戲限時試玩",
-    "summary": "Steam 於 7 月 12 日至 7 月 14 日凌晨期間，舉辦免費週末活動，提供《gogh: Focus with Your Avatar》、《風暴之城 Against the Storm》及《方舟：生存飛升 ARK: Survival Ascended》限時免費試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games Store 額外限免遊戲",
-    "summary": "Epic Games Store 在七月份提供了一款額外遊戲供 PC 玩家免費領取，作為其官方促銷活動之外的驚喜贈禮。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/12",
-    "title": "VTuber 阿梓中之人塔照外流爭議",
-    "summary": "VTuber「阿梓從小就很可愛」疑似發生中之人（幕後配音員）塔照（私人照片）於網路社群外流事件，引發粉絲與網友熱議與討論其隱私權問題。",
-    "avatar_url": "https://i.ytimg.com/vi/b6GfA_b9c7c/maxresdefault.jpg",
     "days_left": 5
   },
   {
@@ -719,6 +719,15 @@
     "date": "2026/07/14",
     "title": "多位預言家預警：2026 年 8 月 12 日台海及日本海域將發生重大地緣政治與天氣事件",
     "summary": "美國吠陀占星師喬尼、英國靈媒帕克以及印度占星大師卡皮爾·拉傑等多位預言家，在 2026 年預言 8 月 12 日將是關鍵日期，預計台海與日本海域將發生重大的地緣政治事件及特殊天氣現象。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/25",
+    "title": "2026 年 8 月 12 日地球失重 7 秒謠言",
+    "summary": "一則在社群媒體上流傳的謠言聲稱，2026 年 8 月 12 日地球將失去引力 7 秒，導致人類集體浮空並有千萬人死亡。此謠言已被科學界證實為虛假信息。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
