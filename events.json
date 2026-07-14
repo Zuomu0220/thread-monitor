@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/15",
+    "title": "Steam多款新遊戲發布，包含免費MMORPG",
+    "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/14",
     "title": "Steam 社交推理遊戲節",
     "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
@@ -337,6 +345,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Steam推出11款獨立遊戲Demo，玩家可免費體驗",
+    "summary": "Steam於7月13日推出11款獨立遊戲Demo，玩家可在Steam新品節前免費體驗多款新作，包括策略遊戲《Crownrats》、動作遊戲《Solar Core》和《The voodoo soldier》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games Store 額外推出一款限時免費生存遊戲《KeepUp Survival》",
+    "summary": "Epic Games Store在標準促銷日程之外，額外提供一款生存遊戲《KeepUp Survival》供PC用戶限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/13",
+    "title": "EPIC 限免遊戲持續更新中",
+    "summary": "PinoGamer皮諾電玩整理了2026年Epic每日限時免費或折扣的遊戲，提醒玩家抓緊時間下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -364,38 +396,6 @@
     "date": "2026/07/12",
     "title": "Steam 即將發行：《零秒》",
     "summary": "動作類 Rogue、彈幕砍殺遊戲《零秒》預計於 2026 年 7 月 13 日在 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/12",
-    "title": "蔡阿嘎與二伯近期爭議延燒，社群討論熱烈",
-    "summary": "百萬YouTuber蔡阿嘎因「AI繪圖對決日本畫家」事件（發生於6月底，但討論持續延燒至本週）與「滿口髒話」等言行持續引發爭議。 此外，其妻二伯的品牌HAHABABY也因涉嫌抄襲日本品牌，以及「蚊不到香包」產品被檢舉涉嫌廣告不實（聲稱「隨時隨地防蚊」、「有效的防護力」卻查無環境用藥許可證），導致社群討論熱烈。",
-    "avatar_url": "https://pic.pimg.tw/tsaiaga/1435222045-3882236940.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/12",
-    "title": "二伯品牌HAHABABY捲入抄襲與廣告不實爭議",
-    "summary": "百萬YouTuber蔡阿嘎的妻子二伯創立的親子品牌HAHABABY，近日爆出疑似抄襲日本品牌SOU・SOU的爭議。 此外，其銷售的「蚊不到香包」產品，因廣告宣稱「隨時隨地防蚊」、「有效的防護力」等，被網友向主管機關檢舉可能涉及廣告不實，雲林縣環保局已介入調查。",
-    "avatar_url": "https://imgs.gvm.com.tw/upload/gallery/20230620/100063_01.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "國產肉鴿動作遊戲《奇境扭蛋屋：英雄集結》試玩Demo上架Steam",
-    "summary": "由中國獨立開發團隊 Hexadeca Dimensions 製作的可愛手辦風格輕度肉鴿動作遊戲《奇境扭蛋屋：英雄集結》免費試玩 Demo 已於 2026 年 7 月 12 日上架 Steam 平台，支援簡體中文介面與字幕。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games Store 額外限時免費：《NoRush! – Tower Edition》",
-    "summary": "Epic Games Store 驚喜額外推出獨立 3D 平台遊戲《NoRush! – Tower Edition》限時免費領取，活動持續至 7 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
