@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Epic Games 限時免費恐怖遊戲《Together After Dark》",
+    "summary": "RedForge 開發的四人合作恐怖遊戲《Together After Dark》現於 Epic Games 限時免費，截止日期為香港時間 7 月 27 日 02:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
@@ -389,14 +397,6 @@
     "title": "VTuber 阿梓中之人塔照外流爭議",
     "summary": "VTuber「阿梓從小就很可愛」疑似發生中之人（幕後配音員）塔照（私人照片）於網路社群外流事件，引發粉絲與網友熱議與討論其隱私權問題。",
     "avatar_url": "https://i.ytimg.com/vi/b6GfA_b9c7c/maxresdefault.jpg",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "Epic Games Store 限時免費：《NoRush! Tower Edition》",
-    "summary": "Epic Games Store 宣佈《NoRush! Tower Edition》開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -1340,6 +1340,15 @@
     "date": "2026/04/08",
     "title": "來自 2058 年的未來人國分玲：2026 年是全球轉折點",
     "summary": "來自 2058 年的國分玲表示，2026 年將是日本及全球的重大轉折點，並提到她將於 2026 年 9 月 26 日再次現身回答問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的國分玲預言：將於 2026 年 9 月 26 日再次現身",
+    "summary": "自稱來自 2058 年的「未來人」國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，並預言了 2026 年至 2030 年間的重大事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
