@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/13",
+    "title": "Epic Games 限時免費遊戲《NoRush！》",
+    "summary": "考驗反應力的 3D 平台跳躍闖關遊戲《NoRush！》正在 Epic Games Store 展開限時免費領取活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/12",
     "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
     "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
@@ -352,6 +360,14 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/12",
+    "title": "VTuber 阿梓中之人塔照外流爭議",
+    "summary": "VTuber「阿梓從小就很可愛」疑似發生中之人（幕後配音員）塔照（私人照片）於網路社群外流事件，引發粉絲與網友熱議與討論其隱私權問題。",
+    "avatar_url": "https://i.ytimg.com/vi/b6GfA_b9c7c/maxresdefault.jpg",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/07/11",
     "title": "獨立遊戲《Corsair Cove》發售",
@@ -376,28 +392,12 @@
     "days_left": 4
   },
   {
-    "category": "STREAMER",
-    "date": "2026/07/10",
-    "title": "直播主G女與Uplive合約糾紛判賠500萬，不服上訴中",
-    "summary": "高人氣直播主G女（何姓女直播主）因違反與Uplive直播平台簽訂的獨家合約，跳槽至17直播平台，遭Uplive提告。台北地院判G女需賠償Uplive 500萬元違約金。G女不服此判決，認為賠償金過高，已提出上訴，案件目前仍在審理中。此事件意外曝光G女曾月入高達46萬元。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Epic Games Store限時免費領取《Nova Lands》與《紋身大亨》",
-    "summary": "Epic Games Store本週推出兩款限時免費遊戲：《Nova Lands》和《紋身大亨（Tattoo Tycoon）》。玩家可在2026年7月16日23點前免費領取這兩款遊戲。",
+    "date": "2026/07/11",
+    "title": "《幻獸帕魯》1.0 正式版上市 Steam 特價",
+    "summary": "《幻獸帕魯》（Palworld）1.0 正式版於 Steam 上市，並推出 7 折特價優惠，活動將持續至 7 月 24 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/10",
-    "title": "Steam發布多款新遊戲與免費試玩版，包含《Deep in the Dark》等",
-    "summary": "Steam平台於7月10日有多款新遊戲上市，並釋出多個免費試玩版，包括冒險休閒遊戲《Deep in the Dark》、貓咪主題輕度Rogue像素風格遊戲《Whiskers In The Sand Demo》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
