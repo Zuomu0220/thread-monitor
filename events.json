@@ -121,6 +121,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "《BanG Dream! 交織的樂章》封閉測試招募與MV釋出",
+    "summary": "手機遊戲《BanG Dream! 交織的樂章》已開啟封閉測試招募，玩家可透過填寫問卷抽選測試資格。官方同步釋出《証命讚歌》MV，並推出紀念活動「心聲漂流瓶」，活動期間至2026年7月31日，玩家有機會獲得精美好禮。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "任天堂「2026 夏季特典」活動明日開跑",
+    "summary": "任天堂將於明日（7月15日）啟動「2026 夏季特典」活動，購買指定遊戲與主機的玩家可獲得限量好禮。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "台灣YTR「廉傑克曼」受邀擔任2026東京電玩展宣傳大使",
+    "summary": "台灣YouTuber廉傑克曼受邀擔任2026東京電玩展的宣傳大使。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
@@ -376,30 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "EPIC 限免遊戲持續更新中",
-    "summary": "PinoGamer皮諾電玩整理了2026年Epic每日限時免費或折扣的遊戲，提醒玩家抓緊時間下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/12",
-    "title": "台北國際電玩展「GAME LINKER 2026夏季開發者交流會」即將舉辦",
-    "summary": "台北國際電玩展與亞太遊戲高峰會將於2026年7月17日舉辦「GAME LINKER 2026夏季開發者交流會」，預計匯聚16組獨立遊戲團隊進行現場展示與論壇分享。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/12",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026 年 07 月 05 日至 07 月 12 日期間，未偵測到台灣/華語圈實況主與 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/13",
     "title": "4chan 匿名用戶預言 2026 年 7 月 16 日 MJ12 將發起假外星人入侵",
@@ -632,6 +632,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/05",
     "expiry_date": "2026/08/06"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/11",
+    "title": "匿名時間旅行者預言加密貨幣Time Traveler (BARRON) 價格波動",
+    "summary": "有加密貨幣預測網站稱，根據演算法和歷史數據，Time Traveler (BARRON) 的價格預計在2026年7月11日後的一個月內下跌25.08%，六個月內下跌18.05%，並預計到2026年底達到0.00005399美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/09",
+    "expiry_date": "2026/08/10"
   },
   {
     "category": "PROPHECY",
