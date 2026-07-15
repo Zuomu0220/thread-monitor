@@ -145,6 +145,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Epic 限時免費遊戲：《KeepUp Survival》與《NoRush! - Tower Edition》",
+    "summary": "Epic Games Store 於本週提供兩款限時免費遊戲。其中《KeepUp Survival》是一款孤島生存遊戲，領取時間至2026年7月20日00:01止。另一款《NoRush! - Tower Edition》則是一款高難度爬塔跑酷遊戲，玩家需挑戰300公尺高塔，閃避致命陷阱，活動期限至2026年7月20日下午5:00（時區依頁面顯示為準）。《NoRush!》介面與語音僅支援英文，但文字量極少不影響遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
     "summary": "Steam 於2026年7月13日至7月16日舉辦「社交推理節」，聚焦於考驗玩家間信任與欺騙的社交推理類遊戲，提供相關遊戲折扣優惠。",
@@ -388,14 +396,6 @@
     "date": "2026/07/13",
     "title": "Steam推出11款獨立遊戲Demo，玩家可免費體驗",
     "summary": "Steam於7月13日推出11款獨立遊戲Demo，玩家可在Steam新品節前免費體驗多款新作，包括策略遊戲《Crownrats》、動作遊戲《Solar Core》和《The voodoo soldier》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "Epic Games Store 額外推出一款限時免費生存遊戲《KeepUp Survival》",
-    "summary": "Epic Games Store在標準促銷日程之外，額外提供一款生存遊戲《KeepUp Survival》供PC用戶限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
