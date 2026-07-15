@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games Store預告下週免費遊戲",
+    "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -388,14 +396,6 @@
     "date": "2026/07/13",
     "title": "融合遊戲展（The Convergence Games Showcase）回歸",
     "summary": "本週電子遊戲界迎來「融合遊戲展」，這場專為獨立遊戲舉辦的直播活動將於7月16日播出，時長超過兩小時，並將展示超過70款新作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "Epic Games Store 限時免費遊戲：《NoRush! - Tower Edition》與《KeepUp Survival》",
-    "summary": "Epic Games Store 再次開放限時免費領取《NoRush! - Tower Edition》與《KeepUp Survival》，領取時間至 2026 年 7 月 20 日止。 其中《NoRush! - Tower Edition》是一款高難度爬塔跑酷遊戲，於 2025 年 2 月推出，原價 2.49 美元，本次為第二次免費開放。 《KeepUp Survival》則是一款孤島生存遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
