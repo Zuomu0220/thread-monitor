@@ -224,6 +224,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/14",
+    "title": "實況主Andy與家寧法庭戰進入最終章",
+    "summary": "知名實況主「眾量級」Andy與家寧的刑事案件辯論終結，新北地院預定於8月11日下午4時宣判。此次攻防仍聚焦於2024年4月的分手錄音，家寧方主張Andy曾表示Youtube、F等帳務歸家寧所有，而Andy方則指控家寧說謊、斷章取義。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/07/13",
     "title": "Steam 主題特賣活動：社交推理節",
@@ -388,14 +396,6 @@
     "date": "2026/07/13",
     "title": "Steam 免費遊戲情報站：SUPER DISTRO 序號領取",
     "summary": "Steam 免費遊戲情報站消息，提供 SUPER DISTRO 遊戲免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "Epic Games 限時免費遊戲《NoRush！》",
-    "summary": "考驗反應力的 3D 平台跳躍闖關遊戲《NoRush！》正在 Epic Games Store 展開限時免費領取活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
