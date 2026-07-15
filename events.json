@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games Store下週免費遊戲預告：《Echo Generation: Midnight Edition》與《Luto》",
+    "summary": "Epic Games Store預告將於7月16日至7月23日提供《Echo Generation: Midnight Edition》與《Luto》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -28,6 +36,14 @@
     "date": "2026/07/15",
     "title": "Steam 預計七月提供兩款大作限時免費：《The Life and Suffering of Sir Brante》及《Yet Another Zombie Defense HD》",
     "summary": "據 SteamDB 資料顯示，預計在 2026 年 7 月將有兩款熱門遊戲《The Life and Suffering of Sir Brante》與《Yet Another Zombie Defense HD》開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/15",
+    "title": "Steam免費DLC：《The Mound: Omen of Cthulhu》Lost Explorers' Swords Pack",
+    "summary": "Steam商店於7月15日限時免費領取《The Mound: Omen of Cthulhu》的Lost Explorers' Swords Pack DLC。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -164,6 +180,14 @@
     "date": "2026/07/14",
     "title": "Epic 限時免費遊戲：《KeepUp Survival》與《NoRush! - Tower Edition》",
     "summary": "Epic Games Store 於本週提供兩款限時免費遊戲。其中《KeepUp Survival》是一款孤島生存遊戲，領取時間至2026年7月20日00:01止。另一款《NoRush! - Tower Edition》則是一款高難度爬塔跑酷遊戲，玩家需挑戰300公尺高塔，閃避致命陷阱，活動期限至2026年7月20日下午5:00（時區依頁面顯示為準）。《NoRush!》介面與語音僅支援英文，但文字量極少不影響遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/14",
+    "title": "Epic Games Store限時免費：《Together After Dark》",
+    "summary": "Epic Games Store於7月14日限時免費提供遊戲《Together After Dark》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/07/13",
     "title": "Epic Games 限時免費領取《NoRush! - Tower Edition》",
     "summary": "高難度爬塔跑酷遊戲《NoRush! - Tower Edition》在 Epic Games Store 開放限時免費領取，活動期限內登入 Epic 帳號並加入遊戲庫即可永久保留，截止至 2026 年 7 月 20 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "Steam 免費試玩版《海鼠的詛咒》限量領取結束",
-    "summary": "AMD Gaming 曾推出限量 1,500 組的 Steam 遊戲 Key《海鼠的詛咒》免費領取活動，目前已結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "巴哈姆特 2026 東京電玩展參展補助開放申請",
-    "summary": "巴哈姆特電玩資訊站為支持台灣獨立遊戲開發團隊拓展海外機會，開放 2026 東京電玩展（Tokyo Game Show）參展補助申請，符合資格的團隊最高可獲得新台幣3萬元補助。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/13",
-    "title": "融合遊戲展（The Convergence Games Showcase）回歸",
-    "summary": "本週電子遊戲界迎來「融合遊戲展」，這場專為獨立遊戲舉辦的直播活動將於7月16日播出，時長超過兩小時，並將展示超過70款新作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2906,6 +2906,33 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自2058年的未來人國分玲預言2026年日本與全球重大轉折",
+    "summary": "來自2058年的未來人國分玲（Kokubun Rei）表示，2026年將是日本及全球的重大轉折點。他還預言部分中央新幹線路段將啟用，以及首都功能會發生部分轉移或統治機構出現變化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "盲眼龍婆預言2026年為「不安的轉折年」恐有三戰與台海危機",
+    "summary": "盲眼龍婆（Baba Vanga）的追隨者解讀其預言，指出2026年將是「不安的轉折年」，並提及第三次世界大戰爆發的可能性，以及暗指「台海危機」等國際情勢。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/21",
+    "title": "霍金2026年預言印證：AI恐毀滅人類與地球千年壽命倒數",
+    "summary": "已故物理學家史蒂芬·霍金（Stephen Hawking）於2016年發表的關於AI可能導致人類滅亡、地球壽命僅剩1000年的預言，在2026年因生成式AI滲透各行業的現象，被認為正逐步印證。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -2999,6 +3026,15 @@
     "date": "2026/12/06",
     "title": "ThatOneTimeTraveler 預言：2027年北歐四國統一",
     "summary": "TikTok 用戶 ThatOneTimeTraveler 聲稱，2027 年瑞典、挪威、英國和芬蘭將聯合起來，建立一個強大的聯盟。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/15",
+    "title": "國分玲預言2027年數位日圓將導入日本社會",
+    "summary": "來自2058年的未來人國分玲預言，數位日圓（Digital Yen）將在2027年導入日本社會。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
@@ -3416,6 +3452,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2038/01/01",
     "expiry_date": "2038/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/10",
+    "title": "國分玲預言中國將於2039年崩潰",
+    "summary": "來自2058年的未來人國分玲預言，中國將在2039年發生體制崩潰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2039/01/01",
+    "expiry_date": "2039/01/02"
   },
   {
     "category": "PROPHECY",
