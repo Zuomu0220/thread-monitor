@@ -216,6 +216,22 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/15",
+    "title": "Twitch實況主Joshua Khane微軟帳號遭駭後被刪除",
+    "summary": "Twitch實況主Joshua Khane在X平台控訴，其微軟帳號遭駭客入侵後，微軟客服在確認其身份為帳號持有人後，卻直接將整個帳號連同OneDrive資料全部刪除。這導致Khane失去了長達25年的珍貴數位資產，包括無法替代的兒子嬰兒照片與數千歐元的數位遊戲收藏。網友討論聚焦於微軟帳號復原機制的系統性缺陷，以及數位資產所有權的保障問題，呼籲用戶啟用兩步驟驗證並定期備份重要資料。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/15",
+    "title": "Steam 2026年7月限時免費領取：The Life and Suffering of Sir Brante 及 Yet Another Zombie Defense HD",
+    "summary": "Steam預計於2026年7月限時免費提供兩款評價良好的遊戲：《The Life and Suffering of Sir Brante》（一款劇情導向的黑暗奇幻角色扮演遊戲）和《Yet Another Zombie Defense HD》（一款俯視角的殭屍塔防射擊遊戲）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/07/14",
     "title": "Steam 社交推理遊戲節",
@@ -381,22 +397,6 @@
     "title": "館長直播中吃耳屎",
     "summary": "知名實況主「館長」陳之漢在7月14日的直播中，被網友截圖指出他在鏡頭前用棉花棒挖完耳屎後，竟將沾有耳屎的棉花棒塞入口中吃下，引發社群熱議與網友好奇其行為背後的原因。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/14",
-    "title": "蔡阿嘎「二伯品牌抄襲」與「蘿拉事件」爭議延燒",
-    "summary": "知名YouTuber蔡阿嘎的妻子「二伯」所創立的品牌，被社群網友質疑其新品設計涉嫌抄襲。同時，先前與蔡阿嘎解僱的員工蘿拉之間的問題也再次被網友提及，許多人認為蘿拉在背後「大力狂踩」，精準踩中大眾地雷，導致蔡阿嘎頻道近期一連串炎上事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic 免費遊戲：《KeepUp Survival》與《NoRush!》",
-    "summary": "Epic Games Store 宣布限時免費提供生存遊戲《KeepUp Survival》和平台跳躍遊戲《NoRush!》。《KeepUp Survival》的領取期限至台灣時間 2026 年 7 月 20 日 00:01 止，而《NoRush!》的領取期限至 2026 年 7 月 20 日 17:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
