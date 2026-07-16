@@ -121,6 +121,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "亞克系統亞洲 2026 夏季特別促銷活動開跑",
+    "summary": "亞克系統亞洲（ARC SYSTEM WORKS ASIA）宣布於 PlayStation Store、Nintendo eShop、Microsoft Store、Steam、Google Play 及 App Store 展開 2026 夏季特別促銷活動，提供多款遊戲折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -228,6 +236,14 @@
     "date": "2026/07/15",
     "title": "Steam 2026年7月限時免費領取：The Life and Suffering of Sir Brante 及 Yet Another Zombie Defense HD",
     "summary": "Steam預計於2026年7月限時免費提供兩款評價良好的遊戲：《The Life and Suffering of Sir Brante》（一款劇情導向的黑暗奇幻角色扮演遊戲）和《Yet Another Zombie Defense HD》（一款俯視角的殭屍塔防射擊遊戲）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/15",
+    "title": "Steam 即將提供兩款免費保留遊戲：The Life and Suffering of Sir Brante、Yet Another Zombie Defense HD",
+    "summary": "根據 SteamDB 的最新資訊，兩款遊戲《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》預計將於 2026 年 7 月限時免費供玩家領取並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "Epic Games Store 免費遊戲：《Together After Dark》開放領取",
     "summary": "Epic Games Store 於 2026 年 7 月 14 日開放《Together After Dark》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/14",
-    "title": "實況主Andy與家寧法庭戰進入最終章",
-    "summary": "知名實況主「眾量級」Andy與家寧的刑事案件辯論終結，新北地院預定於8月11日下午4時宣判。此次攻防仍聚焦於2024年4月的分手錄音，家寧方主張Andy曾表示Youtube、F等帳務歸家寧所有，而Andy方則指控家寧說謊、斷章取義。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/14",
-    "title": "館長直播中吃耳屎",
-    "summary": "知名實況主「館長」陳之漢在7月14日的直播中，被網友截圖指出他在鏡頭前用棉花棒挖完耳屎後，竟將沾有耳屎的棉花棒塞入口中吃下，引發社群熱議與網友好奇其行為背後的原因。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U3",
     "days_left": 5
   },
   {
@@ -3101,6 +3101,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/16",
+    "title": "摩根大通執行長戴蒙示警：Anthropic AI 模型恐引發金融資安危機",
+    "summary": "摩根大通（JPMorgan）執行長 Jamie Dimon 於 2026 年 7 月 16 日發出警告，指出人工智慧（AI）發展恐帶來嚴峻的網路安全挑戰。他特別點名 Anthropic 開發的 Claude Mythos AI 模型，在數千個軟體漏洞修復完成前的過渡期間（預計 6 到 12 個月），若發生資訊外洩或未經授權存取，恐引發足以撼動市場的資安事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/16",
+    "expiry_date": "2027/01/17"
   },
   {
     "category": "PROPHECY",
