@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games Store 宣布於 2026/07/16 至 2026/07/23 期間提供《方程 · 回声世代：午夜版 (Echo Generation: Midnight Edition)》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -292,14 +300,6 @@
     "date": "2026/07/14",
     "title": "Epic Games Store 再度限免《Together After Dark》",
     "summary": "發行商 RedForge 與開發團隊 ALMNHALI 開發的恐怖遊戲《Together After Dark》於 7 月 14 日在 Epic Games Store 推出限時免費領取活動，預計持續至台灣時間 7 月 27 日上午 09:02 截止。 這是一款支援 1 至 4 人合作遊玩的心理恐怖生存遊戲，玩家需在神秘森林中探索求生並解開秘密。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic Games 限時免費",
-    "summary": "Together After Dark：此遊戲於 2026 年 7 月 14 日起可在 Epic Games 平台限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
