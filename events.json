@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games 即將免費",
+    "summary": "Epic Games Store 預計於 7 月 16 日至 7 月 23 日提供《Echo Generation》和《Luto》兩款遊戲免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -388,14 +396,6 @@
     "date": "2026/07/14",
     "title": "Steam《漩光奇旅：爭分奪秒》限時特惠",
     "summary": "《漩光奇旅：爭分奪秒》（Whirlight: No Time To Trip）在 Steam 平台推出限時 85 折特惠，活動至 2026 年 7 月 20 日，邀請玩家踏足維里斯灣，解開時間彎曲的點擊式冒險謎團。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Steam爆紅躲貓貓遊戲《MECCHA CHAMELEON》出現山寨版",
-    "summary": "Steam平台爆紅的塗鴉躲貓貓遊戲《MECCHA CHAMELEON》（超級變色龍）近日出現一款名為《Scribble Hunt》的山寨作品。該山寨遊戲不僅核心玩法高度抄襲，更透過多國語言命名策略混淆視聽，例如在中文頁面使用「超級變色龍」、韓文版直接採用原版名稱發音，企圖誤導玩家購買。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
