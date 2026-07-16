@@ -185,6 +185,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games 免費領取《Echo Generation: Midnight Edition》與《Luto》",
+    "summary": "Epic Games Store 本週推出兩款限時免費遊戲，分別為像素風回合制超自然冒險遊戲《Echo Generation: Midnight Edition》和第一人稱心理恐怖遊戲《Luto》，領取時間從 7 月 16 日至 7 月 23 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Steam 限時免費《Catch Me》與其他遊戲/DLC",
+    "summary": "多人動作遊戲《Catch Me》可在 Steam 平台限時免費領取至 7 月 17 日。此外，心理恐怖視覺小說《Escape Line》亦可免費領取，但開發商宣布將於 8 月初轉為付費遊戲，並提供《The Mound: Omen of Cthulhu》的「Lost Explorers' Swords Pack」DLC 免費領取至 7 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic Games 商城限時免費領取《維持生存》",
-    "summary": "Epic Games 商城開啟「喜加一」活動，開放世界冒險遊戲《維持生存》即日起至7月20日免費領取，一旦入庫即可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic Games 限時免費恐怖遊戲《Together After Dark》",
-    "summary": "RedForge 開發的四人合作恐怖遊戲《Together After Dark》現於 Epic Games 限時免費，截止日期為香港時間 7 月 27 日 02:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "多國靈媒集體預測 2026 世界盃結果",
@@ -566,6 +566,15 @@
     "date": "2026/06/21",
     "title": "日本靈媒預言：2026年7月20日外星人將向全人類傳遞重要訊息",
     "summary": "一位日本靈媒預言，在2026年7月20日，外星人將會向全人類傳遞關乎生命的重要訊息。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/15",
+    "title": "2026 世界盃「神預言」社群爆紅",
+    "summary": "一名名為「dilemma」（@actuallyimthe）的網友於 2021 年 7 月 11 日在 X（前 Twitter）上發布了一則貼文，預言「阿根廷將在 2026 年世界盃決賽中以 3:2 擊敗西班牙」。隨著西班牙率先闖入決賽，這則貼文在 7 月 15 日阿根廷擊敗英格蘭進入決賽後，於全球社群平台被大量轉發，引發熱烈討論，甚至國際體育媒體《ESPN FC》也轉發關注。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
