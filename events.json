@@ -1,6 +1,22 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
+    "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "多款獨立遊戲新作於 Steam 發售",
+    "summary": "2026 年 7 月 17 日，Steam 平台有多款獨立遊戲新作發售，包含策略遊戲《Subway Builder》、沙盒生存遊戲《Colonies of The Remnant》、物理生存恐怖遊戲《Jeffrey Eggstein》、策略卡牌遊戲《穿霧列車Fogpiercer》、程式設計解謎遊戲《Database Detective: Minor Crimes Division》以及足球運動遊戲《Strikers Club》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -145,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Steam 限時免費領取派對遊戲《Catch Me!》",
+    "summary": "由 ByteRockers' Games 開發的線上平台跳躍遊戲《Catch Me!》於 2026 年 7 月 16 日起在 Steam 開放限時免費領取，活動至 7 月 18 日午夜前截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -281,6 +305,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/15",
+    "title": "Steam 預告兩款遊戲即將限時免費領取",
+    "summary": "SteamDB 資料顯示，《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》兩款遊戲預計將於 2026 年 7 月開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/14",
     "title": "Steam 社交推理遊戲節",
     "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
@@ -364,38 +396,6 @@
     "date": "2026/07/14",
     "title": "Steam爆紅躲貓貓遊戲《MECCHA CHAMELEON》出現山寨版",
     "summary": "Steam平台爆紅的塗鴉躲貓貓遊戲《MECCHA CHAMELEON》（超級變色龍）近日出現一款名為《Scribble Hunt》的山寨作品。該山寨遊戲不僅核心玩法高度抄襲，更透過多國語言命名策略混淆視聽，例如在中文頁面使用「超級變色龍」、韓文版直接採用原版名稱發音，企圖誤導玩家購買。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic Games Store 再度限免《Together After Dark》",
-    "summary": "發行商 RedForge 與開發團隊 ALMNHALI 開發的恐怖遊戲《Together After Dark》於 7 月 14 日在 Epic Games Store 推出限時免費領取活動，預計持續至台灣時間 7 月 27 日上午 09:02 截止。 這是一款支援 1 至 4 人合作遊玩的心理恐怖生存遊戲，玩家需在神秘森林中探索求生並解開秘密。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "《BanG Dream! 交織的樂章》封閉測試招募與MV釋出",
-    "summary": "手機遊戲《BanG Dream! 交織的樂章》已開啟封閉測試招募，玩家可透過填寫問卷抽選測試資格。官方同步釋出《証命讚歌》MV，並推出紀念活動「心聲漂流瓶」，活動期間至2026年7月31日，玩家有機會獲得精美好禮。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "任天堂「2026 夏季特典」活動明日開跑",
-    "summary": "任天堂將於明日（7月15日）啟動「2026 夏季特典」活動，購買指定遊戲與主機的玩家可獲得限量好禮。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "台灣YTR「廉傑克曼」受邀擔任2026東京電玩展宣傳大使",
-    "summary": "台灣YouTuber廉傑克曼受邀擔任2026東京電玩展的宣傳大使。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1364,6 +1364,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058年未來人國分玲預言：2026年9月26日將再次歸來",
+    "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）曾表示，她將於 2026 年 9 月 26 日再次回到過去，並回答人們想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1591,6 +1600,15 @@
     "date": "2026/01/02",
     "title": "盲眼龍婆巴巴萬加預言：2026 年 11 月 13 日將發生世界末日「科學死法」",
     "summary": "據稱，盲眼龍婆巴巴萬加曾預言 2026 年 11 月 13 日將會發生「科學死法」的世界末日，她形容這一年是「不安的轉折年」，並提及第三次世界大戰發生的可能性。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮·佛斯特預言：2026年11月13日人類將因人口過剩而滅絕",
+    "summary": "已故物理學家馮·佛斯特（Heinz von Foerster）早在 1960 年便預測，世界將在 2020 年代走向終結，末日日期正是 2026 年 11 月 13 日，原因為人類將因「無限」的人口過剩而被「擠壓致死」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
