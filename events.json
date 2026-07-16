@@ -113,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games 商店下週免費遊戲預告：《Echo Generation》、《Luto》",
+    "summary": "Epic Games 商店宣布自 2026 年 7 月 16 日至 7 月 23 日，將提供《Echo Generation》和《Luto》兩款遊戲供玩家限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -388,14 +396,6 @@
     "date": "2026/07/14",
     "title": "Epic 免費遊戲：《KeepUp Survival》與《NoRush!》",
     "summary": "Epic Games Store 宣布限時免費提供生存遊戲《KeepUp Survival》和平台跳躍遊戲《NoRush!》。《KeepUp Survival》的領取期限至台灣時間 2026 年 7 月 20 日 00:01 止，而《NoRush!》的領取期限至 2026 年 7 月 20 日 17:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Epic Games 免費遊戲：KeepUp Survival & NoRush!",
-    "summary": "開放世界生存遊戲《KeepUp Survival》與平台跳躍遊戲《NoRush!》在 Epic Games 平台開放免費領取，活動持續至 2026 年 7 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1600,6 +1600,15 @@
     "date": "2026/01/02",
     "title": "物理學家預測2026年11月13日人口極限導致世界末日",
     "summary": "根據物理學家馮．佛斯特在60年前的推算，人類社會可能在2026年11月13日達到人口極限，導致一場「科學死法」的世界末日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "盲眼龍婆巴巴萬加預言：2026 年 11 月 13 日將發生世界末日「科學死法」",
+    "summary": "據稱，盲眼龍婆巴巴萬加曾預言 2026 年 11 月 13 日將會發生「科學死法」的世界末日，她形容這一年是「不安的轉折年」，並提及第三次世界大戰發生的可能性。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -2954,6 +2963,33 @@
     "date": "2026/03/21",
     "title": "霍金2026年預言印證：AI恐毀滅人類與地球千年壽命倒數",
     "summary": "已故物理學家史蒂芬·霍金（Stephen Hawking）於2016年發表的關於AI可能導致人類滅亡、地球壽命僅剩1000年的預言，在2026年因生成式AI滲透各行業的現象，被認為正逐步印證。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的未來人國分玲：2026 年是日本及全球的重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲曾表示，2026 年將是日本及全球的重大轉折點，並預測日本在未來將面臨重大變化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "來自 2058 年的未來人國分玲：2026 年底全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的未來人國分玲警告，預計在 2026 年底將有一種全新的傳染病在全球範圍內肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名預言者及國分玲預測比特幣與以太坊價格飆升",
+    "summary": "一位曾準確預測比特幣底部價格的 4chan 匿名預言者，以及未來人國分玲皆預測比特幣將在 2026 年底前達到驚人高價。其中國分玲預言比特幣將飆升至 494 萬美元（約 7.8 億日元），之後將「只能賣不能買」。另一位 4chan 交易者則預測比特幣在 2026 年將達到 25 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
