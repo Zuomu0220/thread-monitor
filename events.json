@@ -168,6 +168,30 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/17",
+    "title": "民進黨發言人吳崢因食安問題失言「又不是我逼你吃」引發爭議",
+    "summary": "吳崢於政論節目中與媒體人黃揚明辯論「中聯油脂致癌油事件」時，脫口說出「又不是我逼你吃，你跟我大聲幹嘛」，此言論引發外界強烈批評。民進黨隨後發表聲明，指出該段對話起因於特定媒體人的情緒性指控，吳崢當下回應無意針對社會大眾，但公開發言流於情緒、用詞欠缺謹慎，吳崢願為此深自檢討並致歉。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "類 Rogue 塔防《Slotbound》開放 DEMO 免費試玩",
+    "summary": "結合拉霸賭博元素的 Roguelike 塔防遊戲《Slotbound》於 2026 年 7 月 17 日開放 DEMO 免費試玩，預計 2026 年 11 月正式推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "結合 Roguelike 與自走棋要素策略新作《裂隙遠征》公開免費試玩版",
+    "summary": "獨立遊戲工作室 Leyline 於 2026 年 7 月 17 日釋出旗下策略新作《裂隙遠征（Guildrun）》的試玩版，遊戲預計 2026 年底在 Steam 平台推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
@@ -372,30 +396,6 @@
     "date": "2026/07/16",
     "title": "Epic Games Stor...",
     "summary": "Epic Games Store 免費遊戲更新：《Luto》與《Echo Generation: Midnight Edition》：Epic Games Store 自7月16日起至7月23日，玩家可免費領取心理恐怖遊戲《Luto》與90年代回合制冒險遊戲《Echo Generation: Midnight Edition》。下一款免費遊戲將由《Foretales》接替。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Store 夏季特賣開跑與免費遊戲更新",
-    "summary": "Epic Games Store 於 2026 年 7 月 16 日啟動夏季特賣活動，將持續至 7 月 30 日。同時，本週（7 月 16 日至 7 月 23 日）限時免費遊戲為《Echo Generation: Midnight Edition》和《Luto》。下週（7 月 23 日起）將接續免費提供《Foretales》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games 夏季特賣",
-    "summary": "Epic Games 夏季特賣於 2026 年 7 月 16 日太平洋時間上午 11 點正式開跑，將持續至 7 月 30 日，提供一系列熱門遊戲的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Steam 限時免費",
-    "summary": "獨立派對遊戲《Catch Me》可在 Steam 上限時免費領取，活動已於 2026 年 7 月 17 日上午 10 點（太平洋時間）截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1454,6 +1454,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的國分玲預言 2026 年 9 月 26 日將再次歸來",
+    "summary": "一位自稱來自 2058 年的日本未來人「國分玲」，因其對 2026 至 2030 年的重大事件預言準確率高而備受關注。他曾表示，將於 2026 年 9 月 26 日再次回到網路社群回答眾人疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1690,6 +1699,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮·佛斯特預言：2026年11月13日人類將因人口過剩而滅絕",
     "summary": "已故物理學家馮·佛斯特（Heinz von Foerster）早在 1960 年便預測，世界將在 2020 年代走向終結，末日日期正是 2026 年 11 月 13 日，原因為人類將因「無限」的人口過剩而被「擠壓致死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "《科學》期刊曾揭示物理學家 60 年前預測 2026 年 11 月 13 日可能面臨「人口過剩危機」",
+    "summary": "根據《Providence Journal》引用《Time Magazine》報導，有物理學家在 60 年前從數學模型與人口成長曲線推算，人類社會可能在 2026 年 11 月 13 日達到極限，面臨嚴峻的人口過剩危機。這項預測被認為比盲眼龍婆的預言更具科學依據。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
