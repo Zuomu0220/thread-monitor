@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games Store 免費遊戲",
+    "summary": "Epic Games Store 從 2026 年 7 月 16 日至 7 月 23 日提供《Echo Generation: Midnight Edition》和《Luto》限時免費領取。《Echo Generation: Midnight Edition》是一款設定在 90 年代的懷舊回合制冒險遊戲，而《Luto》則是一款探索悲傷與焦慮主題的第一人稱心理恐怖遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -377,25 +385,17 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Steam 社交推理遊戲節",
-    "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
+    "date": "2026/07/15",
+    "title": "Steam 限時免費遊戲預告",
+    "summary": "Steam 預計於 2026 年 7 月提供《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》兩款遊戲限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/14",
-    "title": "台 V ORI央莉與艾美麗捲入商業合作與隱私爭議",
-    "summary": "台灣 VTuber 圈近期頻傳爭議，其中 ORI央莉因與廠商的活動結算與請款流程出現問題，直播中質疑廠商背景，並針對 VTuber 艾美麗對廠商的聲援提出質疑。艾美麗隨後在社群平台指控自身「中之人」隱私權受侵害，並被爆出私下號召同業對同行發表言論，引發社會兩極討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "GAME",
     "date": "2026/07/14",
-    "title": "Steam 社交推理遊戲節開始",
-    "summary": "Steam「社交推理遊戲節」於 7 月 14 日至 7 月 17 日舉行，期間將針對狼人殺、懸疑推理等類型的遊戲提供專項折扣。",
+    "title": "Steam 社交推理遊戲節",
+    "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
