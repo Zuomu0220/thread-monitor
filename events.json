@@ -65,6 +65,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam 免費保留遊戲將結束領取",
+    "summary": "Steam 平台上，遊戲《Tomb Raider IV-VI Remastered》的免費領取活動於 2026 年 7 月 17 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -273,6 +281,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/16",
+    "title": "Epic Games Store 夏季特賣開跑與免費遊戲更新",
+    "summary": "Epic Games Store 於 2026 年 7 月 16 日啟動夏季特賣活動，將持續至 7 月 30 日。同時，本週（7 月 16 日至 7 月 23 日）限時免費遊戲為《Echo Generation: Midnight Edition》和《Luto》。下週（7 月 23 日起）將接續免費提供《Foretales》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/15",
     "title": "Steam多款新遊戲發布，包含免費MMORPG",
     "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
@@ -380,22 +396,6 @@
     "date": "2026/07/15",
     "title": "Steam 2026年7月限時免費領取：The Life and Suffering of Sir Brante 及 Yet Another Zombie Defense HD",
     "summary": "Steam預計於2026年7月限時免費提供兩款評價良好的遊戲：《The Life and Suffering of Sir Brante》（一款劇情導向的黑暗奇幻角色扮演遊戲）和《Yet Another Zombie Defense HD》（一款俯視角的殭屍塔防射擊遊戲）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/15",
-    "title": "Steam 即將提供兩款免費保留遊戲：The Life and Suffering of Sir Brante、Yet Another Zombie Defense HD",
-    "summary": "根據 SteamDB 的最新資訊，兩款遊戲《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》預計將於 2026 年 7 月限時免費供玩家領取並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/15",
-    "title": "Steam 限時免費遊戲：《布蘭特爵士的苦難與一生》、《又一個殭屍塔防HD》",
-    "summary": "根據 SteamDB 資訊，兩款遊戲《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》預計於 7 月限時免費領取。一旦領取，這些遊戲將永久保存在遊戲庫中.",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -737,6 +737,15 @@
     "date": "2026/01/25",
     "title": "2026 年 8 月 12 日地球失重 7 秒謠言",
     "summary": "一則在社群媒體上流傳的謠言聲稱，2026 年 8 月 12 日地球將失去引力 7 秒，導致人類集體浮空並有千萬人死亡。此謠言已被科學界證實為虛假信息。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家警告 2026 年 8 月重大地緣政治事件與精神幻滅",
+    "summary": "進入 2026 年 7 月，美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑等三位不同來源的預言家，在同一時間線上給出高度重合的警示。他們預測 2026 年 8 月 12 日前後，全球可能出現重大地緣政治意外與特殊天氣現象。此外，2026 年底木星與計都合相將帶來史無前例的物質世界覺醒，全球數十億人將經歷精神幻滅、高科技行業大轉型，並掀起回歸土地的浪潮，未來植物學家、農民與木匠等職業將更具價值。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
