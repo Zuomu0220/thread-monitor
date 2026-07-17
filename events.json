@@ -17,6 +17,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam 獨立遊戲嘉年華",
+    "summary": "MGN 2026 獨立遊戲嘉年華已在 Steam 上線，主打為獨立遊戲開發者提供無門檻的展示平台，並推出線上展示、主題特賣與獨家 Demo 體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Summer Games Fest 遊戲展示",
+    "summary": "Day of the Devs 和 Future Games Show 2026 夏季遊戲節正在 Steam 上進行，展示了即將推出的獨立遊戲和 AAA 大作，包含世界首映、獨家遊戲 Demo 和豐富內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -382,22 +398,6 @@
     "summary": "Steam平台預計於7月推出《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》兩款遊戲限時免費領取，具體活動開始時間未明確但將於本月啟動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/15",
-    "title": "Steam 限時免費遊戲預告",
-    "summary": "Steam 預計於 2026 年 7 月提供《The Life and Suffering of Sir Brante》和《Yet Another Zombie Defense HD》兩款遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/14",
-    "title": "Steam 社交推理遊戲節",
-    "summary": "Steam 社交推理遊戲節將於 2026 年 7 月 14 日至 7 月 17 日舉行，為狼人殺、懸疑推理類遊戲提供專項折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
