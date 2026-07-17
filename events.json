@@ -1,5 +1,21 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/18",
+    "title": "目前無最新負面與爭議事件",
+    "summary": "在 2026 年 07 月 11 日至 07 月 18 日期間，未搜尋到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件資訊。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/18",
+    "title": "目前無最新特價與免費情報",
+    "summary": "在 2026 年 07 月 11 日至 07 月 18 日期間，未搜尋到 Steam/Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
@@ -382,22 +398,6 @@
     "summary": "獨立派對遊戲《Catch Me》可在 Steam 上限時免費領取，活動已於 2026 年 7 月 17 日上午 10 點（太平洋時間）截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/15",
-    "title": "Steam多款新遊戲發布，包含免費MMORPG",
-    "summary": "多款新遊戲將於7月15日在Steam上發布，包括MMORPG《SpiritVale》、免費MMORPG《Ragnarok: The New World》和模擬遊戲《A Game About Chopping Trees》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/15",
-    "title": "新遊戲發售",
-    "summary": "和睦森林2 Cozy Grove: Camp Spirit：這款種田遊戲於 2026 年 7 月 15 日在 Steam、PS4、PS5 和 Switch 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
