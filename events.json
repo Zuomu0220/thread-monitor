@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Steam",
+    "summary": "限時免費遊戲《布蘭特爵士的苦難與一生》：Steam 平台於2026年7月18日01:00起，限時免費領取《The Life and Suffering of Sir Brante》，活動至2026年7月24日01:00止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -210,14 +218,6 @@
   {
     "category": "GAME",
     "date": "2026/07/17",
-    "title": "Steam",
-    "summary": "心理恐怖解謎遊戲《桌面探索者》發售：一款名為《桌面探索者》（Desktop Explorer）的心理恐怖、點擊冒險、解謎與調查遊戲於 Steam 平台正式發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
     "title": "Steam 限時免費",
     "summary": "Steam 平台推出《Catch Me!》與《超級高爾夫大亂鬥》等四款遊戲供玩家限時免費領取或體驗，同時這些遊戲也提供優惠折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
@@ -228,6 +228,14 @@
     "date": "2026/07/17",
     "title": "獨立遊戲參展",
     "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦「GAME LINKER 2026 夏季開發者交流會」，集結 16 組獨立遊戲團隊進行現場展示與交流，激發合作可能性。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "台北國際電玩展",
+    "summary": "GAME LINKER 2026夏季開發者交流會：台北國際電玩展與亞太遊戲高峰會於digiBlock C數位創新基地舉辦「GAME LINKER 2026夏季開發者交流會」，匯聚16組獨立遊戲團隊進行現場展示與交流，並規劃論壇分享參展、行銷與宣傳經驗。活動全程免費，旨在協助開發團隊掌握作品推廣與發展關鍵。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -388,14 +396,6 @@
     "date": "2026/07/16",
     "title": "Epic Games 即將免費",
     "summary": "Epic Games Store 預計於 7 月 16 日至 7 月 23 日提供《Echo Generation》和《Luto》兩款遊戲免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Store 限時免費遊戲：《Echo Generation: Midnight Edition》、《Luto》",
-    "summary": "Epic Games Store於7月16日至7月23日提供90年代風格回合制冒險遊戲《Echo Generation: Midnight Edition》及心理恐怖遊戲《Luto》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -3143,6 +3143,24 @@
     "date": "2026/02/27",
     "title": "4chan 匿名「比特幣先知」預言 2026 年底比特幣達 100 萬美元",
     "summary": "一名匿名用戶於 2025 年 11 月在 4chan 上發布消息，自稱是 2019 年準確預測比特幣底部價位的「比特幣先知」，預言比特幣 (BTC) 將在 2026 年底達到 100 萬美元，以太坊 (ETH) 達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/16",
+    "title": "X/Twitter",
+    "summary": "對2026年與川普的預言：在X/Twitter社群平台上，有用戶留言預測「自由將於2026年消亡，但川普將在2027年仍然活著。」",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/16",
+    "title": "YouTube",
+    "summary": "路易絲·瓊斯全球預言影片發布：YouTube頻道「アロハピ」於2026年7月16日發布了一則名為「ルイーズ・ジョーンズ世界予言 アロハピ 7月16日2026年」的影片，內容為路易絲·瓊斯（Louise Jones）的全球預言。詳細預測內容需觀看影片以取得。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
