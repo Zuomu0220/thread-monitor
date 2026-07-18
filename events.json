@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/07/19",
+    "title": "無最新限時免費或特價情報",
+    "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/18",
     "title": "目前無最新負面與爭議事件",
@@ -45,6 +53,14 @@
     "title": "Epic Games Store 免費遊戲《Foretales》預告",
     "summary": "Epic Games Store 宣布，敘事導向的數位卡牌遊戲《Foretales》將於下週開放限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/18",
+    "title": "VTuber 浠Mizuki",
+    "summary": "實況主浠Mizuki因失言風波所受的停播與工商取消處分於今日結束，恢復活動：台灣 VTuber 工作室「子午計畫」旗下的知名虛擬偶像浠Mizuki，先前因不當回應粉絲，引發社群炎上。子午計畫官方與浠Mizuki本人於 2026 年 5 月 21 日發布聲明致歉，並宣布浠Mizuki自即日起暫停活動 2 個月，取消所有工商，直至 2026 年 7 月 18 日止。今日標誌著其停播處分的正式結束，預計將恢復活動。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 6
   },
   {
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games 限時免費",
-    "summary": "Epic Games Store 宣布於 2026/07/16 至 2026/07/23 期間提供《方程 · 回声世代：午夜版 (Echo Generation: Midnight Edition)》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games 商店下週免費遊戲預告：《Echo Generation》、《Luto》",
-    "summary": "Epic Games 商店宣布自 2026 年 7 月 16 日至 7 月 23 日，將提供《Echo Generation》和《Luto》兩款遊戲供玩家限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "華語社群流傳「穿越者」警告極端氣候事件將加劇",
@@ -467,6 +467,15 @@
     "date": "2026/07/17",
     "title": "時空旅人預測",
     "summary": "2026年世界盃決賽阿根廷將以3:2擊敗西班牙：一個2021年的病毒式推文預測阿根廷將在2026年7月20日於大都會人壽體育場舉行的2026年世界盃決賽中以3:2擊敗西班牙。此預言在網路社群中引起廣泛討論，特別是該推文預測的時間點與比分。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/18",
+    "title": "2026世界盃決賽「神預言」持續發酵",
+    "summary": "來自 2021 年 7 月 11 日的 X（原 Twitter）用戶「dilemma」預言「阿根廷將在 2026 年世界盃決賽以 3 比 2 擊敗西班牙」，此貼文在西班牙與阿根廷雙雙晉級決賽後，於近日引發全球球迷熱議。該用戶於 7 月 16 日現身留言區，留下眼睛與沙漏表情符號，暗示「時間會證明一切」，使討論熱度持續攀升。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
@@ -1582,6 +1591,15 @@
     "date": "2026/01/02",
     "title": "《科學》期刊曾揭示物理學家 60 年前預測 2026 年 11 月 13 日可能面臨「人口過剩危機」",
     "summary": "根據《Providence Journal》引用《Time Magazine》報導，有物理學家在 60 年前從數學模型與人口成長曲線推算，人類社會可能在 2026 年 11 月 13 日達到極限，面臨嚴峻的人口過剩危機。這項預測被認為比盲眼龍婆的預言更具科學依據。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "美國三學者預言 2026 年 11 月 13 日世界末日",
+    "summary": "三位美國學者在 65 年前（約 1961 年）發表的論文中，透過數學方程式計算出世界末日將在 2026 年 11 月 13 日到來，原因歸咎於人口過度膨脹。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -3008,6 +3026,24 @@
     "date": "2026/07/16",
     "title": "YouTube",
     "summary": "路易絲·瓊斯全球預言影片發布：YouTube頻道「アロハピ」於2026年7月16日發布了一則名為「ルイーズ・ジョーンズ世界予言 アロハピ 7月16日2026年」的影片，內容為路易絲·瓊斯（Louise Jones）的全球預言。詳細預測內容需觀看影片以取得。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 神秘預言者修改 2026 年比特幣目標",
+    "summary": "一位曾在 2019 年準確預測比特幣低點的匿名 4chan 用戶，於 2025 年 11 月再次現身，預測比特幣在 2026 年底前將達到 100 萬美元，以太坊將達到 10 萬美元。此預言在社群媒體上廣泛流傳。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預測 2026 年加密貨幣大漲",
+    "summary": "一位匿名 4chan 用戶，曾準確預測 2025 年比特幣高點，於 2025 年 12 月 20 日發布一系列加密貨幣價格目標，預測比特幣（BTC）在 2026 年底前可能達到 250,000 美元，以太坊（ETH）達到 20,000 美元，Solana（SOL）攀升至 1,500 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
