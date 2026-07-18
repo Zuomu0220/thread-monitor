@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games Store 免費遊戲《Foretales》預告",
+    "summary": "Epic Games Store 宣布，敘事導向的數位卡牌遊戲《Foretales》將於下週開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -392,14 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "亞克系統亞洲 2026 夏季特別促銷活動開跑",
-    "summary": "亞克系統亞洲（ARC SYSTEM WORKS ASIA）宣布於 PlayStation Store、Nintendo eShop、Microsoft Store、Steam、Google Play 及 App Store 展開 2026 夏季特別促銷活動，提供多款遊戲折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "多國靈媒集體預測 2026 世界盃結果",
@@ -557,6 +557,15 @@
     "date": "2026/06/26",
     "title": "時空旅人「Tona Multiverso」預言 2026 世界盃決賽由墨西哥奪冠",
     "summary": "TikTok 用戶「Tona Multiverso」自稱是時空旅行者，並發布影片「劇透」2026 年世界盃決賽將由墨西哥在點球大戰中擊敗阿根廷奪冠，日期為 2026 年 7 月 19 日。然而，其影片被網友及媒體指出有明顯的 AI 生成痕跡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/19",
+    "expiry_date": "2026/07/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/15",
+    "title": "2026 世界盃「神預言」引發熱議",
+    "summary": "有網友在社群平台 X（原 Twitter）上發現一則發布於 2021 年的貼文，預言阿根廷將在 2026 年世界盃決賽中以 3 比 2 擊敗西班牙。隨著西班牙率先闖進決賽，該貼文再度被大量網友翻出並引發熱烈討論，甚至連國際體育媒體《ESPN FC》也加入討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/19",
     "expiry_date": "2026/07/20"
