@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games 限時免費遊戲《NoRush! – Tower Edition》",
+    "summary": "Epic Games 平台限時免費贈送遊戲《NoRush! – Tower Edition》，活動將持續至 2026 年 7 月 20 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -321,6 +329,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam 免費遊戲《布蘭特爵士的生平與苦難》限時領取",
+    "summary": "敘事 RPG 遊戲《布蘭特爵士的生平與苦難（The Life and Suffering of Sir Brante）》可在 Steam 平台免費領取並永久保留，活動至 2026 年 7 月 23 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam/Epic 免費遊戲與 Demo 大放送",
+    "summary": "Steam/Epic 免費遊戲與 Demo 大放送",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -372,30 +396,6 @@
     "date": "2026/07/16",
     "title": "Steam 即將發行：《Ore Factory Squad ⛏️》",
     "summary": "模擬、採礦、沙盒遊戲《Ore Factory Squad ⛏️》於 2026 年 7 月 16 日在 Steam 發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Steam 即將發行：《不/存在的莉莉絲》",
-    "summary": "休閒、可愛、模擬遊戲《不/存在的莉莉絲》於 2026 年 7 月 16 日在 Steam 發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Steam 即將發行：《Hell Maiden》",
-    "summary": "動作類 Rogue、逆彈幕生存遊戲《Hell Maiden》於 2026 年 7 月 16 日在 Steam 發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Steam 即將發行：《亰都幻都-櫻花幻舞-》",
-    "summary": "角色扮演、動作、日系角色扮演遊戲《亰都幻都-櫻花幻舞-》於 2026 年 7 月 16 日在 Steam 發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
