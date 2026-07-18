@@ -313,6 +313,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "獨立遊戲交流會",
+    "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦「GAME LINKER 2026 夏季開發者交流會」，匯聚 16 組獨立遊戲團隊進行現場展示與論壇分享，活動於台北市數位創新基地舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -388,14 +396,6 @@
     "date": "2026/07/16",
     "title": "Steam 即將發行：《亰都幻都-櫻花幻舞-》",
     "summary": "角色扮演、動作、日系角色扮演遊戲《亰都幻都-櫻花幻舞-》於 2026 年 7 月 16 日在 Steam 發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games 夏季特賣開始",
-    "summary": "Epic Games Store 的夏季特賣於 2026 年 7 月 16 日開始。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -476,6 +476,15 @@
     "date": "2026/07/18",
     "title": "2026世界盃決賽「神預言」持續發酵",
     "summary": "來自 2021 年 7 月 11 日的 X（原 Twitter）用戶「dilemma」預言「阿根廷將在 2026 年世界盃決賽以 3 比 2 擊敗西班牙」，此貼文在西班牙與阿根廷雙雙晉級決賽後，於近日引發全球球迷熱議。該用戶於 7 月 16 日現身留言區，留下眼睛與沙漏表情符號，暗示「時間會證明一切」，使討論熱度持續攀升。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/16",
+    "title": "「時空旅人」預言 2026 世界盃決賽引爆社群討論",
+    "summary": "一名自稱「時空旅人」的網友「dilemma」於五年前在社群平台 X（原 Twitter）上發布了一則預言，稱 2026 年世界盃決賽將由阿根廷以 3:2 擊敗西班牙。隨著近期阿根廷與西班牙雙雙晉級決賽，這則預言在網路上掀起廣泛討論與朝聖熱潮。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
