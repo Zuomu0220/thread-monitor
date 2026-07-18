@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam",
+    "summary": "心理恐怖解謎遊戲《桌面探索者》發售：一款名為《桌面探索者》（Desktop Explorer）的心理恐怖、點擊冒險、解謎與調查遊戲於 Steam 平台正式發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -388,14 +396,6 @@
     "date": "2026/07/16",
     "title": "Epic Games Store 免費遊戲",
     "summary": "Epic Games Store 從 2026 年 7 月 16 日至 7 月 23 日提供《Echo Generation: Midnight Edition》和《Luto》限時免費領取。《Echo Generation: Midnight Edition》是一款設定在 90 年代的懷舊回合制冒險遊戲，而《Luto》則是一款探索悲傷與焦慮主題的第一人稱心理恐怖遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Store 限時免費",
-    "summary": "Epic Games Store 正提供《Luto》與《Echo Generation: Midnight Edition》兩款遊戲限時免費領取，優惠持續至 7 月 23 日，屆時將由《Foretales》接替。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
