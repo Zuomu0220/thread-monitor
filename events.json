@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/18",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/07/11 至 2026/07/18 期間，未搜尋到台灣/華語圈實況主與 VTuber 相關的重大負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
@@ -392,14 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Stor...",
-    "summary": "Epic Games Store 免費遊戲更新：《Luto》與《Echo Generation: Midnight Edition》：Epic Games Store 自7月16日起至7月23日，玩家可免費領取心理恐怖遊戲《Luto》與90年代回合制冒險遊戲《Echo Generation: Midnight Edition》。下一款免費遊戲將由《Foretales》接替。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "多國靈媒集體預測 2026 世界盃結果",
@@ -602,6 +602,15 @@
     "date": "2026/07/15",
     "title": "2026 世界盃「神預言」社群爆紅",
     "summary": "一名名為「dilemma」（@actuallyimthe）的網友於 2021 年 7 月 11 日在 X（前 Twitter）上發布了一則貼文，預言「阿根廷將在 2026 年世界盃決賽中以 3:2 擊敗西班牙」。隨著西班牙率先闖入決賽，這則貼文在 7 月 15 日阿根廷擊敗英格蘭進入決賽後，於全球社群平台被大量轉發，引發熱烈討論，甚至國際體育媒體《ESPN FC》也轉發關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/17",
+    "title": "2026 世界盃足球賽「時空旅人」神預言決賽組合與比數",
+    "summary": "一名名為「dilemma」的網友於 2021 年在 X (前 Twitter) 上預言 2026 年世界盃決賽將由阿根廷以 3:2 擊敗西班牙。隨著賽事發展，西班牙已率先晉級決賽，使該預言引起全球球迷熱議與朝聖，國際體育媒體 ESPN FC 也轉發關注。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
@@ -3098,6 +3107,24 @@
     "date": "2026/07/10",
     "title": "未來人國分玲預言：2026年全球將面臨重大轉折點及新型傳染病肆虐",
     "summary": "來自2058年的未來人國分玲（Kokubun Rei）曾預言2026年將是日本及全球的重大轉折點。他還警告，2026年底將有新型傳染病肆虐全球，以及2028年可能因美國國債違約引發全球金融危機。國分玲預計於2026年9月26日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預測 2026 年底比特幣將達到 25 萬美元",
+    "summary": "一名於 2025 年 12 月 20 日在 4chan 論壇發布訊息的匿名用戶 (tripcode SBC7HL)，預測比特幣 (BTC) 有望在 2026 年底達到 25 萬美元。該用戶過去曾準確預測 2025 年比特幣的週期高點。同時預測以太坊 (ETH) 將達到 2 萬美元，Solana (SOL) 達到 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名「比特幣先知」預言 2026 年底比特幣達 100 萬美元",
+    "summary": "一名匿名用戶於 2025 年 11 月在 4chan 上發布消息，自稱是 2019 年準確預測比特幣底部價位的「比特幣先知」，預言比特幣 (BTC) 將在 2026 年底達到 100 萬美元，以太坊 (ETH) 達到 10 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
