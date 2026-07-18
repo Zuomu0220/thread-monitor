@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games Store 夏季特賣",
+    "summary": "Epic Games Store 啟動 2026 年夏季特賣，超過 3000 款遊戲享有最高達 95 折優惠，活動將持續至 7 月 30 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -209,6 +217,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/17",
+    "title": "Steam 限時免費",
+    "summary": "Steam 平台推出《Catch Me!》與《超級高爾夫大亂鬥》等四款遊戲供玩家限時免費領取或體驗，同時這些遊戲也提供優惠折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/17",
+    "title": "獨立遊戲參展",
+    "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦「GAME LINKER 2026 夏季開發者交流會」，集結 16 組獨立遊戲團隊進行現場展示與交流，激發合作可能性。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/16",
     "title": "Epic Games Store預告下週免費遊戲",
     "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
@@ -372,30 +396,6 @@
     "date": "2026/07/16",
     "title": "Epic Games Store 限時免費遊戲：《Echo Generation: Midnight Edition》、《Luto》",
     "summary": "Epic Games Store於7月16日至7月23日提供90年代風格回合制冒險遊戲《Echo Generation: Midnight Edition》及心理恐怖遊戲《Luto》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games 免費領取《Echo Generation: Midnight Edition》與《Luto》",
-    "summary": "Epic Games Store 本週推出兩款限時免費遊戲，分別為像素風回合制超自然冒險遊戲《Echo Generation: Midnight Edition》和第一人稱心理恐怖遊戲《Luto》，領取時間從 7 月 16 日至 7 月 23 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Steam 限時免費《Catch Me》與其他遊戲/DLC",
-    "summary": "多人動作遊戲《Catch Me》可在 Steam 平台限時免費領取至 7 月 17 日。此外，心理恐怖視覺小說《Escape Line》亦可免費領取，但開發商宣布將於 8 月初轉為付費遊戲，並提供《The Mound: Omen of Cthulhu》的「Lost Explorers' Swords Pack」DLC 免費領取至 7 月 29 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Store 免費遊戲",
-    "summary": "Epic Games Store 從 2026 年 7 月 16 日至 7 月 23 日提供《Echo Generation: Midnight Edition》和《Luto》限時免費領取。《Echo Generation: Midnight Edition》是一款設定在 90 年代的懷舊回合制冒險遊戲，而《Luto》則是一款探索悲傷與焦慮主題的第一人稱心理恐怖遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
