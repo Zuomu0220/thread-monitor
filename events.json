@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/20",
+    "title": "目前無符合條件之事件",
+    "summary": "在2026年07月13日至2026年07月20日期間，未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈實況主事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
@@ -225,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games",
+    "summary": "額外三款限時免費遊戲：除了每週免費遊戲外，Epic Games Store 在2026年7月還有三款額外限時免費遊戲可供領取，包含《Denshattack!》、《Tower Edition》和《Together After Dark》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -381,22 +397,6 @@
     "title": "民進黨發言人吳崢因食安問題失言「又不是我逼你吃」引發爭議",
     "summary": "吳崢於政論節目中與媒體人黃揚明辯論「中聯油脂致癌油事件」時，脫口說出「又不是我逼你吃，你跟我大聲幹嘛」，此言論引發外界強烈批評。民進黨隨後發表聲明，指出該段對話起因於特定媒體人的情緒性指控，吳崢當下回應無意針對社會大眾，但公開發言流於情緒、用詞欠缺謹慎，吳崢願為此深自檢討並致歉。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "類 Rogue 塔防《Slotbound》開放 DEMO 免費試玩",
-    "summary": "結合拉霸賭博元素的 Roguelike 塔防遊戲《Slotbound》於 2026 年 7 月 17 日開放 DEMO 免費試玩，預計 2026 年 11 月正式推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "結合 Roguelike 與自走棋要素策略新作《裂隙遠征》公開免費試玩版",
-    "summary": "獨立遊戲工作室 Leyline 於 2026 年 7 月 17 日釋出旗下策略新作《裂隙遠征（Guildrun）》的試玩版，遊戲預計 2026 年底在 Steam 平台推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
