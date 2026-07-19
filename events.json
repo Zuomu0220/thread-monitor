@@ -257,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "RTS《零度空間 ZeroSpace》Steam Demo 釋出",
+    "summary": "《零度空間》最新實機演示曝光，這款由頂尖《星際爭霸》選手參與打造的即時戰略遊戲 Demo 已上架 Steam 商店頁面，正式版將於 2026 年 7 月 21 日發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -388,14 +396,6 @@
     "date": "2026/07/17",
     "title": "Steam 限時免費遊玩《心之眼》",
     "summary": "著重劇情、包含飛車追逐與載具戰鬥的動作冒險遊戲《心之眼》（MindsEye）提供限時免費遊玩至 2026/7/21 01:00。遊戲支援繁體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 限時免費遊玩《帝國霸業：銀河生存》",
-    "summary": "生存建造遊戲《帝國霸業：銀河生存》（Empyrion - Galactic Survival）提供限時免費遊玩至 2026/7/21 01:00。遊戲支援簡體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
