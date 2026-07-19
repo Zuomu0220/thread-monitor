@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam 主題遊戲節",
+    "summary": "以火車與鐵路為主題的「火車節」將於今日 (2026 年 7 月 20 日) 至 7 月 27 日在 Steam 平台舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
@@ -388,14 +396,6 @@
     "date": "2026/07/17",
     "title": "Steam 限時免費遊玩《帝國霸業：銀河生存》",
     "summary": "生存建造遊戲《帝國霸業：銀河生存》（Empyrion - Galactic Survival）提供限時免費遊玩至 2026/7/21 01:00。遊戲支援簡體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 官方公布 2026-2027 年度特賣與主題遊戲節時程",
-    "summary": "Valve 公布了 Steam 2026 年秋季、冬季特賣，以及 2027 年春季、夏日特賣的日期。此外，2026 年下半年主題遊戲節包含 7 月 13 日至 7 月 16 日的「社交推理節」與 7 月 20 日至 7 月 27 日的「火車節」等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
