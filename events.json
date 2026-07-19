@@ -177,6 +177,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games Store 限時免費遊戲加碼",
+    "summary": "Epic Games Store 宣布在 2026 年 7 月份除了官方推出的免費遊戲外，還有開發商發起的額外三款限時免費遊戲可供領取，包含開放世界合作生存遊戲《KeepUp Survival》、休閒 3D 跑酷遊戲《NoRush! – Tower Edition》以及四人合作恐怖體驗遊戲《Together After Dark》。此外，《Foretales》也將是即將推出的免費遊戲。目前可領取的官方免費遊戲有《Luto》與《Echo Generation: Midnight Edition》，其中《NoRush! – Tower Edition》限時免費至 7 月 20 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
@@ -388,14 +396,6 @@
     "date": "2026/07/17",
     "title": "Epic Games下週免費遊戲預告：Foretales",
     "summary": "Epic Games Store 預告將於 7 月 23 日起接力送出故事驅動型卡牌冒險遊戲《Foretales》限時免費領取，該活動將持續至 7 月 30 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam限時免費領取與暢玩遊戲",
-    "summary": "Steam 平台近期推出多款遊戲限時免費，包括可領取的《Catch Me!》（至 7/18 01:00 止），以及可免費暢玩的《心之眼》（至 7/21 01:00 止）、《超級高爾夫大亂鬥》（至 7/24 01:00 止）和《帝國霸業：銀河生存》（至 7/21 01:00 止）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -3068,6 +3068,33 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/06",
+    "title": "時空旅人 KFK 預言 2026 下半年將有巨變",
+    "summary": "自稱來自 2060 年的時空旅人 KFK 曾於 2019 年在華人網絡世界引起轟動。根據最新報導，KFK 當年最重要、最詳細的預言有大半都指向 2026 年下半年開始，並延伸至 2030 年代，預示世界將迎來重大轉折和變化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的國分玲預言 2026 年為全球重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲曾預言 2026 年是日本及全球的重大轉折點，將涉及自然災害或社會動盪，並指出一個東方國家將正式崛起成為世界主導力量，此趨勢將持續到 2058 年。她也曾預言比特幣價值將飆升，但普通人屆時應只賣不買，因流通渠道可能受限。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2026 年起一系列重大事件",
+    "summary": "自稱來自其他時間線的「sombrero2079」在 Threads 上列出 2026 年至 2030 年將發生的重大事件。他指出 2026 年將發生 AI 引發的嚴重國際事故，以及美歐地區將出現嚴重的大型野火導致人口大量流失。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -3293,6 +3320,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2027 年東亞大地震與無人機恐攻",
+    "summary": "sombrero2079 預測 2027 年東亞至東南亞一帶將發生一起非常嚴重的 7 級以上地震，造成嚴重損毀，但各國將會協助。同年，因無人機造成的恐怖攻擊也將開始發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2028 年金融危機",
     "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，美元的全球結算體系將出現根本性動搖。她也曾表示將於 2026 年 9 月 26 日再次現身。",
@@ -3401,6 +3437,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2028 年 AI 深偽影響領袖與全球野火常態化",
+    "summary": "sombrero2079 預測 2028 年 AI 深偽技術將非常成熟，導致一位大國領導人因此被嚴重影響（儘管他是無辜的）。此外，全球野火將全年常態化，中國及亞洲沿海城市將面臨嚴重的海水倒灌問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/12/31",
+    "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/02/23",
     "title": "Reddit未來預測：2029年社會媒體淪為金融戰場",
     "summary": "Reddit 社群預測 2029 年社會媒體將成為一個由貧困機器人、虛假政府 ID (因年齡驗證恐懼) 和 AI 內容組成的金融戰場。",
@@ -3431,6 +3476,15 @@
     "date": "2026/11/14",
     "title": "2062年未來人預言",
     "summary": "第三次世界大戰將在 2030 年前爆發：來自 2062 年的未來人曾預言，第三次世界大戰將不會在 2030 年發生，而是會提早爆發，並涉及亞洲全域、美國、俄羅斯、歐洲一部分和中東各國。中國將被印度打敗並併入印度。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/12/31",
+    "expiry_date": "2030/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2029 年金融風暴與核戰危機",
+    "summary": "sombrero2079 預測 2029 年部分國家的保險體系將無效化，全球將爆發金融風暴，並有國家對另一國家發起全面戰爭，核武差點發射。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2029/12/31",
     "expiry_date": "2030/01/01"
@@ -3539,6 +3593,15 @@
     "date": "2026/07/08",
     "title": "2062未來人預言第三次世界大戰與中國存亡",
     "summary": "自稱來自2062年的未來人預言，第三次世界大戰將在2030年前爆發，初期由中日衝突引燃，隨後美國與日本參戰，最終由印度鎮壓並成為亞洲主導力量。此預言也提到至2062年中國將不復存在，大部分亞洲地區被印度併吞，台灣則將成為日本領土。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/12/31",
+    "expiry_date": "2031/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人「sombrero2079」預言 2030 年 AI 取代人工與非洲國家消失",
+    "summary": "sombrero2079 預測 2030 年部分國家將因 AI 技術全面替代人工，開始嘗試給予人民最低基本收入。同時，非洲將有國家因氣候變遷與政變原因而消失。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2030/12/31",
     "expiry_date": "2031/01/01"
@@ -3821,5 +3884,14 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2088/12/31",
     "expiry_date": "2089/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/08",
+    "title": "自稱來自 3700 年的時空旅人對人類發出末日警告",
+    "summary": "一名自稱來自 3700 年的男子透過 Reddit 論壇發布了對人類命運的駭人警告，並聲稱帶回了未來的「證據」。他警告人類在未來將面臨一場嚴重的末日事件或起義。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "3700/12/31",
+    "expiry_date": "3701/01/01"
   }
 ]
