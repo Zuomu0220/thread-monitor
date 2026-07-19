@@ -1,11 +1,27 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/20",
+    "title": "無相關事件",
+    "summary": "在 2026 年 7 月 13 日至 7 月 20 日期間，未偵測到台灣/華語圈實況主相關的負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam 主題特賣活動",
+    "summary": "Steam 火車節於 2026 年 7 月 20 日至 7 月 27 日舉行，展示關於火車與鐵路題材的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "VTUBER",
@@ -13,7 +29,7 @@
     "title": "台V企業芥川組親簽拍立得爭議延燒，拒絕出席消費調解",
     "summary": "台灣虛擬偶像工作室「芥川組」及其所屬 VTuber 九十九真淵的粉絲，抱怨其親簽周邊商品等待時間過長，且可能存在品質問題。有爆料指出，芥川組拒絕出席消費調解，使爭議持續擴大。  (註：圖片網址為示例，實際圖片需進一步搜尋九十九真淵或芥川組官方圖。)",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +37,7 @@
     "title": "Steam 限時免費領取《The Life and Suffering of Sir Brante》",
     "summary": "這款獲得極度好評的劇情神作，目前在 Steam 平台限時免費領取，活動至 2026/07/24 凌晨 1 點截止。領取後可永久入庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "STREAMER",
@@ -29,7 +45,7 @@
     "title": "目前無最新負面與爭議事件",
     "summary": "在 2026 年 07 月 11 日至 07 月 18 日期間，未搜尋到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件資訊。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -37,7 +53,7 @@
     "title": "目前無最新特價與免費情報",
     "summary": "在 2026 年 07 月 11 日至 07 月 18 日期間，未搜尋到 Steam/Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -45,7 +61,7 @@
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/07/11 至 2026/07/18 期間，未搜尋到台灣/華語圈實況主與 VTuber 相關的重大負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -53,7 +69,7 @@
     "title": "Epic Games Store 夏季特賣",
     "summary": "Epic Games Store 啟動 2026 年夏季特賣，超過 3000 款遊戲享有最高達 95 折優惠，活動將持續至 7 月 30 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +77,7 @@
     "title": "Steam",
     "summary": "限時免費遊戲《布蘭特爵士的苦難與一生》：Steam 平台於2026年7月18日01:00起，限時免費領取《The Life and Suffering of Sir Brante》，活動至2026年7月24日01:00止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +85,7 @@
     "title": "Epic Games Store 免費遊戲《Foretales》預告",
     "summary": "Epic Games Store 宣布，敘事導向的數位卡牌遊戲《Foretales》將於下週開放限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -77,7 +93,7 @@
     "title": "VTuber 浠Mizuki",
     "summary": "實況主浠Mizuki因失言風波所受的停播與工商取消處分於今日結束，恢復活動：台灣 VTuber 工作室「子午計畫」旗下的知名虛擬偶像浠Mizuki，先前因不當回應粉絲，引發社群炎上。子午計畫官方與浠Mizuki本人於 2026 年 5 月 21 日發布聲明致歉，並宣布浠Mizuki自即日起暫停活動 2 個月，取消所有工商，直至 2026 年 7 月 18 日止。今日標誌著其停播處分的正式結束，預計將恢復活動。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -85,7 +101,7 @@
     "title": "藝人解婕翎信義區遭電動滑板車撞擊未獲道歉",
     "summary": "藝人解婕翎於2026年7月17日在Threads發文表示，在台北市信義區世貿前人行道等紅綠燈時，遭一名電動滑板車騎士撞傷腳後跟，對方摔倒後扶起車輛，卻未道歉反而一臉不爽地瞪著她，隨後直接騎走。解婕翎對此態度感到非常無奈與不滿，並提醒網友注意安全。警方表示未接獲報案，並說明該處非道路範圍，違規使用動力載具可處罰鍰。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -93,7 +109,7 @@
     "title": "Epic Games 限時免費遊戲《NoRush! – Tower Edition》",
     "summary": "Epic Games 平台限時免費贈送遊戲《NoRush! – Tower Edition》，活動將持續至 2026 年 7 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -101,7 +117,7 @@
     "title": "世足反指標",
     "summary": "VTuber Essie 遭極端球迷恐嚇，為保人身安全停止預測與穿著球衣：個人勢英語圈 VTuber Essie 在本屆世界盃因其預測結果與實際賽果相反，被網友戲稱為「Essie 魔咒」。最初僅為球迷間的趣味迷因，然而在英格蘭於四強賽敗給阿根廷後，部分情緒激動的球迷將失利歸咎於 Essie，導致她收到大量辱罵甚至人身恐嚇訊息。為此，Essie 宣布將停止公開預測世界盃比賽結果，未來也不會穿著支持球隊的球衣，以避免事件繼續發酵。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -109,7 +125,7 @@
     "title": "英語圈VTuber Essie因世足「反指標魔咒」遭恐嚇停播預測",
     "summary": "個人勢VTuber Essie因接連預測世界盃賽事失準，被網友戲稱為「世足反指標」。在支持的英格蘭隊輸給阿根廷後，Essie遭到部分極端球迷的恐嚇與騷擾，為保人身安全，她宣布將停止公開預測比賽結果，並且不再穿著支持隊伍的球衣。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -117,7 +133,7 @@
     "title": "台灣個人勢VTuber希比Hebe委託繪師失聯，引發合約糾紛與炎上",
     "summary": "台灣個人勢VTuber希比Hebe跨國委託日本繪師後，對方收錢後失聯長達四個月。事件在社群上被揭露炎上後，該繪師才迅速現身並退款。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -125,7 +141,7 @@
     "title": "Epic Games限時免費永久領取《Luto》",
     "summary": "第一人稱心理恐怖遊戲《Luto》在Epic Games平台限時免費，玩家可於台灣時間2026年7月23日23:00前領取後永久保留。該遊戲以悲傷與失去為主題，並支援繁體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -133,7 +149,7 @@
     "title": "Steam史低特賣推薦影片發布，多款大作迎來折扣",
     "summary": "YouTube頻道發布影片，推薦本週Steam上10款史低價格遊戲，其中包括銷量達600萬的大作，折扣期間為2026年7月18日至7月28日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -141,7 +157,7 @@
     "title": "Steam恐怖ADV遊戲《貓の手は救いの手》體驗版公開中",
     "summary": "恐怖冒險遊戲《貓の手は救いの手》（幽靈貓是救星）的體驗版目前已在Steam上公開。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -149,7 +165,7 @@
     "title": "Epic Games Store夏季特賣持續進行中",
     "summary": "Epic Games Store的2026年夏季特賣活動仍在進行，提供超過3000款PC遊戲高達95%的折扣優惠，同時《Luto》和《Echo Generation: Midnight Edition》持續免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -157,7 +173,7 @@
     "title": "Epic Games Store額外贈送三款免費遊戲",
     "summary": "除了每週例行免費遊戲外，Epic Games Store額外贈送三款遊戲供玩家永久收藏，包括開放世界生存遊戲《KeepUp Survival》、3D跑酷遊戲《NoRush! – Tower Edition》以及四人合作恐怖體驗《Together After Dark》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -165,7 +181,7 @@
     "title": "TGS 2026 電玩展獨立遊戲攤位亮相",
     "summary": "2026台北國際電玩展獨立遊戲攤位展示多款新作，吸引玩家與業界關注。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -173,7 +189,7 @@
     "title": "Epic Games 限時免費《Luto》與《回聲時代：午夜版》",
     "summary": "《Luto》是一款以悲傷與失去為主題的第一人稱心理恐怖遊戲，而《回聲時代：午夜版》則是一款設定在 90 年代的回合制冒險遊戲。兩款遊戲皆可在台灣時間 2026 年 7 月 23 日晚上 11:00 前於 Epic Games 平台免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -181,7 +197,7 @@
     "title": "Steam 多款遊戲推出史低特價",
     "summary": "Steam 平台於 7 月 18 日至 7 月 28 日期間，推薦了包括《沉默之丘 2》、《Cozy Grove》等十款達到歷史最低價格的遊戲折扣，供玩家參考選購。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -189,7 +205,7 @@
     "title": "Epic Games Store 限時免費遊戲加碼",
     "summary": "Epic Games Store 宣布在 2026 年 7 月份除了官方推出的免費遊戲外，還有開發商發起的額外三款限時免費遊戲可供領取，包含開放世界合作生存遊戲《KeepUp Survival》、休閒 3D 跑酷遊戲《NoRush! – Tower Edition》以及四人合作恐怖體驗遊戲《Together After Dark》。此外，《Foretales》也將是即將推出的免費遊戲。目前可領取的官方免費遊戲有《Luto》與《Echo Generation: Midnight Edition》，其中《NoRush! – Tower Edition》限時免費至 7 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -197,7 +213,7 @@
     "title": "Epic Games Store 免費遊戲《Foretales》",
     "summary": "Epic Games Store 宣布將於 2026/07/23 至 2026/07/30 期間提供敘事型數位卡牌遊戲《Foretales》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -205,7 +221,7 @@
     "title": "Epic Games Store 免費遊戲《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "目前 Epic Games Store 正提供《Echo Generation: Midnight Edition》和心理恐怖遊戲《Luto》限時免費領取，活動截止日期為 2026/07/23 23 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -213,7 +229,7 @@
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -221,7 +237,7 @@
     "title": "多款獨立遊戲新作於 Steam 發售",
     "summary": "2026 年 7 月 17 日，Steam 平台有多款獨立遊戲新作發售，包含策略遊戲《Subway Builder》、沙盒生存遊戲《Colonies of The Remnant》、物理生存恐怖遊戲《Jeffrey Eggstein》、策略卡牌遊戲《穿霧列車Fogpiercer》、程式設計解謎遊戲《Database Detective: Minor Crimes Division》以及足球運動遊戲《Strikers Club》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -229,7 +245,7 @@
     "title": "Steam 獨立遊戲嘉年華",
     "summary": "MGN 2026 獨立遊戲嘉年華已在 Steam 上線，主打為獨立遊戲開發者提供無門檻的展示平台，並推出線上展示、主題特賣與獨家 Demo 體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -237,7 +253,7 @@
     "title": "Summer Games Fest 遊戲展示",
     "summary": "Day of the Devs 和 Future Games Show 2026 夏季遊戲節正在 Steam 上進行，展示了即將推出的獨立遊戲和 AAA 大作，包含世界首映、獨家遊戲 Demo 和豐富內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -245,7 +261,7 @@
     "title": "蔡阿嘎、二伯",
     "summary": "捲入AI風波與品牌抄襲爭議，夫妻檔全面神隱：知名百萬YouTuber蔡阿嘎與妻子「二伯」近期因蔡阿嘎被指控將日本畫家作品與AI比較、二伯品牌hahababy涉嫌抄襲日本品牌，引發網路「炎上」爭議。兩人罕見地全面停止YouTube頻道、社群平台與Podcast的更新，原定品牌直播也臨時取消，引發粉絲擔憂與討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -253,7 +269,7 @@
     "title": "韓國吃播YouTuber Yu...",
     "summary": "韓國吃播YouTuber Yuno頭等艙狂點餐爭議延燒：擁有78萬訂閱的韓國吃播YouTuber Yuno，近日因上傳在頭等艙拍攝的機內餐吃播影片引發爭議。影片中他狂點約20次餐點，被網友批評可能造成空服員過大負擔。有網友挖出他三年前也有類似爭議影片，質疑此為其長期拍片手法而非單一失誤。",
     "avatar_url": "https://attach.setn.com/newsimages/2026/07/17/4724810-XXL.jpg",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -261,7 +277,7 @@
     "title": "Steam 橫向2D動作遊戲《...",
     "summary": "Steam 橫向2D動作遊戲《暗花夜綻：NOIR BLOOM》Demo版上線：由HONKI Games 本氣遊戲聯合GameWorks Ventures 製作的2D槍武動作遊戲《暗花夜綻：NOIR BLOOM》已於Steam平台開放試玩Demo下載，遊戲預計2027年內正式上線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -269,7 +285,7 @@
     "title": "類Rogue塔防《Slotbo...",
     "summary": "類Rogue塔防《Slotbound》靠拉霸機召喚小兵作戰開放DEMO免費試玩：這款結合拉霸賭博元素的Roguelike塔防遊戲《Slotbound》已開放免費Demo試玩，玩家需透過轉動老虎機來召喚單位作戰，考驗判斷力與運氣。遊戲預計2026年11月正式推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -277,7 +293,7 @@
     "title": "Steam 免費保留遊戲將結束領取",
     "summary": "Steam 平台上，遊戲《Tomb Raider IV-VI Remastered》的免費領取活動於 2026 年 7 月 17 日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -285,7 +301,7 @@
     "title": "Steam 限時免費：《Catch Me!》",
     "summary": "Steam 平台開放 2D 平台跳躍遊戲《Catch Me!》限時免費領取，活動至 2026/07/18 01:00 止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -293,7 +309,7 @@
     "title": "Steam 限時免費遊玩：《超級高爾夫大亂鬥》、《心之眼》、《帝國霸業》",
     "summary": "Steam 平台推出《超級高爾夫大亂鬥》（至 2026/07/24）、劇情動作冒險遊戲《心之眼》（至 2026/07/21）以及一款帝國建造遊戲《帝國霸業》（至 2026/07/21）限時免費遊玩活動，其中《超級高爾夫大亂鬥》更提供 30% 的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -301,7 +317,7 @@
     "title": "Steam Demo釋出：《暗花夜綻：NOIR BLOOM》",
     "summary": "由 HONKI Games 製作的 2D 槍武動作遊戲《暗花夜綻：NOIR BLOOM》於 Steam 平台開放試玩 Demo 下載，遊戲預計於 2027 年內上線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -309,7 +325,7 @@
     "title": "GAME LINKER 2026 夏季開發者交流會",
     "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦「GAME LINKER 2026 夏季開發者交流會」，匯聚 16 組獨立遊戲團隊現場展示，並規劃實體論壇分享參展、行銷與宣傳經驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -317,7 +333,7 @@
     "title": "獨立遊戲開發者交流會",
     "summary": "台北國際電玩展與亞太遊戲高峰會於 2026 年 7 月 17 日舉辦「GAME LINKER 2026 夏季開發者交流會」，匯聚 16 組獨立遊戲團隊進行現場展示與論壇分享，旨在促進開發者與玩家及產業夥伴的交流合作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -325,7 +341,7 @@
     "title": "Steam 限時免費領取《Catch Me!》",
     "summary": "Steam 平台提供 2D 平台跳躍遊戲《Catch Me!》限時免費領取，活動至 2026/7/18 01:00 截止，遊戲支援繁體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -333,7 +349,7 @@
     "title": "Steam 限時免費遊玩《超級高爾夫大亂鬥》",
     "summary": "支援 1 至 8 人在線競技的高爾夫遊戲《超級高爾夫大亂鬥》（Super Battle Golf）提供限時免費遊玩至 2026/7/24 01:00，並有 30% 折扣優惠。遊戲支援繁體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -341,7 +357,7 @@
     "title": "Steam 限時免費遊玩《心之眼》",
     "summary": "著重劇情、包含飛車追逐與載具戰鬥的動作冒險遊戲《心之眼》（MindsEye）提供限時免費遊玩至 2026/7/21 01:00。遊戲支援繁體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -349,7 +365,7 @@
     "title": "Steam 限時免費遊玩《帝國霸業：銀河生存》",
     "summary": "生存建造遊戲《帝國霸業：銀河生存》（Empyrion - Galactic Survival）提供限時免費遊玩至 2026/7/21 01:00。遊戲支援簡體中文。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -357,7 +373,7 @@
     "title": "Steam 官方公布 2026-2027 年度特賣與主題遊戲節時程",
     "summary": "Valve 公布了 Steam 2026 年秋季、冬季特賣，以及 2027 年春季、夏日特賣的日期。此外，2026 年下半年主題遊戲節包含 7 月 13 日至 7 月 16 日的「社交推理節」與 7 月 20 日至 7 月 27 日的「火車節」等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -365,7 +381,7 @@
     "title": "民進黨發言人吳崢因食安問題失言「又不是我逼你吃」引發爭議",
     "summary": "吳崢於政論節目中與媒體人黃揚明辯論「中聯油脂致癌油事件」時，脫口說出「又不是我逼你吃，你跟我大聲幹嘛」，此言論引發外界強烈批評。民進黨隨後發表聲明，指出該段對話起因於特定媒體人的情緒性指控，吳崢當下回應無意針對社會大眾，但公開發言流於情緒、用詞欠缺謹慎，吳崢願為此深自檢討並致歉。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -373,7 +389,7 @@
     "title": "類 Rogue 塔防《Slotbound》開放 DEMO 免費試玩",
     "summary": "結合拉霸賭博元素的 Roguelike 塔防遊戲《Slotbound》於 2026 年 7 月 17 日開放 DEMO 免費試玩，預計 2026 年 11 月正式推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -381,122 +397,7 @@
     "title": "結合 Roguelike 與自走棋要素策略新作《裂隙遠征》公開免費試玩版",
     "summary": "獨立遊戲工作室 Leyline 於 2026 年 7 月 17 日釋出旗下策略新作《裂隙遠征（Guildrun）》的試玩版，遊戲預計 2026 年底在 Steam 平台推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 限時免費",
-    "summary": "Steam 平台推出《Catch Me!》與《超級高爾夫大亂鬥》等四款遊戲供玩家限時免費領取或體驗，同時這些遊戲也提供優惠折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "獨立遊戲參展",
-    "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦「GAME LINKER 2026 夏季開發者交流會」，集結 16 組獨立遊戲團隊進行現場展示與交流，激發合作可能性。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/05/30",
-    "title": "華語社群流傳「穿越者」警告極端氣候事件將加劇",
-    "summary": "華語網路社群Dcard與PTT上，有自稱「穿越者」的帳號發布訊息，警告全球極端氣候事件將在未來數月內顯著加劇，特別是亞洲地區將面臨連續高溫與強降雨的挑戰。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/06/25",
-    "title": "TikTok「時空旅人」預測2026年世界盃冠軍賽結果",
-    "summary": "一名自稱「時空旅人」的TikTok用戶「Tona Multiverso」發布影片，聲稱親眼見證2026年7月20日的世界盃冠軍賽，預測由阿根廷對決墨西哥，最終墨西哥將在12碼罰球大戰中獲勝，奪下隊史首座冠軍。然而，該預言因淘汰賽籤表邏輯問題（兩隊可能在四強賽提前碰頭）而被質疑。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/06/26",
-    "title": "2026 世界盃時空旅人預言冠軍",
-    "summary": "一名自稱「時空旅人」的 TikTok 用戶預言 2026 年世界盃足球賽冠軍將是墨西哥，在決賽中擊敗阿根廷。此預言因賽程邏輯錯誤及 AI 生成影片而受到質疑。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/06/21",
-    "title": "日本靈媒預言：2026年7月20日外星人將向全人類傳遞重要訊息",
-    "summary": "一位日本靈媒預言，在2026年7月20日，外星人將會向全人類傳遞關乎生命的重要訊息。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/15",
-    "title": "2026 世界盃「神預言」社群爆紅",
-    "summary": "一名名為「dilemma」（@actuallyimthe）的網友於 2021 年 7 月 11 日在 X（前 Twitter）上發布了一則貼文，預言「阿根廷將在 2026 年世界盃決賽中以 3:2 擊敗西班牙」。隨著西班牙率先闖入決賽，這則貼文在 7 月 15 日阿根廷擊敗英格蘭進入決賽後，於全球社群平台被大量轉發，引發熱烈討論，甚至國際體育媒體《ESPN FC》也轉發關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/17",
-    "title": "2026 世界盃足球賽「時空旅人」神預言決賽組合與比數",
-    "summary": "一名名為「dilemma」的網友於 2021 年在 X (前 Twitter) 上預言 2026 年世界盃決賽將由阿根廷以 3:2 擊敗西班牙。隨著賽事發展，西班牙已率先晉級決賽，使該預言引起全球球迷熱議與朝聖，國際體育媒體 ESPN FC 也轉發關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/17",
-    "title": "5年前預言2026年世界盃阿根廷將以3:2擊敗西班牙奪冠的「時空旅人」現身",
-    "summary": "一名暱稱「dilemma」的網友於2021年7月11日在社群平台X（前Twitter）發文預測2026年世界盃足球賽決賽將由阿根廷對戰西班牙，阿根廷以3比2獲勝。隨著西班牙和阿根廷陸續晉級決賽，這則貼文被廣泛轉發。該網友於7月16日（決賽前）現身留言區，留下眼睛與沙漏的表情符號，表示「時間會證明一切」。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/17",
-    "title": "時空旅人預測",
-    "summary": "2026年世界盃決賽阿根廷將以3:2擊敗西班牙：一個2021年的病毒式推文預測阿根廷將在2026年7月20日於大都會人壽體育場舉行的2026年世界盃決賽中以3:2擊敗西班牙。此預言在網路社群中引起廣泛討論，特別是該推文預測的時間點與比分。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/18",
-    "title": "2026世界盃決賽「神預言」持續發酵",
-    "summary": "來自 2021 年 7 月 11 日的 X（原 Twitter）用戶「dilemma」預言「阿根廷將在 2026 年世界盃決賽以 3 比 2 擊敗西班牙」，此貼文在西班牙與阿根廷雙雙晉級決賽後，於近日引發全球球迷熱議。該用戶於 7 月 16 日現身留言區，留下眼睛與沙漏表情符號，暗示「時間會證明一切」，使討論熱度持續攀升。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/16",
-    "title": "「時空旅人」預言 2026 世界盃決賽引爆社群討論",
-    "summary": "一名自稱「時空旅人」的網友「dilemma」於五年前在社群平台 X（原 Twitter）上發布了一則預言，稱 2026 年世界盃決賽將由阿根廷以 3:2 擊敗西班牙。隨著近期阿根廷與西班牙雙雙晉級決賽，這則預言在網路上掀起廣泛討論與朝聖熱潮。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/15",
-    "title": "2026世界盃冠軍「神預言」再引轟動：阿根廷將以3:2擊敗西班牙",
-    "summary": "一則於2021年7月在X平台發布的貼文，預言阿根廷將在2026年世界盃決賽中以3:2擊敗西班牙。隨著西班牙已晉級決賽，且阿根廷也成功擊敗英格蘭進入決賽，這項五年前的預言引發全球網友和媒體（包括ESPN）的熱烈討論與朝聖，好奇是否將完全成真。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/20",
-    "expiry_date": "2026/07/21"
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
