@@ -88,6 +88,46 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/18",
+    "title": "英語圈VTuber Essie因世足「反指標魔咒」遭恐嚇停播預測",
+    "summary": "個人勢VTuber Essie因接連預測世界盃賽事失準，被網友戲稱為「世足反指標」。在支持的英格蘭隊輸給阿根廷後，Essie遭到部分極端球迷的恐嚇與騷擾，為保人身安全，她宣布將停止公開預測比賽結果，並且不再穿著支持隊伍的球衣。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/07/18",
+    "title": "台灣個人勢VTuber希比Hebe委託繪師失聯，引發合約糾紛與炎上",
+    "summary": "台灣個人勢VTuber希比Hebe跨國委託日本繪師後，對方收錢後失聯長達四個月。事件在社群上被揭露炎上後，該繪師才迅速現身並退款。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Epic Games限時免費永久領取《Luto》",
+    "summary": "第一人稱心理恐怖遊戲《Luto》在Epic Games平台限時免費，玩家可於台灣時間2026年7月23日23:00前領取後永久保留。該遊戲以悲傷與失去為主題，並支援繁體中文。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Steam史低特賣推薦影片發布，多款大作迎來折扣",
+    "summary": "YouTube頻道發布影片，推薦本週Steam上10款史低價格遊戲，其中包括銷量達600萬的大作，折扣期間為2026年7月18日至7月28日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/18",
+    "title": "Steam恐怖ADV遊戲《貓の手は救いの手》體驗版公開中",
+    "summary": "恐怖冒險遊戲《貓の手は救いの手》（幽靈貓是救星）的體驗版目前已在Steam上公開。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
@@ -360,46 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 限時免費暢玩《超級高爾夫大亂鬥》",
-    "summary": "Steam 平台開放 1 至 8 人競技高爾夫遊戲《超級高爾夫大亂鬥》（Super Battle Golf）限時免費遊玩，活動至 2026 年 7 月 24 日 01:00 止，同時享 30% 折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 限時免費暢玩《心之眼》與《帝國霸業：銀河生存》",
-    "summary": "Steam 平台提供劇情動作冒險遊戲《心之眼》（MindsEye）及生存策略遊戲《帝國霸業：銀河生存》（Empyrion - Galactic Survival）限時免費遊玩，兩者皆至 2026 年 7 月 21 日 01:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "類 Rogue 塔防新作《Slotbound》釋出免費試玩 Demo",
-    "summary": "《Slotbound》是一款結合拉霸賭博元素的 Roguelike 塔防遊戲，目前已開放免費試玩 Demo，讓玩家體驗透過轉動老虎機召喚單位作戰的獨特機制。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "台北國際電玩展 GAME LINKER 2026 夏季開發者交流會",
-    "summary": "台北國際電玩展與亞太遊戲高峰會共同舉辦的「GAME LINKER 2026 夏季開發者交流會」於 7 月 17 日在台北 digiBlock C 數位創新基地舉行。本次活動匯聚了 16 組獨立遊戲團隊進行現場展示，旨在促進開發者與玩家、產業夥伴之間的交流與合作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/16",
-    "title": "Epic Games Store預告下週免費遊戲",
-    "summary": "Epic Games Store預告將於7月16日至7月23日期間，提供「Echo Generation: Midnight Edition」與「Luto」兩款遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "華語社群流傳「穿越者」警告極端氣候事件將加劇",
@@ -485,6 +485,15 @@
     "date": "2026/07/16",
     "title": "「時空旅人」預言 2026 世界盃決賽引爆社群討論",
     "summary": "一名自稱「時空旅人」的網友「dilemma」於五年前在社群平台 X（原 Twitter）上發布了一則預言，稱 2026 年世界盃決賽將由阿根廷以 3:2 擊敗西班牙。隨著近期阿根廷與西班牙雙雙晉級決賽，這則預言在網路上掀起廣泛討論與朝聖熱潮。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/20",
+    "expiry_date": "2026/07/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/15",
+    "title": "2026世界盃冠軍「神預言」再引轟動：阿根廷將以3:2擊敗西班牙",
+    "summary": "一則於2021年7月在X平台發布的貼文，預言阿根廷將在2026年世界盃決賽中以3:2擊敗西班牙。隨著西班牙已晉級決賽，且阿根廷也成功擊敗英格蘭進入決賽，這項五年前的預言引發全球網友和媒體（包括ESPN）的熱烈討論與朝聖，好奇是否將完全成真。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/20",
     "expiry_date": "2026/07/21"
