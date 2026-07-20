@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam 限時免費《The Life and Suffering of Sir Brante》",
+    "summary": "這款擁有壓倒性好評的暗黑奇幻角色扮演遊戲，在 2026 年 7 月 24 日凌晨 01:00 UTC+8 前可免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
@@ -390,14 +398,6 @@
     "summary": "Epic Games Store宣布本週開放限時免費領取策略遊戲大作《文明帝國VI》主程式以及《模擬市民4》豪華版DLC組合包，領取時間至7月25日止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
-    "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -1582,6 +1582,15 @@
     "date": "2026/07/08",
     "title": "物理學家馮·佛斯特預言 2026 年世界末日",
     "summary": "物理學家馮·佛斯特（Heinz von Foerster）在 1960 年《科學》期刊中預測，世界恐在 2020 年代走向終結，其中預言的末日日期正是 2026 年 11 月 13 日，原因為人口過剩。此預言近日再次引發討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特關於2026年人類滅絕的預言",
+    "summary": "物理學家馮．佛斯特（Heinz von Foerster）曾在1960年的《科學》期刊中預測，世界可能在2020年代走向終結，他所預言的末日日期正是2026年11月13日，原因在於「無限」的人口過剩將導致人類「被擠壓致死」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
