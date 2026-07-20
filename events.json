@@ -32,6 +32,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/20",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/07/13 至 2026/07/20 期間，未搜尋到台灣或華語圈實況主發生炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
@@ -77,14 +85,6 @@
     "title": "目前無最新特價與免費情報",
     "summary": "在 2026 年 07 月 11 日至 07 月 18 日期間，未搜尋到 Steam/Epic Games 平台的最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/18",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/07/11 至 2026/07/18 期間，未搜尋到台灣/華語圈實況主與 VTuber 相關的重大負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -575,6 +575,15 @@
     "date": "2026/06/26",
     "title": "Twitter 帳號「TimeWalker_Alpha」預告新型病毒出現",
     "summary": "Twitter 上一個經常發布預言的帳號「TimeWalker_Alpha」發文表示，2026 年 8 月將出現一種新型變種病毒，雖然致死率不高但傳染性極強，可能會再次導致全球性的旅遊限制。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/15",
+    "expiry_date": "2026/08/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/17",
+    "title": "英國靈媒帕克預言全球危機期來臨",
+    "summary": "英國靈媒帕克於 7 月 17 日發布最新預測，指出全球危機可能於 8 月中旬（特別是 8 月 15 日至 9 月 16 日）開始浮現。他預言會出現「危險氣體雲」（可能為化學污染、地表破裂或放射性污染），中國經濟將面臨重大真相揭露（涉嫌操縱經濟數據、隱藏資產價值及貨幣問題），以及中東局勢惡化可能導致油價飆升至每桶 200 美元，甚至美國地面部隊可能進入伊朗。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/15",
     "expiry_date": "2026/08/16"
