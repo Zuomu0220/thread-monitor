@@ -89,6 +89,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam「火車節」主題特賣活動",
+    "summary": "Steam「火車節」主題特賣活動於2026年7月20日開始，聚焦於火車與鐵路相關遊戲，活動將持續至7月27日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam多款新Demo釋出",
+    "summary": "Steam平台於2026年7月20日宣布多款遊戲Demo已可供免費試玩，其中包括《Nui Goes to Town! Demo》（於7月15日發行），以及《Train Station Tycoon》、《Factory on a Train》、《Paradox Tower Demo》、《Forgotten Station Demo》和《Police Chief Simulator Demo》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
@@ -380,22 +396,6 @@
     "date": "2026/07/17",
     "title": "Epic Games Store 限時免費領取《Echo Generation: Midnight Edition》與《Luto》",
     "summary": "Epic Games Store 目前提供《Echo Generation: Midnight Edition》與《Luto》兩款遊戲限時免費領取，活動將持續至 7 月 23 日 11:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "多款獨立遊戲新作於 Steam 發售",
-    "summary": "2026 年 7 月 17 日，Steam 平台有多款獨立遊戲新作發售，包含策略遊戲《Subway Builder》、沙盒生存遊戲《Colonies of The Remnant》、物理生存恐怖遊戲《Jeffrey Eggstein》、策略卡牌遊戲《穿霧列車Fogpiercer》、程式設計解謎遊戲《Database Detective: Minor Crimes Division》以及足球運動遊戲《Strikers Club》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/17",
-    "title": "Steam 獨立遊戲嘉年華",
-    "summary": "MGN 2026 獨立遊戲嘉年華已在 Steam 上線，主打為獨立遊戲開發者提供無門檻的展示平台，並推出線上展示、主題特賣與獨家 Demo 體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1304,6 +1304,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲宣告將於 2026 年 9 月 26 日再次現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "未來人國分玲預告將於2026年9月26日回歸",
+    "summary": "自稱來自2058年的未來人國分玲，曾透過社群平台發布多項精準預言而廣受關注。根據網路社群中對其預言的近期討論，國分玲曾表示2026年將是日本及全球的重大轉折點，並預告他本人將於2026年9月26日再次現身網路，回答各界問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
