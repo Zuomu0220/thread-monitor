@@ -113,6 +113,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam 最新獨立遊戲Demo發布",
+    "summary": "根據GameGrin報導，多款獨立遊戲Demo於7月20日至7月26日期間在Steam平台發布，其中包含《Paradox Tower Demo》及《Forgotten Station Demo》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/20",
+    "title": "ChinaJoy Express 獨立遊戲試玩區",
+    "summary": "2026 ChinaJoy 將於7月31日至8月3日在上海國際博覽中心舉行，N1館的ChinaJoy Express試玩區將提供88款獨立遊戲的免費試玩，涵蓋奇幻冒險、機甲射擊、治癒經營等多種遊戲類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
@@ -381,22 +397,6 @@
     "title": "VTuber團體「びじぱと」成員ナガレ退團，雙方聲明內容存有分歧",
     "summary": "VTuber「ナガレ」（註冊人數25萬）於7月17日透過直播說明其退出團體「びじぱと」的經過。ナガレ承認曾分享內部資訊和素材，但認為團體聲明中關於其「擾亂和諧行為」的評價過於片面。她也指出，團體在7月7日發布的聲明未經雙方同意，導致了外界的諸多猜測。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Epic Games Store七月額外免費遊戲",
-    "summary": "Epic Games Store除了每週免費遊戲外，在2026年7月還額外提供三款可永久保留的免費遊戲，其中預計將推出敘事導向的數位卡牌遊戲《Foretales》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Epic Games Store本週限時免費：《文明帝國VI》與《模擬市民4》DLC豪華版",
-    "summary": "Epic Games Store宣布本週開放限時免費領取策略遊戲大作《文明帝國VI》主程式以及《模擬市民4》豪華版DLC組合包，領取時間至7月25日止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -1313,6 +1313,15 @@
     "date": "2026/07/21",
     "title": "未來人國分玲預告將於2026年9月26日回歸",
     "summary": "自稱來自2058年的未來人國分玲，曾透過社群平台發布多項精準預言而廣受關注。根據網路社群中對其預言的近期討論，國分玲曾表示2026年將是日本及全球的重大轉折點，並預告他本人將於2026年9月26日再次現身網路，回答各界問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告2026年9月再次現身",
+    "summary": "未來人國分玲曾表示，她將在2026年9月26日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3077,6 +3086,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2026年全球轉折點預言",
+    "summary": "自稱來自2058年的未來人國分玲表示，2026年是日本及全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2026年底新傳染病警告",
+    "summary": "來自2058年的未來人國分玲警告，2026年底將有全新傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -3314,6 +3341,15 @@
     "date": "2026/02/08",
     "title": "Threads 未來人「sombrero2079」預言 2027 年東亞大地震與無人機恐攻",
     "summary": "sombrero2079 預測 2027 年東亞至東南亞一帶將發生一起非常嚴重的 7 級以上地震，造成嚴重損毀，但各國將會協助。同年，因無人機造成的恐怖攻擊也將開始發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/11",
+    "title": "2026-2027年科技與社會變革預言",
+    "summary": "Reddit用戶Kronosil於2017年發布，預言2026年末至2027年將出現多項重大變革，包括人工智慧系統能生成與人類作品難以區分的科學研究論文、神經接口在臨床環境中廣泛應用，以及多個主要社群媒體平台崩潰並被去中心化通訊網路取代。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
@@ -3644,6 +3680,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "2026-2035年全球疫情與中國變革預言",
+    "summary": "一份據稱是未來人國分玲的神秘草稿預言，2026年至2035年間全球疫情將捲土重來，中國可能改名為「華國」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2035/12/31",
+    "expiry_date": "2036/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/30",
     "title": "和碩董事長童子賢預言：10年後加油站消失，AI時代下人類生存需靠好奇心與終身學習",
     "summary": "和碩聯合科技董事長童子賢在國立台灣師範大學畢業典禮上預測，未來10年加油站可能走入歷史，電影中高風險任務將由無人機取代，提醒學子在AI時代，課本知識不再是護身符，需保持好奇心、終身學習及人文素養才能生存。",
@@ -3746,6 +3791,15 @@
     "date": "2026/07/21",
     "title": "來自2058年的未來人國分玲預言未來科技與日本首都遷徙",
     "summary": "國分玲預言，直到2058年，飛行汽車將會出現但主要用於緊急車輛或島嶼間運輸，且未來沒有iPhone，取而代之的是更薄更細如信用卡般的手機。此外，她還預測到2058年，日本的首都將因地震或海平面上升影響，從東京遷至岡山縣。她也曾提到，由於一位帶來糟糕事態的女首相，未來世界將以中文為主要學習語言。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2058/01/01",
+    "expiry_date": "2058/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "日本遷都預言",
+    "summary": "未來人國分玲預言，日本首都將於2058年從東京遷至岡山縣，原因是東京受地震或海平面上升影響不再適合作為行政中心。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2058/01/01",
     "expiry_date": "2058/01/02"
@@ -3893,6 +3947,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2088/12/31",
     "expiry_date": "2089/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/07",
+    "title": "人類未來浩劫警告",
+    "summary": "一位自稱來自3700年的時空旅人，發出對人類命運的嚴峻警告，並透露「未來浩劫」的證據，暗示人類在3700年可能發生大規模起義。他向2026年的人類發出此警告。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "3700/01/01",
+    "expiry_date": "3700/01/02"
   },
   {
     "category": "PROPHECY",
