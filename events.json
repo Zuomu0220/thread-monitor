@@ -65,6 +65,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/21",
+    "title": "蔡阿嘎與二伯品牌「hahababy」被Threads網友發起消費者維權連署",
+    "summary": "在Threads社群平台上，有網友發起了針對知名YouTuber蔡阿嘎與其妻子二伯的品牌「hahababy」的消費者維權連署，目前已累積超過3000人加入。連署內容要求品牌公開原創稿件並說明台灣製產地，消費者有權選擇退款。此舉被視為透過輿論力量要求蔡阿嘎夫婦出面解釋。",
+    "avatar_url": "https://cdn2.ettoday.net/images/6462/d6462725.jpg",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/20",
     "title": "無相關事件",
     "summary": "在 2026 年 7 月 13 日至 7 月 20 日期間，未偵測到台灣/華語圈實況主相關的負面或爭議事件。",
@@ -389,14 +397,6 @@
     "title": "VTuber 浠Mizuki",
     "summary": "實況主浠Mizuki因失言風波所受的停播與工商取消處分於今日結束，恢復活動：台灣 VTuber 工作室「子午計畫」旗下的知名虛擬偶像浠Mizuki，先前因不當回應粉絲，引發社群炎上。子午計畫官方與浠Mizuki本人於 2026 年 5 月 21 日發布聲明致歉，並宣布浠Mizuki自即日起暫停活動 2 個月，取消所有工商，直至 2026 年 7 月 18 日止。今日標誌著其停播處分的正式結束，預計將恢復活動。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/18",
-    "title": "藝人解婕翎信義區遭電動滑板車撞擊未獲道歉",
-    "summary": "藝人解婕翎於2026年7月17日在Threads發文表示，在台北市信義區世貿前人行道等紅綠燈時，遭一名電動滑板車騎士撞傷腳後跟，對方摔倒後扶起車輛，卻未道歉反而一臉不爽地瞪著她，隨後直接騎走。解婕翎對此態度感到非常無奈與不滿，並提醒網友注意安全。警方表示未接獲報案，並說明該處非道路範圍，違規使用動力載具可處罰鍰。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -3509,12 +3509,30 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/05",
+    "title": "自稱2118年時空旅人Alexander Smith預言商業時空旅行將於2028年實現，並爆發世界大戰",
+    "summary": "一位自稱來自2118年的時空旅人Alexander Smith透過YouTube平台Apex TV發表驚人預測。他聲稱，商業時空旅行將在2028年成為現實，美國政府也將在同年證實外星智慧生命的存在。此外，他預測未來將爆發第三次世界大戰，起初是美國與北韓的利益衝突，隨後俄羅斯加入北韓一方，導致局勢升級並發射飛彈，但最終會使世界團結。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
     "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/05/22",
     "expiry_date": "2028/05/23"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/18",
+    "title": "自稱2045年時空旅人Adam Archon預言2028年外星人將公開接觸人類及人類將被植入微晶片",
+    "summary": "一位自稱來自2045年的時空旅人Adam Archon，在通過測謊儀的訪談中做出了一系列關於未來的驚人預測。他聲稱，到2028年8月外星人將公開與人類接觸，且這些外星人並非來自外太空。 此外，他預測到2030年前後美國將不再作為獨立國家存在，而到2045年，所有人類都將被植入微晶片，全球各國將合併為一個由人工智慧管理的「超級國家」。 , ,",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/08/01",
+    "expiry_date": "2028/08/02"
   },
   {
     "category": "PROPHECY",
