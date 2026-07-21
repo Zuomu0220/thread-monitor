@@ -1,6 +1,22 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/07/22",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/07/15 至 2026/07/22 期間，經「無差別拖網雷達」搜捕華語網路社群與新聞網站（包含 Threads、PTT、Dcard、X/Twitter、各大遊戲動漫新聞網），未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的實況主相關事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/22",
+    "title": "無最新遊戲特價與免費情報",
+    "summary": "在 2026/07/15 至 2026/07/22 期間，經搜捕 Steam 及 Epic Games 平台相關資訊，未發現最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/21",
     "title": "實況主統神直播意外走光，妻子003下達「穿褲禁令」",
     "summary": "知名實況主「亞洲統神」張嘉航在Twitch直播時，因耐不住酷熱僅穿內褲，身體後仰時不慎發生走光事故。Twitch平台火速下架相關影片。統神妻子「003」得知後震怒，強制要求統神未來直播必須穿好褲子，並戲稱要「封印新竹巨蛋」，此事件在社群引發熱烈討論。",
@@ -101,14 +117,6 @@
     "title": "Steam 主題遊戲節",
     "summary": "以火車與鐵路為主題的「火車節」將於今日 (2026 年 7 月 20 日) 至 7 月 27 日在 Steam 平台舉行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/20",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/07/13 至 2026/07/20 期間，未搜尋到台灣或華語圈實況主發生炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -389,14 +397,6 @@
     "title": "Epic Games Store 免費遊戲《Foretales》預告",
     "summary": "Epic Games Store 宣布，敘事導向的數位卡牌遊戲《Foretales》將於下週開放限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/18",
-    "title": "VTuber 浠Mizuki",
-    "summary": "實況主浠Mizuki因失言風波所受的停播與工商取消處分於今日結束，恢復活動：台灣 VTuber 工作室「子午計畫」旗下的知名虛擬偶像浠Mizuki，先前因不當回應粉絲，引發社群炎上。子午計畫官方與浠Mizuki本人於 2026 年 5 月 21 日發布聲明致歉，並宣布浠Mizuki自即日起暫停活動 2 個月，取消所有工商，直至 2026 年 7 月 18 日止。今日標誌著其停播處分的正式結束，預計將恢復活動。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 3
   },
   {
@@ -1645,6 +1645,15 @@
     "date": "2026/01/02",
     "title": "科學家馮．佛斯特與盲眼龍婆預言2026年世界末日或動盪",
     "summary": "根據1960年物理學家馮．佛斯特（Heinz von Foerster）的人口成長模型推算，2026年11月13日將是「世界末日」。同時，盲眼龍婆（Baba Vanga）的追隨者整理其遺物時發現，她特別將2026年形容為「不安的轉折年」，內容被解讀涵蓋第三次世界大戰發生的可能性以及暗指「台海危機」等國際情勢（但其預言多為口述，缺乏書面紀錄，真實性有爭議）。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮·佛斯特預言2026年11月13日世界末日",
+    "summary": "已故物理學家馮·佛斯特（Heinz von Foerster）在1960年的《科學》期刊中預測，世界可能在2020年代走向終結，其中預言的末日日期為2026年11月13日，原因是人口過剩導致人類「被擠壓致死」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
