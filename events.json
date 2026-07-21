@@ -8,6 +8,30 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam 免費遊戲試玩版 Souq Boss Simulator",
+    "summary": "沉浸式商店經營模擬遊戲《Souq Boss Simulator》的免費試玩版已於Steam推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam 免費遊戲試玩版 Impirical Evidence",
+    "summary": "冒險點擊式Noir風格遊戲《Impirical Evidence》的免費試玩版已在Steam上線。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam MGN2026獨立遊戲嘉年華",
+    "summary": "專為獨立遊戲打造的線上嘉年華現已開始，包含線上展示、主題特賣和獨家試玩版，旨在幫助那些不被聚光燈關注的獨立開發者。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/20",
     "title": "無相關事件",
@@ -193,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/20",
+    "title": "Steam 遊戲特價 Max Savage",
+    "summary": "《Max Savage》推出10%折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/19",
     "title": "無最新限時免費或特價情報",
     "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
@@ -364,38 +396,6 @@
     "date": "2026/07/18",
     "title": "Steam恐怖ADV遊戲《貓の手は救いの手》體驗版公開中",
     "summary": "恐怖冒險遊戲《貓の手は救いの手》（幽靈貓是救星）的體驗版目前已在Steam上公開。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Epic Games Store夏季特賣持續進行中",
-    "summary": "Epic Games Store的2026年夏季特賣活動仍在進行，提供超過3000款PC遊戲高達95%的折扣優惠，同時《Luto》和《Echo Generation: Midnight Edition》持續免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Epic Games Store額外贈送三款免費遊戲",
-    "summary": "除了每週例行免費遊戲外，Epic Games Store額外贈送三款遊戲供玩家永久收藏，包括開放世界生存遊戲《KeepUp Survival》、3D跑酷遊戲《NoRush! – Tower Edition》以及四人合作恐怖體驗《Together After Dark》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "TGS 2026 電玩展獨立遊戲攤位亮相",
-    "summary": "2026台北國際電玩展獨立遊戲攤位展示多款新作，吸引玩家與業界關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Epic Games 限時免費《Luto》與《回聲時代：午夜版》",
-    "summary": "《Luto》是一款以悲傷與失去為主題的第一人稱心理恐怖遊戲，而《回聲時代：午夜版》則是一款設定在 90 年代的回合制冒險遊戲。兩款遊戲皆可在台灣時間 2026 年 7 月 23 日晚上 11:00 前於 Epic Games 平台免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -596,6 +596,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/15",
     "expiry_date": "2026/08/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/18",
+    "title": "Reddit用戶預測人類可透過立法強制未來人穿越",
+    "summary": "有Reddit用戶提出假設，認為人類可以創造並通過一項通用法律，規定首次時間旅行發生在2026年8月17日，以此「強制未來幫助我們」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/17",
+    "expiry_date": "2026/08/18"
   },
   {
     "category": "PROPHECY",
@@ -1609,6 +1618,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特關於2026年人類滅絕的預言",
     "summary": "物理學家馮．佛斯特（Heinz von Foerster）曾在1960年的《科學》期刊中預測，世界可能在2020年代走向終結，他所預言的末日日期正是2026年11月13日，原因在於「無限」的人口過剩將導致人類「被擠壓致死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "科學家馮．佛斯特與盲眼龍婆預言2026年世界末日或動盪",
+    "summary": "根據1960年物理學家馮．佛斯特（Heinz von Foerster）的人口成長模型推算，2026年11月13日將是「世界末日」。同時，盲眼龍婆（Baba Vanga）的追隨者整理其遺物時發現，她特別將2026年形容為「不安的轉折年」，內容被解讀涵蓋第三次世界大戰發生的可能性以及暗指「台海危機」等國際情勢（但其預言多為口述，缺乏書面紀錄，真實性有爭議）。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -3107,6 +3125,15 @@
     "date": "2026/05/24",
     "title": "2026年底新傳染病警告",
     "summary": "來自2058年的未來人國分玲警告，2026年底將有全新傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan比特幣先知預言2026年底加密貨幣大漲",
+    "summary": "一位被稱為「4chan比特幣先知」的匿名用戶再次發聲，預測比特幣在2026年底前將達到100萬美元，以太坊達到10萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
