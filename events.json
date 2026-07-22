@@ -24,6 +24,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 免費遊戲",
+    "summary": "Epic Games Store 將於 2026 年 7 月 23 日至 7 月 30 日期間，開放限時免費領取「Infinity Nikki」、「RAVEN2」和「skate.™」等遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/07/20",
     "title": "Steam 遊戲特價 Max Savage",
     "summary": "《Max Savage》推出10%折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 限時免費領取：The Life and Suffering of Sir Brante",
-    "summary": "Steam 平台於 7 月提供角色扮演遊戲《The Life and Suffering of Sir Brante》限時免費領取，活動至 7 月 24 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1421,6 +1421,15 @@
     "date": "2026/05/19",
     "title": "國分玲：將於 2026 年 9 月 26 日再次歸來",
     "summary": "國分玲曾表示，她將於 2026 年 9 月 26 日再次回到網路社群，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/19",
+    "title": "未來人國分玲 2026-2030 年預言與回歸動態",
+    "summary": "自稱來自 2058 年的「未來人」國分玲，其帳號在沉寂五年後，於 2026 年 2 月 24 日偵測到登入痕跡，引發全球網路社群關注。根據過往預言內容，她曾準確預測東京奧運金牌數、股市暴跌、安倍首相辭職等事件。國分玲預告將在 2026 年 9 月 26 日再次回歸，並將曝光 2026 年至 2030 年間的重大事件，包括 2028 年因美國國債違約引發的全球金融危機，以及美元全球結算體系的動搖。她也曾預言台灣將成為新國家。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
