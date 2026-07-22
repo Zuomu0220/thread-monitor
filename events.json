@@ -48,6 +48,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/22",
+    "title": "Epic Games Store 限時免費：《The Ouroboros King》",
+    "summary": "Epic Games Store 於 2026 年 7 月底前（至 7/23 止）提供《The Ouroboros King》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/21",
     "title": "實況主統神直播意外走光，妻子003下達「穿褲禁令」",
@@ -173,6 +181,14 @@
     "title": "COVER公司公布反騷擾新政策",
     "summary": "經營hololive Production的日本VTuber公司COVER於本日公布《顧客騷擾基本方針》，明確表示未來將針對對公司員工、旗下VTuber及合作夥伴的惡意騷擾與不合理要求採取行動。公司將視情況限制服務、封鎖帳號，情節重大者更可能訴諸民事或刑事法律行動，以維護工作與創作環境。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "GAME LINKER 2026 夏季開發者交流會落幕",
+    "summary": "由台北國際電玩展（TGS）與亞太遊戲高峰會共同舉辦的「GAME LINKER 2026 夏季開發者交流會」日前圓滿落幕，吸引超過 140 位產業人士與 16 組展示團隊進行交流。會中也公布 Indie Game Award 2027 現已開放報名，鼓勵全球獨立遊戲開發者參與。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -381,22 +397,6 @@
     "title": "Steam 新品試玩版上線",
     "summary": "GameGrin 報導上週（7 月 20 日至 26 日）多款 Steam 新品試玩版獲得好評，其中包括 7 月 16 日發布的《Guildrun Demo》、7 月 15 日發布的《Nui Goes to Town! Demo》、7 月 16 日發布的《Glintseeker Island Demo》、《Dark Roll 2 Demo》和《Happy Little Farm Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam「火車節」開啟，多款列車主題遊戲折扣",
-    "summary": "Steam「火車節」已於7月20日開啟，並將持續至7月27日。期間包含《經典模擬列車》在內的多款列車相關遊戲提供優惠折扣，其中《經典模擬列車》有790款DLC參與折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/20",
-    "title": "台灣VTuber浠Mizuki失言遭炎上後回歸",
-    "summary": "台灣VTuber企業「子午計畫」旗下藝人浠Mizuki因今年五月在Threads上回應粉絲時失言，導致炎上並被營運方懲處暫停活動兩個月。於7月19日晚間正式回歸直播，分享了休養期間的心境與未來的活動規劃，並感謝營運方未在風波後選擇解約，反而提供了兩個月的休息時間與心理諮商資源。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 4
   },
   {
@@ -1403,6 +1403,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言：2026 年 9 月 26 日將再次現身",
     "summary": "自稱來自 2058 年的「未來人」國分玲，曾表示將於 2026 年 9 月 26 日再次歸來，回答眾人疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言：2026年9月26日將再次歸來",
+    "summary": "據稱來自2058年的預言者國分玲，因其高準確度的預言而備受關注。他曾表示將於2026年9月26日再次現身網路，回答大家的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
