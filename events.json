@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games 即將限時免費",
+    "summary": "Epic Games 商店將於 2026 年 7 月 23 日至 7 月 30 日提供《Foretales》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -390,14 +398,6 @@
     "summary": "台灣VTuber企業「子午計畫」旗下藝人浠Mizuki因今年五月在Threads上回應粉絲時失言，導致炎上並被營運方懲處暫停活動兩個月。於7月19日晚間正式回歸直播，分享了休養期間的心境與未來的活動規劃，並感謝營運方未在風波後選擇解約，反而提供了兩個月的休息時間與心理諮商資源。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/19",
-    "title": "無最新限時免費或特價情報",
-    "summary": "目前搜尋結果未顯示 Steam 或 Epic Games 平台在 2026 年 7 月 12 日至 7 月 19 日期間有新發布的限時免費領取、特價折扣特惠或重大獨立遊戲參展/Demo 釋出等情報資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -1394,6 +1394,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言：2026年9月26日再次歸來",
     "summary": "自稱來自 2058 年的日本未來人國分玲表示，他將於 2026 年 9 月 26 日再次現身，屆時將回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言：2026 年 9 月 26 日將再次現身",
+    "summary": "自稱來自 2058 年的「未來人」國分玲，曾表示將於 2026 年 9 月 26 日再次歸來，回答眾人疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
