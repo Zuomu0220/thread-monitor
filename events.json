@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 限時免費領取《Infinity Nikki》",
+    "summary": "Epic Games Store 將於 7 月 23 日至 7 月 30 日提供《Infinity Nikki》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -188,6 +196,14 @@
     "date": "2026/07/21",
     "title": "GAME LINKER 2026 夏季開發者交流會落幕",
     "summary": "由台北國際電玩展（TGS）與亞太遊戲高峰會共同舉辦的「GAME LINKER 2026 夏季開發者交流會」日前圓滿落幕，吸引超過 140 位產業人士與 16 組展示團隊進行交流。會中也公布 Indie Game Award 2027 現已開放報名，鼓勵全球獨立遊戲開發者參與。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam 免費序號領取：Sad Virus Darkland",
+    "summary": "於 7 月 21 日提供遊戲《Sad Virus Darkland》的免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/20",
     "title": "Steam 限時免費領取：The Life and Suffering of Sir Brante",
     "summary": "Steam 平台於 7 月提供角色扮演遊戲《The Life and Suffering of Sir Brante》限時免費領取，活動至 7 月 24 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "2026 台灣國際電玩電競產業展 (Gamers Con 2026) 資訊釋出",
-    "summary": "2026 台灣國際電玩電競產業展將於 7 月 23 日至 27 日在台北世貿一館舉行，以「GamiVerse」為主題，預計吸引 65 萬人次參與，打造虛實整合遊戲體驗與電競賽事。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 新品試玩版上線",
-    "summary": "GameGrin 報導上週（7 月 20 日至 26 日）多款 Steam 新品試玩版獲得好評，其中包括 7 月 16 日發布的《Guildrun Demo》、7 月 15 日發布的《Nui Goes to Town! Demo》、7 月 16 日發布的《Glintseeker Island Demo》、《Dark Roll 2 Demo》和《Happy Little Farm Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1412,6 +1412,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言：2026年9月26日將再次歸來",
     "summary": "據稱來自2058年的預言者國分玲，因其高準確度的預言而備受關注。他曾表示將於2026年9月26日再次現身網路，回答大家的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲：將於 2026 年 9 月 26 日再次歸來",
+    "summary": "國分玲曾表示，她將於 2026 年 9 月 26 日再次回到網路社群，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3683,6 +3692,15 @@
     "date": "2026/07/17",
     "title": "X平台「時間旅者_2030」預告：某科技巨頭將因隱私問題面臨解體",
     "summary": "一位在X（原Twitter）上小有名氣的「時間旅者_2030」帳號發布貼文，預言在2029年底前，一家全球知名的科技公司將因其對用戶隱私的侵犯問題遭到各國政府的強力制裁，最終導致公司業務大規模分拆甚至解體。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/12/31",
+    "expiry_date": "2030/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/16",
+    "title": "匿名未來人：新健康危機將於 2020 年代末期爆發",
+    "summary": "有匿名未來人預測，在 2020 年代結束之前，會出現一場新的健康危機，其應對方式將令人感到熟悉。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2029/12/31",
     "expiry_date": "2030/01/01"
