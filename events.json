@@ -128,6 +128,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam 限時免費",
+    "summary": "遊戲《Bunny Guys!》和《BROTHER!!! Save him!》開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/20",
     "title": "無相關事件",
@@ -389,14 +397,6 @@
     "title": "實況主統神「內褲實況」意外走光Twitch急下架影片",
     "summary": "知名實況主「亞洲統神」張嘉航近日在Twitch直播時，因天氣炎熱僅穿內褲打電動，過程中因身體後仰不慎走光。相關直播片段隨後遭平台下架，其妻子003已強制要求他之後直播務必穿褲子。",
     "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/19",
-    "title": "台V企業「芥川組」因親簽拍立得消費糾紛拒絕出席消費調解",
-    "summary": "消費者幻鈴近日再度發文，更新與VTuber團體「芥川組」的消費糾紛進度。幻鈴透過FF46發票統編查到芥川組登記商號為「未來天神」，並指出對方於7月17日收到市府通知後，拒絕出席消費調解。幻鈴表示將考慮採取民、刑事訴訟，並指控對方曾公開其姓名並引導網友進行公審。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -1376,6 +1376,15 @@
     "date": "2026/07/17",
     "title": "2058 年未來人國分玲預言 2026 年日本將面臨改變未來的危機",
     "summary": "自稱來自 2058 年的未來人國分玲，曾預言 2026 年日本將面臨一場「改變未來」的危機，可能與逐漸升溫的緊張局勢有關，而非突然爆發的事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言：2026年9月26日再次歸來",
+    "summary": "自稱來自 2058 年的日本未來人國分玲表示，他將於 2026 年 9 月 26 日再次現身，屆時將回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3476,15 +3485,6 @@
     "date": "2026/02/23",
     "title": "Reddit未來預測：2028年AI引發的衰退與監控",
     "summary": "Reddit 社群預測 2028 年 AI 引發的衰退結束後，將導致社會激進化，監控定價將大幅擴展，年齡驗證將無處不在。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2028/01/01",
-    "expiry_date": "2028/01/02"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/04/08",
-    "title": "國分玲預言：2028年全球金融危機",
-    "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國國債違約風險，將動搖美元全球結算體系。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/01/01",
     "expiry_date": "2028/01/02"
