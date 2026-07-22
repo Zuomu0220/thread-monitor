@@ -96,6 +96,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/21",
+    "title": "Steam「火車節」特賣活動開跑",
+    "summary": "Steam 舉辦「火車節」特賣活動，即日起至台灣時間 7 月 28 日凌晨 1 點，大量火車主題遊戲（如《45號電車》、《旁觀者：列車長》、《經典模擬列車》DLC）推出折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/20",
     "title": "無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/07/18",
     "title": "Epic Games Store 夏季特賣",
     "summary": "Epic Games Store 啟動 2026 年夏季特賣，超過 3000 款遊戲享有最高達 95 折優惠，活動將持續至 7 月 30 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/18",
-    "title": "Steam",
-    "summary": "限時免費遊戲《布蘭特爵士的苦難與一生》：Steam 平台於2026年7月18日01:00起，限時免費領取《The Life and Suffering of Sir Brante》，活動至2026年7月24日01:00止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1367,6 +1367,15 @@
     "date": "2026/05/19",
     "title": "2058 未來人國分玲預告：將於 2026 年 9 月 26 日再次現身",
     "summary": "以精準預言聞名的國分玲表示，他將在 2026 年 9 月 26 日再次歸來，並回答大眾對於未來的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/17",
+    "title": "2058 年未來人國分玲預言 2026 年日本將面臨改變未來的危機",
+    "summary": "自稱來自 2058 年的未來人國分玲，曾預言 2026 年日本將面臨一場「改變未來」的危機，可能與逐漸升溫的緊張局勢有關，而非突然爆發的事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
