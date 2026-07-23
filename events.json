@@ -32,6 +32,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 免費遊戲預告：《Foretales》",
+    "summary": "Epic Games Store 宣布從 2026 年 7 月 23 日至 7 月 30 日，玩家將可免費領取敘事導向的數位卡牌遊戲《Foretales》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "七月多款獨立遊戲 Demo 持續開放",
+    "summary": "多款將於 2026 年 7 月發行的獨立遊戲目前已在 Steam 上開放 Demo 試玩，包括《Echoes of Aincrad》、《The Mound》、《ZeroSpace》、《Tears of Metal》和《Dinoblade》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -68,6 +84,14 @@
     "date": "2026/07/22",
     "title": "Epic Games Store 限時免費：《The Ouroboros King》",
     "summary": "Epic Games Store 於 2026 年 7 月底前（至 7/23 止）提供《The Ouroboros King》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/22",
+    "title": "Playdate 掌機驚現 3D 遊戲 Demo",
+    "summary": "遊戲開發者 Cristina Ramos 於 2026 年 7 月 22 日在社群媒體上展示了一段在 Playdate 掌機上運行的 3D 遊戲 Demo，證明了該平台能實現超出預期的 3D 效果。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -372,30 +396,6 @@
     "date": "2026/07/20",
     "title": "Steam獨立遊戲《詛咒羈絆》試玩版推出，雙人非對稱合作恐怖體驗",
     "summary": "獨立開發者Maiku Dev宣布，旗下雙人非對稱合作恐怖遊戲《詛咒羈絆（Bound By A Curse）》已於2026年7月15日在Steam平台開放下載試玩版。遊戲特色為動態角色互換、基於溝通的謎題與致敬初代PlayStation風格的復古畫面。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam折扣區多款遊戲優惠，鐵路網絡建設遊戲低至5折",
-    "summary": "Steam折扣區正提供多款遊戲優惠，其中包括一款鐵路網絡建設遊戲僅售3美元，折扣力度高達5折，吸引玩家入手。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "暗黑like掛機新作《桌面破壞神：挂機ARPG》免費Demo試玩",
-    "summary": "《桌面破壞神：挂機ARPG》是一款主打暗黑like與掛機玩法的放置類遊戲，目前提供免費Demo試玩，並獲得83%的「特別好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 遊戲特價 Max Savage",
-    "summary": "《Max Savage》推出10%折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
