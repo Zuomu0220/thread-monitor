@@ -112,6 +112,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam限時免費遊戲：Icarus 等六款遊戲",
+    "summary": "Steam 推出週末限時免費遊玩促銷活動，包含《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》、《Unrailed 2: Back on Track》以及《Metal Gear Solid - Master Collection Version》，可免費遊玩至 2026/07/27 結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 最新免費遊戲：Foretales",
+    "summary": "Epic Games Store 公布了 2026 年 7 月的最後一批免費遊戲陣容，其中《Foretales》已可免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 最新史低遊戲大全2026：游民星空整理必入清單",
-    "summary": "游民星空整理了2026年Steam最新史低遊戲清單，強調其與Steam官方折扣實時同步，能夠讓玩家第一時間掌握最新優惠資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam限時免費RPG《The Life and Suffering of Sir Brante》開放領取",
-    "summary": "Steam平台推出好評暗黑奇幻RPG遊戲《The Life and Suffering of Sir Brante》限時免費領取，該遊戲在Steam上擁有89%的壓倒性好評，玩家可於7月24日前領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/12/08",
     "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
@@ -566,6 +566,15 @@
     "date": "2026/07/10",
     "title": "三位預言家對2026年7月時間線的高度重合警告",
     "summary": "進入2026年7月，美國吠陀占星師喬尼、英國靈媒帕克、印度占星大師卡皮爾·拉傑（KRSchannel）三位不同來源的預言家，在同一時間線上給出高度重合的警示。他們預測8月12日前後可能出現重大地緣意外與特殊天氣現象，全球數十億人將迎來精神幻滅、高科技行業大轉型，並出現回歸土地的浪潮。卡皮爾·拉傑指出2026年底木星與計都合相，將帶來前所未有的物質世界覺醒，人們對數字便利與現代生活產生深刻幻滅，未來真正有價值的職業可能是植物學家、農民與木匠。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "多位預言家警告 2026 年 8 月 12 日前後台海與日本海域恐有重大地緣意外",
+    "summary": "美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑等多位預言家，在 2026 年 7 月前後發出高度重合的警示。他們指出，2026 年 8 月 12 日前後可能出現重大地緣政治意外，特別是針對台海與日本海域的地區。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -1430,6 +1439,15 @@
     "date": "2026/05/15",
     "title": "國分玲預言：2026年是日本及全球的重大轉折點",
     "summary": "自稱來自2058年的未來人國分玲曾表示，2026年是日本及全球的重大轉折點，並預告將在2026年9月26日再次歸來，回答大眾想知道的事情。此外，國分玲曾成功預測日本東京奧運金牌數、2020年3月股市暴跌、安倍晉三辭職及東京奧運延期等事件。她也曾預言比特幣會漲到令人咋舌的高度，但在2058年時流通渠道可能受限，或性質不再適合頻繁交易。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "自稱來自 2058 年的國分玲預言 2026 年為日本及全球轉折點",
+    "summary": "據多個網路社群討論與新聞報導，自稱來自 2058 年的「未來人」國分玲曾預言 2026 年將是日本乃至全球的重大轉折點。他先前已精準預測多項事件，包括東京奧運金牌數、股市跳水及安倍晉三辭職。國分玲也曾表示他將在 2026 年 9 月 26 日再次回歸，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
