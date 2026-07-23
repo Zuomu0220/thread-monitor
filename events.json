@@ -80,6 +80,38 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 遊戲《遵命，陛下》（Yes, Your Grace）系列推出更新與特惠",
+    "summary": "為慶祝內容更新，《遵命，陛下》初代享 85% 折扣，續作《降雪》享 20% 折扣，購買合集包可享額外 10% 優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 遊戲《Mars Horizon》參與 SimFest 2026 盛會並提供折扣",
+    "summary": "太空模擬策略遊戲《Mars Horizon》在 SimFest 2026 活動中提供 3 折優惠，活動持續至 2026 年 7 月 27 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games 預告下週免費遊戲：《尋日之旅》（Amnesia: The Bunker）與《孤狼OTXO》（OTXO）",
+    "summary": "Epic Games Store 預告將於台灣時間 2026 年 7 月 23 日 23:00 至 7 月 30 日 23:00 期間，提供《尋日之旅》與《孤狼OTXO》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 預告《Tukoni: Forest Keepers》將於 8 月 17 日上市，Demo 已可下載",
+    "summary": "屢獲殊榮的溫馨冒險遊戲《Tukoni: Forest Keepers》將於 8 月 17 日在 Steam 和 Epic Games Store 發售，目前 Steam 平台已提供 Demo 版下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -140,6 +172,14 @@
     "date": "2026/07/22",
     "title": "2026 ChinaJoy Game Show 獨立遊戲試玩情報",
     "summary": "2026 年 ChinaJoy 將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，並以「與 AI 同遊」為主題。屆時 Steam 與蒸汽平台將同步推出 ChinaJoy Game Show 專題頁，展示多款獨立遊戲試玩，包括 B 站遊戲的神秘 IP 新品、高人氣 SLG《三國：謀定天下》以及超自然都市開放世界 RPG《異環》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/22",
+    "title": "Steam 釋出《紅色史詩》（Red Epic）遊戲 Demo",
+    "summary": "一款以中國紅軍長征為背景的混合塔防與輕 RTS 策略遊戲《紅色史詩》已在 Steam 平台釋出試玩版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -356,46 +396,6 @@
     "date": "2026/07/20",
     "title": "Steam限時免費RPG《The Life and Suffering of Sir Brante》開放領取",
     "summary": "Steam平台推出好評暗黑奇幻RPG遊戲《The Life and Suffering of Sir Brante》限時免費領取，該遊戲在Steam上擁有89%的壓倒性好評，玩家可於7月24日前領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam火車節特賣活動開跑",
-    "summary": "Steam平台於7月20日至7月27日舉辦「火車節」主題特賣活動，主要收錄與火車及鐵路相關的遊戲，提供玩家選購優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam釋出多款獨立遊戲Demo",
-    "summary": "多款獨立遊戲Demo於7月20日至7月26日期間釋出，包括《Train Station Tycoon》、《Factory on a Train》、《Paradox Tower Demo》、《Forgotten Station Demo》和《Police Chief Simulator Demo》等，供玩家免費試玩體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam夏季特賣延長！多款獨立遊戲與大作持續折扣中",
-    "summary": "Steam夏季特賣活動確認延長至7月底，包含《電馭叛客2077》、《柏德之門3》等多款3A大作以及眾多獨立遊戲仍享有超值折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam「火車節」主題特賣活動",
-    "summary": "Steam「火車節」主題特賣活動於2026年7月20日開始，聚焦於火車與鐵路相關遊戲，活動將持續至7月27日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam多款新Demo釋出",
-    "summary": "Steam平台於2026年7月20日宣布多款遊戲Demo已可供免費試玩，其中包括《Nui Goes to Town! Demo》（於7月15日發行），以及《Train Station Tycoon》、《Factory on a Train》、《Paradox Tower Demo》、《Forgotten Station Demo》和《Police Chief Simulator Demo》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
