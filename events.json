@@ -49,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 獨立遊戲 Demo 釋出",
+    "summary": "Steam 平台於 7 月 24 日釋出《Deckrage》的試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -388,14 +396,6 @@
     "date": "2026/07/22",
     "title": "Steam Slitherine 發行商特賣",
     "summary": "Slitherine 發行商旗下戰略遊戲高達 90% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "《幻世錄重製版》試玩版 Steam 平台搶先推出",
-    "summary": "宇峻奧汀科技股份有限公司宣布《幻世錄重製版》Demo 試玩版將於 7 月 22 日在 Steam 平台推出，收錄故事序章至第七關。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
