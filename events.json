@@ -160,6 +160,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 免費週末活動",
+    "summary": "Steam 啟動免費週末促銷活動，從現在起至 2026/07/27 上午 12 點 CT，六款遊戲可免費暢玩，包括《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》、《Unrailed 2: Back on Track》以及《Metal Gear Solid - Master Collection Version》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 最終七月免費遊戲",
+    "summary": "Epic Games Store 正式公布其七月份的最終免費遊戲為《Foretales》，玩家可在 2026/07/23 至 2026/07/30 期間領取。此外，2026/07/30 至 2026/08/06 將接續推出《OTXO》和《Sol Cesto》兩款 Roguelite 遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -384,22 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/07/21",
-    "title": "Steam 火車遊戲節開啟",
-    "summary": "Steam 2026 火車遊戲節已開啟，將持續至北京時間 2026 年 7 月 28 日凌晨 1 點。此活動為火車與鐵路主題或核心玩法的遊戲提供優惠，涵蓋建造火車站、鋪設鐵軌、管理線路及乘坐列車等各類火車遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/21",
-    "title": "獨立遊戲《A.D.D.（Anomaly Detection Department）》將免費推出",
-    "summary": "韓國獨立遊戲團隊 One More Spoon 宣布，卡牌式解謎模擬遊戲《A.D.D.》將於 2026 年 7 月 31 日在 Steam 平台免費推出，其靈感來自《Stacklands》和《Cultist Simulator》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/12/08",
     "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
@@ -575,6 +575,15 @@
     "date": "2026/07/21",
     "title": "多位預言家警告 2026 年 8 月 12 日前後台海與日本海域恐有重大地緣意外",
     "summary": "美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑等多位預言家，在 2026 年 7 月前後發出高度重合的警示。他們指出，2026 年 8 月 12 日前後可能出現重大地緣政治意外，特別是針對台海與日本海域的地區。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/17",
+    "title": "英國靈媒帕克預言全球危機期",
+    "summary": "英國靈媒帕克預言，世界將在 2026 年 8 月中旬進入全球危機期，特別指出 8 月 12 日是重要節點，而 8 月 15 日至 9 月 16 日為高風險時期。他還預測將出現「危險氣體雲」（可能為化學污染、地表破裂或髒彈），中國將面臨重大經濟真相曝光，油價可能飆升至每桶 200 美元，以及美軍地面部隊可能進入伊朗。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
