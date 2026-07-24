@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/25",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/07/18 至 2026/07/25 期間，未搜捕到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等最新負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
@@ -52,6 +60,22 @@
     "date": "2026/07/24",
     "title": "Steam 獨立遊戲 Demo 釋出",
     "summary": "Steam 平台於 7 月 24 日釋出《Deckrage》的試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 免費週末活動：六款遊戲免費體驗",
+    "summary": "Steam 舉辦免費週末活動，即日起至 7 月 27 日或 28 日，玩家可免費體驗《合金裝備- Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》和《Unrailed 2: Back on Track》等六款遊戲，活動結束後購買可享折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 每日特惠：《Yes Your Grace》及續作折扣",
+    "summary": "策略經營角色扮演遊戲《Yes Your Grace》及其續作作為每日特惠活動的一部分，享有折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -280,12 +304,20 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/07/22",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/07/15 至 2026/07/22 期間，經「無差別拖網雷達」搜捕華語網路社群與新聞網站（包含 Threads、PTT、Dcard、X/Twitter、各大遊戲動漫新聞網），未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的實況主相關事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 限時免費領取《Foretales》",
+    "summary": "Epic Games Store 提供敘事卡牌遊戲《Foretales》限時免費領取，可永久保留，活動至 7 月 30 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 預告兩款遊戲免費領取：OTXO 與 Sol Cesto",
+    "summary": "Epic Games Store 預告將於 7 月 30 日至 8 月 6 日期間，提供動作 Roguelite 遊戲《OTXO》和戰術策略遊戲《Sol Cesto》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -364,38 +396,6 @@
     "date": "2026/07/22",
     "title": "Steam 特賣資訊",
     "summary": "Steam 平台上有多款遊戲正在進行史低特賣活動，推薦遊戲包含《Leaf it Alone》、《A Game About Digging A Hole》、《SULFUR》、《Darwin's Paradox》、《Haste》、《Layers of Fear》、《Super Battle Golf》、《Nunholy》以及《Townscaper》，特賣活動預計持續至 7 月 29 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Epic Games 手機版免費領取《預言奇談》",
-    "summary": "Epic Games 商店手機版（Android/iOS）限時免費領取敘事卡牌遊戲《預言奇談》（Foretales）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "《幻世錄重製版》Steam Demo 釋出",
-    "summary": "宇峻奧汀科技開發的《幻世錄重製版》已於 7 月 22 日在 Steam 平台推出 Demo 試玩版，內容收錄故事序章至第七關。正式版預計於 2026 年發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Steam Crunching Koalas 夏季特賣啟動",
-    "summary": "Crunching Koalas 旗下遊戲目錄高達 85% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Steam Slitherine 發行商特賣",
-    "summary": "Slitherine 發行商旗下戰略遊戲高達 90% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
