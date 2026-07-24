@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Epic Games Store《預言奇談》限時免費領取",
+    "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -129,6 +137,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/23",
+    "title": "百萬YouTuber蔡阿嘎前員工蘿拉涉AB合約糾紛與反控逃漏稅",
+    "summary": "百萬YouTuber蔡阿嘎的前員工蘿拉被踢爆涉嫌利用AB合約手法，將廠商合作款項收進私人口袋，引爆長達兩年的追債風波。近日蘿拉首度公開露面，承認錯誤並懇求蔡阿嘎及社會大眾不要波及家人，希望能有重新開始的機會。同時，蘿拉反控蔡阿嘎公司長年涉嫌逃漏稅高達8位數，並質疑其主打MIT品牌實際販售中國製商品及利用網軍操控輿論。蔡阿嘎方面已否認相關指控。",
+    "avatar_url": "https://img.mirrormedia.mg/images/mirrormedia/post/2026/07/23/FB_Laura_01.jpg",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/23",
+    "title": "蔡阿嘎妻子二伯品牌HAHABABY遭質疑抄襲",
+    "summary": "百萬YouTuber蔡阿嘎的妻子二伯創立的親子品牌HAHABABY，其部分商品（包含童裝與生活用品）遭網友質疑設計樣式與日台其他品牌高度相似，引發抄襲疑慮。品牌團隊與二伯已對設計過程與發想來源進行說明，並預先將有疑慮的商品下架並辦理退款。",
+    "avatar_url": "https://s.newtalk.tw/album/news/465/5f4a743122c4d.jpg",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "卡普空Steam特賣多款大作享優惠",
+    "summary": "卡普空（Capcom）於 Steam 平台舉辦特賣活動，多款知名大作享有折扣，例如《生化危機4重製版》與《生化危機：村莊》均降價 75%，《街頭霸王6》則有 50% 折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/07/15 至 2026/07/22 期間，經「無差別拖網雷達」搜捕華語網路社群與新聞網站（包含 Threads、PTT、Dcard、X/Twitter、各大遊戲動漫新聞網），未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的實況主相關事件。",
@@ -197,6 +229,14 @@
     "title": "Steam 釋出《紅色史詩》（Red Epic）遊戲 Demo",
     "summary": "一款以中國紅軍長征為背景的混合塔防與輕 RTS 策略遊戲《紅色史詩》已在 Steam 平台釋出試玩版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/22",
+    "title": "中小型娛樂主播與經紀公司昆明泛亞傳媒合約糾紛",
+    "summary": "中小型娛樂主播馬先生向昆明泛亞傳媒有限責任公司反映，因分成兌現與服務供給問題產生糾紛。馬先生指出公司克扣其約10萬人民幣的5%提成，並未提供經紀人跟播、團隊運營等約定資源。公司則回應曾給予新人扶持，分成調整因馬先生失聯未能落實，並表示將按合約執行，不排除訴諸法律。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -358,46 +398,6 @@
     "summary": "韓國獨立遊戲團隊 One More Spoon 宣布，卡牌式解謎模擬遊戲《A.D.D.》將於 2026 年 7 月 31 日在 Steam 平台免費推出，其靈感來自《Stacklands》和《Cultist Simulator》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/20",
-    "title": "無相關事件",
-    "summary": "在 2026 年 7 月 13 日至 7 月 20 日期間，未偵測到台灣/華語圈實況主相關的負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 主題特賣活動",
-    "summary": "Steam 火車節於 2026 年 7 月 20 日至 7 月 27 日舉行，展示關於火車與鐵路題材的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/20",
-    "title": "目前無符合條件之事件",
-    "summary": "在2026年07月13日至2026年07月20日期間，未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈實況主事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "Steam 主題遊戲節",
-    "summary": "以火車與鐵路為主題的「火車節」將於今日 (2026 年 7 月 20 日) 至 7 月 27 日在 Steam 平台舉行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/20",
-    "title": "CRITICAL REFLEX夏季遊戲展連發四彈！《賽博戰魂》、《夢與滅》雙雙推出全新試玩",
-    "summary": "獨立遊戲發行商CRITICAL REFLEX在Secret Sauce與Convergence Games兩大展會上，發布四款新作的最新動態。其中，《賽博戰魂》推出更新版Demo，《夢與滅》推出首次公開試玩版，目前皆已上線Steam。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
