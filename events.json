@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam限時免費6款遊戲",
+    "summary": "Steam推出Free Weekend活動，即日起至7月28日，玩家可免費體驗《合金裝備- Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》等6款遊戲。活動結束後將提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -256,6 +264,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store新增免費遊戲《Foretales》",
+    "summary": "Epic Games Store揭曉7月最終免費遊戲，其中《Foretales》已正式開放領取。此外，7月30日將有兩款Roguelite遊戲接力免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -382,22 +398,6 @@
     "summary": "宇峻奧汀科技股份有限公司宣布《幻世錄重製版》Demo 試玩版將於 7 月 22 日在 Steam 平台推出，收錄故事序章至第七關。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/21",
-    "title": "實況主統神直播意外走光，妻子003下達「穿褲禁令」",
-    "summary": "知名實況主「亞洲統神」張嘉航在Twitch直播時，因耐不住酷熱僅穿內褲，身體後仰時不慎發生走光事故。Twitch平台火速下架相關影片。統神妻子「003」得知後震怒，強制要求統神未來直播必須穿好褲子，並戲稱要「封印新竹巨蛋」，此事件在社群引發熱烈討論。",
-    "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/21",
-    "title": "Steam 免費遊戲試玩版 Souq Boss Simulator",
-    "summary": "沉浸式商店經營模擬遊戲《Souq Boss Simulator》的免費試玩版已於Steam推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -1466,6 +1466,15 @@
     "date": "2026/07/21",
     "title": "自稱來自 2058 年的國分玲預言 2026 年為日本及全球轉折點",
     "summary": "據多個網路社群討論與新聞報導，自稱來自 2058 年的「未來人」國分玲曾預言 2026 年將是日本乃至全球的重大轉折點。他先前已精準預測多項事件，包括東京奧運金牌數、股市跳水及安倍晉三辭職。國分玲也曾表示他將在 2026 年 9 月 26 日再次回歸，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的國分玲預言2026年9月26日再次歸來",
+    "summary": "據傳來自2058年的國分玲曾表示，他將在2026年9月26日再次歸來，回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3446,6 +3455,51 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/23",
+    "title": "前Google高層預警2027年AI將掀30%失業潮",
+    "summary": "前Google X商務長莫．加多（Mo Gawdat）警告，AI將在2027年至2028年間掀起高達30%的失業潮，白領職缺將率先消失，而缺乏自主AI能力的國家可能淪為數位第三世界。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/22",
+    "title": "時間旅行者警告2027年為時間線分岔點",
+    "summary": "Reddit論壇上多位聲稱的時間旅行者描述，2027年將是時間線的分岔點，多個時間線將從此分支。同時預言將發生外星人首次接觸、既有機構解體以及可能的人口減少事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/04",
+    "title": "John Titor預言2027年為關鍵轉折點",
+    "summary": "約翰·提托（John Titor）早在2000年便指出2027年是一個「閾值」年，如同歷史上的1914年。他表示這並非單一事件，而是預示著一個更廣泛且在初期未被察覺的發展軌跡在2020年代中期鎖定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/17",
+    "title": "AI未來計畫預言中國可能對台灣採取行動引發三戰",
+    "summary": "AI未來計畫報告推演，中國AI巨頭DeepSent受美國晶片禁令影響，為追趕劣勢，可能啟動間諜行動竊取美國技術，或大膽對台灣出手，透過封鎖或更激烈方式斬斷美國AI晶片供應鏈，使第三次世界大戰風險於2027年前被搬上檯面。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/29",
+    "title": "西班牙時間旅行者稱2027年人類滅絕",
+    "summary": "西班牙一名自稱時間旅行者「哈維爾」（Javier）分享多則來自「未來」的照片，聲稱自己於2027年從睡夢中醒來，發現人類已完全消失殆盡，自己是唯一的倖存者，城市空無一人但電力與網路仍正常運作。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/16",
     "title": "摩根大通執行長戴蒙示警：Anthropic AI 模型恐引發金融資安危機",
     "summary": "摩根大通（JPMorgan）執行長 Jamie Dimon 於 2026 年 7 月 16 日發出警告，指出人工智慧（AI）發展恐帶來嚴峻的網路安全挑戰。他特別點名 Anthropic 開發的 Claude Mythos AI 模型，在數千個軟體漏洞修復完成前的過渡期間（預計 6 到 12 個月），若發生資訊外洩或未經授權存取，恐引發足以撼動市場的資安事件。",
@@ -3608,6 +3662,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/12/17",
+    "title": "AI未來計畫預言AI將於2027年底超越人類智慧",
+    "summary": "由前OpenAI研究員領導的「AI未來計畫」報告《AI 2027》預測，AI系統將持續進步，直到2027年底左右，將成為完全自主的代理人，並在所有方面都勝過人類。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2028 年金融危機",
     "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，美元的全球結算體系將出現根本性動搖。她也曾表示將於 2026 年 9 月 26 日再次現身。",
@@ -3692,6 +3755,15 @@
     "date": "2026/07/05",
     "title": "自稱2118年時空旅人Alexander Smith預言商業時空旅行將於2028年實現，並爆發世界大戰",
     "summary": "一位自稱來自2118年的時空旅人Alexander Smith透過YouTube平台Apex TV發表驚人預測。他聲稱，商業時空旅行將在2028年成為現實，美國政府也將在同年證實外星智慧生命的存在。此外，他預測未來將爆發第三次世界大戰，起初是美國與北韓的利益衝突，隨後俄羅斯加入北韓一方，導致局勢升級並發射飛彈，但最終會使世界團結。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的國分玲預言2028年全球金融危機",
+    "summary": "來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，導火線為美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/01/01",
     "expiry_date": "2028/01/02"
@@ -3887,6 +3959,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/27",
+    "title": "2ch未來人「J」預言2030年日本將面臨經濟崩潰與AI失業潮",
+    "summary": "日本2ch論壇上出現一位自稱來自未來的「J」，預言2030年的日本將遭遇經濟崩潰、大地震以及AI導致的失業潮。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/29",
     "title": "2030年時間旅行者Noah預警AI系統將無縫融入生活，2036年曾出現美國內戰與全球核衝突",
     "summary": "2025年7月29日報導，自稱來自2030年的時間旅行者Noah聲稱，他被招募參與一項將參與者送往未來幾十年以收集關鍵信息的機密計劃。他描述了AI系統將遠超現今水平，無縫融入生活的各個方面。另一位名為John Titor的時間旅行者則在2000年11月聲稱自己來自2036年，並警告其時間線曾經歷毀滅性的動盪，包括第二次美國內戰和全球核衝突。",
@@ -3986,9 +4067,27 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "來自2058年的國分玲預言2037年沖繩地區發生大地震與颱風",
+    "summary": "來自2058年的國分玲預言，2037年1月沖繩地區將發生「直下型地震」，同年8月除了有餘震，更將同時受到颱風攻擊，使災情更加嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/01",
+    "expiry_date": "2037/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2038 年外星文明將被正式接觸",
     "summary": "來自 2058 年的國分玲預言，到了 2038 年，太陽系將不再是地球文明的孤島，外星文明會被人類正式接觸，並指出這些外星文明可能藏匿在木星或土星的衛星上。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2038/01/01",
+    "expiry_date": "2038/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自2058年的國分玲預言2038年將正式接觸外星文明",
+    "summary": "來自2058年的國分玲指出，太陽系不再是地球文明的孤島，外星文明將於2038年被正式接觸，此前部分相關資訊將會被公開。她表示這些文明存在於木星或土星的衛星上，並擁有超越地球的科技水平。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2038/01/01",
     "expiry_date": "2038/01/02"
@@ -4079,6 +4178,15 @@
     "date": "2026/04/08",
     "title": "日本遷都預言",
     "summary": "未來人國分玲預言，日本首都將於2058年從東京遷至岡山縣，原因是東京受地震或海平面上升影響不再適合作為行政中心。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2058/01/01",
+    "expiry_date": "2058/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自2058年的國分玲預言2058年日本遷都岡山",
+    "summary": "來自2058年的國分玲預言，由於地震或海平面上升的影響，東京將不再適合作為行政中心，日本的首都將於2058年從東京遷往岡山縣。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2058/01/01",
     "expiry_date": "2058/01/02"
