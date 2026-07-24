@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam限時免費：《Yet Another Zombie Defense HD》永久領取",
+    "summary": "Steam平台再次提供限時免費遊戲，《Yet Another Zombie Defense HD》可於7月31日上午1點前免費領取，領取後可永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -216,6 +224,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam控制器再度於台灣、香港、日本、韓國開放販售",
+    "summary": "Steam控制器於7月23日在台灣、香港、日本、韓國等地再度開放販售，官方為避免黃牛，維持每人限購一台的政策。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/22",
     "title": "無最新負面與爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/07/21",
     "title": "2026台灣國際電玩電競產業展預告活動",
     "summary": "2026台灣國際電玩電競產業展 (Gamers Con 2026) 將於7月23日至7月27日在台北世貿一館登場。展前已有「軍功宣告‧擊敗瑪猛王，領取星穹激勵裝備！」及「艾思維特2026年全新周邊登場」等最新消息公布。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/21",
-    "title": "蔡阿嘎與二伯品牌「hahababy」被Threads網友發起消費者維權連署",
-    "summary": "在Threads社群平台上，有網友發起了針對知名YouTuber蔡阿嘎與其妻子二伯的品牌「hahababy」的消費者維權連署，目前已累積超過3000人加入。連署內容要求品牌公開原創稿件並說明台灣製產地，消費者有權選擇退款。此舉被視為透過輿論力量要求蔡阿嘎夫婦出面解釋。",
-    "avatar_url": "https://cdn2.ettoday.net/images/6462/d6462725.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/21",
-    "title": "Steam「火車節」特賣活動開跑",
-    "summary": "Steam 舉辦「火車節」特賣活動，即日起至台灣時間 7 月 28 日凌晨 1 點，大量火車主題遊戲（如《45號電車》、《旁觀者：列車長》、《經典模擬列車》DLC）推出折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
