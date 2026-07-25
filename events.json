@@ -97,6 +97,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 限時免費暢玩《超級高爾夫大亂鬥》",
+    "summary": "Steam 平台提供《超級高爾夫大亂鬥》限時免費遊玩，活動已於 7 月 24 日凌晨 1 時結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -385,19 +393,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/22",
-    "title": "無最新遊戲特價與免費情報",
-    "summary": "在 2026/07/15 至 2026/07/22 期間，經搜捕 Steam 及 Epic Games 平台相關資訊，未發現最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報。",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 最新免費遊戲《Foretales》開放領取",
+    "summary": "Epic Games Store 本週免費遊戲為故事導向的敘事冒險遊戲《Foretales》，玩家將扮演一名被末日預兆困擾的竊賊。該遊戲結合了牌組構築和數位桌面遊戲機制，需在有限的時間和資源內避免災難。可領取至 7 月 30 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/22",
-    "title": "無最新事件",
-    "summary": "在 2026 年 07 月 15 日至 2026 年 07 月 22 日期間，未發現台灣/華語圈實況主、VTuber 或相關經紀公司有「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件的最新報導。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
@@ -602,6 +602,15 @@
     "date": "2026/07/10",
     "title": "三位預言家重合警示：台海地緣事件與全球精神幻滅",
     "summary": "三位來自不同來源的預言家，美國吠陀占星師喬尼、英國靈媒帕克、印度占星大師卡皮爾·拉傑，在 2026 年 7 月同時給出高度重合的警示。他們預測 8 月 12 日前後可能出現重大的地緣意外，特別提及台海與日本海域。此外，全球數十億人將迎來精神幻滅，高科技產業將大轉型，並出現回歸土地的浪潮。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家重合警示：2026年全球將面臨精神幻滅、地緣危機與毒氣雲",
+    "summary": "進入 2026 年 7 月，美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑（KRSchannel）等三位預言家，獨立卻又高度重合地提出對 2026 年的警示。預言內容包括 8 月 12 日前後台海與日本海域可能出現重大地緣意外與特殊天氣現象；全球數十億人即將面臨精神幻滅、高科技行業大轉型，並回歸土地；2026 年底木星與計都合相將帶來前所未有的物質世界覺醒，人們對數位便利與現代生活產生深刻幻滅，植物學家、農民、木匠等職業將更具價值。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -1502,6 +1511,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2028 年全球金融危機與 2026 年回歸",
     "summary": "自稱來自 2058 年的「未來人」國分玲，因其高準確率的預言而聞名。她在 2026 年 5 月 19 日的討論中提及，預言全球將在 2028 年爆發新一輪金融危機，導火線是美國的國債違約，這將動搖美元的全球結算體系。她也曾表示將在 2026 年 9 月 26 日再次歸來，回答大眾的問題。 此外，國分玲也提到，到她所處的 2058 年時，學習的都是中文，而這個改變與一位「毀了一切」的女首相有關。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言 2028 年全球金融危機與 2026 年 9 月回歸",
+    "summary": "自稱來自 2058 年的國分玲，其預言準確率驚人。他預測 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。國分玲曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
