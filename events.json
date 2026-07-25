@@ -81,6 +81,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Six One Indie 即將舉辦 Demo Days",
+    "summary": "Six One Indie 將於 7 月 31 日至 8 月 7 日舉辦為期一週的「Demo Days」活動，屆時將有超過 150 款獨立遊戲 Demo 供玩家下載與試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -321,6 +329,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 免費週末活動，六款遊戲限時免費暢玩",
+    "summary": "Steam 平台啟動免費週末促銷活動，從即日起至 7 月 27 日，玩家可免費下載並暢玩六款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games Store 公布 7 月底免費遊戲",
+    "summary": "Epic Games Store 宣布 7 月份最後一批免費遊戲。《Foretales》為目前可免費領取的遊戲。此外，Epic 也預告了 7 月 30 日將會推出兩款 Roguelite 遊戲供玩家免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/22",
     "title": "無最新遊戲特價與免費情報",
     "summary": "在 2026/07/15 至 2026/07/22 期間，經搜捕 Steam 及 Epic Games 平台相關資訊，未發現最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報。",
@@ -372,30 +396,6 @@
     "date": "2026/07/22",
     "title": "2026 ChinaJoy Game Show 獨立遊戲試玩情報",
     "summary": "2026 年 ChinaJoy 將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，並以「與 AI 同遊」為主題。屆時 Steam 與蒸汽平台將同步推出 ChinaJoy Game Show 專題頁，展示多款獨立遊戲試玩，包括 B 站遊戲的神秘 IP 新品、高人氣 SLG《三國：謀定天下》以及超自然都市開放世界 RPG《異環》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Steam 釋出《紅色史詩》（Red Epic）遊戲 Demo",
-    "summary": "一款以中國紅軍長征為背景的混合塔防與輕 RTS 策略遊戲《紅色史詩》已在 Steam 平台釋出試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/22",
-    "title": "中小型娛樂主播與經紀公司昆明泛亞傳媒合約糾紛",
-    "summary": "中小型娛樂主播馬先生向昆明泛亞傳媒有限責任公司反映，因分成兌現與服務供給問題產生糾紛。馬先生指出公司克扣其約10萬人民幣的5%提成，並未提供經紀人跟播、團隊運營等約定資源。公司則回應曾給予新人扶持，分成調整因馬先生失聯未能落實，並表示將按合約執行，不排除訴諸法律。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Steam 特賣資訊",
-    "summary": "Steam 平台上有多款遊戲正在進行史低特賣活動，推薦遊戲包含《Leaf it Alone》、《A Game About Digging A Hole》、《SULFUR》、《Darwin's Paradox》、《Haste》、《Layers of Fear》、《Super Battle Golf》、《Nunholy》以及《Townscaper》，特賣活動預計持續至 7 月 29 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -593,6 +593,15 @@
     "date": "2026/07/10",
     "title": "三位預言家重合警示 2026 年 8 月重大地緣意外與精神幻滅潮",
     "summary": "美國吠陀占星師喬尼、英國靈媒帕克、印度占星大師卡皮爾·拉傑指出，2026 年 8 月 12 日前後，台海與日本海域可能出現重大地緣意外與特殊天氣現象，並預言全球數十億人將迎來精神幻滅，高科技行業大轉型，回歸土地的浪潮。卡皮爾·拉傑更提到 2026 年底木星與計都合相，將帶來物質世界覺醒，人們對數字便利產生幻滅。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家重合警示：台海地緣事件與全球精神幻滅",
+    "summary": "三位來自不同來源的預言家，美國吠陀占星師喬尼、英國靈媒帕克、印度占星大師卡皮爾·拉傑，在 2026 年 7 月同時給出高度重合的警示。他們預測 8 月 12 日前後可能出現重大的地緣意外，特別提及台海與日本海域。此外，全球數十億人將迎來精神幻滅，高科技產業將大轉型，並出現回歸土地的浪潮。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -1475,6 +1484,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的國分玲預言2026年9月26日再次歸來",
     "summary": "據傳來自2058年的國分玲曾表示，他將在2026年9月26日再次歸來，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言 2028 年全球金融危機與 9 月歸來",
+    "summary": "來自 2058 年的未來人國分玲預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。她也曾表示將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3341,6 +3359,15 @@
     "date": "2026/03/24",
     "title": "多位預言家指向2026年為人類「奇點」",
     "summary": "布蘭登·畢格斯、阿比蓋亞·阿南德和克雷格·漢密爾頓-帕克等三位來自不同背景的預言家，將2026年視為人類社會的「奇點」或「被迫的全球覺醒」，而非世界末日。他們預測這一年將發生重大的地質事件（美國西岸、義大利維蘇威火山）和一種導致皮膚出現白色圓斑的新型瘟疫。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲警告 2026 年底新型傳染病肆虐與俄烏停火",
+    "summary": "來自 2058 年的未來人國分玲發出警告，預言 2026 年底將出現一種全新的呼吸道傳染病毒，傳播力是新冠原始毒株的三倍。她還提及俄烏戰爭的停火時間已定。此外，在 2026 年的最後七個月，將有「黃泉客輪」帶走許多生命。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
