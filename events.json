@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam 限時免費開放 6 款遊戲至 7 月 28 日",
+    "summary": "Steam 平台推出限時免費週末活動，即日起至 7 月 27 日至 28 日，PC 玩家可免費體驗 6 款遊戲。這些遊戲涵蓋生存、合作、模擬、射擊及經典動作冒險等不同類型，包含《合金裝備- Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》。活動結束後，購買這些遊戲可享折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -388,14 +396,6 @@
     "date": "2026/07/23",
     "title": "Steam 免費週末活動，六款遊戲限時免費暢玩",
     "summary": "Steam 平台啟動免費週末促銷活動，從即日起至 7 月 27 日，玩家可免費下載並暢玩六款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 公布 7 月底免費遊戲",
-    "summary": "Epic Games Store 宣布 7 月份最後一批免費遊戲。《Foretales》為目前可免費領取的遊戲。此外，Epic 也預告了 7 月 30 日將會推出兩款 Roguelite 遊戲供玩家免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
