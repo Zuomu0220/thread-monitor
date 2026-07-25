@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 限時免費",
+    "summary": "遊戲《又一個殭屍塔防HD》（Yet Another Zombie Defense HD）將從 7 月 24 日開始限時一週免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -392,14 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 最新免費遊戲《Foretales》開放領取",
-    "summary": "Epic Games Store 本週免費遊戲為故事導向的敘事冒險遊戲《Foretales》，玩家將扮演一名被末日預兆困擾的竊賊。該遊戲結合了牌組構築和數位桌面遊戲機制，需在有限的時間和資源內避免災難。可領取至 7 月 30 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/12/08",
     "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
@@ -449,6 +449,15 @@
     "date": "2026/07/09",
     "title": "Reddit 網友自稱「2077年穿越者」預警全球網路恐攻事件",
     "summary": "一名自稱來自 2077 年的 Reddit 用戶在 r/conspiracy 子版塊發文，警告在未來一個月內全球主要網路基礎設施將遭受大規模攻擊，呼籲人們做好數位斷網準備。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/05",
+    "expiry_date": "2026/08/06"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/22",
+    "title": "雷·布萊伯利小說預言",
+    "summary": "作家雷·布萊伯利於 1950 年發表的短篇故事《細雨將至》(There Will Come Soft Rains) 中，描述了核戰後的世界末日，並將災難發生日期設定為 2026 年 8 月 5 日。此預言在網路上引起討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/05",
     "expiry_date": "2026/08/06"
@@ -3404,6 +3413,15 @@
     "date": "2026/02/27",
     "title": "4chan 匿名用戶預測 2026 年比特幣與以太坊價格",
     "summary": "另一位自稱是 2019 年比特幣預言家、在 2025 年 11 月發文的 4chan 匿名用戶，在 2026 年 2 月被報導稱預測比特幣將在 2026 年底前達到 100 萬美元，以太坊達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "氣候科學家詹姆斯·漢森預言",
+    "summary": "氣候科學家詹姆斯·漢森 (James Hansen) 預測，2026 年將是有記錄以來最熱的一年，而 2027 年將比 2026 年更熱。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
