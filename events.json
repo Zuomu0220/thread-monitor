@@ -89,6 +89,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Epic Games 下週免費遊戲預告《孤狼》（OTXO）與《尋日之旅》（Sol Cesto）",
+    "summary": "Epic Games Store 宣布自 7 月 30 日起，將提供俯視角快節奏肉鴿射擊遊戲《孤狼》與 Roguelite 戰術遊戲《尋日之旅》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -345,6 +353,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Epic Games 限時免費遊戲《預言奇談》（Foretales）",
+    "summary": "Epic Games Store 於 7 月 23 日起提供敘事卡牌遊戲《預言奇談》限時免費領取，活動將持續至 7 月 30 日。此遊戲是一款故事驅動的敘事冒險遊戲，玩家扮演一名背負末日異象的小偷，透過牌組建構與數位桌面機制來管理時間和資源，以改變世界結局。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/23",
+    "title": "Steam 獨立遊戲《腳臭戰爭》（Toe-tal War）免費試玩 Demo 更新",
+    "summary": "獨立團隊 Mousitude Games 開發的橫捲動作解謎遊戲《腳臭戰爭》於 7 月 22 日更新免費 Demo，支援繁體中文。遊戲以「腳臭」為核心玩法，玩家需累積腳臭值來擊敗敵人，並利用鞋襪解開關卡機關。正式版預計於 2026 年第四季發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/22",
     "title": "無最新遊戲特價與免費情報",
     "summary": "在 2026/07/15 至 2026/07/22 期間，經搜捕 Steam 及 Epic Games 平台相關資訊，未發現最新遊戲限時免費領取、特價折扣特惠，或重大獨立遊戲參展/Demo 釋出等情報。",
@@ -372,30 +396,6 @@
     "date": "2026/07/22",
     "title": "Epic Games Store 限時免費：《The Ouroboros King》",
     "summary": "Epic Games Store 於 2026 年 7 月底前（至 7/23 止）提供《The Ouroboros King》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "Playdate 掌機驚現 3D 遊戲 Demo",
-    "summary": "遊戲開發者 Cristina Ramos 於 2026 年 7 月 22 日在社群媒體上展示了一段在 Playdate 掌機上運行的 3D 遊戲 Demo，證明了該平台能實現超出預期的 3D 效果。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "《幻世錄重製版（試玩版）》發行",
-    "summary": "《幻世錄重製版》的試玩版已於 2026 年 7 月 22 日在 Steam 平台發行。這是一款以劇情為核心的戰略角色扮演遊戲，讓經典 SRPG 重新甦醒，並保留傳統戰棋策略的嚴謹與宏大的史詩敘事。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/22",
-    "title": "2026 ChinaJoy Game Show 獨立遊戲試玩情報",
-    "summary": "2026 年 ChinaJoy 將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，並以「與 AI 同遊」為主題。屆時 Steam 與蒸汽平台將同步推出 ChinaJoy Game Show 專題頁，展示多款獨立遊戲試玩，包括 B 站遊戲的神秘 IP 新品、高人氣 SLG《三國：謀定天下》以及超自然都市開放世界 RPG《異環》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1493,6 +1493,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言 2028 年全球金融危機與 9 月歸來",
     "summary": "來自 2058 年的未來人國分玲預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。她也曾表示將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言 2028 年全球金融危機與 2026 年回歸",
+    "summary": "自稱來自 2058 年的「未來人」國分玲，因其高準確率的預言而聞名。她在 2026 年 5 月 19 日的討論中提及，預言全球將在 2028 年爆發新一輪金融危機，導火線是美國的國債違約，這將動搖美元的全球結算體系。她也曾表示將在 2026 年 9 月 26 日再次歸來，回答大眾的問題。 此外，國分玲也提到，到她所處的 2058 年時，學習的都是中文，而這個改變與一位「毀了一切」的女首相有關。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3368,6 +3377,15 @@
     "date": "2026/05/24",
     "title": "國分玲警告 2026 年底新型傳染病肆虐與俄烏停火",
     "summary": "來自 2058 年的未來人國分玲發出警告，預言 2026 年底將出現一種全新的呼吸道傳染病毒，傳播力是新冠原始毒株的三倍。她還提及俄烏戰爭的停火時間已定。此外，在 2026 年的最後七個月，將有「黃泉客輪」帶走許多生命。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預測 2026 年比特幣與以太坊價格",
+    "summary": "另一位自稱是 2019 年比特幣預言家、在 2025 年 11 月發文的 4chan 匿名用戶，在 2026 年 2 月被報導稱預測比特幣將在 2026 年底前達到 100 萬美元，以太坊達到 10 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
