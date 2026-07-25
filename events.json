@@ -153,6 +153,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam 限時免費週末活動：《合金裝備》等六款遊戲",
+    "summary": "Steam 推出限時免費週末活動，從即日起至 2026 年 7 月 28 日，玩家可免費體驗《合金裝備 - Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》等六款遊戲，活動結束後將有折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -392,14 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 免費週末活動，六款遊戲限時免費暢玩",
-    "summary": "Steam 平台啟動免費週末促銷活動，從即日起至 7 月 27 日，玩家可免費下載並暢玩六款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/12/08",
     "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
@@ -449,6 +449,15 @@
     "date": "2026/07/25",
     "title": "疾管署羅一鈞警告 COVID-19 疫情升溫，高峰將在 7 月底至 8 月",
     "summary": "衛生福利部疾病管制署長羅一鈞於 7 月 25 日發布預警，指出國內 COVID-19 疫情自 6 月中旬起逐漸走升，門急診就診人次大幅上升 66.5%，預估本週染疫就診將逼近 1 萬人次。他預計疫情高峰將於 7 月底至 8 月達到。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/31",
+    "expiry_date": "2026/08/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 年中將爆發水底戰爭",
+    "summary": "泰國神婆普萊預言 2026 年年中將爆發水底戰爭，潛艇動向與公海衝突將成為關鍵，戰局走向難以預料。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/31",
     "expiry_date": "2026/08/01"
@@ -629,6 +638,15 @@
     "date": "2026/07/10",
     "title": "三位預言家重合警示：2026年全球將面臨精神幻滅、地緣危機與毒氣雲",
     "summary": "進入 2026 年 7 月，美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑（KRSchannel）等三位預言家，獨立卻又高度重合地提出對 2026 年的警示。預言內容包括 8 月 12 日前後台海與日本海域可能出現重大地緣意外與特殊天氣現象；全球數十億人即將面臨精神幻滅、高科技行業大轉型，並回歸土地；2026 年底木星與計都合相將帶來前所未有的物質世界覺醒，人們對數位便利與現代生活產生深刻幻滅，植物學家、農民、木匠等職業將更具價值。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家警示 2026 年 8 月 12 日前後地緣政治與天氣異變",
+    "summary": "美國吠陀占星師喬尼、英國靈媒帕克和印度占星大師卡皮爾·拉傑指出，2026 年 8 月 12 日前後可能出現重大地緣意外與特殊天氣現象，尤其對台海與日本海域發出重點警示。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -1538,6 +1556,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言 2028 年全球金融危機與 2026 年 9 月回歸",
     "summary": "自稱來自 2058 年的國分玲，其預言準確率驚人。他預測 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。國分玲曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告 2026 年 9 月 26 日再度歸來",
+    "summary": "來自 2058 年的未來人國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3440,6 +3467,78 @@
     "date": "2026/02/27",
     "title": "4chan「比特幣先知」預言 2026 年底比特幣達 100 萬美元",
     "summary": "一名匿名用戶在 4chan 上發布貼文，據稱是 2019 年「比特幣先知」的回歸，預測比特幣（BTC）在 2026 年底前將達到 100 萬美元，以太坊（ETH）則達到 10 萬美元。該貼文於 2025 年 11 月發布，因其與過去預言的風格相似而受到關注，但也有人質疑其真實性，因其線程編號異常低且缺少 Tripcode。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 下半年加密貨幣將崩盤",
+    "summary": "泰國神婆普萊在閉關前夕透露，預警 2026 年下半年雲端數位資產與加密貨幣價值恐將崩盤，建議民眾儲存實體現金。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 下半年新型超級病毒將肆虐",
+    "summary": "泰國神婆普萊示警，超強效水傳播病毒即將來襲，可能與霍亂、黃熱病和 HIV 病毒交織異變，孕育出更具殺傷力的超級病毒並藉由水源迅速蔓延。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 下半年極端天氣肆虐",
+    "summary": "泰國神婆普萊指出，2026 年下半年極端天氣將肆虐，極度乾旱與暴雨將同時發生，甚至中東沙漠都可能罕見淹水。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 下半年外星人將現身",
+    "summary": "泰國神婆普萊預言外星人很快會真正現身在人類眼前，其中外貌神似鱷魚與蜥蜴的爬蟲人外星生物，將大搖大擺出現在街頭，回收留在地球的古老礦物。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "泰國神婆普萊預言 2026 下半年 AI 對職場衝擊兩極化",
+    "summary": "泰國神婆普萊分析，未來 AI 在職場上的衝擊將呈現兩極化發展，大型企業可能因突如其來的網路崩潰，最後仍需重聘真人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家預測 2026 年全球精神幻滅與高科技產業轉型",
+    "summary": "喬尼、帕克和卡皮爾·拉傑三位預言家皆預測，全球數十億人將迎來精神幻滅、高科技行業大轉型，並出現回歸土地的浪潮。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "卡皮爾·拉傑預言 2026 年底物質世界覺醒",
+    "summary": "印度占星大師卡皮爾·拉傑預言，2026 年底木星與計都合相，將帶來史無前例的物質世界覺醒，人們對數位便利與現代生活產生深刻幻滅，未來有價值的職業可能是植物學家、農民與木匠。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "未來人國分玲預言 2026 年是日本及全球重大轉折點",
+    "summary": "來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
