@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限免遊戲與特價活動",
+    "summary": "Steam 與 Epic Games 平台近日推出多款限時免費領取與試玩活動。Epic Games 平台從 7 月 24 日至 26 日進行《MARVEL Tōkon: Fighting Souls》公開測試。另外，Epic Games Store 也提供《Foretales》限時免費，以及《OTXO》、《Sol Cesto》即將免費領取。Steam 方面，有《又一個僵屍塔防HD》限時免費領取至 2026/7/31。其他免費遊玩與特價遊戲包括《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -157,6 +165,14 @@
     "title": "Steam 限時免費週末活動：《合金裝備》等六款遊戲",
     "summary": "Steam 推出限時免費週末活動，從即日起至 2026 年 7 月 28 日，玩家可免費體驗《合金裝備 - Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》等六款遊戲，活動結束後將有折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/07/24",
+    "title": "Robinhood 執行長X 帳號遭駭，被利用宣傳假迷因幣",
+    "summary": "隨著 Robinhood Chain 吸引大量資金湧入，迷因幣炒作持續升溫，Robinhood 執行長 Vlad Tenev 的 X 帳號驚傳遭駭客入侵，並被用來發布假迷因幣宣傳貼文，企圖誤導投資人。Robinhood 證實帳號遭盜用，已刪除相關貼文並正與 X 平台合作恢復帳號控制權。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/07/23",
     "title": "Epic Games Store新增免費遊戲《Foretales》",
     "summary": "Epic Games Store揭曉7月最終免費遊戲，其中《Foretales》已正式開放領取。此外，7月30日將有兩款Roguelite遊戲接力免費。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 限時免費領取《Foretales》",
-    "summary": "Epic Games Store 提供敘事卡牌遊戲《Foretales》限時免費領取，可永久保留，活動至 7 月 30 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 預告兩款遊戲免費領取：OTXO 與 Sol Cesto",
-    "summary": "Epic Games Store 預告將於 7 月 30 日至 8 月 6 日期間，提供動作 Roguelite 遊戲《OTXO》和戰術策略遊戲《Sol Cesto》免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
