@@ -9,6 +9,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限免《又一個僵屍塔防HD》《暗夜同行》等 8 款遊戲",
+    "summary": "Steam 與 Epic Games 平台近日推出限時免費領取與試玩活動。Steam 限時免費領取《又一個僵屍塔防HD》（至 7/31 01:00 止）。Epic Games 限時免費領取《暗夜同行》（至 7/27 09:02 止）。此外，Steam 免費週末遊玩包含《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》、《一起開火車2：汽笛重鳴》等遊戲至 7/28 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "大阪獨立遊戲展覽「Game Pavilion JP 2026 Summer」",
+    "summary": "大阪的獨立遊戲展覽「Game Pavilion JP 2026 Summer」將於 7 月 25 日在京瓷巨蛋大阪舉行，Steam 上已開放活動頁面。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -384,22 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 獨立遊戲《腳臭戰爭》（Toe-tal War）免費試玩 Demo 更新",
-    "summary": "獨立團隊 Mousitude Games 開發的橫捲動作解謎遊戲《腳臭戰爭》於 7 月 22 日更新免費 Demo，支援繁體中文。遊戲以「腳臭」為核心玩法，玩家需累積腳臭值來擊敗敵人，並利用鞋襪解開關卡機關。正式版預計於 2026 年第四季發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 七月最後免費遊戲公布：Splatoon Raiders、Halo: Campaign Evolved",
-    "summary": "Epic Games Store 公布七月最後兩款免費遊戲為 Splatoon Raiders 和 Halo: Campaign Evolved。目前可免費領取的 Foretales 將於 7 月 30 日由 OTXO 和 Sol Cesto 接替。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/12/08",
     "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
@@ -440,6 +440,15 @@
     "date": "2026/07/10",
     "title": "占星學家警告2026年7月將迎來「快速化」的全球巨變",
     "summary": "占星學家Amanda Walsh發布「2026年7月警告：『快速化』已經開始」影片，預測2026年7月將是全球巨變的關鍵時期，形容為「全人類的巨大啟蒙」。她認為多顆外行星將在7月形成「魔法三角」，引導人類走向新現實。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/07/31",
+    "expiry_date": "2026/08/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "疾管署羅一鈞警告 COVID-19 疫情升溫，高峰將在 7 月底至 8 月",
+    "summary": "衛生福利部疾病管制署長羅一鈞於 7 月 25 日發布預警，指出國內 COVID-19 疫情自 6 月中旬起逐漸走升，門急診就診人次大幅上升 66.5%，預估本週染疫就診將逼近 1 萬人次。他預計疫情高峰將於 7 月底至 8 月達到。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/07/31",
     "expiry_date": "2026/08/01"
