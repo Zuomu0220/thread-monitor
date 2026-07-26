@@ -73,6 +73,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam 限時免費領取：《又一個僵屍塔防HD》",
+    "summary": "Steam 平台目前提供俯視視角喪屍射擊遊戲《又一個僵屍塔防HD》（Yet Another Zombie Defense HD）限時免費領取，活動至 7 月 31 日 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam 多款遊戲限時免費暢玩",
+    "summary": "Steam 平台推出《殺戮空間3》（Killing Floor 3）、《獸獵突襲》（Beast Assault）、《翼星求生ICARUS》和《一起開火車2：汽笛重鳴》等 8 款遊戲限時免費暢玩，至 7 月 28 日 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -212,6 +228,22 @@
     "date": "2026/07/24",
     "title": "Steam 平台《Yet Another Zombie Defense HD》限時免費",
     "summary": "遊戲《Yet Another Zombie Defense HD》於 2026 年 7 月 24 日在 Steam 平台開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Six One Indie 舉辦 Demo Days 活動",
+    "summary": "Six One Indie 於 7 月 24 日宣布將於 7 月 31 日至 8 月 7 日舉辦為期一週的 Demo Days 活動，屆時將有超過 150 款獨立遊戲試玩版供玩家體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "K-Indie《HIPS N NOSES》將於 ChinaJoy 2026 首次公開試玩",
+    "summary": "韓國獨立遊戲工作室 PepperStones 開發中的新作《HIPS N NOSES》於 7 月 24 日宣布，將於 7 月 31 日至 8 月 3 日在中國 ChinaJoy 2026 展會中全球首次公開可遊玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -364,38 +396,6 @@
     "date": "2026/07/23",
     "title": "卡普空Steam特賣多款大作享優惠",
     "summary": "卡普空（Capcom）於 Steam 平台舉辦特賣活動，多款知名大作享有折扣，例如《生化危機4重製版》與《生化危機：村莊》均降價 75%，《街頭霸王6》則有 50% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 免費週末活動",
-    "summary": "Steam 啟動免費週末促銷活動，從現在起至 2026/07/27 上午 12 點 CT，六款遊戲可免費暢玩，包括《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》、《Unrailed 2: Back on Track》以及《Metal Gear Solid - Master Collection Version》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 最終七月免費遊戲",
-    "summary": "Epic Games Store 正式公布其七月份的最終免費遊戲為《Foretales》，玩家可在 2026/07/23 至 2026/07/30 期間領取。此外，2026/07/30 至 2026/08/06 將接續推出《OTXO》和《Sol Cesto》兩款 Roguelite 遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 7月最終免費遊戲揭曉",
-    "summary": "Epic Games Store於2026年7月23日正式公布了該月份最後的免費遊戲陣容，其中包括《Foretales》與另外兩款限時免費遊戲，如《NoRush! – Tower Edition》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 釋出《LuLuLaLa Demo》與《Pidgeon Pocket Demo》",
-    "summary": "Steam平台於2026年7月23日釋出了多款新遊戲試玩版，其中包含動作冒險角色扮演遊戲《LuLuLaLa Demo》及休閒策略街機遊戲《Pidgeon Pocket Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
