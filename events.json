@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Epic商城免費遊戲",
+    "summary": "《Together After Dark》、《Tower Edition》和《Denshattack!》限時免費領取至2026年7月27日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Steam免費Demo釋出",
+    "summary": "《The Unskilled Demo》和《科斯達麗佳的世末終之旅途》Demo將於7月27日免費釋出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/26",
     "title": "無最新負面與爭議事件",
@@ -44,6 +60,14 @@
     "date": "2026/07/26",
     "title": "Steam 《Another Door Demo》開放試玩",
     "summary": "Roguelike 玩法的回合制派對遊戲《Another Door Demo》目前在 Steam 上開放試玩。 遊戲中玩家們將被迫結盟並在冒險途中勾心鬥角，隱藏真實意圖、欺騙對手、賭上運氣以求全身而退。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/26",
+    "title": "Steam即將發行遊戲",
+    "summary": "《HEXSTORM: Tears of Arcadia》預計於7月26日發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -372,30 +396,6 @@
     "date": "2026/07/24",
     "title": "卡牌新作《開開關關 ON & OFF》預定 7 月底免費推出並替換 AI 素材",
     "summary": "由韓國團隊 Dopamine Crucian 開發的回合制牌組構築 Roguelite 新作《開開關關 ON & OFF》預定於 2026 年 7 月 31 日在 Steam 免費推出。 開發團隊宣布，為強化遊戲獨有視覺風格並提升完成度，將在上市前移除並替換所有曾用於部分內容的生成式 AI 美術元素。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "「白舟上等大西瓜Steam 特賣」活動展開",
-    "summary": "日本遊戲中英文在地化品牌 Shiravune 白舟於 Steam 展開「白舟上等大西瓜Steam 特賣」活動，期間為 2026 年 7 月 24 日至 8 月 7 日。 本次特賣集結多款成人向、AVG 與視覺小說作品，購買組合包還能享額外折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "K-Indie《HIPS N NOSES》將於 ChinaJoy 2026 全球首次公開 Demo",
-    "summary": "由韓國獨立遊戲工作室 PepperStones 開發中的新作《HIPS N NOSES》將於 2026 年 7 月 31 日至 8 月 3 日參展 ChinaJoy 2026，屆時將全球首次公開可遊玩 Demo。 這是一款結合咖啡廳經營模擬與動作 Roguelike 的作品，玩家將扮演能在無人入眠世界中做夢的少女 Mela。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Epic Games Store本週免費遊戲：《Foretales》",
-    "summary": "Epic Games Store宣布本週的免費遊戲為故事驅動的敘事冒險遊戲《Foretales》，玩家可在2026年7月23日至7月30日期間免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
