@@ -249,6 +249,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam《Bunny Guys!》與《BROTHER!!! Save him!》限時免費",
+    "summary": "Steam 平台目前提供《Bunny Guys!》與《BROTHER!!! Save him!》等遊戲限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -389,14 +397,6 @@
     "title": "蔡阿嘎妻子二伯品牌HAHABABY遭質疑抄襲",
     "summary": "百萬YouTuber蔡阿嘎的妻子二伯創立的親子品牌HAHABABY，其部分商品（包含童裝與生活用品）遭網友質疑設計樣式與日台其他品牌高度相似，引發抄襲疑慮。品牌團隊與二伯已對設計過程與發想來源進行說明，並預先將有疑慮的商品下架並辦理退款。",
     "avatar_url": "https://s.newtalk.tw/album/news/465/5f4a743122c4d.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "卡普空Steam特賣多款大作享優惠",
-    "summary": "卡普空（Capcom）於 Steam 平台舉辦特賣活動，多款知名大作享有折扣，例如《生化危機4重製版》與《生化危機：村莊》均降價 75%，《街頭霸王6》則有 50% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -3557,6 +3557,15 @@
     "date": "2026/02/27",
     "title": "4chan「比特幣先知」回歸：預言2026年底比特幣將達100萬美元，以太坊達10萬美元",
     "summary": "一篇來自 2025 年 11 月的匿名 4chan 貼文於 2026 年 2 月 27 日再度在社群媒體上廣為流傳。該貼文自稱是 2019 年曾準確預測比特幣低點的「4chan 比特幣先知」，預測在 2026 年底前，比特幣價格將達到 100 萬美元，以太坊將達到 10 萬美元。此預言引發社群熱烈討論，儘管其真實性仍存疑。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/23",
+    "title": "YouTube頻道探討布蘭登2026年最新預言",
+    "summary": "YouTube頻道「我不是外星人W Channel」發布影片，討論布蘭登（Brandon）針對2026年的最新預言，並探討其預言是否正在應驗。影片中提及2026年的預言，但具體內容未在搜尋結果中詳細說明 。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
