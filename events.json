@@ -393,11 +393,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 即將免費遊戲預告",
-    "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
+    "date": "2026/07/24",
+    "title": "Epic Games Store本週免費遊戲：《Foretales》",
+    "summary": "Epic Games Store宣布本週的免費遊戲為故事驅動的敘事冒險遊戲《Foretales》，玩家可在2026年7月23日至7月30日期間免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -3602,6 +3602,15 @@
     "date": "2026/07/23",
     "title": "YouTube頻道探討布蘭登2026年最新預言",
     "summary": "YouTube頻道「我不是外星人W Channel」發布影片，討論布蘭登（Brandon）針對2026年的最新預言，並探討其預言是否正在應驗。影片中提及2026年的預言，但具體內容未在搜尋結果中詳細說明 。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan匿名用戶SBC7HL預測2026年加密貨幣價格暴漲",
+    "summary": "一位在4chan上自稱SBC7HL的匿名用戶，因曾準確預測2025年比特幣週期高點而受到關注。他預測2026年比特幣(BTC)可能達到25萬美元，以太坊(ETH)可能達到2萬美元，Solana(SOL)可能達到1500美元，以及meme代幣BULLISH目標價為10美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
