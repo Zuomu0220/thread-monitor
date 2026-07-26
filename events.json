@@ -33,6 +33,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/26",
+    "title": "Steam 獨立遊戲《腳臭戰爭 Toe-tal War》Demo 開放試玩",
+    "summary": "獨立團隊 Mousitude Games 開發的橫捲動作解謎遊戲《腳臭戰爭》（Toe-tal War）在 Steam 推出免費 Demo 供玩家試玩，預計 2026 年第四季正式發售。 遊戲以「腳臭」作為核心玩法，玩家需透過累積腳臭值來擊敗敵人，並利用鞋襪解開關卡機關。 最新 Demo 已於 7 月 22 日更新，改善開場影片播放效能並調整關卡細節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/26",
+    "title": "Steam 《Another Door Demo》開放試玩",
+    "summary": "Roguelike 玩法的回合制派對遊戲《Another Door Demo》目前在 Steam 上開放試玩。 遊戲中玩家們將被迫結盟並在冒險途中勾心鬥角，隱藏真實意圖、欺騙對手、賭上運氣以求全身而退。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/25",
     "title": "Steam/Epic 限免《又一個僵屍塔防HD》《暗夜同行》等 8 款遊戲",
     "summary": "Steam 與 Epic Games 平台近日推出限時免費領取與試玩活動。Steam 限時免費領取《又一個僵屍塔防HD》（至 7/31 01:00 止）。Epic Games 限時免費領取《暗夜同行》（至 7/27 09:02 止）。此外，Steam 免費週末遊玩包含《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》、《一起開火車2：汽笛重鳴》等遊戲至 7/28 01:00 止。",
@@ -116,6 +132,14 @@
     "date": "2026/07/25",
     "title": "Steam限時免費",
     "summary": "五款遊戲免費暢玩至7月27日：Steam再次提供多款遊戲限時免費遊玩，包括《Unrailed 2: Back on Track》、《Wild Assault》和《Metal Gear Solid: Master Collection》等五款作品，玩家可在7月27日前體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限免與特價",
+    "summary": "Steam 與 Epic Games 平台近日推出多款遊戲限時免費領取或特價活動，包括《又一個僵屍塔防HD》、《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》以及《一起開火車2：汽笛重鳴》等遊戲。 其中《又一個僵屍塔防HD》可免費領取至 2026/7/31 01:00；《殺戮空間3》與《獸獵突襲》可免費遊玩至 2026/7/28 01:00，並有特價活動；《翼星求生ICARUS》與《一起開火車2：汽笛重鳴》同樣提供免費遊玩至 2026/7/28 01:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -345,57 +369,33 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "卡牌新作《開開關關 ON & OFF》預定 7 月底免費推出並替換 AI 素材",
+    "summary": "由韓國團隊 Dopamine Crucian 開發的回合制牌組構築 Roguelite 新作《開開關關 ON & OFF》預定於 2026 年 7 月 31 日在 Steam 免費推出。 開發團隊宣布，為強化遊戲獨有視覺風格並提升完成度，將在上市前移除並替換所有曾用於部分內容的生成式 AI 美術元素。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "「白舟上等大西瓜Steam 特賣」活動展開",
+    "summary": "日本遊戲中英文在地化品牌 Shiravune 白舟於 Steam 展開「白舟上等大西瓜Steam 特賣」活動，期間為 2026 年 7 月 24 日至 8 月 7 日。 本次特賣集結多款成人向、AVG 與視覺小說作品，購買組合包還能享額外折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "K-Indie《HIPS N NOSES》將於 ChinaJoy 2026 全球首次公開 Demo",
+    "summary": "由韓國獨立遊戲工作室 PepperStones 開發中的新作《HIPS N NOSES》將於 2026 年 7 月 31 日至 8 月 3 日參展 ChinaJoy 2026，屆時將全球首次公開可遊玩 Demo。 這是一款結合咖啡廳經營模擬與動作 Roguelike 的作品，玩家將扮演能在無人入眠世界中做夢的少女 Mela。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games 即將限時免費",
-    "summary": "Epic Games 商店將於 2026 年 7 月 23 日至 7 月 30 日提供《Foretales》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 限時免費領取《Infinity Nikki》",
-    "summary": "Epic Games Store 將於 7 月 23 日至 7 月 30 日提供《Infinity Nikki》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 免費遊戲",
-    "summary": "Epic Games Store 將於 2026 年 7 月 23 日至 7 月 30 日期間，開放限時免費領取「Infinity Nikki」、「RAVEN2」和「skate.™」等遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 免費遊戲預告：《Foretales》",
-    "summary": "Epic Games Store 宣布從 2026 年 7 月 23 日至 7 月 30 日，玩家將可免費領取敘事導向的數位卡牌遊戲《Foretales》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "七月多款獨立遊戲 Demo 持續開放",
-    "summary": "多款將於 2026 年 7 月發行的獨立遊戲目前已在 Steam 上開放 Demo 試玩，包括《Echoes of Aincrad》、《The Mound》、《ZeroSpace》、《Tears of Metal》和《Dinoblade》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 將提供 Foretales 限時免費",
-    "summary": "Epic Games Store 公布本月最後一款限時免費遊戲為《Foretales》，自 2026 年 7 月 23 日至 7 月 30 日可免費領取。這是一款敘事導向的數位卡牌遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
