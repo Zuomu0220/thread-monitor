@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Epic Games Store 限時免費",
+    "summary": "Epic Games 商城從即日起至 2026 年 7 月 27 日上午 9 時免費贈送《Together After Dark》、《NoRush! - Tower Edition》以及《KeepUp Survival》三款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/26",
     "title": "無最新負面與爭議事件",
@@ -321,6 +329,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "獨立遊戲展會",
+    "summary": "Six One Indie 宣布將於 7 月 31 日至 8 月 7 日舉辦「Demo Days」活動，屆時將有超過 150 款獨立遊戲 Demo 供玩家免費體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Xbox Game Pass 新增",
+    "summary": "Xbox 平台將於 7 月 27 日至 31 日期間新增多款遊戲，包括《Halo: Campaign Evolved – Premium Edition》（7 月 28 日）、《超英派遣中心》（7 月 29 日）及《Mistfall Hunter》（7 月 29 日）等，部分遊戲支援 Game Pass 及 Xbox Play Anywhere。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -372,30 +396,6 @@
     "date": "2026/07/23",
     "title": "Epic Games Store 將提供 Foretales 限時免費",
     "summary": "Epic Games Store 公布本月最後一款限時免費遊戲為《Foretales》，自 2026 年 7 月 23 日至 7 月 30 日可免費領取。這是一款敘事導向的數位卡牌遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games 免費領取《預言奇談》",
-    "summary": "Epic Games Store 本週免費遊戲為《預言奇談》（Foretales），領取時間至 2026 年 7 月 30 日 23 點截止。這是一款由 Alkemi 開發、Dear Villagers 發行的奇幻風格敘事卡牌遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games 下週免費遊戲預告：《尋日之旅》、《孤狼OTXO》",
-    "summary": "Epic Games 預告下週將送出兩款免費遊戲：《尋日之旅》（A Perfect Day）和《孤狼OTXO》（OTXO），兩款遊戲將於台灣時間 7 月 23 日 23:00 至 7 月 30 日 23:00 開放免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 公布下一波免費遊戲",
-    "summary": "Epic Games Store 宣布 7 月 23 日起將提供《Foretales》和《Death's Gambit: Afterlife》作為新的限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
