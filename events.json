@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam限時免費",
+    "summary": "五款遊戲免費暢玩至7月27日：Steam再次提供多款遊戲限時免費遊玩，包括《Unrailed 2: Back on Track》、《Wild Assault》和《Metal Gear Solid: Master Collection》等五款作品，玩家可在7月27日前體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -305,6 +313,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/24",
+    "title": "Steam限時免費暢玩",
+    "summary": "《合金裝備》等六款遊戲開放：Steam平台於7月24日開放《合金裝備- Master Collection Version》等六款遊戲限時免費暢玩，活動將持續至7月28日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/23",
     "title": "Epic Games Store 即將免費遊戲預告",
     "summary": "Epic Games Store 預計於7月23日至7月30日提供《Foretales》免費領取。此外，另有《Infinity Nikki》、《RAVEN2》及《skate.™》等遊戲也提供免費遊玩。",
@@ -380,22 +396,6 @@
     "date": "2026/07/23",
     "title": "Epic Games Store 公布下一波免費遊戲",
     "summary": "Epic Games Store 宣布 7 月 23 日起將提供《Foretales》和《Death's Gambit: Afterlife》作為新的限時免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 遊戲《遵命，陛下》（Yes, Your Grace）系列推出更新與特惠",
-    "summary": "為慶祝內容更新，《遵命，陛下》初代享 85% 折扣，續作《降雪》享 20% 折扣，購買合集包可享額外 10% 優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Steam 遊戲《Mars Horizon》參與 SimFest 2026 盛會並提供折扣",
-    "summary": "太空模擬策略遊戲《Mars Horizon》在 SimFest 2026 活動中提供 3 折優惠，活動持續至 2026 年 7 月 27 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1592,6 +1592,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告將於 2026 年 9 月 26 日再度歸來",
     "summary": "自稱來自 2058 年的「未來人」國分玲曾表示，她將在 2026 年 9 月 26 日再次現身，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/16",
+    "title": "2058未來人國分玲的五大浩劫預言",
+    "summary": "據稱從日本技術論壇伺服器扒出的「絕密草稿」顯示，國分玲預言2026年至2035年人類將面臨五件大事，包括俄烏戰爭走向、傳播力是新冠三倍的新型病毒，以及黃石超級火山異動。她曾表示將於2026年9月26日回來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
