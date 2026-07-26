@@ -41,6 +41,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限時免費領取《又一個僵屍塔防HD》《暗夜同行》等8款遊戲",
+    "summary": "Steam 與 Epic Games 平台近日推出多款限時免費領取與試玩活動，包括《又一個僵屍塔防HD》 (Yet Another Zombie Defense HD) 可於 Steam 限時免費領取至 07/31。Epic Games Store 則有《暗夜同行》(Together After Dark) 可限時免費領取至 07/27。此外，Epic Games Store 也在本月稍早推出了《Luto》、《Echo Generation: Midnight Edition》以及手機遊戲《The Ouroboros King》等免費遊戲，並預告《Foretales》即將免費發放。多款 Steam 遊戲如《殺戮空間3》(Killing Floor 3)、《獸獵突襲》(ICARUS) 也提供限時免費遊玩至 07/28。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "PC 新作《An Egg Stremely Hard Game》將於Steam 和 itch.io 推出",
+    "summary": "《An Egg Stremely Hard Game》是一款由 BBear Studio 開發的休閒合作遊戲，預計將於 2026 年 7 月 25 日登陸 PC 平台 (Steam 與 itch.io)。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -380,22 +396,6 @@
     "date": "2026/07/23",
     "title": "Steam 限時免費開放 6 款遊戲，包含《合金裝備》等",
     "summary": "Steam 平台推出 Free Weekend 活動，即日起至 7 月 27 日至 28 日，PC 玩家可免費體驗《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》、《Unrailed 2: Back on Track》和《Metal Gear Solid - Master Collection Version》共 6 款遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store 公布 7 月最後兩款免費遊戲",
-    "summary": "Epic Games Store 本週起推出敘事導向卡牌遊戲《Foretales》供玩家免費領取，取代了上週的《Luto》和《Echo Generation: Midnight Edition》。此外，Epic Games Store 也公布了 7 月 30 日至 8 月 6 日期間將免費贈送兩款 Roguelite 遊戲《OTXO》和《Sol Cesto》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/23",
-    "title": "Epic Games Store新增免費遊戲《Foretales》",
-    "summary": "Epic Games Store揭曉7月最終免費遊戲，其中《Foretales》已正式開放領取。此外，7月30日將有兩款Roguelite遊戲接力免費。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
