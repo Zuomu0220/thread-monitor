@@ -40,6 +40,30 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Switch 限免/特價",
+    "summary": "任天堂 Switch Online 試玩同樂會免費遊戲《Minecraft Dungeons》登場，試玩期間為 7 月 27 日 12:00 至 8 月 2 日 17:59。遊戲下載版同時提供最高 5 折折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Steam/Switch 特價",
+    "summary": "特別好評發售中的文字冒險遊戲《薛定谔的電話》於 Nintendo Switch 與 Steam 平台開啟史低八折優惠活動，同時公開聯動捆綁包與原聲大碟。Steam 優惠期間為 7 月 25 日 1:00 至 8 月 8 日 1:00（北京時間）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "多平台遊戲促銷",
+    "summary": "《Warframe》2026 夏季促銷活動火熱來襲，精選組合包限時優惠，涵蓋 Steam、Epic Games、PlayStation、Nintendo Switch、Xbox 等多個平台，活動時間因地區而異，部分活動將持續至 8 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/26",
     "title": "無最新負面與爭議事件",
@@ -84,6 +108,14 @@
     "date": "2026/07/26",
     "title": "Steam即將發行遊戲",
     "summary": "《HEXSTORM: Tears of Arcadia》預計於7月26日發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/26",
+    "title": "Steam 夏日特賣",
+    "summary": "Steam 夏日特賣會現正開跑中，多款熱門與懷舊遊戲享有高折扣，部分遊戲最高達 2.5 折，VR 遊戲也有優惠。例如《生化奇兵》下殺近 2 折。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -196,6 +228,14 @@
     "date": "2026/07/25",
     "title": "Steam 特價活動",
     "summary": "本週 Steam 推出多款遊戲折扣，例如《刺客教條》系列享有 7 折以上優惠，還有《哈迪斯2》、《無限機兵》、《怪物獵人物語3：命運雙龍》、《沙丘：香料戰爭》等多款遊戲折扣即將結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限免",
+    "summary": "蘋果仁整理 Steam 與 Epic Games 平台共 8 款限免遊戲資訊。Epic 限時免費領取《暗夜同行》至 7 月 27 日，Steam 限時免費領取《又一個僵屍塔防HD》至 7 月 31 日凌晨 1 點。此外，Steam 週末免費遊玩活動包含《殺戮空間3》、《獸獵突襲》、《一起開火車2：汽笛重鳴》、《消防模擬：火苗燃動》等，部分至 7 月 28 日或 8 月 7 日止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -356,46 +396,6 @@
     "date": "2026/07/24",
     "title": "K-Indie《HIPS N NOSES》將於 ChinaJoy 2026 首次公開試玩",
     "summary": "韓國獨立遊戲工作室 PepperStones 開發中的新作《HIPS N NOSES》於 7 月 24 日宣布，將於 7 月 31 日至 8 月 3 日在中國 ChinaJoy 2026 展會中全球首次公開可遊玩 Demo。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam《Bunny Guys!》與《BROTHER!!! Save him!》限時免費",
-    "summary": "Steam 平台目前提供《Bunny Guys!》與《BROTHER!!! Save him!》等遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/24",
-    "title": "新楓之谷實況主「窮乙己」代練偷竊爭議",
-    "summary": "知名新楓之谷YouTuber「窮苦龍」（綽號窮乙己）被爆出在代練過程中偷拿玩家遊戲物品「白錘」，引起巴哈姆特等遊戲社群熱烈討論。網友質疑其代練行為與後續辯解，使事件持續延燒。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Epic Games Store 7月免費遊戲：《Foretales》開放領取，下週新增《OTXO》和《Sol Cesto》",
-    "summary": "Epic Games Store持續提供免費遊戲，目前玩家可領取敘事卡牌遊戲《Foretales》，限時至7月30日。此外，Epic預告將於7月30日至8月6日免費贈送兩款Roguelite遊戲《OTXO》和《Sol Cesto》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam限時免費開放6款遊戲，含《合金裝備- Master Collection Version》",
-    "summary": "Steam平台推出Free Weekend（免費週末）活動，即日起至7月28日，玩家可免費體驗6款遊戲，包含經典潛行動作系列《合金裝備- Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》和《Unrailed 2: Back on Track》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Gamers Con 2026台灣國際電玩電競產業展盛大登場",
-    "summary": "2026台灣國際電玩電競產業展（Gamers Con 2026）於7月23日至7月27日在台北世貿一館舉行。本次展覽集結30餘家遊戲相關業者、共400個攤位，展示台灣遊戲產業年度盛會的規模，並結合虛實整合實境冒險遊戲，打造遊戲科技與體驗經濟新舞台。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -3956,6 +3956,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/04/01",
     "expiry_date": "2027/04/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/22",
+    "title": "2027 年末日警告",
+    "summary": "YouTube 影片探討多位自稱時空旅行者對 2027 年 4 月 9 日的警告，暗示該日期可能發生重大事件，並提及他們留下的六邊形硬幣、發光 UV 紋身等「不可能的實體證據」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/04/09",
+    "expiry_date": "2027/04/10"
   },
   {
     "category": "PROPHECY",
