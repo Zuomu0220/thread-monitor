@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/07/29",
+    "title": "無重大負面與爭議事件報告",
+    "summary": "根據本次「無差別拖網雷達」模式的搜尋結果，在 2026 年 7 月 22 日至 7 月 29 日期間，華語圈內未發現有廣泛報導或引發社群大規模討論的知名實況主或 VTuber 負面與爭議事件，包含炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等情況。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/28",
     "title": "目前無最新爭議事件",
     "summary": "在 2026 年 7 月 21 日至 7 月 28 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的重大事件。",
@@ -385,19 +393,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Epic Games Store《預言奇談》限時免費領取",
-    "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
+    "date": "2026/07/25",
+    "title": "Steam 7 月份新免費遊戲推薦",
+    "summary": "本月 Steam 平台新增多款免費遊戲供玩家體驗，其中包括《Strikers Club》、《NTE Neverness to Everness》、《Little Incrementisle》、《DUNGEON SLASHER》、《Catto Pew Pew》、《HYPERFIST》、《Procelio》、《The Lure》、《Warface》和《REWIND》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Epic Games Store 免費遊戲：《預言奇談》（Foretales）",
-    "summary": "Epic Games Store 現可免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。下週免費遊戲為俯視角快節奏肉鴿射擊遊戲《孤狼》（OTXO）和 Roguelite 戰術遊戲《尋日之旅》（Sol Cesto），預計於 7 月 30 日開始領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -4541,6 +4541,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2036/05/30",
     "expiry_date": "2036/05/31"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "Elon Musk 預言金錢將失去意義與英國內戰",
+    "summary": "科技巨頭 Elon Musk 在專訪中預言，金錢將在十年內失去意義，而英國則可能在二十年內爆發內戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2036/07/27",
+    "expiry_date": "2036/07/28"
   },
   {
     "category": "PROPHECY",
