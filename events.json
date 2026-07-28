@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/28",
+    "title": "PlayStation Store 夏日優惠活動",
+    "summary": "PlayStation Store 正舉行夏日優惠活動，期間自 7 月 29 日至 8 月 12 日。多款 PS5、PS4、PS VR2 數位版遊戲及追加內容享有折扣，例如《羊蹄山戰鬼》數位豪華版、《艾爾登法環黑夜君臨》以及《Monster Hunter Wilds 高級豪華版》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/27",
     "title": "Epic Games Store 限時免費",
     "summary": "Epic Games 商城從即日起至 2026 年 7 月 27 日上午 9 時免費贈送《Together After Dark》、《NoRush! - Tower Edition》以及《KeepUp Survival》三款遊戲。",
@@ -388,14 +396,6 @@
     "date": "2026/07/24",
     "title": "Epic Games Store 免費遊戲：《預言奇談》（Foretales）",
     "summary": "Epic Games Store 現可免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。下週免費遊戲為俯視角快節奏肉鴿射擊遊戲《孤狼》（OTXO）和 Roguelite 戰術遊戲《尋日之旅》（Sol Cesto），預計於 7 月 30 日開始領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam 限時免費遊戲：《Yet Another Zombie Defense HD》",
-    "summary": "Steam 平台目前可限時免費領取《Yet Another Zombie Defense HD》，活動將持續至 7 月 31 日上午 1 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
