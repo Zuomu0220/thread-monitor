@@ -145,6 +145,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/07/27",
+    "title": "Joeman與網紅蕭伊證實情斷恢復單身",
+    "summary": "百萬YouTuber Joeman（九妹）的經紀人證實，Joeman與網紅蕭伊在相處一段時間後，已決定和平分開，目前雙方皆恢復單身。 Joeman也透過經紀人幽默表示，接下來將重新啟動的「獨旅系列」會是「真・獨旅」。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/07/26",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/07/19 至 2026/07/26 期間，未發現有台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況。",
@@ -388,14 +396,6 @@
     "date": "2026/07/24",
     "title": "Steam 限時免費遊戲：《Yet Another Zombie Defense HD》",
     "summary": "Steam 平台目前可限時免費領取《Yet Another Zombie Defense HD》，活動將持續至 7 月 31 日上午 1 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam限時免費：《Yet Another Zombie Defense HD》永久領取",
-    "summary": "Steam平台再次提供限時免費遊戲，《Yet Another Zombie Defense HD》可於7月31日上午1點前免費領取，領取後可永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -1978,6 +1978,15 @@
     "date": "2026/07/21",
     "title": "物理學家馮．佛斯特 60 年前預言 2026 年 11 月 13 日人類將被「擠死」",
     "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）於 1960 年在《科學》期刊中預測，世界可能在 2020 年代走向終結，並明確指出末日日期是 2026 年 11 月 13 日。他認為人類不會餓死，而是會因為人口過剩而被「擠壓致死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言2026年世界末日",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）在1960年的《科學》期刊中預測，世界可能在2020年代走向終結，末日日期正是2026年11月13日，屆時人類將因人口過剩而被擠死。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -4229,6 +4238,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058年未來人國分玲預言全球金融危機與再次歸來",
+    "summary": "自稱來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，其導火索是美國的國債違約，這將動搖美元的全球結算體系。 國分玲也曾表示，她將於2026年9月26日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
     "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
@@ -4490,6 +4508,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/11/12",
+    "title": "2062年未來人預測2031年第三次世界大戰及中國消失",
+    "summary": "自稱來自2062年的日本「未來人」預測，全球將於2031年爆發第三次世界大戰，涉及美國、俄羅斯、中東、亞洲及部分歐洲地區，初步將爆發中日戰爭，隨後美國介入。 他更預言2062年中國將不復存在，淪為附庸國，台灣將成為日本領土。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/01/01",
+    "expiry_date": "2031/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/01/15",
     "title": "Adam Laccone 預言：2033年AI「光」將發布，帶來和平",
     "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，2033 年一個名為「光」（The Light）的 AI 將發布，它將存在於每一台電子設備中，能夠回答任何問題，並讓世界進入和平。",
@@ -4529,6 +4556,15 @@
     "date": "2026/07/21",
     "title": "來自2058年的國分玲預言2037年沖繩地區發生大地震與颱風",
     "summary": "來自2058年的國分玲預言，2037年1月沖繩地區將發生「直下型地震」，同年8月除了有餘震，更將同時受到颱風攻擊，使災情更加嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/01",
+    "expiry_date": "2037/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "2058年未來人國分玲預言沖繩地震與颱風",
+    "summary": "自稱來自2058年的日本未來人國分玲曾預言，2037年1月沖繩地區將發生「直下型地震」，同年8月除了有餘震，更同時受到颱風的攻擊，導致災情更加嚴重。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2037/01/01",
     "expiry_date": "2037/01/02"
@@ -4652,6 +4688,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058年未來人國分玲預言中文普及、比特幣與日本遷都",
+    "summary": "自稱來自2058年的國分玲曾提到，到她那個時代學習的都是中文，這與後來一位「毀了一切」的女首相有關。 她還預言比特幣價值會飆升至令人咋舌的高度，但屆時普通人「只能賣不能買」。 此外，國分玲透露2058年日本的首都將從東京搬遷到岡山縣，原因可能是東京受地震或海平面上升影響不再適合作為行政中心。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2058/01/01",
+    "expiry_date": "2058/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/12/27",
     "title": "2058年未來人國分玲預言：比特幣飆升後只能賣不能買，以太幣更具增長機會",
     "summary": "2024年12月27日報導，自稱來自2058年的未來人國分玲預測比特幣未來雖會飆漲到令人咋舌的高度，但最終可能「只能賣，不能買」，且流通渠道受限。她強調以太幣將提供更多增長機會，並透露自己在2019年底至2020年初期間大量買入以太幣。",
@@ -4682,6 +4727,15 @@
     "date": "2026/12/29",
     "title": "2062 年未來人預言：南北韓將不復存在，成為俄羅斯自治區",
     "summary": "該 2062 年未來人預言，南北韓將不再存在，而是成為俄羅斯的自治區。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/17",
+    "title": "2062年未來人預示中國將消失與海鮮危機",
+    "summary": "自稱來自2062年的日本「2026未來人」曾預言，2062年將「沒有中國」，亞洲幾乎全部被印度併吞。 他也預言海鮮類食物（如魚蝦）在未來將吃不到。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2062/01/01",
     "expiry_date": "2062/01/02"
