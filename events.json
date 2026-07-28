@@ -265,6 +265,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam/Epic 限時免費遊戲整理",
+    "summary": "Steam 與 Epic Games 平台近日推出多款限時免費領取與試玩活動。Steam 平台可免費領取《Yet Another Zombie Defense HD》至 7/31 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Steam 免費週末暢玩：《消防模擬：火苗燃動》、《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》",
+    "summary": "Steam 免費週末活動開放多款遊戲限時免費遊玩。其中，《消防模擬：火苗燃動》可免費遊玩至 2026/7/27 04:00 止，並特價至 2026/7/28 止。《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》則可免費遊玩至 2026/7/28 01:00 止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -381,22 +397,6 @@
     "title": "Epic Games Store 限時免費遊戲釋出",
     "summary": "Epic Games Store 公布了 2026 年 7 月份的最新免費遊戲。玩家目前可限時領取敘事導向卡牌遊戲《Foretales》，領取期限至 7 月 30 日。此外，兩款 Roguelite 遊戲《OTXO》和《Sol Cesto》將於 7 月 30 日至 8 月 6 日期間開放免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam 限時免費週末活動：《合金裝備》等六款遊戲",
-    "summary": "Steam 推出限時免費週末活動，從即日起至 2026 年 7 月 28 日，玩家可免費體驗《合金裝備 - Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》等六款遊戲，活動結束後將有折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/24",
-    "title": "Robinhood 執行長X 帳號遭駭，被利用宣傳假迷因幣",
-    "summary": "隨著 Robinhood Chain 吸引大量資金湧入，迷因幣炒作持續升溫，Robinhood 執行長 Vlad Tenev 的 X 帳號驚傳遭駭客入侵，並被用來發布假迷因幣宣傳貼文，企圖誤導投資人。Robinhood 證實帳號遭盜用，已刪除相關貼文並正與 X 平台合作恢復帳號控制權。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1655,6 +1655,15 @@
     "date": "2026/05/19",
     "title": "國分玲（來自 2058 年的未來人）預言 2026 年底全新傳染病肆虐",
     "summary": "國分玲預言，2026 年底將有全新傳染病肆虐全球。她也預計將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預言：2026 年是日本及全球重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點。她還預言將於 2026 年 9 月 26 日再次現身回答問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -3899,6 +3908,15 @@
     "date": "2026/03/29",
     "title": "西班牙時間旅行者稱2027年人類滅絕",
     "summary": "西班牙一名自稱時間旅行者「哈維爾」（Javier）分享多則來自「未來」的照片，聲稱自己於2027年從睡夢中醒來，發現人類已完全消失殆盡，自己是唯一的倖存者，城市空無一人但電力與網路仍正常運作。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/22",
+    "title": "2027 年時間旅行者警告：時間線分岔點將帶來多重災難",
+    "summary": "Reddit 論壇上有時間旅行者聲稱，2027 年將是時間線的分岔點，可能會發生經濟與社會崩潰、超級先進 AI、太陽閃焰與全球極光、外星人首次接觸事件，以及既有機構瓦解和潛在的人口減少事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
