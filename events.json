@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/28",
+    "title": "目前無最新爭議事件",
+    "summary": "在 2026 年 7 月 21 日至 7 月 28 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的重大事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/27",
     "title": "Epic Games Store 限時免費",
@@ -249,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/25",
+    "title": "Epic Games Store 限時免費領取《暗夜同行》(Together After Dark)",
+    "summary": "這是一款支援 4 人合作的心理恐怖生存遊戲，講述 4 名青少年被困在黑暗森林中，必須齊心協力逃離的故事。玩家可在 2026 年 7 月 14 日至 7 月 27 日期間領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/24",
     "title": "Epic Games Store《預言奇談》限時免費領取",
     "summary": "Epic Games Store 現已開放限時免費領取敘事卡牌遊戲《預言奇談》（Foretales），一旦領取即可永久入庫。本次免費領取活動將持續至台灣時間 2026 年 7 月 30 日 23:00 止。",
@@ -381,22 +397,6 @@
     "title": "Robinhood 執行長X 帳號遭駭，被利用宣傳假迷因幣",
     "summary": "隨著 Robinhood Chain 吸引大量資金湧入，迷因幣炒作持續升溫，Robinhood 執行長 Vlad Tenev 的 X 帳號驚傳遭駭客入侵，並被用來發布假迷因幣宣傳貼文，企圖誤導投資人。Robinhood 證實帳號遭盜用，已刪除相關貼文並正與 X 平台合作恢復帳號控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam 平台《Yet Another Zombie Defense HD》限時免費",
-    "summary": "遊戲《Yet Another Zombie Defense HD》於 2026 年 7 月 24 日在 Steam 平台開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Six One Indie 舉辦 Demo Days 活動",
-    "summary": "Six One Indie 於 7 月 24 日宣布將於 7 月 31 日至 8 月 7 日舉辦為期一週的 Demo Days 活動，屆時將有超過 150 款獨立遊戲試玩版供玩家體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -758,6 +758,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/11",
     "expiry_date": "2026/09/12"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/06",
+    "title": "Chris Bledsoe 預言 2026 新知識降臨與天狼星對齊",
+    "summary": "超自然現象體驗者 Chris Bledsoe 預言，當天狼星（Regulus）在黎明前與獅身人面像（Sphinx）的凝視對齊時，「新知識」將進入世界。最初認為會在 2026 年復活節前後或秋季發生，但有研究者指出實際對齊日期可能在 2026 年 10 月 7 日。另一種解釋認為這預示著 2026 年伊朗與以色列爆發核戰，隨後數千個發光球體從海洋升起進行干預。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/21",
+    "expiry_date": "2026/09/22"
   },
   {
     "category": "PROPHECY",
@@ -1637,6 +1646,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2028 年全球金融危機",
     "summary": "來自 2058 年的未來人國分玲曾預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，屆時美元的全球結算體系將出現根本性動搖。國分玲也曾表示將於 2026 年 9 月 26 日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲（來自 2058 年的未來人）預言 2026 年底全新傳染病肆虐",
+    "summary": "國分玲預言，2026 年底將有全新傳染病肆虐全球。她也預計將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
