@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/28",
+    "title": "目前無相關負面與爭議事件資訊",
+    "summary": "在 2026/07/21 至 2026/07/28 期間，Google 搜尋結果未顯示台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新資訊。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/07/27",
     "title": "Epic Games Store 限時免費",
@@ -76,6 +84,14 @@
     "date": "2026/07/27",
     "title": "2026 ChinaJoy 開幕，多款懷舊遊戲更新與試玩",
     "summary": "2026 年 ChinaJoy 於 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，主題為「與 AI 同遊」。展會將有近 900 家企業、逾千款遊戲產品參展。其中，經典 MMORPG《無盡的任務：傳奇》將於 7 月 28 日全球上線，主打「原汁原味+現代優化」。網易 Joker 工作室旗下的開放世界 RPG《遺忘之海》將於 7 月 30 日更新「失落海域·第二幕」版本，解鎖六座全新島嶼。B 站遊戲也將首次公開一款重磅 IP 神秘新品的實機試玩。此外，7 月 29 日至 8 月 3 日，Steam 與蒸汽平台首頁將上線 2026 ChinaJoy Game Show 專題頁，有超過 600 款遊戲可供線上瀏覽、關注試玩版或加入願望單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Steam 最新好評PC遊戲Demo釋出",
+    "summary": "GameGrin 報導了上週（7月20日至26日）Steam 平台發布的多款好評 PC 遊戲試玩版，其中包括了由 Gray2RGB 開發的冒險休閒獨立遊戲《Low-Budget Repairs Demo》（90%好評），以及 Ravernt 開發的冒險休閒角色扮演遊戲《Folder Dungeon Demo》（100%好評），兩者皆於 2026 年 7 月 24 日發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/24",
     "title": "Epic Games 下週免費遊戲預告《孤狼》（OTXO）與《尋日之旅》（Sol Cesto）",
     "summary": "Epic Games Store 宣布自 7 月 30 日起，將提供俯視角快節奏肉鴿射擊遊戲《孤狼》與 Roguelite 戰術遊戲《尋日之旅》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam 限時免費暢玩《超級高爾夫大亂鬥》",
-    "summary": "Steam 平台提供《超級高爾夫大亂鬥》限時免費遊玩，活動已於 7 月 24 日凌晨 1 時結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/24",
-    "title": "Steam 限時免費",
-    "summary": "遊戲《又一個殭屍塔防HD》（Yet Another Zombie Defense HD）將從 7 月 24 日開始限時一週免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1969,6 +1969,15 @@
     "date": "2026/01/10",
     "title": "美國學者預言 2026 年 11 月 13 日「世界末日」",
     "summary": "金山紀元報導，美國伊利諾大學的三位學者在 1960 年發表的研究報告中，依據數學方程式推算出世界末日將因人口暴增而於 2026 年 11 月 13 日降臨。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "物理學家馮．佛斯特 60 年前預言 2026 年 11 月 13 日人類將被「擠死」",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）於 1960 年在《科學》期刊中預測，世界可能在 2020 年代走向終結，並明確指出末日日期是 2026 年 11 月 13 日。他認為人類不會餓死，而是會因為人口過剩而被「擠壓致死」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
