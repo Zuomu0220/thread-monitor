@@ -81,6 +81,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/07/28",
+    "title": "XBOX @ Gamescom 2026 展出資訊",
+    "summary": "XBOX 公布 2026 年德國科隆遊戲展 Gamescom 展出相關資訊，將於台灣時間 8 月 26 日、8 月 27 日晚上 10 點進行為期兩天的直播，並在實體攤位展出 25 個遊戲開放試玩，包括《決勝時刻現代戰爭4》、《戰爭機器E-DAY》、《Minecraft 地下城II》、《神鬼寓言》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/07/27",
     "title": "Epic Games Store 限時免費",
     "summary": "Epic Games 商城從即日起至 2026 年 7 月 27 日上午 9 時免費贈送《Together After Dark》、《NoRush! - Tower Edition》以及《KeepUp Survival》三款遊戲。",
@@ -220,6 +228,14 @@
     "date": "2026/07/27",
     "title": "Steam 火車節結束",
     "summary": "Steam「火車節」主題特賣活動於 2026 年 7 月 20 日至 7 月 27 日舉行，展示一系列與火車相關的遊戲。此活動在指定日期結束，提供玩家探索鐵道主題遊戲的機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "2026 ChinaJoy 開幕，多款遊戲更新與AI主題",
+    "summary": "2026 ChinaJoy 遊戲展將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心開幕，本屆主題為「與AI同遊」，展區涵蓋前沿科技、主機遊戲、移動電競、動漫潮玩等多個板塊。同時，《絕區零》3.1版本「漫長的告別」將於7月29日上線，《無與倫比》免費大型DLC已於7月27日上線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/25",
     "title": "Steam 多款遊戲限時免費暢玩",
     "summary": "Steam 平台推出《殺戮空間3》（Killing Floor 3）、《獸獵突襲》（Beast Assault）、《翼星求生ICARUS》和《一起開火車2：汽笛重鳴》等 8 款遊戲限時免費暢玩，至 7 月 28 日 01:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "Steam限時免費",
-    "summary": "五款遊戲免費暢玩至7月27日：Steam再次提供多款遊戲限時免費遊玩，包括《Unrailed 2: Back on Track》、《Wild Assault》和《Metal Gear Solid: Master Collection》等五款作品，玩家可在7月27日前體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "Steam/Epic 限免與特價",
-    "summary": "Steam 與 Epic Games 平台近日推出多款遊戲限時免費領取或特價活動，包括《又一個僵屍塔防HD》、《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》以及《一起開火車2：汽笛重鳴》等遊戲。 其中《又一個僵屍塔防HD》可免費領取至 2026/7/31 01:00；《殺戮空間3》與《獸獵突襲》可免費遊玩至 2026/7/28 01:00，並有特價活動；《翼星求生ICARUS》與《一起開火車2：汽笛重鳴》同樣提供免費遊玩至 2026/7/28 01:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -3809,6 +3809,15 @@
     "date": "2026/02/27",
     "title": "4chan 匿名用戶：比特幣和以太坊價格預測",
     "summary": "一名 4chan 匿名用戶（2019 年曾精準預測比特幣底部）再度發布預言，預計比特幣將達到 100 萬美元，以太坊達到 10 萬美元，時間點在 2026 年底前。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058年未來人國分玲預言：2026年底新傳染病肆虐全球",
+    "summary": "自稱來自2058年的日本「未來人」國分玲據傳將於2026年9月26日再次歸來，並有流出草稿預言2026年底全球將肆虐一種傳播力翻三倍的新型病毒，並提及俄烏戰爭的走向等。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
