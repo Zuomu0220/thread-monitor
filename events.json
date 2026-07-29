@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games Store 預告下週免費遊戲：《OTXO》與《Sol Cesto》",
+    "summary": "Epic Games Store宣布，接替《Foretales》的下週免費遊戲將是《OTXO》和《Sol Cesto》，可於7月30日至8月6日期間領取。《OTXO》是一款快節奏的黑白Roguelite射擊遊戲，而《Sol Cesto》則是一款基於網格的Roguelite惡魔爬行者遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -29,6 +37,14 @@
     "title": "某VTuber詭異「抖動」直播破130萬觀看，本人發聲明",
     "summary": "在一則關於《蔚藍檔案》總監道歉事件的報導中，提及一名VTuber因「詭異抖動」直播創下破130萬觀看數，其本人已針對此現象發布最新聲明，引發網友熱議。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/07/29",
+    "title": "中小型VTuber經紀公司「彩虹新星」遭員工爆料隱私外洩",
+    "summary": "有自稱「彩虹新星」前員工的匿名帳號在Threads爆料，指控公司內部管理混亂，曾發生旗下VTuber的中之人個人資料（如身分證、住址等）因員工操作不當而外洩的事件。該爆料引起廣大中之人關注，許多人擔心自身隱私安全，並要求經紀公司出面澄清與負責。目前「彩虹新星」已發布簡短聲明，表示正在調查此事，但未能平息眾怒。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -101,6 +117,14 @@
     "title": "XBOX @ Gamescom 2026 展出資訊",
     "summary": "XBOX 公布 2026 年德國科隆遊戲展 Gamescom 展出相關資訊，將於台灣時間 8 月 26 日、8 月 27 日晚上 10 點進行為期兩天的直播，並在實體攤位展出 25 個遊戲開放試玩，包括《決勝時刻現代戰爭4》、《戰爭機器E-DAY》、《Minecraft 地下城II》、《神鬼寓言》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/07/28",
+    "title": "個人勢VTuber「星野夢」宣布無限期停播，疑涉合約糾紛",
+    "summary": "剛出道不久的個人勢VTuber「星野夢」於社群平台X（Twitter）發布聲明，表示將無限期停止所有直播活動，並暗示此決定與「某些複雜的合約問題」有關。社群論壇Dcard與VTuber討論區開始出現多篇匿名爆料，指稱星野夢的經紀人存在不合理抽成與限制，導致雙方產生嚴重摩擦。目前經紀公司尚未對此發表官方回應，但事件已在華語VTuber圈引起廣泛關注。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -344,6 +368,14 @@
     "days_left": 3
   },
   {
+    "category": "VTUBER",
+    "date": "2026/07/26",
+    "title": "知名VTuber團體「幻櫻之舞」成員「櫻坂心」爆發社群口角事件",
+    "summary": "幻櫻之舞所屬VTuber「櫻坂心」在X上與另一位小型VTuber因遊戲合作細節產生公開爭執，雙方粉絲隨即加入戰局，導致討論區與社群媒體罵聲不斷。事件隨後演變為對兩位VTuber職業道德的質疑，部分網友翻出過往言論，指責櫻坂心態度傲慢。雖然雙方事後刪除相關貼文，但仍有截圖在PTT與Dcard流傳，並持續延燒。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/07/25",
     "title": "Steam/Epic 限免《又一個僵屍塔防HD》《暗夜同行》等 8 款遊戲",
@@ -365,38 +397,6 @@
     "title": "Steam 限時免費開放 6 款遊戲至 7 月 28 日",
     "summary": "Steam 平台推出限時免費週末活動，即日起至 7 月 27 日至 28 日，PC 玩家可免費體驗 6 款遊戲。這些遊戲涵蓋生存、合作、模擬、射擊及經典動作冒險等不同類型，包含《合金裝備- Master Collection Version》、《Icarus》、《Firefighting Simulator: Ignite》、《Killing Floor 3》、《Wild Assault》及《Unrailed 2: Back on Track》。活動結束後，購買這些遊戲可享折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "Steam/Epic 限免遊戲與特價活動",
-    "summary": "Steam 與 Epic Games 平台近日推出多款限時免費領取與試玩活動。Epic Games 平台從 7 月 24 日至 26 日進行《MARVEL Tōkon: Fighting Souls》公開測試。另外，Epic Games Store 也提供《Foretales》限時免費，以及《OTXO》、《Sol Cesto》即將免費領取。Steam 方面，有《又一個僵屍塔防HD》限時免費領取至 2026/7/31。其他免費遊玩與特價遊戲包括《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "Steam/Epic 限時免費領取《又一個僵屍塔防HD》《暗夜同行》等8款遊戲",
-    "summary": "Steam 與 Epic Games 平台近日推出多款限時免費領取與試玩活動，包括《又一個僵屍塔防HD》 (Yet Another Zombie Defense HD) 可於 Steam 限時免費領取至 07/31。Epic Games Store 則有《暗夜同行》(Together After Dark) 可限時免費領取至 07/27。此外，Epic Games Store 也在本月稍早推出了《Luto》、《Echo Generation: Midnight Edition》以及手機遊戲《The Ouroboros King》等免費遊戲，並預告《Foretales》即將免費發放。多款 Steam 遊戲如《殺戮空間3》(Killing Floor 3)、《獸獵突襲》(ICARUS) 也提供限時免費遊玩至 07/28。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "PC 新作《An Egg Stremely Hard Game》將於Steam 和 itch.io 推出",
-    "summary": "《An Egg Stremely Hard Game》是一款由 BBear Studio 開發的休閒合作遊戲，預計將於 2026 年 7 月 25 日登陸 PC 平台 (Steam 與 itch.io)。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/25",
-    "title": "蔡阿嘎前親信蘿拉侵吞公款事件更新",
-    "summary": "百萬YouTuber蔡阿嘎前員工蘿拉因涉嫌侵吞公司款項，近日被爆出已在桃園一間二手車商找到新工作，並於7月16日下午被媒體直擊與同事拍攝短影音。此事件為2022年爆發的公關危機後續發展，持續受到網友關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -1688,6 +1688,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "來自2058年的未來人國分玲預言：2026年9月26日將再次現身回答問題",
+    "summary": "曾被視為預言精準的2058年未來人國分玲，曾在2CH論壇預言2026到2030年的重大事件。他表示，將於2026年9月26日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -2023,6 +2032,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特預言：2026年11月13日人類將因人口過剩滅亡",
     "summary": "根據1960年物理學家馮．佛斯特（Heinz von Foerster）於《科學》（Science）期刊發表的人口成長模型推算，人類社會可能在2026年11月13日（星期五）因人口過剩而被「擠壓致死」，導致世界末日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "物理學家馮．佛斯特預言：2026年11月13日世界將因人口過多而終結",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）早在1960年便預言，世界可能在2020年代走向終結，並將末日日期精確定在2026年11月13日，原因是全球人口過度增長。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
