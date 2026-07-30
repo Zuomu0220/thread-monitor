@@ -1,5 +1,21 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/07/31",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026 年 07 月 24 日至 2026 年 07 月 31 日期間，未搜尋到台灣/華語圈實況主與 VTuber 的最新負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam 2026 年 7 月主題特賣活動",
+    "summary": "Steam 平台在 2026 年 7 月舉辦「社交推理節」與「火車節」兩項主題特賣活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -52,6 +68,14 @@
     "date": "2026/07/30",
     "title": "PC遊戲",
     "summary": "Epic Games Store 限時免費遊戲《Foretales》：一款故事導向的敘事冒險遊戲，玩家扮演預見末日幻象的盜賊Volepain，透過牌組建構和數位桌面機制來管理時間與資源以避免災難發生。此遊戲的免費領取時間至7月30日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 免費遊戲：《OTXO》與《Sol Cesto》",
+    "summary": "Epic Games 商店宣布自 2026 年 7 月 30 日起至 8 月 6 日，將提供快節奏黑白 Roguelite 射擊遊戲《OTXO》和網格式 Roguelite 惡魔爬行遊戲《Sol Cesto》供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -373,30 +397,6 @@
     "title": "2026 ChinaJoy前瞻：朝夕光年多款新品將亮相",
     "summary": "第23屆ChinaJoy展會將於7月31日至8月3日在上海舉行，朝夕光年確認參展，並將展示多款自研新品，其中包括黑暗奇幻動作遊戲《霧影獵人》，預計於2026年7月30日全球發售。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/27",
-    "title": "Steam 免費序號領取：Baston",
-    "summary": "Steam 平台提供遊戲 Baston 的免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/27",
-    "title": "Steam WB Games' LEGO 特賣活動",
-    "summary": "Steam 平台推出 WB Games 的樂高特賣活動，即日起至 2026 年 8 月 10 日，多款樂高蝙蝠俠、樂高漫威、樂高星際大戰、樂高哈利波特等遊戲及 DLC 提供高達 90% 的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/27",
-    "title": "Steam 特惠",
-    "summary": "「來自波蘭的愛 2026」（FROM POLAND WITH LOVE 2026）特賣活動開跑：超過 40 家波蘭開發商和發行商帶來 200 多款遊戲的大幅折扣，活動將持續至 2026 年 8 月 10 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1643,6 +1643,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言 2026 年 9 月 26 日將再次歸來",
+    "summary": "據報導，準確率驚人的未來人國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/28",
     "title": "Reddit匿名用戶聲稱時空旅行者發布關於重大科技突破的預言",
     "summary": "一名在Reddit論壇上自稱時空旅行者的匿名用戶發布貼文，預測在2026年下半年將會有關於人工智慧與量子計算的重大突破，可能改變現有科技產業格局。",
@@ -1996,6 +2005,15 @@
     "date": "2026/07/27",
     "title": "物理學家馮．佛斯特預言：2026年11月13日世界將因人口過多而終結",
     "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）早在1960年便預言，世界可能在2020年代走向終結，並將末日日期精確定在2026年11月13日，原因是全球人口過度增長。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特對 2026 年 11 月 13 日的末日預言",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）在 1960 年代曾預測世界恐在 2020 年代走向終結，並將末日日期精確指出為 2026 年 11 月 13 日，原因為人口過度膨脹導致人類滅絕。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
