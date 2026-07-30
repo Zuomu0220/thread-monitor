@@ -48,6 +48,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "PC遊戲",
+    "summary": "Epic Games Store 限時免費遊戲《Foretales》：一款故事導向的敘事冒險遊戲，玩家扮演預見末日幻象的盜賊Volepain，透過牌組建構和數位桌面機制來管理時間與資源以避免災難發生。此遊戲的免費領取時間至7月30日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -388,14 +396,6 @@
     "date": "2026/07/27",
     "title": "Steam 特惠",
     "summary": "「來自波蘭的愛 2026」（FROM POLAND WITH LOVE 2026）特賣活動開跑：超過 40 家波蘭開發商和發行商帶來 200 多款遊戲的大幅折扣，活動將持續至 2026 年 8 月 10 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/27",
-    "title": "Steam 免費 DLC",
-    "summary": "《龍之劍：覺醒》限時免費發放使魔「深淵冥狼」：這款於 7 月 23 日上市的遊戲宣布將限時免費發放使魔「深淵冥狼」給所有玩家，在期限內領取即可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
