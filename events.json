@@ -72,6 +72,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/29",
+    "title": "Steam 熱銷遊戲",
+    "summary": "《超級變色龍》（Meccha Chameleon）特價優惠與工作坊安全漏洞：這款社群躲貓貓遊戲近日傳出 Steam 工作坊自創地圖藏有惡意程式，但官方已確認功能不全未造成實質損害。遊戲本身在 8 月 3 日前特價 115 元（原價 136 元）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/28",
     "title": "目前無最新爭議事件",
@@ -344,6 +352,22 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Steam 特惠",
+    "summary": "「來自波蘭的愛 2026」（FROM POLAND WITH LOVE 2026）特賣活動開跑：超過 40 家波蘭開發商和發行商帶來 200 多款遊戲的大幅折扣，活動將持續至 2026 年 8 月 10 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/27",
+    "title": "Steam 免費 DLC",
+    "summary": "《龍之劍：覺醒》限時免費發放使魔「深淵冥狼」：這款於 7 月 23 日上市的遊戲宣布將限時免費發放使魔「深淵冥狼」給所有玩家，在期限內領取即可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/26",
     "title": "無最新負面與爭議事件",
@@ -372,30 +396,6 @@
     "date": "2026/07/26",
     "title": "Steam 獨立遊戲《腳臭戰爭 Toe-tal War》Demo 開放試玩",
     "summary": "獨立團隊 Mousitude Games 開發的橫捲動作解謎遊戲《腳臭戰爭》（Toe-tal War）在 Steam 推出免費 Demo 供玩家試玩，預計 2026 年第四季正式發售。 遊戲以「腳臭」作為核心玩法，玩家需透過累積腳臭值來擊敗敵人，並利用鞋襪解開關卡機關。 最新 Demo 已於 7 月 22 日更新，改善開場影片播放效能並調整關卡細節。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/26",
-    "title": "Steam 《Another Door Demo》開放試玩",
-    "summary": "Roguelike 玩法的回合制派對遊戲《Another Door Demo》目前在 Steam 上開放試玩。 遊戲中玩家們將被迫結盟並在冒險途中勾心鬥角，隱藏真實意圖、欺騙對手、賭上運氣以求全身而退。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/26",
-    "title": "Steam即將發行遊戲",
-    "summary": "《HEXSTORM: Tears of Arcadia》預計於7月26日發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/26",
-    "title": "Steam 夏日特賣",
-    "summary": "Steam 夏日特賣會現正開跑中，多款熱門與懷舊遊戲享有高折扣，部分遊戲最高達 2.5 折，VR 遊戲也有優惠。例如《生化奇兵》下殺近 2 折。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
