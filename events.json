@@ -5,7 +5,7 @@
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
     "summary": "Epic Games Store標示自7月30日至8月6日期間，將有《絕區零》全新3.1版本「漫長的告別」推出，以及《Arena Breakout: Infinite》與《Resident Evil 4》的限時聯名活動。 ### 🎮 實況主區",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +13,7 @@
     "title": "Epic Games",
     "summary": "即將免費：《OTXO》與《Sol Cesto》：Epic Games Store 宣布將於 2026 年 7 月 30 日至 8 月 6 日開放《OTXO》和《Sol Cesto》兩款遊戲限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +21,7 @@
     "title": "Epic Games Store 預告下週免費遊戲：《OTXO》與《Sol Cesto》",
     "summary": "Epic Games Store宣布，接替《Foretales》的下週免費遊戲將是《OTXO》和《Sol Cesto》，可於7月30日至8月6日期間領取。《OTXO》是一款快節奏的黑白Roguelite射擊遊戲，而《Sol Cesto》則是一款基於網格的Roguelite惡魔爬行者遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -29,7 +29,7 @@
     "title": "Epic Games 下週免費遊戲預告",
     "summary": "Epic Games Store 預告下週（7 月 30 日至 8 月 6 日）將免費贈送《OTXO》和《Sol Cesto》兩款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -37,7 +37,15 @@
     "title": "Epic Games 免費遊戲預告：OTXO 與 Sol Cesto",
     "summary": "Epic Games 商店預告，在 7 月 30 日至 8 月 6 日期間，將開放限時免費領取《OTXO》與《Sol Cesto》。《OTXO》是一款快節奏的黑白 Roguelite 射擊遊戲，《Sol Cesto》則是一款網格制 Roguelite 惡魔爬行遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "萬聯證券：7 月遊戲版號發放量創新高",
+    "summary": "國家新聞出版署於 2026 年 7 月 23 日公布 7 月份國產遊戲版號及進口遊戲版號，共有 193 款國產遊戲和 4 款進口遊戲過審，合計發放 197 款遊戲版號，創年內新高。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
   },
   {
     "category": "STREAMER",
@@ -45,7 +53,7 @@
     "title": "無重大負面與爭議事件報告",
     "summary": "根據本次「無差別拖網雷達」模式的搜尋結果，在 2026 年 7 月 22 日至 7 月 29 日期間，華語圈內未發現有廣泛報導或引發社群大規模討論的知名實況主或 VTuber 負面與爭議事件，包含炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -53,7 +61,7 @@
     "title": "某VTuber詭異「抖動」直播破130萬觀看，本人發聲明",
     "summary": "在一則關於《蔚藍檔案》總監道歉事件的報導中，提及一名VTuber因「詭異抖動」直播創下破130萬觀看數，其本人已針對此現象發布最新聲明，引發網友熱議。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -61,7 +69,7 @@
     "title": "中小型VTuber經紀公司「彩虹新星」遭員工爆料隱私外洩",
     "summary": "有自稱「彩虹新星」前員工的匿名帳號在Threads爆料，指控公司內部管理混亂，曾發生旗下VTuber的中之人個人資料（如身分證、住址等）因員工操作不當而外洩的事件。該爆料引起廣大中之人關注，許多人擔心自身隱私安全，並要求經紀公司出面澄清與負責。目前「彩虹新星」已發布簡短聲明，表示正在調查此事，但未能平息眾怒。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +77,7 @@
     "title": "Steam 新作《Truck-kun is Supporting Me from Another World?!》發行",
     "summary": "一款名為《Truck-kun is Supporting Me from Another World?!》的駕駛、探索、街機單人遊戲於 2026 年 7 月 29 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -77,7 +85,7 @@
     "title": "Steam 熱銷遊戲",
     "summary": "《超級變色龍》（Meccha Chameleon）特價優惠與工作坊安全漏洞：這款社群躲貓貓遊戲近日傳出 Steam 工作坊自創地圖藏有惡意程式，但官方已確認功能不全未造成實質損害。遊戲本身在 8 月 3 日前特價 115 元（原價 136 元）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -85,7 +93,7 @@
     "title": "目前無最新爭議事件",
     "summary": "在 2026 年 7 月 21 日至 7 月 28 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的重大事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -93,7 +101,7 @@
     "title": "目前無相關負面與爭議事件資訊",
     "summary": "在 2026/07/21 至 2026/07/28 期間，Google 搜尋結果未顯示台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新資訊。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -101,7 +109,7 @@
     "title": "直播主李登科回應潘宥誠質疑避開實錘證據",
     "summary": "前經紀人轉型的直播主李登科在被潘宥誠工作室喊話要求舉證後，在直播中否認自己是「爆料人」，將責任推給網友「過度聯想」，並迴避出示任何實錘證據，被網友總結為「薛定谔的爆料」。此前他曾使用模糊話術暗示某藝人片場存在負面狀況。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -109,7 +117,7 @@
     "title": "南韓直播主ChulGu承認非法賭博並欠債1.4億",
     "summary": "南韓知名直播主ChulGu在直播中坦承自2024年起在菲律賓從事非法海外賭博，並為籌措賭資向非法高利貸借款，導致債務滾雪球般擴大至約新台幣1.4億元。他表示將主動前往警局自首，並承諾即使坐牢也會努力還清債務。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -117,7 +125,7 @@
     "title": "蔡阿嘎妻子二伯品牌HAHABABY涉抄襲風波發聲致歉",
     "summary": "百萬YouTuber蔡阿嘎的妻子二伯（李佩潔）所創立的服飾品牌「hahababy」，在經歷近一個月的抄襲爭議後，於今日發布致歉聲明。聲明中坦承過去在快速開發過程中，未能完整保留設計與製作紀錄，導致外界產生疑慮與不安，並表示已將曾引起討論的爭議商品陸續下架整理，未來將建立更完整的設計與製作紀錄。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -125,7 +133,7 @@
     "title": "PlayStation Store 夏日優惠活動",
     "summary": "PlayStation Store 正舉行夏日優惠活動，期間自 7 月 29 日至 8 月 12 日。多款 PS5、PS4、PS VR2 數位版遊戲及追加內容享有折扣，例如《羊蹄山戰鬼》數位豪華版、《艾爾登法環黑夜君臨》以及《Monster Hunter Wilds 高級豪華版》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -133,7 +141,7 @@
     "title": "南韓炎上系網紅凸九涉非法賭博欠億元自首",
     "summary": "南韓炎上系網紅凸九（철구，本名李藝俊）在YouTube上約有18萬粉絲。他於7月28日凌晨直播自爆涉及國外非法賭博、借貸非法高利貸，個人債務高達韓幣50億元（約新台幣1.14億元），已主動向警方自首，恐面臨3年牢獄之災。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +149,7 @@
     "title": "文字冒險遊戲《薛丁格的電話》Switch/Steam平台限時八折",
     "summary": "文字冒險遊戲《薛丁格的電話》即日起在Nintendo Switch和Steam平台推出限時8折優惠，並同步推出與《海市蜃樓之館》、《Coffe Talk》等遊戲的組合優惠。原聲帶也已上架串流平台。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -149,7 +157,7 @@
     "title": "XBOX @ Gamescom 2026 展出資訊",
     "summary": "XBOX 公布 2026 年德國科隆遊戲展 Gamescom 展出相關資訊，將於台灣時間 8 月 26 日、8 月 27 日晚上 10 點進行為期兩天的直播，並在實體攤位展出 25 個遊戲開放試玩，包括《決勝時刻現代戰爭4》、《戰爭機器E-DAY》、《Minecraft 地下城II》、《神鬼寓言》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -157,7 +165,7 @@
     "title": "個人勢VTuber「星野夢」宣布無限期停播，疑涉合約糾紛",
     "summary": "剛出道不久的個人勢VTuber「星野夢」於社群平台X（Twitter）發布聲明，表示將無限期停止所有直播活動，並暗示此決定與「某些複雜的合約問題」有關。社群論壇Dcard與VTuber討論區開始出現多篇匿名爆料，指稱星野夢的經紀人存在不合理抽成與限制，導致雙方產生嚴重摩擦。目前經紀公司尚未對此發表官方回應，但事件已在華語VTuber圈引起廣泛關注。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +173,7 @@
     "title": "Steam 免費序號領取：Lawnmower Game Horrorland",
     "summary": "Steam 平台提供遊戲 Lawnmower Game Horrorland 的免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -173,7 +181,31 @@
     "title": "嘎嫂二伯品牌「hahababy」陷抄襲風波",
     "summary": "百萬YouTuber蔡阿嘎的妻子「二伯」自創親子品牌「hahababy」，近日深陷抄襲爭議。起初品牌發出道歉信，表示已將爭議商品下架，但信中提及「過去在快速開發的過程中，未能完整保留設計與製作紀錄」，引發網友不滿，砲轟公司管理不善，且前後說法不一，加劇了公關危機。許多設計師也質疑，沒有設計圖和打版圖，廠商不可能生產商品，認為品牌方在玩文字遊戲。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/28",
+    "title": "PC 單機遊戲《英雄連3：最終防線》上市",
+    "summary": "《英雄連3：最終防線》於 2026 年 7 月 30 日發行，為一款全新的獨立波次防禦體驗動作遊戲。無需擁有系列前作即可遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/28",
+    "title": "PC 單機遊戲《深巷》上市",
+    "summary": "《深巷》於 2026 年 7 月 24 日發行，為一款冒險遊戲。故事講述玩家在晚自習結束後回家路上，意外被困在變成無盡迷宮的小巷中，需揭開小巷深處的秘密並逃離。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/28",
+    "title": "PC 單機遊戲《天臨混元》Demo 開放下載",
+    "summary": "冒險遊戲《天臨混元》的 Demo 2.0 版本已開放下載，包含不同難度的 3 個關卡戰鬥，提供 4-5 小時的戰鬥體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -181,7 +213,7 @@
     "title": "Epic Games Store 限時免費",
     "summary": "Epic Games 商城從即日起至 2026 年 7 月 27 日上午 9 時免費贈送《Together After Dark》、《NoRush! - Tower Edition》以及《KeepUp Survival》三款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -189,7 +221,7 @@
     "title": "Epic商城免費遊戲",
     "summary": "《Together After Dark》、《Tower Edition》和《Denshattack!》限時免費領取至2026年7月27日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -197,7 +229,7 @@
     "title": "Steam免費Demo釋出",
     "summary": "《The Unskilled Demo》和《科斯達麗佳的世末終之旅途》Demo將於7月27日免費釋出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -205,7 +237,7 @@
     "title": "Steam 最新免費遊戲 Demo 釋出",
     "summary": "「The Unskilled Demo」及「科斯達麗佳的世末終之旅途」兩款遊戲 Demo 於 7 月 27 日在 Steam 平台限時免費釋出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -213,7 +245,7 @@
     "title": "Steam 限時免費 DLC",
     "summary": "《龍之劍：覺醒》使魔「深淵冥狼」：韓國研發團隊 Hound13 宣布，旗下動作角色扮演遊戲《龍之劍：覺醒》將限時免費發放使魔「深淵冥狼」，領取期限至 2026 年 8 月 31 日上午 6 時。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -221,7 +253,7 @@
     "title": "Switch 限免/特價",
     "summary": "任天堂 Switch Online 試玩同樂會免費遊戲《Minecraft Dungeons》登場，試玩期間為 7 月 27 日 12:00 至 8 月 2 日 17:59。遊戲下載版同時提供最高 5 折折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -229,7 +261,7 @@
     "title": "Steam/Switch 特價",
     "summary": "特別好評發售中的文字冒險遊戲《薛定谔的電話》於 Nintendo Switch 與 Steam 平台開啟史低八折優惠活動，同時公開聯動捆綁包與原聲大碟。Steam 優惠期間為 7 月 25 日 1:00 至 8 月 8 日 1:00（北京時間）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -237,7 +269,7 @@
     "title": "多平台遊戲促銷",
     "summary": "《Warframe》2026 夏季促銷活動火熱來襲，精選組合包限時優惠，涵蓋 Steam、Epic Games、PlayStation、Nintendo Switch、Xbox 等多個平台，活動時間因地區而異，部分活動將持續至 8 月 13 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -245,7 +277,7 @@
     "title": "2026 ChinaJoy 開幕，多款懷舊遊戲更新與試玩",
     "summary": "2026 年 ChinaJoy 於 7 月 31 日至 8 月 3 日在上海新國際博覽中心舉行，主題為「與 AI 同遊」。展會將有近 900 家企業、逾千款遊戲產品參展。其中，經典 MMORPG《無盡的任務：傳奇》將於 7 月 28 日全球上線，主打「原汁原味+現代優化」。網易 Joker 工作室旗下的開放世界 RPG《遺忘之海》將於 7 月 30 日更新「失落海域·第二幕」版本，解鎖六座全新島嶼。B 站遊戲也將首次公開一款重磅 IP 神秘新品的實機試玩。此外，7 月 29 日至 8 月 3 日，Steam 與蒸汽平台首頁將上線 2026 ChinaJoy Game Show 專題頁，有超過 600 款遊戲可供線上瀏覽、關注試玩版或加入願望單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -253,7 +285,7 @@
     "title": "Steam 最新好評PC遊戲Demo釋出",
     "summary": "GameGrin 報導了上週（7月20日至26日）Steam 平台發布的多款好評 PC 遊戲試玩版，其中包括了由 Gray2RGB 開發的冒險休閒獨立遊戲《Low-Budget Repairs Demo》（90%好評），以及 Ravernt 開發的冒險休閒角色扮演遊戲《Folder Dungeon Demo》（100%好評），兩者皆於 2026 年 7 月 24 日發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -261,7 +293,7 @@
     "title": "前陸軍中士孫楚荃因沉迷抖內女主播淪共諜判刑12年定讞",
     "summary": "前陸軍馬防部運輸中士孫楚荃因沉迷網路直播、重金抖內女主播，導致積蓄耗盡並欠下地下錢莊債務，竟鋌而走險收取約6萬多元報酬洩露軍事機密。最高法院維持高等法院判決，判孫男12年徒刑、褫奪公權6年，並沒收犯罪所得。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -269,7 +301,7 @@
     "title": "Hololive母公司COVER針對誹謗者提告勝訴，單篇貼文賠償150萬日圓",
     "summary": "VTuber團體hololive的母公司COVER公開了一起成功對誹謗旗下藝人的被告提告的案件。被告因散布不實言論攻擊藝人私生活，最終與COVER達成和解，不僅須提交道歉聲明，還需為涉案貼文支付「每篇150萬日圓」（約新台幣29.6萬元）的損害賠償。COVER表示將於10月公開其他案件進度，並呼籲觀眾理性發言。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -277,7 +309,7 @@
     "title": "Warframe 2026夏季優惠開跑",
     "summary": "Warframe推出了最新夏季優惠，精選組合包限時特價，最高享有五折優惠。優惠日期因平台和時區而異，例如Steam和Warframe.com平台將於世界協調時間7月27日下午4時開始。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -285,7 +317,7 @@
     "title": "Joeman與網紅蕭伊證實情斷恢復單身",
     "summary": "百萬YouTuber Joeman（九妹）的經紀人證實，Joeman與網紅蕭伊在相處一段時間後，已決定和平分開，目前雙方皆恢復單身。 Joeman也透過經紀人幽默表示，接下來將重新啟動的「獨旅系列」會是「真・獨旅」。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -293,7 +325,7 @@
     "title": "百萬YouTuber Joeman 證實與網美蕭伊分手",
     "summary": "百萬YouTuber Joeman（九妹）與美妝網紅蕭伊的戀情自去年底曝光後受到關注。然而，近日網友發現兩人已互相取消社群平台追蹤，經紀人於7月27日證實雙方相處一段時間後，目前已回到單身狀態。經紀人表示Joeman未來將以工作為重，預計推出「獨旅系列」企劃。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -301,7 +333,7 @@
     "title": "黃仁勳神預言AI泡沫終究要來但現在還早",
     "summary": "輝達（NVIDIA）執行長黃仁勳接受美國新聞網Axios專訪時指出，AI泡沫遲早會出現，但短期內不必過度擔心，未來5年內發生的機率非常低。他強調目前AI建設仍處於相當初期，限制產業成長的並非市場需求不足，而是晶片、記憶體、土地、電力及資料中心施工人力等資源吃緊，導致AI基礎設施建設速度被迫放緩，反而讓「供給超過需求」的時間點延後。他預估未來10年全球半導體產業規模需成長5到10倍才能滿足全球運算需求。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -309,7 +341,7 @@
     "title": "VTuber ORI央莉、喵扭扭與廠商請款糾紛，艾美麗Emily Smart無端捲入風波",
     "summary": "VTuber ORI央莉與喵扭扭爆出和某廠商的合作及請款糾紛，ORI央莉指控廠商處理事情拖延，請款資料延宕近一個月才給，且溝通態度轉變。隨著事件發酵，部分VTuber（包含艾美麗Emily Smart）轉發廠商聲明，引起ORI央莉粉絲質疑這些VTuber是否與廠商有更深關聯，導致艾美麗Emily Smart無端被拖入社群戰火。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -317,7 +349,7 @@
     "title": "Steam 火車節結束",
     "summary": "Steam「火車節」主題特賣活動於 2026 年 7 月 20 日至 7 月 27 日舉行，展示一系列與火車相關的遊戲。此活動在指定日期結束，提供玩家探索鐵道主題遊戲的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -325,7 +357,7 @@
     "title": "2026 ChinaJoy 開幕，多款遊戲更新與AI主題",
     "summary": "2026 ChinaJoy 遊戲展將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心開幕，本屆主題為「與AI同遊」，展區涵蓋前沿科技、主機遊戲、移動電競、動漫潮玩等多個板塊。同時，《絕區零》3.1版本「漫長的告別」將於7月29日上線，《無與倫比》免費大型DLC已於7月27日上線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -333,7 +365,7 @@
     "title": "2026 ChinaJoy前瞻：朝夕光年多款新品將亮相",
     "summary": "第23屆ChinaJoy展會將於7月31日至8月3日在上海舉行，朝夕光年確認參展，並將展示多款自研新品，其中包括黑暗奇幻動作遊戲《霧影獵人》，預計於2026年7月30日全球發售。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -341,7 +373,7 @@
     "title": "Steam 免費序號領取：Baston",
     "summary": "Steam 平台提供遊戲 Baston 的免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -349,7 +381,7 @@
     "title": "Steam WB Games' LEGO 特賣活動",
     "summary": "Steam 平台推出 WB Games 的樂高特賣活動，即日起至 2026 年 8 月 10 日，多款樂高蝙蝠俠、樂高漫威、樂高星際大戰、樂高哈利波特等遊戲及 DLC 提供高達 90% 的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -357,7 +389,7 @@
     "title": "Steam 特惠",
     "summary": "「來自波蘭的愛 2026」（FROM POLAND WITH LOVE 2026）特賣活動開跑：超過 40 家波蘭開發商和發行商帶來 200 多款遊戲的大幅折扣，活動將持續至 2026 年 8 月 10 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -365,102 +397,7 @@
     "title": "Steam 免費 DLC",
     "summary": "《龍之劍：覺醒》限時免費發放使魔「深淵冥狼」：這款於 7 月 23 日上市的遊戲宣布將限時免費發放使魔「深淵冥狼」給所有玩家，在期限內領取即可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/26",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/07/19 至 2026/07/26 期間，未發現有台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/26",
-    "title": "前主播郭怡君再爆消費糾紛",
-    "summary": "前主播郭怡君於7月25日晚間在台北士林區某餐廳用餐，因220元餐費無法完成支付，與店家發生爭執。警方到場協調後，店家同意她擇日補付款項。這已是她短期內第二次發生類似消費爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/26",
-    "title": "大司馬帶貨聲卡翻車事件反轉",
-    "summary": "實況主大司馬在《大司馬杯S2》賽事直播帶貨的699元遊戲聲卡，被網友發現淘寶同款價格低10元，引發帶貨翻車爭議。事後大司馬讓已付款粉絲免費收貨，並承擔損失。聲卡品牌方隨後致歉，承認價格管控疏漏，並全額兜底免單費用，讓大司馬無需擔責。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/26",
-    "title": "Steam 獨立遊戲《腳臭戰爭 Toe-tal War》Demo 開放試玩",
-    "summary": "獨立團隊 Mousitude Games 開發的橫捲動作解謎遊戲《腳臭戰爭》（Toe-tal War）在 Steam 推出免費 Demo 供玩家試玩，預計 2026 年第四季正式發售。 遊戲以「腳臭」作為核心玩法，玩家需透過累積腳臭值來擊敗敵人，並利用鞋襪解開關卡機關。 最新 Demo 已於 7 月 22 日更新，改善開場影片播放效能並調整關卡細節。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/12/08",
-    "title": "時空旅人警告：彗星 3I/ATLAS 將於 2026 年 7 月撞擊地球",
-    "summary": "一個 YouTube 影片提及一位時空旅人警告，彗星 3I/ATLAS 將在 2026 年 7 月撞擊地球，撞擊地點位於南太平洋。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/12/08",
-    "title": "匿名Reddit時間旅行者預言彗星3I/ATLAS於2026年7月撞擊地球",
-    "summary": "一名自稱來自2072年的匿名Reddit用戶（2072.time）曾預言，2026年7月彗星3I/ATLAS將會撞擊地球南太平洋上空，碎裂成數個核心，但能量足以將大量水和塵埃拋入大氣層，導致氣候變化長達數十年。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/12/08",
-    "title": "2072年時空旅人預言：2026年3I/ATLAS彗星撞擊地球",
-    "summary": "一名自稱來自 2072 年的時空旅行者在 Reddit 上預言，2026 年 7 月將有一顆名為 3I/ATLAS 的彗星在太平洋南部撞擊地球。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/02/27",
-    "title": "Reddit 論壇用戶發布「如果發明了時間旅行，所有人有法律義務在 2026 年 7 月前送出證明」",
-    "summary": "Reddit 論壇上有人發布一條訊息，內容是：「如果發明了時間旅行，所有者在法律上必須在 2026 年 7 月前寄出證明。」該訊息被刻在土地記錄中，旨在持續到時間旅行實現為止。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/10",
-    "title": "占星學家警告2026年7月將迎來「快速化」的全球巨變",
-    "summary": "占星學家Amanda Walsh發布「2026年7月警告：『快速化』已經開始」影片，預測2026年7月將是全球巨變的關鍵時期，形容為「全人類的巨大啟蒙」。她認為多顆外行星將在7月形成「魔法三角」，引導人類走向新現實。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/25",
-    "title": "疾管署羅一鈞警告 COVID-19 疫情升溫，高峰將在 7 月底至 8 月",
-    "summary": "衛生福利部疾病管制署長羅一鈞於 7 月 25 日發布預警，指出國內 COVID-19 疫情自 6 月中旬起逐漸走升，門急診就診人次大幅上升 66.5%，預估本週染疫就診將逼近 1 萬人次。他預計疫情高峰將於 7 月底至 8 月達到。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/24",
-    "title": "泰國神婆普萊預言 2026 年中將爆發水底戰爭",
-    "summary": "泰國神婆普萊預言 2026 年年中將爆發水底戰爭，潛艇動向與公海衝突將成為關鍵，戰局走向難以預料。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/07/31",
-    "expiry_date": "2026/08/01"
   },
   {
     "category": "PROPHECY",
