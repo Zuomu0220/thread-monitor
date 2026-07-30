@@ -80,6 +80,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games Store 宣布，從 7 月 30 日至 8 月 6 日，將限時免費提供《OTXO》和《Sol Cesto》兩款遊戲供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 夏季特賣",
+    "summary": "Epic Games Store 的夏季特賣活動正在進行中，提供多款 PC 遊戲的優惠折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -381,22 +397,6 @@
     "title": "Steam 火車節結束",
     "summary": "Steam「火車節」主題特賣活動於 2026 年 7 月 20 日至 7 月 27 日舉行，展示一系列與火車相關的遊戲。此活動在指定日期結束，提供玩家探索鐵道主題遊戲的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/27",
-    "title": "2026 ChinaJoy 開幕，多款遊戲更新與AI主題",
-    "summary": "2026 ChinaJoy 遊戲展將於 7 月 31 日至 8 月 3 日在上海新國際博覽中心開幕，本屆主題為「與AI同遊」，展區涵蓋前沿科技、主機遊戲、移動電競、動漫潮玩等多個板塊。同時，《絕區零》3.1版本「漫長的告別」將於7月29日上線，《無與倫比》免費大型DLC已於7月27日上線。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/27",
-    "title": "2026 ChinaJoy前瞻：朝夕光年多款新品將亮相",
-    "summary": "第23屆ChinaJoy展會將於7月31日至8月3日在上海舉行，朝夕光年確認參展，並將展示多款自研新品，其中包括黑暗奇幻動作遊戲《霧影獵人》，預計於2026年7月30日全球發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1646,6 +1646,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言 2026 年 9 月 26 日將再次歸來",
     "summary": "據報導，準確率驚人的未來人國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 未來人國分玲將再次歸來",
+    "summary": "來自 2058 年的未來人國分玲，曾表示他將於 2026 年 9 月 26 日再次回到網路上，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
