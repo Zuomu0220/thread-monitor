@@ -24,6 +24,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 下週免費遊戲預告",
+    "summary": "Epic Games Store 預告下週（7 月 30 日至 8 月 6 日）將免費贈送《OTXO》和《Sol Cesto》兩款遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -390,14 +398,6 @@
     "summary": "幻櫻之舞所屬VTuber「櫻坂心」在X上與另一位小型VTuber因遊戲合作細節產生公開爭執，雙方粉絲隨即加入戰局，導致討論區與社群媒體罵聲不斷。事件隨後演變為對兩位VTuber職業道德的質疑，部分網友翻出過往言論，指責櫻坂心態度傲慢。雖然雙方事後刪除相關貼文，但仍有截圖在PTT與Dcard流傳，並持續延燒。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/25",
-    "title": "Steam/Epic 限免《又一個僵屍塔防HD》《暗夜同行》等 8 款遊戲",
-    "summary": "Steam 與 Epic Games 平台近日推出限時免費領取與試玩活動。Steam 限時免費領取《又一個僵屍塔防HD》（至 7/31 01:00 止）。Epic Games 限時免費領取《暗夜同行》（至 7/27 09:02 止）。此外，Steam 免費週末遊玩包含《殺戮空間3》、《獸獵突襲》、《翼星求生ICARUS》、《一起開火車2：汽笛重鳴》等遊戲至 7/28 01:00 止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
@@ -1718,6 +1718,15 @@
     "date": "2026/06/18",
     "title": "X用戶「@FutureSight_2042」發布關於科技巨頭動態的預言",
     "summary": "知名預言帳號「@FutureSight_2042」在X（原Twitter）上發布一則貼文，暗示某一家全球知名的科技公司將在未來幾個月內宣布一項顛覆性的技術突破，但同時也將引發嚴重的道德爭議。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/01",
+    "expiry_date": "2026/10/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/29",
+    "title": "華爾街先知惠特尼預警美國經濟清算時刻",
+    "summary": "曾精準預言 2008 年金融海嘯的「華爾街先知」梅雷迪思·惠特尼（Meredith Whitney）近日受訪時示警，由於美國消費者支出降溫及財政刺激效果減弱，美國經濟恐在 2026 年第四季迎來「清算時刻」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/10/01",
     "expiry_date": "2026/10/02"
