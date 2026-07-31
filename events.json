@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Epic Games 夏日特賣 2026 結束",
+    "summary": "Epic Games 的年度夏日特賣活動將於日本時間 7 月 31 日凌晨 0 點結束。本次特賣期間，包含 AAA 大作和獨立遊戲在內的眾多遊戲享有最高 80% 的折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -108,6 +116,14 @@
     "date": "2026/07/30",
     "title": "Epic Games 即將推出免費遊戲：OTXO 與 Sol Cesto",
     "summary": "Epic Games Store 公告，下一批限時免費遊戲為《OTXO》和《Sol Cesto》，將於 2026 年 7 月 30 日至 8 月 6 日期間開放領取。《OTXO》是一款快節奏的黑白 Roguelite 射擊遊戲，而《Sol Cesto》則是一款網格制的 Roguelite 惡魔爬行遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 商店限時免費《OTXO》與《Sol Cesto》",
+    "summary": "Epic Games 商店宣布，自 7 月 30 日起至 8 月 6 日止，玩家可免費領取遊戲《OTXO》和《Sol Cesto》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "Joeman與網紅蕭伊證實情斷恢復單身",
     "summary": "百萬YouTuber Joeman（九妹）的經紀人證實，Joeman與網紅蕭伊在相處一段時間後，已決定和平分開，目前雙方皆恢復單身。 Joeman也透過經紀人幽默表示，接下來將重新啟動的「獨旅系列」會是「真・獨旅」。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/27",
-    "title": "百萬YouTuber Joeman 證實與網美蕭伊分手",
-    "summary": "百萬YouTuber Joeman（九妹）與美妝網紅蕭伊的戀情自去年底曝光後受到關注。然而，近日網友發現兩人已互相取消社群平台追蹤，經紀人於7月27日證實雙方相處一段時間後，目前已回到單身狀態。經紀人表示Joeman未來將以工作為重，預計推出「獨旅系列」企劃。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/27",
-    "title": "黃仁勳神預言AI泡沫終究要來但現在還早",
-    "summary": "輝達（NVIDIA）執行長黃仁勳接受美國新聞網Axios專訪時指出，AI泡沫遲早會出現，但短期內不必過度擔心，未來5年內發生的機率非常低。他強調目前AI建設仍處於相當初期，限制產業成長的並非市場需求不足，而是晶片、記憶體、土地、電力及資料中心施工人力等資源吃緊，導致AI基礎設施建設速度被迫放緩，反而讓「供給超過需求」的時間點延後。他預估未來10年全球半導體產業規模需成長5到10倍才能滿足全球運算需求。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1655,6 +1655,15 @@
     "date": "2026/05/19",
     "title": "2058 未來人國分玲將再次歸來",
     "summary": "來自 2058 年的未來人國分玲，曾表示他將於 2026 年 9 月 26 日再次回到網路上，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/31",
+    "title": "來自 2058 年的未來人國分玲 2026 大限將至",
+    "summary": "日本自稱來自 2058 年的「未來人」國分玲曾預言，2026 年將是日本及全球的重大轉折點，並表示她將於 2026 年 9 月 26 日再次回到這個時空。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
