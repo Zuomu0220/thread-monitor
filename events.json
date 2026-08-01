@@ -376,6 +376,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games Store 限時免費領取：《OTXO》與《Sol Cesto》",
+    "summary": "Epic Games Store 宣布自 2026 年 7 月 30 日起至 8 月 6 日，限時免費贈送 Roguelite 射擊遊戲《OTXO》和戰術 Roguelite 遊戲《Sol Cesto》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -389,14 +397,6 @@
     "title": "某VTuber詭異「抖動」直播破130萬觀看，本人發聲明",
     "summary": "在一則關於《蔚藍檔案》總監道歉事件的報導中，提及一名VTuber因「詭異抖動」直播創下破130萬觀看數，其本人已針對此現象發布最新聲明，引發網友熱議。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/29",
-    "title": "中小型VTuber經紀公司「彩虹新星」遭員工爆料隱私外洩",
-    "summary": "有自稱「彩虹新星」前員工的匿名帳號在Threads爆料，指控公司內部管理混亂，曾發生旗下VTuber的中之人個人資料（如身分證、住址等）因員工操作不當而外洩的事件。該爆料引起廣大中之人關注，許多人擔心自身隱私安全，並要求經紀公司出面澄清與負責。目前「彩虹新星」已發布簡短聲明，表示正在調查此事，但未能平息眾怒。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 4
   },
   {
