@@ -16,6 +16,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/01",
+    "title": "Epic Games Store 即將推出免費遊戲《Beacon Pines》和《We Were Here Together》",
+    "summary": "Epic Games Store 宣布將於 2026 年 8 月 6 日至 8 月 13 日提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/31",
     "title": "無最新負面與爭議事件",
@@ -208,6 +216,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam 週末免費玩活動：四款遊戲限時暢玩至 8 月 3 日",
+    "summary": "Steam 平台推出週末免費遊玩活動，即日起至 8 月 3 日，玩家可免費試玩《Necesse》、《Reaper Actual》、《WWE 2K26》和《Tower Dominion》四款遊戲，並同時享有折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -381,22 +397,6 @@
     "title": "VTuber離緋緋控訴合作廠商將原圖餵AI引發爭議",
     "summary": "VTuber離緋緋公開指控，與實況主杰倫家族企業「新味園」合作時，對方社群小編未經許可將其原始設定圖用於AI生成。事件爆發後，新味園雖發出道歉聲明，但其小編後續的不當言論及失聯狀況，導致爭議未能平息。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games Store 限時免費雙好評肉鴿遊戲《OTXO》與《Sol Cesto》",
-    "summary": "Epic Games Store本週（7月30日至8月6日）推出兩款限時免費遊戲：俯視角射擊《OTXO》（孤狼）和奇幻策略Roguelite《Sol Cesto》（尋日之旅），領取後可永久保存至遊戲庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "SQUARE ENIX 夏日優惠活動第二彈折扣升級",
-    "summary": "SQUARE ENIX舉辦夏日優惠活動第二彈，多款作品折扣率提高，包括《Final Fantasy VII 重生 Digital Deluxe Edition》、《Final Fantasy VII 重製版 Intergrade Digital Deluxe Edition》、《勇者鬥惡龍7 Reimagined 數位豪華版》等。Steam平台活動至8月12日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -683,6 +683,15 @@
     "date": "2026/01/18",
     "title": "日本 YouTuber 彙整「日本沉沒」預言，直指 2026 年夏季為 X 日",
     "summary": "日本 YouTuber 頻道發布影片，聲稱根據「我所看見的未來」、未來人留言及最新科學分析，所有警告都「完全一致」，指向 2026 年夏季為日本沉沒的「X 日」，預計將發生「三重災害」的絕望情景。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/31",
+    "title": "「活著的諾查丹瑪斯」薩洛梅預警俄羅斯與北約可能在北極爆發軍事對峙",
+    "summary": "巴西預言家阿托斯·薩洛梅（Athos Salomé）因多次精準預測國際事件而聞名。他警告，隨著北極冰層持續融化，新的航道與能源資源逐漸暴露，俄羅斯與北約在北極地區可能於 2026 年夏季發生軍事對峙，使該地區成為全球最危險的地緣政治熱點之一。  (假設 2026 年夏季結束)",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
