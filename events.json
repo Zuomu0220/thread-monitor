@@ -128,6 +128,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam 週末免費玩！四款遊戲限時暢玩至 8 月 3 日",
+    "summary": "Steam 推出週末免費遊玩活動，包含《Necesse》、《Reaper Actual》、《WWE 2K26》和《Tower Dominion》四款遊戲，即日起至太平洋時間 2026/08/03 上午 10 時（東岸時間下午 1 時）可供玩家下載試玩，期間亦有折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -280,6 +288,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games Store 新一波免費遊戲發送",
+    "summary": "Epic Games Store 於 2026/07/30 起提供《OTXO》和《Sol Cesto》兩款遊戲限時免費領取，活動將持續至 2026/08/06。Epic 也已預告下週（8 月 6 日起）將會送出《Beacon Pines》和《We Were Here Together》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/29",
     "title": "無重大負面與爭議事件報告",
@@ -381,22 +397,6 @@
     "title": "蔡阿嘎妻子二伯品牌HAHABABY涉抄襲風波發聲致歉",
     "summary": "百萬YouTuber蔡阿嘎的妻子二伯（李佩潔）所創立的服飾品牌「hahababy」，在經歷近一個月的抄襲爭議後，於今日發布致歉聲明。聲明中坦承過去在快速開發過程中，未能完整保留設計與製作紀錄，導致外界產生疑慮與不安，並表示已將曾引起討論的爭議商品陸續下架整理，未來將建立更完整的設計與製作紀錄。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/28",
-    "title": "PlayStation Store 夏日優惠活動",
-    "summary": "PlayStation Store 正舉行夏日優惠活動，期間自 7 月 29 日至 8 月 12 日。多款 PS5、PS4、PS VR2 數位版遊戲及追加內容享有折扣，例如《羊蹄山戰鬼》數位豪華版、《艾爾登法環黑夜君臨》以及《Monster Hunter Wilds 高級豪華版》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/28",
-    "title": "南韓炎上系網紅凸九涉非法賭博欠億元自首",
-    "summary": "南韓炎上系網紅凸九（철구，本名李藝俊）在YouTube上約有18萬粉絲。他於7月28日凌晨直播自爆涉及國外非法賭博、借貸非法高利貸，個人債務高達韓幣50億元（約新台幣1.14億元），已主動向警方自首，恐面臨3年牢獄之災。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 3
   },
   {
