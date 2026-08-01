@@ -224,6 +224,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam 週末免費遊玩活動：四款遊戲限時暢玩至 8 月 3 日",
+    "summary": "Steam 推出週末免費遊玩活動，即日起至太平洋時間 8 月 3 日上午 10 時，有四款遊戲可供玩家下載試玩，並同時享有折扣優惠。遊戲陣容包括開放世界作品《Necesse》、《Reaper Actual》、體育模擬遊戲《WWE 2K26》以及塔防遊戲《Tower Dominion》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -388,14 +396,6 @@
     "date": "2026/07/30",
     "title": "新味園與實況主杰倫家庭事業捲入AI爭議",
     "summary": "實況主杰倫家族經營的「新味園」水餃店，因與VTuber離緋緋合作時，其社群小編被指控將離緋緋的原圖餵給AI生成。此事件引發離緋緋不滿，新味園雖發表道歉聲明，但隨後小編發言再次引發爭議並搞失蹤，導致事件持續延燒。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/07/30",
-    "title": "VTuber離緋緋控訴合作廠商將原圖餵AI引發爭議",
-    "summary": "VTuber離緋緋公開指控，與實況主杰倫家族企業「新味園」合作時，對方社群小編未經許可將其原始設定圖用於AI生成。事件爆發後，新味園雖發出道歉聲明，但其小編後續的不當言論及失聯狀況，導致爭議未能平息。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 4
   },
@@ -1709,6 +1709,15 @@
     "date": "2026/05/19",
     "title": "2058未來人國分玲預告：將於2026/09/26再次回歸",
     "summary": "國分玲表示她將在2026年9月26日再次現身，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預言：2028 年全球將爆發新一輪金融危機",
+    "summary": "在社群論壇 2ch 上自稱來自 2058 年的未來人國分玲（國分玲）曾預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，這將導致美元全球結算體系出現根本性動搖。國分玲也曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
