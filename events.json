@@ -392,12 +392,12 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/07/29",
-    "title": "無重大負面與爭議事件報告",
-    "summary": "根據本次「無差別拖網雷達」模式的搜尋結果，在 2026 年 7 月 22 日至 7 月 29 日期間，華語圈內未發現有廣泛報導或引發社群大規模討論的知名實況主或 VTuber 負面與爭議事件，包含炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等情況。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "category": "GAME",
+    "date": "2026/07/30",
+    "title": "Epic Games 預告下週免費遊戲",
+    "summary": "Epic Games 商店預告下週將免費提供《We Were Here Together》和《Beacon Pines》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
@@ -614,6 +614,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/26",
+    "title": "日本 X 網友預言大阪颱風與地震",
+    "summary": "有日本 X 網友預言，2026 年 8 月 14 日大阪將會因颱風或伴隨雷電的暴雨導致交通癱瘓。另一則貼文提及 2026 年 7 月 28 日日本海側的富山可能會發生地震。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/14",
+    "expiry_date": "2026/08/15"
   },
   {
     "category": "PROPHECY",
