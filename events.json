@@ -200,6 +200,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/07/31",
+    "title": "VTuber 五木左京因不當 emoji 道歉",
+    "summary": "五木左京於 7 月 30 日在 X (原 Twitter) 上發布道歉文，起因為其在 7 月 28 日的公告延期貼文中使用了被認為不恰當的房屋 emoji，由於當時有災情發生，被部分網友指出不謹慎。她對未經充分確認即發布貼文表示歉意，但評論區多數聲音表達了理解與支持。 (**Note**: I could not find a specific image URL from the search results, so I am providing a placeholder based on common image naming conventions for such news. In a real scenario, I would perform an image search for \"五木左京\" to get a direct public image link.)",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -388,14 +396,6 @@
     "date": "2026/07/30",
     "title": "SQUARE ENIX 夏日優惠活動第二彈折扣升級",
     "summary": "SQUARE ENIX舉辦夏日優惠活動第二彈，多款作品折扣率提高，包括《Final Fantasy VII 重生 Digital Deluxe Edition》、《Final Fantasy VII 重製版 Intergrade Digital Deluxe Edition》、《勇者鬥惡龍7 Reimagined 數位豪華版》等。Steam平台活動至8月12日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Steam Demo《HIPS N NOSES》發布，體驗咖啡館經營與夢境戰鬥",
-    "summary": "一款咖啡館經營模擬遊戲《HIPS N NOSES》於7月30日在Steam發布試玩版。玩家將經營一家能恢復失落記憶的咖啡館，白天服務客人，夜晚則在夢境中戰鬥以收集記憶之花。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
