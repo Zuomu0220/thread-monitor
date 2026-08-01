@@ -184,6 +184,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Nintendo Switch eShop 暑假優惠",
+    "summary": "Nintendo Switch eShop 推出暑假優惠，精選 17 款遊戲售價皆在新台幣 100 元以下，涵蓋 RPG、ACT、格鬥、模擬、獨立遊戲等類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "《阿雷塔》Steam Playtest 開放",
+    "summary": "巴哈姆特創作大賽得獎作品《阿雷塔》（YARETA）於今日在 Steam 平台展開新一輪 Playtest，玩家可免費取得資格體驗約兩小時的遊玩內容。該作也將參展 2026 東京電玩展。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -380,22 +396,6 @@
     "date": "2026/07/30",
     "title": "Steam Demo《HIPS N NOSES》發布，體驗咖啡館經營與夢境戰鬥",
     "summary": "一款咖啡館經營模擬遊戲《HIPS N NOSES》於7月30日在Steam發布試玩版。玩家將經營一家能恢復失落記憶的咖啡館，白天服務客人，夜晚則在夢境中戰鬥以收集記憶之花。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games Store 限時免費領取：《OTXO》與《Sol Cesto》",
-    "summary": "Epic Games Store 宣布自 2026 年 7 月 30 日起至 8 月 6 日，限時免費贈送 Roguelite 射擊遊戲《OTXO》和戰術 Roguelite 遊戲《Sol Cesto》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games Store 限時免費領取兩款遊戲",
-    "summary": "Epic Games Store 推出限時免費活動，玩家可領取兩款原價共103元的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1682,6 +1682,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言2026年9月再次現身並指出2026年是重大轉折點",
     "summary": "來自2058年的神秘人物國分玲預言，她將在2026年9月26日再次歸來，回答大眾的疑問。她曾指出，2026年對日本及全球來說是一個重大的轉折點，並在預言中提及2028年全球將爆發一輪新的金融危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/26",
+    "title": "來自2058年的未來人國分玲重申2026年是日本及全球重大轉折點",
+    "summary": "國分玲曾多次準確預言，並表示她將於2026年9月26日再次歸來，回答大家的問題。她也預言2028年將爆發全球金融危機，導火索是美國國債違約。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
