@@ -32,6 +32,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/01",
+    "title": "Epic Games Store 限時免費遊戲上架",
+    "summary": "OTXO 和 Sol Cesto 現已可在 Epic Games Store 免費領取，活動持續至 8 月 6 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/31",
     "title": "無最新負面與爭議事件",
@@ -240,6 +248,30 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam 獨立遊戲與特賣活動一覽",
+    "summary": "Steam 上舉辦多項活動與特賣，包含「巴基斯坦遊戲開發者展示會」、「Six One Indie Demo Days 2026 試玩活動」、「Tokyo Game Dungeon 13 — 日本遊戲展」，以及「TopHouse 週年特賣」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam Bethesda 40 週年特賣",
+    "summary": "為慶祝 Bethesda 成立 40 週年，多款經典冒險遊戲享有最高達 75% 的折扣，包含《異塵餘生 76》、《DOOM: The Dark Ages》、《上古卷軸 Online》及《印第安納瓊斯與大環》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam WB Games 樂高系列特賣",
+    "summary": "樂高蝙蝠俠、樂高漫威、樂高星際大戰、樂高哈利波特等樂高系列遊戲及 DLC 享有最高達 90% 的折扣，活動持續至 2026 年 8 月 10 日上午 10 時 (PDT)。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -364,38 +396,6 @@
     "date": "2026/07/30",
     "title": "Epic Games 本週免費遊戲：《Sol Cesto》與《OTXO》",
     "summary": "Epic Games Store 本週提供兩款免費遊戲：《Sol Cesto》和《OTXO》，可在2026年7月30日至8月6日期間領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games 限時免費遊戲《尋日之旅》與《OTXO》",
-    "summary": "Epic Games 商店本週提供《尋日之旅》(Sol Cesto) 和《OTXO》兩款遊戲限時免費領取，活動持續至 2026 年 8 月 6 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games 夏季特賣結束",
-    "summary": "Epic Games 夏季特賣活動涵蓋超過 3000 款 PC 遊戲，最高折扣達 95%，活動於 2026 年 7 月 30 日結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "SQUARE ENIX 夏日優惠活動第二彈開跑",
-    "summary": "SQUARE ENIX 舉辦「夏日優惠活動第二彈」，人氣遊戲在 PlayStation Store、Nintendo eShop、Steam 等平台提供折扣，Steam 平台優惠活動將持續至 2026 年 8 月 12 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games Store 新一波免費遊戲發送",
-    "summary": "Epic Games Store 於 2026/07/30 起提供《OTXO》和《Sol Cesto》兩款遊戲限時免費領取，活動將持續至 2026/08/06。Epic 也已預告下週（8 月 6 日起）將會送出《Beacon Pines》和《We Were Here Together》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
