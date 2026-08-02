@@ -64,6 +64,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/01",
+    "title": "2026 ChinaJoy 朝夕光年參展前瞻",
+    "summary": "朝夕光年確認參展2026 ChinaJoy，將展出《SlashZero》等多款自研新品及人氣遊戲，並開放Steam、Epic、PlayStation願望單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/07/31",
     "title": "無最新負面與爭議事件",
@@ -376,28 +384,20 @@
     "days_left": 4
   },
   {
-    "category": "VTUBER",
-    "date": "2026/07/30",
-    "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
-    "summary": "Epic Games Store標示自7月30日至8月6日期間，將有《絕區零》全新3.1版本「漫長的告別」推出，以及《Arena Breakout: Infinite》與《Resident Evil 4》的限時聯名活動。 ### 🎮 實況主區",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Steam TopHouse 大型週年特賣",
+    "summary": "TopHouse 遊戲開發商將於2026年7月31日至8月14日期間在Steam平台舉辦大型週年特賣，提供多款遊戲折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games",
-    "summary": "即將免費：《OTXO》與《Sol Cesto》：Epic Games Store 宣布將於 2026 年 7 月 30 日至 8 月 6 日開放《OTXO》和《Sol Cesto》兩款遊戲限時免費領取。",
+    "date": "2026/07/31",
+    "title": "Tokyo Game Dungeon 獨立遊戲展Demo開放",
+    "summary": "Tokyo Game Dungeon 日本大型獨立遊戲展會，匯集超過180款Steam遊戲提供試玩Demo，於2026年7月31日開始。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games Store 預告下週免費遊戲：《OTXO》與《Sol Cesto》",
-    "summary": "Epic Games Store宣布，接替《Foretales》的下週免費遊戲將是《OTXO》和《Sol Cesto》，可於7月30日至8月6日期間領取。《OTXO》是一款快節奏的黑白Roguelite射擊遊戲，而《Sol Cesto》則是一款基於網格的Roguelite惡魔爬行者遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
