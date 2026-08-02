@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/02",
+    "title": "無最新負面與爭議事件報告",
+    "summary": "在 2026/07/26 至 2026/08/02 期間，Google Search 未能搜捕到台灣/華語圈實況主與 VTuber 相關的重大負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/01",
     "title": "《原神》「月之八」版本新幻想真境劇詩上線",
@@ -312,6 +320,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/07/31",
+    "title": "Epic限免",
+    "summary": "OTXO：這款快節奏、殘酷的黑暗類roguelite射擊遊戲，以精確而狂野的槍戰和時間彎曲的慢動作為特色，目前可在Epic Games平台限時免費領取，活動將持續至2026/08/06。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "VTUBER",
     "date": "2026/07/30",
     "title": "Epic Games Store《絕區零》3.1版與《ABI》×《Resident Evil》聯名活動",
@@ -380,22 +396,6 @@
     "date": "2026/07/30",
     "title": "Epic Games 限時免費",
     "summary": "Epic Games Store 宣布，從 7 月 30 日至 8 月 6 日，將限時免費提供《OTXO》和《Sol Cesto》兩款遊戲供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "Epic Games 夏季特賣",
-    "summary": "Epic Games Store 的夏季特賣活動正在進行中，提供多款 PC 遊戲的優惠折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/30",
-    "title": "2026 ChinaJoy 遊戲展明日登場",
-    "summary": "第26屆中國國際數位互動娛樂展覽會ChinaJoy 2026將於7月31日起在上海新國際博覽中心舉行。本次展會以「與AI同遊」為主題，將展示豐富的遊戲試玩陣容和前沿的AI技術生態，呈現數位娛樂產業的最新成果。PlayStation、Blizzard、網易、騰訊等多家知名廠商將參展，提供多款遊戲試玩與互動活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
