@@ -48,6 +48,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Steam 免費遊戲《Ogre Chambers DX》即將下架，領取後可永久保留",
+    "summary": "《Ogre Chambers DX》這款獲得 91% 好評的彈幕動作 Roguelike 遊戲將於 8 月 4 日從 Steam 移除，玩家可在下架前免費領取並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Epic Games Store 預告下一批免費遊戲：《Beacon Pines》與《We Were Here Together》",
+    "summary": "Epic Games Store 預計在近期送出《Beacon Pines》和《We Were Here Together》作為免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/02",
     "title": "無相關資訊",
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam 限時免費領取《又一個僵屍塔防HD》",
-    "summary": "《Yet Another Zombie Defense HD》（又一個僵屍塔防HD）於 Steam 平台開放限時免費領取，活動至 2026 年 7 月 31 日截止。這是一款帶有戰術與塔防元素的俯視視角喪屍射擊遊戲，最多支援 4 人連線。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam",
-    "summary": "Bethesda遊戲特賣會：《輻射76》特價4美元：Steam平台正在舉辦所有Bethesda遊戲的特賣會，其中《輻射76》僅售4美元，此優惠活動將持續至2026年8月13日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit 網友自稱「2077年穿越者」預警全球網路恐攻事件",
@@ -701,6 +701,15 @@
     "date": "2026/07/31",
     "title": "「活著的諾查丹瑪斯」薩洛梅預警俄羅斯與北約可能在北極爆發軍事對峙",
     "summary": "巴西預言家阿托斯·薩洛梅（Athos Salomé）因多次精準預測國際事件而聞名。他警告，隨著北極冰層持續融化，新的航道與能源資源逐漸暴露，俄羅斯與北約在北極地區可能於 2026 年夏季發生軍事對峙，使該地區成為全球最危險的地緣政治熱點之一。  (假設 2026 年夏季結束)",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/31",
+    "title": "「活著的諾查丹瑪斯」阿托斯·薩洛梅：北極地區恐爆發俄羅斯與北約軍事衝突",
+    "summary": "巴西靈媒阿托斯·薩洛梅（Athos Salomé）於 7 月 31 日再次警告，隨著北極冰層融化和新航道開放，俄羅斯與北約之間可能在 2026 年夏季冰層融化期間於北極地區發生軍事對峙。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
