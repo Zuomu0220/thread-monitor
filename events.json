@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Steam 電馭叛客節",
+    "summary": "Steam 將於 2026 年 8 月 3 日至 8 月 10 日舉辦「電馭叛客節」，預計將有以電馭叛客為主題的遊戲提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/02",
     "title": "無相關資訊",
@@ -388,14 +396,6 @@
     "date": "2026/07/31",
     "title": "2026 ChinaJoy遊戲展盛大登場：多款新作Demo與經典IP齊亮相",
     "summary": "2026年ChinaJoy遊戲展於上海新國際博覽中心盛大舉行。多家遊戲廠商攜重磅作品參展，包括全新解謎遊戲《THANKS, LIGHT.》、經典棋盤卡牌系列新作《Culdcept BEGINS》、像素風遊戲《煉金要塞》等提供試玩。完美世界《異環》、暴雪遊戲等知名廠商也設有展區。展會期間將有大量新作試玩Demo釋出，並結合多樣互動活動與玩家Coser。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam週末免費暢玩與特價：《Necesse》、《Reaper Actual》、《WWE 2K26》、《Tower Dominion》",
-    "summary": "Steam推出週末免費遊玩活動，四款遊戲包括開放世界沙盒生存RPG《Necesse》、開放世界撤離射擊遊戲《Reaper Actual》、摔角系列新作《WWE 2K26》以及Roguelike塔防遊戲《Tower Dominion》，限時暢玩至8月3日，同時享有折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
