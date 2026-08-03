@@ -1,6 +1,22 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/08/03",
+    "title": "查無近期負面與爭議事件",
+    "summary": "在 2026/07/27 至 2026/08/03 期間，未發現台灣/華語圈實況主有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Steam新遊戲上市與免費遊玩",
+    "summary": "多款遊戲於2026年8月3日在Steam平台上市，其中「Dead Zone Revive」和「Porthole - Local Port Sharing」開放免費遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/02",
     "title": "無相關資訊",
     "summary": "在此報告期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新動態。",
@@ -380,22 +396,6 @@
     "date": "2026/07/31",
     "title": "Steam週末免費暢玩與特價：《Necesse》、《Reaper Actual》、《WWE 2K26》、《Tower Dominion》",
     "summary": "Steam推出週末免費遊玩活動，四款遊戲包括開放世界沙盒生存RPG《Necesse》、開放世界撤離射擊遊戲《Reaper Actual》、摔角系列新作《WWE 2K26》以及Roguelike塔防遊戲《Tower Dominion》，限時暢玩至8月3日，同時享有折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam TopHouse 大型週年特賣",
-    "summary": "TopHouse 遊戲開發商將於2026年7月31日至8月14日期間在Steam平台舉辦大型週年特賣，提供多款遊戲折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Tokyo Game Dungeon 獨立遊戲展Demo開放",
-    "summary": "Tokyo Game Dungeon 日本大型獨立遊戲展會，匯集超過180款Steam遊戲提供試玩Demo，於2026年7月31日開始。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
