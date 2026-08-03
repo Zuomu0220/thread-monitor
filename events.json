@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/08/04",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/07/28 至 2026/08/04 期間，未搜尋到台灣/華語圈實況主相關的重大負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/03",
     "title": "查無近期負面與爭議事件",
     "summary": "在 2026/07/27 至 2026/08/03 期間，未發現台灣/華語圈實況主有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的事件。",
@@ -97,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/02",
+    "title": "Steam/PlayStation限時優惠：《月影殺》",
+    "summary": "獨立 ARPG 遊戲《月影殺》亮相 ChinaJoy 2026，並在 Steam 和 PlayStation 5 平台提供限時六折優惠，同時提供免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/01",
     "title": "《原神》「月之八」版本新幻想真境劇詩上線",
     "summary": "《原神》「月之八」版本更新後，新的幻想真境劇詩將於2026年8月1日正式推出。",
@@ -166,14 +182,6 @@
     "summary": "Steam 平台「Games Operators 發行商特賣 2026」活動已於 8 月 1 日展開，將持續至 8 月 15 日，提供多款該發行商旗下遊戲的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/31",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026 年 07 月 24 日至 2026 年 07 月 31 日期間，未搜尋到台灣/華語圈實況主與 VTuber 的最新負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "GAME",
@@ -388,14 +396,6 @@
     "date": "2026/07/31",
     "title": "Steam Bethesda 40 週年特賣",
     "summary": "為慶祝 Bethesda 成立 40 週年，多款經典冒險遊戲享有最高達 75% 的折扣，包含《異塵餘生 76》、《DOOM: The Dark Ages》、《上古卷軸 Online》及《印第安納瓊斯與大環》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam WB Games 樂高系列特賣",
-    "summary": "樂高蝙蝠俠、樂高漫威、樂高星際大戰、樂高哈利波特等樂高系列遊戲及 DLC 享有最高達 90% 的折扣，活動持續至 2026 年 8 月 10 日上午 10 時 (PDT)。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -4115,6 +4115,15 @@
     "date": "2026/07/29",
     "title": "TikTok時空旅人自稱受困2027年",
     "summary": "一位自稱來自2027年的TikTok用戶Javier發布多段影片，聲稱在經歷一場災難性滅絕事件後，於2027年2月13日在西班牙瓦倫西亞的一間醫院醒來，發現城市空無一人，自己被困並孤身一人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/02/13",
+    "expiry_date": "2027/02/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/02",
+    "title": "TikTok時空旅人自稱在2027年西班牙城市中倖存",
+    "summary": "一位名為哈維爾（Javier）的 TikTok 時空旅人聲稱自己被困在 2027 年一座荒涼的西班牙城市中，是某次大規模滅絕事件的唯一倖存者，並發布影片證明其說法。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/02/13",
     "expiry_date": "2027/02/14"
