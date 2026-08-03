@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/02",
+    "title": "Steam七月免費遊戲庫擴大",
+    "summary": "Steam宣布擴大其七月免費遊戲庫，其中包括搶先體驗版遊戲《Dig For Your Lives》，該遊戲在Steam上獲得84%的好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/01",
     "title": "《原神》「月之八」版本新幻想真境劇詩上線",
     "summary": "《原神》「月之八」版本更新後，新的幻想真境劇詩將於2026年8月1日正式推出。",
@@ -392,14 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Epicgames與Steam平台多款遊戲折扣優惠：最低可達1.5折",
-    "summary": "Epicgames折扣區推出低至8折的優惠，例如《Dino Jump》售價4.49美元。同時，Steam折扣區也有低至1.5折的優惠，例如《Beholder 3》售價2.69美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit 網友自稱「2077年穿越者」預警全球網路恐攻事件",
@@ -611,6 +611,15 @@
     "date": "2026/07/10",
     "title": "三位預言家警示 2026 年 8 月重大地緣意外與精神幻滅",
     "summary": "美國吠陀占星師喬尼、英國靈媒帕克、印度占星大師卡皮爾·拉傑指出，2026 年 7 月進入 8 月後，全球可能出現重大地緣意外與特殊天氣現象，特別點名台灣海峽與日本海域在 8 月 12 日前後需重點警示。他們同時預測全球數十億人將迎來精神幻滅、高科技行業大轉型與回歸土地浪潮，並指出 2026 年底木星與計都合相將帶來史無前例的物質世界覺醒，人們將對數字便利與現代生活產生深刻幻滅。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/10",
+    "title": "三位預言家重合的2026警告",
+    "summary": "美國吠陀占星師Jonny、英國靈媒Parker與印度占星大師Kapil Raj，三位預言家在2026年7月指出高度重合的警示。他們預測8月12日前後可能出現重大地緣政治意外及特殊天氣現象（特別指出台海與日本海域）。Kapil Raj更預言2026年底木星與計都合相，將帶來物質世界的覺醒，人們對數位便利產生幻滅，植物學家、農民、木匠等職業將更具價值。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -2601,15 +2610,6 @@
   {
     "category": "PROPHECY",
     "date": "2026/06/14",
-    "title": "來自2058年的未來人國分玲預言",
-    "summary": "國分玲表示，2026年是日本及全球的重大轉折點，並預警2026年底將有全新傳染病肆虐全球，以及俄烏停火時間已定。她也曾預言比特幣價值將持續飆升。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/06/14",
     "title": "自稱2048年香港未來人預言",
     "summary": "一名自稱來自2048年的香港未來人帳號截圖在 Threads 瘋傳，預告2026年香港將有水災、傳染病，社群媒體將充斥震撼新聞，並聲稱這兩年將開始有「外星接觸」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
@@ -4400,6 +4400,33 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "來自2045年的Adam Archon預言",
+    "summary": "自稱來自2045年的時空旅行者Adam Archon預言，時間旅行技術將於2028年公開普及，外星人將於2028年8月登陸地球，結束政府數十年來的隱瞞。此外，他還預測全球政府將建立，並引入先進AI技術。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "來自2045年的時間旅行者警告",
+    "summary": "一位自稱來自2045年的時間旅行者Adam Archon，預測在未來四年（至2028年）將發生令人震驚的事件，包括時間旅行技術公開、外星人降臨地球，以及世界將由全球政府和先進AI統治。他還聲稱2029年2月將推出名為「The One」的植入式微晶片。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/24",
+    "title": "來自2118年的時間旅行者預言",
+    "summary": "一位自稱來自2118年的時間旅行者Alexander Smith預言，商業時間旅行將在2028年成為可能，同年美國政府將證實智能外星生物的存在。他還警告在下個世紀會爆發涉及美國、北韓和俄羅斯的重大世界大戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/17",
     "title": "Reddit 論壇「時間旅人」用戶預測新科技突破",
     "summary": "在 Reddit 的 r/timetraveler 版塊中，一位匿名用戶發布貼文，聲稱在 2028 年將會有一項關於「量子運算」的重大突破，徹底改變現有的網路安全格局。",
@@ -4721,6 +4748,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2035/12/31",
     "expiry_date": "2036/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "Elon Musk預言金融與社會變革",
+    "summary": "科技巨頭Elon Musk預言，十年內金錢將失去意義，而英國將在二十年內爆發內戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2036/01/01",
+    "expiry_date": "2036/01/02"
   },
   {
     "category": "PROPHECY",
