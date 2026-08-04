@@ -120,6 +120,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩",
+    "summary": "Steam 平台推出《Six One Indie Demo Days 2026》活動，集結超過 150 款獨立遊戲試玩 Demo，活動從 7 月 31 日開始至 8 月 7 日。重點推薦作品包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike 動作遊戲《慟哭幽光／CRYMELIGHT》，以及植物主題生存恐怖遊戲《The Florist》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/02",
     "title": "無相關資訊",
@@ -388,14 +396,6 @@
     "date": "2026/07/31",
     "title": "Epic Games 新作《鬼武者：刀之道》Demo開放試玩",
     "summary": "Capcom的動作冒險遊戲《鬼武者：刀之道》（Onimusha: Way of the Sword）在Epic Games平台開放試玩版，讓玩家提前體驗遊戲內容。本作預計於2026年9月4日正式發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam 「Six One Demo Days」活動，《酒店建築師》Demo重新上線",
-    "summary": "飯店模擬遊戲《酒店建築師》（Hotel Architect）的試玩版作為Steam「Six One Demo Days」活動的一部分重新上線，提供為期一周的試玩，讓玩家體驗1990年代波蘭公寓樓的翻修情境。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1763,6 +1763,15 @@
     "date": "2026/05/19",
     "title": "國分玲預言2026年9月26日再次歸來",
     "summary": "曾有著驚人準確預言紀錄的自稱2058年未來人國分玲表示，她將於2026年9月26日再次歸來，回答大眾的問題。她也預言2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言 2028 年金融危機與再次現身日期",
+    "summary": "國分玲預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現根本性動搖。他並表示將於 2026 年 9 月 26 日再次歸來，回答眾人疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
