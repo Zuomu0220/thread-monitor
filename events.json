@@ -104,6 +104,22 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/03",
+    "title": "雲際線工作室提出三大承諾",
+    "summary": "VTuber 工作室「雲際線」在近期相關報導中，針對旗下 VTuber 事務提出三大承諾，但具體內容未詳述。此消息在科技與娛樂新聞中被提及，顯示該工作室對其 VTuber 發展及未來運營的重視。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Six One Indie Demo Days 2026 登場",
+    "summary": "Six One Indie 近日推出「Demo Days 2026」活動，集結 Steam 平台超過 150 款獨立遊戲試玩 Demo，並吸引約 250 組獨立開發團隊參與。活動自 7 月 31 日開始，將持續至 8 月 7 日，玩家可透過官方活動頁面瀏覽並試玩作品。其中，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等受到關注的作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/02",
     "title": "無相關資訊",
@@ -380,22 +396,6 @@
     "date": "2026/07/31",
     "title": "Steam 「Six One Demo Days」活動，《酒店建築師》Demo重新上線",
     "summary": "飯店模擬遊戲《酒店建築師》（Hotel Architect）的試玩版作為Steam「Six One Demo Days」活動的一部分重新上線，提供為期一周的試玩，讓玩家體驗1990年代波蘭公寓樓的翻修情境。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Epic Games Store 宣布下週將贈送兩款免費遊戲",
-    "summary": "Epic Games Store 公布了下週即將免費領取的兩款遊戲：《Beacon Pines》和《We Were Here Together》。這兩款遊戲將於 8 月 6 日開始提供，玩家有一週時間可以將它們加入遊戲庫中。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Nintendo Switch eShop 暑假優惠",
-    "summary": "Nintendo Switch eShop 推出暑假優惠，精選 17 款遊戲售價皆在新台幣 100 元以下，涵蓋 RPG、ACT、格鬥、模擬、獨立遊戲等類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1754,6 +1754,15 @@
     "date": "2026/08/04",
     "title": "2058未來人國分玲預告將於2026年9月26日再次現身",
     "summary": "自稱來自2058年的神秘人國分玲，曾精準預言多項重大事件。近日網路社群再次提及，她曾表示將在2026年9月26日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言2026年9月26日再次歸來",
+    "summary": "曾有著驚人準確預言紀錄的自稱2058年未來人國分玲表示，她將於2026年9月26日再次歸來，回答大眾的問題。她也預言2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
