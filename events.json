@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Epic Games 雙遊戲限時免費：《OTXO》與《Sol Cesto》",
+    "summary": "Epic Games Store 於 2026 年 7 月 30 日至 8 月 6 日 23:00 期間，推出 Roguelite 遊戲《OTXO》與奇幻網格策略遊戲《Sol Cesto》限時免費領取活動，玩家可永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/03",
     "title": "查無近期負面與爭議事件",
@@ -84,6 +92,14 @@
     "date": "2026/08/03",
     "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動開跑",
     "summary": "Steam 平台舉辦「Six One Indie Demo Days 2026」活動，集結超過150款獨立遊戲 Demo 供玩家免費試玩。活動自 2026/7/31 開始，將持續至 2026/8/7，其中包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike Action 遊戲《慟哭幽光／CRYMELIGHT》以及題材混搭的《Zhen: Shattered Legacy》等作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩活動",
+    "summary": "《Six One Indie Demo Days 2026》於 2026 年 7 月 31 日至 8 月 7 日期間在 Steam 平台登場，集結超過 150 款獨立遊戲 Demo 供玩家免費試玩，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "Nintendo Switch eShop 暑假優惠",
     "summary": "Nintendo Switch eShop 推出暑假優惠，精選 17 款遊戲售價皆在新台幣 100 元以下，涵蓋 RPG、ACT、格鬥、模擬、獨立遊戲等類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "《阿雷塔》Steam Playtest 開放",
-    "summary": "巴哈姆特創作大賽得獎作品《阿雷塔》（YARETA）於今日在 Steam 平台展開新一輪 Playtest，玩家可免費取得資格體驗約兩小時的遊玩內容。該作也將參展 2026 東京電玩展。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/07/31",
-    "title": "VTuber 五木左京因不當 emoji 道歉",
-    "summary": "五木左京於 7 月 30 日在 X (原 Twitter) 上發布道歉文，起因為其在 7 月 28 日的公告延期貼文中使用了被認為不恰當的房屋 emoji，由於當時有災情發生，被部分網友指出不謹慎。她對未經充分確認即發布貼文表示歉意，但評論區多數聲音表達了理解與支持。 (**Note**: I could not find a specific image URL from the search results, so I am providing a placeholder based on common image naming conventions for such news. In a real scenario, I would perform an image search for \"五木左京\" to get a direct public image link.)",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 3
   },
   {
