@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Steam 8月主題特賣預告：電馭叛客節、彈珠與樁釘節、玩家合作生存工藝節",
+    "summary": "根據2023年12月發布的情報，Steam預計在2026年8月舉辦多個主題特賣活動，包含電馭叛客節、彈珠與樁釘節以及玩家合作生存工藝節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/03",
     "title": "查無近期負面與爭議事件",
@@ -180,6 +188,14 @@
     "date": "2026/08/01",
     "title": "Steam Games Operators 發行商特賣啟動",
     "summary": "Steam 平台「Games Operators 發行商特賣 2026」活動已於 8 月 1 日展開，將持續至 8 月 15 日，提供多款該發行商旗下遊戲的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/01",
+    "title": "Steam Games Operators 發行商特賣",
+    "summary": "Steam上「Games Operators Publisher Sale 2026」活動於2026年8月1日開始，將持續至8月15日，提供多款遊戲折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/31",
     "title": "Steam 週末免費遊玩活動：四款遊戲限時暢玩至 8 月 3 日",
     "summary": "Steam 推出週末免費遊玩活動，即日起至太平洋時間 8 月 3 日上午 10 時，有四款遊戲可供玩家下載試玩，並同時享有折扣優惠。遊戲陣容包括開放世界作品《Necesse》、《Reaper Actual》、體育模擬遊戲《WWE 2K26》以及塔防遊戲《Tower Dominion》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam 獨立遊戲與特賣活動一覽",
-    "summary": "Steam 上舉辦多項活動與特賣，包含「巴基斯坦遊戲開發者展示會」、「Six One Indie Demo Days 2026 試玩活動」、「Tokyo Game Dungeon 13 — 日本遊戲展」，以及「TopHouse 週年特賣」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Steam Bethesda 40 週年特賣",
-    "summary": "為慶祝 Bethesda 成立 40 週年，多款經典冒險遊戲享有最高達 75% 的折扣，包含《異塵餘生 76》、《DOOM: The Dark Ages》、《上古卷軸 Online》及《印第安納瓊斯與大環》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
