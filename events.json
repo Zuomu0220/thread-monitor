@@ -48,6 +48,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "SQUARE ENIX Steam 夏日優惠活動登場",
+    "summary": "SQUARE ENIX 宣布，Steam 平台「SQUARE ENIX 夏日優惠活動 for Steam」正式開跑，多款人氣作品推出限時優惠。其中《FINAL FANTASY VII REBIRTH》祭出四折特別價格，另有《FINAL FANTASY TACTICS - The Ivalice Chronicles》及《勇者鬥惡龍VII Reimagined》等作品同步加入優惠陣容，活動預計將於 8 月 11 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/04",
     "title": "無最新負面與爭議事件",
@@ -116,6 +124,22 @@
     "date": "2026/08/04",
     "title": "Steam東亞獨立遊戲慶典與其他特賣活動同步進行",
     "summary": "Steam平台上有多項特賣活動，包括由台灣團隊發起的「東亞獨立遊戲慶典」、ComiDay30遊戲特賣活動、Indie Premier遊戲展示會2026、Kitfox Festival 2026等，提供眾多獨立遊戲的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "任天堂 eShop「2026 夏季優惠」開跑",
+    "summary": "任天堂 eShop 於 2026 年 8 月 4 日至 8 月 17 日舉辦夏季優惠，多款 Nintendo Switch 與 Nintendo Switch 2 遊戲下殺折扣。其中包括《集合啦！動物森友會 Nintendo Switch 2 Edition》七折，人氣大作《女神異聞錄5 皇家版》更低至兩折（原價 1,790 元特價 358 元），《FINAL FANTASY VII REMAKE INTERGRADE》數位版最高 65% OFF（特價 658 元）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "索尼 PS Plus 2026 年 8 月會免遊戲開放領取",
+    "summary": "索尼 PlayStation Plus 會員月度遊戲陣容於 2026 年 8 月 4 日起開放領取，一檔會免遊戲包含《消逝的光芒2：重裝上陣版》、《Big Walk》和《信號（Signalis）》，玩家可於 8 月 31 日前領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/08/01",
     "title": "Steam Demo《Invokyr》與《Trash Day》參與Steam新品節",
     "summary": "合作生存恐怖遊戲《Invokyr Demo》和物理合作冒險遊戲《Trash Day Demo》於Steam新品節期間上線。儘管兩款Demo的初始發布日期較早，但作為新品節的重點項目，提供了新的試玩機會與宣傳。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Epic Games Store 即將推出免費遊戲《Beacon Pines》和《We Were Here Together》",
-    "summary": "Epic Games Store 宣布將於 2026 年 8 月 6 日至 8 月 13 日提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Epic Games Store 限時免費遊戲上架",
-    "summary": "OTXO 和 Sol Cesto 現已可在 Epic Games Store 免費領取，活動持續至 8 月 6 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Epic Games Store 限時免費：《OTXO》與《Sol Cesto》開放領取",
-    "summary": "Epic Games Store 宣布於本週提供兩款遊戲《OTXO》和《Sol Cesto》限時免費領取。其中，《OTXO》是一款戰術性的 Roguelite 遊戲，而《Sol Cesto》則是一款結合戰術與瘋狂元素的 Roguelite 遊戲，兩款遊戲可免費領取至 2026 年 8 月 6 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -4115,6 +4115,24 @@
     "date": "2026/03/24",
     "title": "Craig Hamilton-Parker 預言（針對 2026 年）：大規模數位癱瘓、美西與義大利地質事件",
     "summary": "英國預言家 Craig Hamilton-Parker 預測 2026 年將發生大規模的「數位癱瘓」，影響銀行和電網（可能來自網路攻擊），並指出美國西海岸和義大利維蘇威火山將經歷重大的地質事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/13",
+    "title": "2264 年時空旅人對 2026 年人類社會的觀察",
+    "summary": "一名自稱來自 2264 年的時空旅人描述了 2026 年的人類社會，認為當時科技仍顯原始、社會問題持續存在，且生活節奏非常緩慢。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/16",
+    "title": "2ch 未來人預言 2026 年日本的命運",
+    "summary": "在 2ch 論壇上出現的時空穿越者預言，2026 年日本將迎來一個「收束點」，並討論了南海海溝大地震、世界線錯位以及日本地下可能存在的古代能量設施等議題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
