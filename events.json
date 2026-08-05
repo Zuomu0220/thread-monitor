@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "東亞獨立遊戲慶典登場",
+    "summary": "第二屆東亞獨立遊戲慶典（EAIGC）於 Steam 平台展開，活動期間為 8 月 5 日至 8 月 19 日。本次慶典集結了 550 款來自東亞的獨立遊戲，並有超過百款遊戲提供試玩（Demo）或封閉測試，同時有 50 位以上創作者進行直播介紹，並結合限時特賣活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/04",
     "title": "無最新負面與爭議事件",
@@ -172,6 +180,14 @@
     "date": "2026/08/03",
     "title": "Steam《漫威蜘蛛人》系列遊戲特賣",
     "summary": "Steam平台正在舉辦《漫威蜘蛛人》系列遊戲特賣活動，以慶祝新戰衣、電影上映及蜘蛛人日，提供限時優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/03",
+    "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動",
+    "summary": "Six One Indie 推出 Demo Days 2026 活動，自 7 月 31 日至 8 月 7 日在 Steam 平台舉行。此活動以遊戲 Demo 為核心，集結了超過 150 款獨立遊戲試玩內容，並吸引約 250 組獨立開發團隊參與，強調玩家直接體驗遊戲內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/07/31",
     "title": "Epic Games 夏日特賣 2026 結束",
     "summary": "Epic Games 的年度夏日特賣活動將於日本時間 7 月 31 日凌晨 0 點結束。本次特賣期間，包含 AAA 大作和獨立遊戲在內的眾多遊戲享有最高 80% 的折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "Fanatical推出「BYO Power Picks Bundle」自選遊戲包",
-    "summary": "Fanatical遊戲平台推出「BYO Power Picks Bundle」自選遊戲包，提供玩家折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/07/31",
-    "title": "免費遊戲：《Ogre Chambers DX》與《PROJECT: PLAYTIME》釋出",
-    "summary": "遊戲平台開放《Ogre Chambers DX》和《PROJECT: PLAYTIME》兩款遊戲供玩家免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
