@@ -5,7 +5,7 @@
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +13,7 @@
     "title": "東亞獨立遊戲慶典登場",
     "summary": "第二屆東亞獨立遊戲慶典（EAIGC）於 Steam 平台展開，活動期間為 8 月 5 日至 8 月 19 日。本次慶典集結了 550 款來自東亞的獨立遊戲，並有超過百款遊戲提供試玩（Demo）或封閉測試，同時有 50 位以上創作者進行直播介紹，並結合限時特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +21,15 @@
     "title": "第二屆「東亞獨立遊戲慶典」（EAIGC）於 Steam 展開",
     "summary": "台灣團隊發起的第二屆「東亞獨立遊戲慶典」於 2026 年 8 月 5 日至 8 月 19 日在 Steam 平台舉行，集結 550 款東亞獨立遊戲，其中超過百款提供 Demo 試玩或封閉測試，並有逾 50 位內容創作者進行直播介紹。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "Epic Games Store下週免費遊戲預告：《Beacon Pines》與《We Were Here Together》",
+    "summary": "Epic Games Store預告將於2026年8月6日23:00起，開放限時免費領取單人敘事冒險遊戲《Beacon Pines》以及雙人強制合作遊戲《We Were Here Together》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
   },
   {
     "category": "STREAMER",
@@ -29,7 +37,7 @@
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/07/28 至 2026/08/04 期間，未搜尋到台灣/華語圈實況主相關的重大負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "Steam 8月主題特賣預告：電馭叛客節、彈珠與樁釘節、玩家合作生存工藝節",
     "summary": "根據2023年12月發布的情報，Steam預計在2026年8月舉辦多個主題特賣活動，包含電馭叛客節、彈珠與樁釘節以及玩家合作生存工藝節。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -45,7 +53,7 @@
     "title": "Epic Games 雙遊戲限時免費：《OTXO》與《Sol Cesto》",
     "summary": "Epic Games Store 於 2026 年 7 月 30 日至 8 月 6 日 23:00 期間，推出 Roguelite 遊戲《OTXO》與奇幻網格策略遊戲《Sol Cesto》限時免費領取活動，玩家可永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -53,7 +61,7 @@
     "title": "VTuber煙花、基德與SamoAgo之間爆發對質事件",
     "summary": "台灣VTuber煙花、基德與SamoAgo之間發生對質事件，核心爭議點圍繞著傳話及可能造成的誤解。網友討論顯示此事件涉及多方溝通問題，並在社群引起關注。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +69,39 @@
     "title": "《暗黑破壞神4》國服本體免費領取活動進入最後一天",
     "summary": "《暗黑破壞神4》國服本體原價128元人民幣的免費領取活動於8月4日23:59:59截止。玩家可在截止時間前前往國服官網或透過微信小程序領取遊戲，永久入庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Steam 2026賽博龐克遊戲節盛大展開",
+    "summary": "Steam平台於2026年8月3日（太平洋時間）開啟為期一週的「賽博龐克遊戲節」，提供多款賽博龐克主題遊戲的限時折扣，活動將持續至8月10日（太平洋時間）。同時，壓倒性好評的2D動作冒險遊戲《SANABI》與類魂遊戲《九日》也聯手推出9折同捆包優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "台灣獨立團隊《沉沒意志》兩週年慶與新作預告",
+    "summary": "台灣獨立團隊熊骨工作室的壓倒性好評作品《沉沒意志》（Minds Beneath Us）慶祝發售兩週年，並參與Steam「電馭叛客節」推出史低30%特惠。官方同時預告，關於團隊「第二款新作」的開發短片即將於近期正式發表。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Steam《以太與鐵》賽博龐克遊戲節期間更新並特價",
+    "summary": "迪斯科類劇情RPG《以太與鐵（Aether & Iron）》在Steam賽博龐克遊戲節期間推出全新免費內容更新，新增一系列迷你任務並豐富世界觀，同時遊戲限時8折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Steam東亞獨立遊戲慶典與其他特賣活動同步進行",
+    "summary": "Steam平台上有多項特賣活動，包括由台灣團隊發起的「東亞獨立遊戲慶典」、ComiDay30遊戲特賣活動、Indie Premier遊戲展示會2026、Kitfox Festival 2026等，提供眾多獨立遊戲的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -69,7 +109,7 @@
     "title": "查無近期負面與爭議事件",
     "summary": "在 2026/07/27 至 2026/08/03 期間，未發現台灣/華語圈實況主有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -77,7 +117,7 @@
     "title": "Steam新遊戲上市與免費遊玩",
     "summary": "多款遊戲於2026年8月3日在Steam平台上市，其中「Dead Zone Revive」和「Porthole - Local Port Sharing」開放免費遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -85,7 +125,7 @@
     "title": "Steam 電馭叛客節",
     "summary": "Steam 將於 2026 年 8 月 3 日至 8 月 10 日舉辦「電馭叛客節」，預計將有以電馭叛客為主題的遊戲提供折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -93,7 +133,7 @@
     "title": "Steam限時免費",
     "summary": "肉鴿彈幕競技場《Ogre Chambers DX》將於8月4日自Steam商店下架，在此之前將遊戲納入Steam收藏庫可永久保存。其續作《Ogre Chambers 2222》目前正以新台幣87元特價販售，活動至8月5日止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -101,7 +141,7 @@
     "title": "Steam未來限免",
     "summary": "Steam綜合討論區公布了2026年8月版的未來限免遊戲清單，其中預告《夜勤人》（Moonlighter）和《德波尼亞》（Deponia）可能在未來限免。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -109,7 +149,7 @@
     "title": "獨立遊戲參展",
     "summary": "由波蘭開發商Frozen Way打造的開放世界生存沙盒遊戲《蜂巢：異星物語》（Honeycomb: The World Beyond）在ChinaJoy展出最新Demo試玩版，吸引大量玩家圍觀。遊戲計畫於2026年第三季度登陸PC、PlayStation 5及Xbox Series X|S平台。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -117,7 +157,7 @@
     "title": "Steam 免費遊戲《Ogre Chambers DX》即將下架，領取後可永久保留",
     "summary": "《Ogre Chambers DX》這款獲得 91% 好評的彈幕動作 Roguelike 遊戲將於 8 月 4 日從 Steam 移除，玩家可在下架前免費領取並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -125,7 +165,7 @@
     "title": "Epic Games Store 預告下一批免費遊戲：《Beacon Pines》與《We Were Here Together》",
     "summary": "Epic Games Store 預計在近期送出《Beacon Pines》和《We Were Here Together》作為免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -133,7 +173,7 @@
     "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動開跑",
     "summary": "Steam 平台舉辦「Six One Indie Demo Days 2026」活動，集結超過150款獨立遊戲 Demo 供玩家免費試玩。活動自 2026/7/31 開始，將持續至 2026/8/7，其中包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike Action 遊戲《慟哭幽光／CRYMELIGHT》以及題材混搭的《Zhen: Shattered Legacy》等作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +181,7 @@
     "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩活動",
     "summary": "《Six One Indie Demo Days 2026》於 2026 年 7 月 31 日至 8 月 7 日期間在 Steam 平台登場，集結超過 150 款獨立遊戲 Demo 供玩家免費試玩，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -149,7 +189,7 @@
     "title": "雲際線工作室提出三大承諾",
     "summary": "VTuber 工作室「雲際線」在近期相關報導中，針對旗下 VTuber 事務提出三大承諾，但具體內容未詳述。此消息在科技與娛樂新聞中被提及，顯示該工作室對其 VTuber 發展及未來運營的重視。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -157,7 +197,7 @@
     "title": "Six One Indie Demo Days 2026 登場",
     "summary": "Six One Indie 近日推出「Demo Days 2026」活動，集結 Steam 平台超過 150 款獨立遊戲試玩 Demo，並吸引約 250 組獨立開發團隊參與。活動自 7 月 31 日開始，將持續至 8 月 7 日，玩家可透過官方活動頁面瀏覽並試玩作品。其中，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等受到關注的作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +205,7 @@
     "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩",
     "summary": "Steam 平台推出《Six One Indie Demo Days 2026》活動，集結超過 150 款獨立遊戲試玩 Demo，活動從 7 月 31 日開始至 8 月 7 日。重點推薦作品包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike 動作遊戲《慟哭幽光／CRYMELIGHT》，以及植物主題生存恐怖遊戲《The Florist》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -173,7 +213,7 @@
     "title": "Steam限時免費領取《Ogre Chambers DX》",
     "summary": "芬蘭獨立開發者ANTENNA GAMES製作的Roguelike彈幕射擊遊戲《Ogre Chambers DX》將於2026年8月4日從Steam商店下架，在此之前玩家可限時免費領取並永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -181,7 +221,7 @@
     "title": "Steam《PlateUp!》推出75%折扣優惠",
     "summary": "Steam平台上的合作烹飪遊戲《PlateUp!》目前提供75%的折扣優惠，吸引喜愛此類遊戲的玩家。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -189,7 +229,7 @@
     "title": "Steam《漫威蜘蛛人》系列遊戲特賣",
     "summary": "Steam平台正在舉辦《漫威蜘蛛人》系列遊戲特賣活動，以慶祝新戰衣、電影上映及蜘蛛人日，提供限時優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -197,7 +237,7 @@
     "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動",
     "summary": "Six One Indie 推出 Demo Days 2026 活動，自 7 月 31 日至 8 月 7 日在 Steam 平台舉行。此活動以遊戲 Demo 為核心，集結了超過 150 款獨立遊戲試玩內容，並吸引約 250 組獨立開發團隊參與，強調玩家直接體驗遊戲內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -205,7 +245,7 @@
     "title": "實況主泥泥汝因電競賽事言行不當引發爭議",
     "summary": "知名實況主泥泥汝在Threads上發布道歉聲明，針對其在觀看《英雄聯盟》電競賽事時，穿著對手隊伍T1的隊服卻坐在Gen.G席次，甚至將選手Faker的名字寫錯等不成熟言行致歉，引發網路社群炎上。她表示已深刻意識到問題並將反省。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -213,7 +253,7 @@
     "title": "無相關資訊",
     "summary": "在此報告期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新動態。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -221,7 +261,7 @@
     "title": "無最新負面與爭議事件報告",
     "summary": "在 2026/07/26 至 2026/08/02 期間，Google Search 未能搜捕到台灣/華語圈實況主與 VTuber 相關的重大負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -229,7 +269,7 @@
     "title": "Steam七月免費遊戲庫擴大",
     "summary": "Steam宣布擴大其七月免費遊戲庫，其中包括搶先體驗版遊戲《Dig For Your Lives》，該遊戲在Steam上獲得84%的好評。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -237,7 +277,7 @@
     "title": "多平台遊戲特價與免費",
     "summary": "Steam、Epic Games和Amazon等平台於8月2日整理推出共24款遊戲可供免費領取或體驗，其中包括《黑水城堡》及《OTXO》等佳作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -245,7 +285,7 @@
     "title": "Steam/PlayStation限時優惠：《月影殺》",
     "summary": "獨立 ARPG 遊戲《月影殺》亮相 ChinaJoy 2026，並在 Steam 和 PlayStation 5 平台提供限時六折優惠，同時提供免費試玩版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -253,7 +293,7 @@
     "title": "遊戲主播旭旭寶寶因言論不當遭大量掉粉",
     "summary": "知名遊戲主播旭旭寶寶因公開表達個人觀影偏好，隨後發布反諷影片回懟網友「一地雞毛」，短短幾天內累積掉粉超過60萬。此事件引發關於公眾人物言論邊界、粉絲關係維護及危機應對的廣泛討論，警示主播在跨界發言時需謹言慎行。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -261,7 +301,7 @@
     "title": "hololive EN VTuber Ouro Kronii因舊雙關語失遊戲配音工作",
     "summary": "hololive EN旗下的VTuber Ouro Kronii因被翻出5年前直播時，一句關於遊戲中野豬（boar）的英文雙關語「because it's such a bore」，被部分觀眾誤解為批評遊戲無聊。爭議擴大後，《永恆輪迴》官方宣布撤換Ouro Kronii在該遊戲英文版角色鼻荊的配音工作。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -269,7 +309,7 @@
     "title": "VTuber浠Mizuki因社群失言遭子午計畫暫停活動兩個月",
     "summary": "所屬子午計畫的VTuber浠Mizuki因近期在社群平台上的不當發言引發粉絲與外界爭議。經內部評估與檢討後，子午計畫宣布對浠Mizuki處以「暫停活動兩個月」的處分，期間包含直播、X（推特）、YouTube等個人社群將同步停止更新。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "VTUBER",
@@ -277,7 +317,31 @@
     "title": "台V圈Lyra Cygnus與朵朵子爆發社群爭吵",
     "summary": "台灣VTuber圈傳出爭議事件，天鵝化身酒吧老闆系VTuber Lyra Cygnus（萊菈．希格娜斯）與古風系桃花妖歌姬系VTuber朵朵子（Chichi Do）之間發生社群吵架，引發網友關注與討論，被形容為「台V圈大戰一觸即發」。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/02",
+    "title": "Ouro Kronii 因5年前雙關語事件遭遊戲《永恆輪迴》撤換配音",
+    "summary": "Hololive EN VTuber Ouro Kronii 近期捲入炎上風波，起因是五年前工商直播時，她看到遊戲中的野豬（boar）開玩笑說「because it's such a bore」（野豬/無聊的諧音梗）。部分觀眾誤以為她在批評遊戲無聊，爭議擴大後，遊戲《永恆輪迴》官方決定撤換她原本在英文版中為角色鼻荊配音的工作。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 3
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/02",
+    "title": "渋谷HAL在《鬥陣特攻》活動休息時間玩他作引發網友爭議",
+    "summary": "知名VTuber渋谷HAL在參加《鬥陣特攻》官方活動期間，於休息時間玩了其他類型的遊戲，此舉在網路上引發兩極爭議。渋谷HAL本人回應「休息時間玩別種類型的遊戲到底哪裡有問題？」，但語氣偏衝使炎上爭議擴大。網友討論焦點在於實況主是否有真正的「休息時間」與職業意識。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 3
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/02",
+    "title": "黃小潔因羽衣痛車未授權爭議發表聲明",
+    "summary": "知名實況主黃小潔的痛車使用了VTuber羽衣媽媽的形象，但因未取得明確授權而引發爭議。黃小潔對此發表聲明，表示已盡力聯繫並尊重羽衣媽媽撕掉未授權貼膜的決定，此行為被網友認為可接受，但也引起關於二創授權規範的討論。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -285,7 +349,7 @@
     "title": "《原神》「月之八」版本新幻想真境劇詩上線",
     "summary": "《原神》「月之八」版本更新後，新的幻想真境劇詩將於2026年8月1日正式推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -293,7 +357,7 @@
     "title": "Steam Demo《Invokyr》與《Trash Day》參與Steam新品節",
     "summary": "合作生存恐怖遊戲《Invokyr Demo》和物理合作冒險遊戲《Trash Day Demo》於Steam新品節期間上線。儘管兩款Demo的初始發布日期較早，但作為新品節的重點項目，提供了新的試玩機會與宣傳。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -301,7 +365,7 @@
     "title": "Epic Games Store 即將推出免費遊戲《Beacon Pines》和《We Were Here Together》",
     "summary": "Epic Games Store 宣布將於 2026 年 8 月 6 日至 8 月 13 日提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -309,7 +373,7 @@
     "title": "Epic Games Store 限時免費遊戲上架",
     "summary": "OTXO 和 Sol Cesto 現已可在 Epic Games Store 免費領取，活動持續至 8 月 6 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -317,7 +381,7 @@
     "title": "Epic Games Store 限時免費：《OTXO》與《Sol Cesto》開放領取",
     "summary": "Epic Games Store 宣布於本週提供兩款遊戲《OTXO》和《Sol Cesto》限時免費領取。其中，《OTXO》是一款戰術性的 Roguelite 遊戲，而《Sol Cesto》則是一款結合戰術與瘋狂元素的 Roguelite 遊戲，兩款遊戲可免費領取至 2026 年 8 月 6 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -325,7 +389,7 @@
     "title": "Epic Games Store 預告：《Beacon Pines》與《We Were Here Together》即將免費",
     "summary": "Epic Games Store 預告將於 2026 年 8 月 6 日至 8 月 13 日期間，免費提供《Beacon Pines》和《We Were Here Together》供玩家領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -333,71 +397,7 @@
     "title": "2026 ChinaJoy 朝夕光年參展前瞻",
     "summary": "朝夕光年確認參展2026 ChinaJoy，將展出《SlashZero》等多款自研新品及人氣遊戲，並開放Steam、Epic、PlayStation願望單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/01",
-    "title": "前《青春有你》練習生王承渲與經紀公司合約糾紛近況",
-    "summary": "曾參與選秀節目《青春有你2》的練習生王承渲，其與經紀公司TPG文創娛樂的合約糾紛在近期再次引起討論。此糾紛最初於2024年11月爆發，王承渲曾在社群平台發文表達想離開公司的困境，而公司則回應稱合作期間收入數百萬並提及「違約問題」及「90萬借貸」傳言。2026年4月，有網友在澳洲墨爾本的咖啡店偶遇王承渲擔任咖啡師，她當時表示拒絕重返演藝圈。近期（2026/08/01）網路討論再次聚焦此事件，探討其合約糾紛是否已解決。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Steam Games Operators 發行商特賣啟動",
-    "summary": "Steam 平台「Games Operators 發行商特賣 2026」活動已於 8 月 1 日展開，將持續至 8 月 15 日，提供多款該發行商旗下遊戲的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Steam Games Operators 發行商特賣",
-    "summary": "Steam上「Games Operators Publisher Sale 2026」活動於2026年8月1日開始，將持續至8月15日，提供多款遊戲折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Humble Bundle 推出 Dungeons & Dragons: Classics Collection",
-    "summary": "Humble Bundle 於 2026/08/01 推出 Dungeons & Dragons: Classics Collection，內含15款遊戲，售價12.6美金。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Humble Dungeons & Dragons: Classics Collection 特惠",
-    "summary": "Humble Bundle 推出「Dungeons & Dragons: Classics Collection」遊戲合集，包含 15 款遊戲，價格為 12.6 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/01",
-    "title": "日本實況主Fan太承認外遇多名女子遭ZETA DIVISION退團處分",
-    "summary": "日本實況主Fan太在網路上承認與多名女性發生不倫關係，隨後所屬的電競團隊ZETA DIVISION宣布將他退團，並無限期暫停其所有以Fan太名義進行的活動。Fan太本人也在X平台發布道歉聲明，向家人、粉絲及所有相關人員致歉。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/01",
-    "title": "實況主泥泥汝觀看《英雄聯盟》賽事不當應援引爭議後道歉",
-    "summary": "知名實況主泥泥汝受邀觀看《英雄聯盟》電競賽事，卻在Gen.G粉絲專屬席位穿著對手T1隊服，並手持Gen.G應援板替T1加油。面對網友提醒，她回應「LCK一家親」觸怒球迷，事後更將傳奇選手Faker的名字誤拼成「Fafer」，引發廣大玩家質疑其專業度與尊重度。泥泥汝隨後在Threads發布道歉聲明，表示已深刻反省。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/01",
-    "title": "Humble Dungeons & Dragons: Classics Collection 組合包上線",
-    "summary": "Humble Bundle 推出「Dungeons & Dragons: Classics Collection」組合包，內含15款遊戲，價格為12.6美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "PROPHECY",
@@ -1784,6 +1784,24 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告將於2026年9月26日再次現身",
+    "summary": "自稱來自2058年的未來人國分玲表示，她將於2026年9月26日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/18",
+    "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
+    "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/30",
+    "expiry_date": "2026/10/01"
   },
   {
     "category": "PROPHECY",
@@ -4013,6 +4031,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲警告2026年底將有全新傳染病肆虐全球",
+    "summary": "據傳來自2058年的未來人國分玲警告，2026年底將有全新傳染病肆虐全球，且俄烏戰爭的停火時間已定。同時提到在2026年最後7個月，有「黃泉客輪」將帶走一些人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "三位預言家共同指向2026年為全球覺醒的「奇點」",
+    "summary": "布蘭登·畢格斯（Brandon Biggs，美國）、阿比吉亞·阿南德（Abhigya Anand，印度）和克雷格·漢彌爾頓-帕克（Craig Hamilton-Parker，英國）三位預言家，不約而同地指向2026年將成為人類社會的重大轉折點，一種「奇點」。畢格斯警告將出現比1929年大蕭條更嚴重的經濟風暴、新馬德里斷層線重大斷裂以及新型瘟疫；阿南德預測痛苦的經濟「修正」和因深度偽造技術引發的AI「信任危機」；帕克預測大規模「數位癱瘓」影響銀行和電網，以及美國西海岸和義大利維蘇威火山的重大地質事件。他們認為這些混亂並非末日，而是痛苦但必要的催化劑，引導人類進入「精神黃金時代」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -4616,6 +4652,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/24",
+    "title": "時空旅人展示X光片預言2028年UFO登陸地球",
+    "summary": "一段於近期流傳的影片中，一名自稱來自2030年的時空旅人展示了一張X光片作為時間穿梭的證據，並警告2028年將有UFO（不明飛行物）登陸地球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/12/31",
+    "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/02/23",
     "title": "Reddit未來預測：2029年社會媒體淪為金融戰場",
     "summary": "Reddit 社群預測 2029 年社會媒體將成為一個由貧困機器人、虛假政府 ID (因年齡驗證恐懼) 和 AI 內容組成的金融戰場。",
@@ -4799,6 +4844,15 @@
     "date": "2026/02/08",
     "title": "Threads 未來人「sombrero2079」預言 2030 年 AI 取代人工與非洲國家消失",
     "summary": "sombrero2079 預測 2030 年部分國家將因 AI 技術全面替代人工，開始嘗試給予人民最低基本收入。同時，非洲將有國家因氣候變遷與政變原因而消失。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/12/31",
+    "expiry_date": "2031/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/12",
+    "title": "國分玲預言中國將於2030年改名「華國」且全球疫情再起",
+    "summary": "一份據稱是國分玲短暫登入帳號留下的神秘草稿顯示，她有五大驚人預言，其中包括中國將在2030年改名為「華國」，且全球疫情將捲土重來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2030/12/31",
     "expiry_date": "2031/01/01"
