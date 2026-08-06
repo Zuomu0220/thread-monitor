@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲預告：We Were Here Together 與 Beacon Pines",
+    "summary": "Epic Games Store 宣布，從 2026 年 8 月 6 日起，將開放《We Were Here Together》與《Beacon Pines》兩款遊戲供玩家免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -77,6 +85,14 @@
     "title": "VTuber綠仙因「歌曲埋沒」失言引發社群炎上後急忙道歉",
     "summary": "彩虹社所屬VTuber綠仙（緑仙）日前發起秋季卡拉OK直播的選曲募集，卻因在內文提到：「從沒看過有VTuber唱過這首歌…想減少因為這種理由而埋沒的名曲」而引爆爭議。此言論被許多網友認為是對原曲創作者和歌手的不尊重，暗示歌曲的受歡迎程度取決於VTuber是否翻唱，姿態過高。綠仙該貼文公開後迅速在X（推特）衝破2600多萬次觀看，並引起大量轉發與留言。事件延燒後，綠仙已將爭議貼文刪除，並公開致歉，澄清原意是希望能認識更多觀眾珍藏的動畫歌曲，單純出於「純粹喜歡唱歌的KTV愛好者」。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "第二屆東亞獨立遊戲慶典 EAIGC 於 Steam 展開",
+    "summary": "由台灣團隊發起的第二屆東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）於 2026 年 8 月 5 日至 8 月 19 日在 Steam 平台舉行，集結 550 款東亞獨立遊戲，並有超過百款遊戲提供公開試玩（Demo）或封閉測試，同時結合限時特賣活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/02",
     "title": "hololive EN VTuber Ouro Kronii因舊雙關語失遊戲配音工作",
     "summary": "hololive EN旗下的VTuber Ouro Kronii因被翻出5年前直播時，一句關於遊戲中野豬（boar）的英文雙關語「because it's such a bore」，被部分觀眾誤解為批評遊戲無聊。爭議擴大後，《永恆輪迴》官方宣布撤換Ouro Kronii在該遊戲英文版角色鼻荊的配音工作。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/02",
-    "title": "VTuber浠Mizuki因社群失言遭子午計畫暫停活動兩個月",
-    "summary": "所屬子午計畫的VTuber浠Mizuki因近期在社群平台上的不當發言引發粉絲與外界爭議。經內部評估與檢討後，子午計畫宣布對浠Mizuki處以「暫停活動兩個月」的處分，期間包含直播、X（推特）、YouTube等個人社群將同步停止更新。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/02",
-    "title": "台V圈Lyra Cygnus與朵朵子爆發社群爭吵",
-    "summary": "台灣VTuber圈傳出爭議事件，天鵝化身酒吧老闆系VTuber Lyra Cygnus（萊菈．希格娜斯）與古風系桃花妖歌姬系VTuber朵朵子（Chichi Do）之間發生社群吵架，引發網友關注與討論，被形容為「台V圈大戰一觸即發」。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -740,6 +740,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/21",
     "expiry_date": "2026/09/22"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/26",
+    "title": "預言家布蘭登·比格斯預言習近平訪美談判 AI 競賽",
+    "summary": "布蘭登·比格斯預言中國領導人習近平將於 2026 年 9 月 24 日訪問美國，此次會面的核心焦點在於 AI 競賽。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/24",
+    "expiry_date": "2026/09/25"
   },
   {
     "category": "PROPHECY",
