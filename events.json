@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/06",
+    "title": "查無近期爭議事件",
+    "summary": "在 2026/07/30 至 2026/08/06 期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面或爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games 平台下週限時免費遊戲：We Were Here Together 與 Beacon Pines",
+    "summary": "Epic Games Store 宣布自 2026 年 8 月 6 日起至 8 月 13 日，將開放《We Were Here Together》和《Beacon Pines》兩款遊戲供玩家限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/02",
-    "title": "Ouro Kronii 因5年前雙關語事件遭遊戲《永恆輪迴》撤換配音",
-    "summary": "Hololive EN VTuber Ouro Kronii 近期捲入炎上風波，起因是五年前工商直播時，她看到遊戲中的野豬（boar）開玩笑說「because it's such a bore」（野豬/無聊的諧音梗）。部分觀眾誤以為她在批評遊戲無聊，爭議擴大後，遊戲《永恆輪迴》官方決定撤換她原本在英文版中為角色鼻荊配音的工作。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/02",
-    "title": "渋谷HAL在《鬥陣特攻》活動休息時間玩他作引發網友爭議",
-    "summary": "知名VTuber渋谷HAL在參加《鬥陣特攻》官方活動期間，於休息時間玩了其他類型的遊戲，此舉在網路上引發兩極爭議。渋谷HAL本人回應「休息時間玩別種類型的遊戲到底哪裡有問題？」，但語氣偏衝使炎上爭議擴大。網友討論焦點在於實況主是否有真正的「休息時間」與職業意識。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/11",
     "title": "匿名時間旅行者預言加密貨幣Time Traveler (BARRON) 價格波動",
@@ -602,6 +602,15 @@
     "date": "2026/07/10",
     "title": "三位預言家重合的2026警告",
     "summary": "美國吠陀占星師Jonny、英國靈媒Parker與印度占星大師Kapil Raj，三位預言家在2026年7月指出高度重合的警示。他們預測8月12日前後可能出現重大地緣政治意外及特殊天氣現象（特別指出台海與日本海域）。Kapil Raj更預言2026年底木星與計都合相，將帶來物質世界的覺醒，人們對數位便利產生幻滅，植物學家、農民、木匠等職業將更具價值。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/05",
+    "title": "Reddit 論壇提及 2026 年 8 月 12 日日食預示時空旅行",
+    "summary": "在 Reddit 論壇上，有網友討論 2026 年 8 月 12 日的日食，並將其與遊戲《原神》的「引燃 (Ignition)」預告片理論連結，認為這可能預示著時空旅行的發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
@@ -1805,6 +1814,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言：2026 年 9 月 26 日將再次現身",
+    "summary": "自稱來自 2058 年的日本神秘人國分玲，曾精準預言多項重大事件，他表示將於 2026 年 9 月 26 日再次回到現在，回答大眾的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -2241,6 +2259,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/01",
     "expiry_date": "2026/12/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/06",
+    "title": "2671 年時空旅人 Eno Alaric 警告：巨型隕石將帶來外星人，詹姆斯·韋伯望遠鏡將發現鏡像地球",
+    "summary": "自稱來自 2671 年的時空旅人 Eno Alaric 在 TikTok 上發出警告，預言五場災難性事件即將發生。他預言外星人將於 12 月 8 日乘坐巨型隕石降臨地球，並指詹姆斯·韋伯太空望遠鏡將在 11 月 30 日發現一個與地球完全相同的鏡像星球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/08",
+    "expiry_date": "2026/12/09"
   },
   {
     "category": "PROPHECY",
@@ -4139,6 +4166,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/03/30",
+    "title": "印度神童 Anand 預言：2026 年為四百年一遇轉捩點，中國等四國面臨巨變",
+    "summary": "有「印度神童」之稱的阿南德預言，2026 年將是「四百年一遇」的歷史轉捩點，帶來重大的地緣政治風險。他點名中國、韓國等四個國家將面臨巨大問題，並指出中國將遭遇「重大問題」。同時他也預言 2026 年醫學、數學、科學領域將有極大進步。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/11",
+    "title": "Reddit 用戶 Kronosil 預言：2026 年將見證 AI 論文生成、神經介面普及及去中心化社群媒體",
+    "summary": "一名 2017 年活躍於 Reddit 的用戶 Kronosil，其發布的 2018-2027 年世界事件預測，截至 2026 年約有 87% 的準確度。他預測 2026 年將出現可生成與人類無異科學論文的人工智慧系統、神經介面在臨床環境中廣泛應用，以及主要社群媒體平台崩潰並被受演算法透明度法律約束的去中心化通訊網路取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -5042,6 +5087,15 @@
     "date": "2026/07/27",
     "title": "馬斯克預言金錢將失去意義，英國爆發內戰",
     "summary": "馬斯克在 2026 年 7 月 27 日接受《經濟學人》專訪時預言，未來十年內金錢將變得無關緊要，並且英國將在二十年內陷入內戰。他還預測五年內 AI 系統將超越全人類智慧的總和，十年內機器人將協助開啟一個「豐足到驚人」的時代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2036/07/27",
+    "expiry_date": "2036/07/28"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "馬斯克預言：十年內金錢將失去意義，英國二十年內爆發內戰",
+    "summary": "伊隆·馬斯克在接受《經濟學人》專訪時預言，十年內金錢將變得無關緊要，而英國將在二十年內陷入內戰。他同時表示，人工智慧系統可能在五年內超越全人類智慧的總和。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2036/07/27",
     "expiry_date": "2036/07/28"
