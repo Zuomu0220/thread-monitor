@@ -96,6 +96,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "第二屆東亞獨立遊戲慶典 Steam 線上開跑",
+    "summary": "由台灣團隊發起的第二屆「東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）」於8月5日至8月19日在 Steam 平台展開，匯集了來自東亞各地的550款獨立遊戲，其中超過百款遊戲提供公開試玩（Demo）。活動期間，更將有超過50位東亞實況主、VTuber 與遊戲內容創作者輪番直播介紹參展作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/04",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "遊戲主播旭旭寶寶因言論不當遭大量掉粉",
     "summary": "知名遊戲主播旭旭寶寶因公開表達個人觀影偏好，隨後發布反諷影片回懟網友「一地雞毛」，短短幾天內累積掉粉超過60萬。此事件引發關於公眾人物言論邊界、粉絲關係維護及危機應對的廣泛討論，警示主播在跨界發言時需謹言慎行。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/02",
-    "title": "hololive EN VTuber Ouro Kronii因舊雙關語失遊戲配音工作",
-    "summary": "hololive EN旗下的VTuber Ouro Kronii因被翻出5年前直播時，一句關於遊戲中野豬（boar）的英文雙關語「because it's such a bore」，被部分觀眾誤解為批評遊戲無聊。爭議擴大後，《永恆輪迴》官方宣布撤換Ouro Kronii在該遊戲英文版角色鼻荊的配音工作。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -1826,6 +1826,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言：2026 年 9 月 26 日將再次現身",
     "summary": "自稱來自 2058 年的日本神秘人國分玲，曾精準預言多項重大事件，他表示將於 2026 年 9 月 26 日再次回到現在，回答大眾的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告2026年9月26日再次現身",
+    "summary": "來自2058年的未來人國分玲（Kokubun Rei）曾表示，他將於2026年9月26日再次歸來，並會回答大眾關於未來的提問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
