@@ -1,6 +1,22 @@
 [
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Steam 新品發行：《GRAIN ROT》",
+    "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Steam 新品發行：《Expeditions: Samurai》",
+    "summary": "由 Campfire Cabal 開發的角色扮演、策略遊戲《Expeditions: Samurai》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -92,6 +108,38 @@
     "date": "2026/08/06",
     "title": "Epic Games Store 限時免費遊戲釋出",
     "summary": "Epic Games Store 宣布本週提供兩款遊戲限時免費領取，分別是《Beacon Pines》和《We Were Here Together》。玩家可於 8 月 6 日至 8 月 13 日期間免費將其加入收藏庫。此外，Epic Games 也預告下週（8 月 13 日至 8 月 20 日）將開放《Caravan SandWitch》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 新品發行：《IRON NEST: Heavy Turret Simulator》",
+    "summary": "由 Nick Nieuwoudt 開發的動作、獨立、模擬遊戲《IRON NEST: Heavy Turret Simulator》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 新品發行：《ReStory: Chill Electronics Repairs》",
+    "summary": "由 Mandragora 開發的獨立、模擬遊戲《ReStory: Chill Electronics Repairs》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 新品發行：《MARVEL Tōkon: Fighting Souls》",
+    "summary": "對戰格鬥遊戲《MARVEL Tōkon: Fighting Souls》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "Epic Games Store 已更新本週免費遊戲陣容，玩家可於8月13日前領取當前免費遊戲，並已揭露8月13日即將推出的免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -192,6 +240,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "Humble Choice 8月免費遊戲陣容",
+    "summary": "Humble Choice 公布2026年8月會員免費遊戲陣容，包含《人中之龍8》、《Dead Cells》等8款知名作品，會員可於9月1日前免費遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "Steam 新品發行：《Akatori》",
+    "summary": "由 Contrast Games 開發的動作冒險獨立遊戲《Akatori》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/04",
     "title": "無最新負面與爭議事件",
@@ -288,6 +352,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/08/04",
+    "title": "Steam 新品發行：《Big Walk》",
+    "summary": "由 House House 開發的冒險遊戲《Big Walk》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/03",
     "title": "查無近期負面與爭議事件",
@@ -324,78 +396,6 @@
     "date": "2026/08/03",
     "title": "Steam未來限免",
     "summary": "Steam綜合討論區公布了2026年8月版的未來限免遊戲清單，其中預告《夜勤人》（Moonlighter）和《德波尼亞》（Deponia）可能在未來限免。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "獨立遊戲參展",
-    "summary": "由波蘭開發商Frozen Way打造的開放世界生存沙盒遊戲《蜂巢：異星物語》（Honeycomb: The World Beyond）在ChinaJoy展出最新Demo試玩版，吸引大量玩家圍觀。遊戲計畫於2026年第三季度登陸PC、PlayStation 5及Xbox Series X|S平台。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam 免費遊戲《Ogre Chambers DX》即將下架，領取後可永久保留",
-    "summary": "《Ogre Chambers DX》這款獲得 91% 好評的彈幕動作 Roguelike 遊戲將於 8 月 4 日從 Steam 移除，玩家可在下架前免費領取並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Epic Games Store 預告下一批免費遊戲：《Beacon Pines》與《We Were Here Together》",
-    "summary": "Epic Games Store 預計在近期送出《Beacon Pines》和《We Were Here Together》作為免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動開跑",
-    "summary": "Steam 平台舉辦「Six One Indie Demo Days 2026」活動，集結超過150款獨立遊戲 Demo 供玩家免費試玩。活動自 2026/7/31 開始，將持續至 2026/8/7，其中包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike Action 遊戲《慟哭幽光／CRYMELIGHT》以及題材混搭的《Zhen: Shattered Legacy》等作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩活動",
-    "summary": "《Six One Indie Demo Days 2026》於 2026 年 7 月 31 日至 8 月 7 日期間在 Steam 平台登場，集結超過 150 款獨立遊戲 Demo 供玩家免費試玩，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/03",
-    "title": "雲際線工作室提出三大承諾",
-    "summary": "VTuber 工作室「雲際線」在近期相關報導中，針對旗下 VTuber 事務提出三大承諾，但具體內容未詳述。此消息在科技與娛樂新聞中被提及，顯示該工作室對其 VTuber 發展及未來運營的重視。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Six One Indie Demo Days 2026 登場",
-    "summary": "Six One Indie 近日推出「Demo Days 2026」活動，集結 Steam 平台超過 150 款獨立遊戲試玩 Demo，並吸引約 250 組獨立開發團隊參與。活動自 7 月 31 日開始，將持續至 8 月 7 日，玩家可透過官方活動頁面瀏覽並試玩作品。其中，包含《異界揭蹤／ANOMALITH》和《慟哭幽光／CRYMELIGHT》等受到關注的作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam《Six One Indie Demo Days 2026》獨立遊戲試玩",
-    "summary": "Steam 平台推出《Six One Indie Demo Days 2026》活動，集結超過 150 款獨立遊戲試玩 Demo，活動從 7 月 31 日開始至 8 月 7 日。重點推薦作品包括生存型第三人稱射擊遊戲《異界揭蹤／ANOMALITH》、Roguelike 動作遊戲《慟哭幽光／CRYMELIGHT》，以及植物主題生存恐怖遊戲《The Florist》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam限時免費領取《Ogre Chambers DX》",
-    "summary": "芬蘭獨立開發者ANTENNA GAMES製作的Roguelike彈幕射擊遊戲《Ogre Chambers DX》將於2026年8月4日從Steam商店下架，在此之前玩家可限時免費領取並永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -1835,6 +1835,15 @@
     "date": "2026/05/19",
     "title": "國分玲預告2026年9月26日再次現身",
     "summary": "來自2058年的未來人國分玲（Kokubun Rei）曾表示，他將於2026年9月26日再次歸來，並會回答大眾關於未來的提問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058年未來人國分玲預言：2026年是日本及全球重大轉折點",
+    "summary": "來自2058年的未來人國分玲表示2026年將是日本及全球的重大轉折點。她還預言比特幣價值將飆升至天價，並警告普通人只能賣不能買。國分玲曾表示將於2026年9月26日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
