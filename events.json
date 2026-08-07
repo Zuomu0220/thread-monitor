@@ -65,6 +65,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 2026 年 7 月獨立遊戲免費領取",
+    "summary": "Steam 平台於 2026 年 7 月 31 日發行多款免費獨立遊戲，包括《ECHOES》（像素風視覺小說）、《Dear Magical Girls》（像素風策略塔防，支援繁體中文）以及《Nazi Zombies》（喪屍生存射擊），玩家可下載後永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 2026 年 8 月免費遊戲",
+    "summary": "Epic Games Store 公布了 2026 年 8 月的最新免費遊戲資訊，玩家可於活動期間領取當前及下週將推出的免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -381,22 +397,6 @@
     "title": "Steam《漫威蜘蛛人》系列遊戲特賣",
     "summary": "Steam平台正在舉辦《漫威蜘蛛人》系列遊戲特賣活動，以慶祝新戰衣、電影上映及蜘蛛人日，提供限時優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Six One Indie Demo Days 2026 獨立遊戲試玩活動",
-    "summary": "Six One Indie 推出 Demo Days 2026 活動，自 7 月 31 日至 8 月 7 日在 Steam 平台舉行。此活動以遊戲 Demo 為核心，集結了超過 150 款獨立遊戲試玩內容，並吸引約 250 組獨立開發團隊參與，強調玩家直接體驗遊戲內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/03",
-    "title": "實況主泥泥汝因電競賽事言行不當引發爭議",
-    "summary": "知名實況主泥泥汝在Threads上發布道歉聲明，針對其在觀看《英雄聯盟》電競賽事時，穿著對手隊伍T1的隊服卻坐在Gen.G席次，甚至將選手Faker的名字寫錯等不成熟言行致歉，引發網路社群炎上。她表示已深刻意識到問題並將反省。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 3
   },
   {
