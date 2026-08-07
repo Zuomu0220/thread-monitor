@@ -297,6 +297,46 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 免費遊戲：Bunny Guys!",
+    "summary": "Steam 平台推出《Bunny Guys!》的限時免費領取或折扣優惠，玩家需抓緊時間在活動期間下載",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 免費遊戲：BROTHER!!! Save him!",
+    "summary": "Steam 平台推出《BROTHER!!! Save him!》的限時免費領取或折扣優惠，鼓勵玩家在活動期間下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲：Beacon Pines",
+    "summary": "Epic Games Store 平台開放限時免費領取可愛又詭異的冒險遊戲《Beacon Pines》，領取期限至 8 月 13 日",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲：We Were Here Together",
+    "summary": "Epic Games Store 平台開放限時免費領取第一人稱線上合作解謎遊戲《We Were Here Together》，玩家可與搭檔一同在南極荒地中解決謎題，領取期限至 8 月 13 日",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 下週免費遊戲預告：Caravan SandWitch",
+    "summary": "Epic Games Store 預告將於下週（8 月 13 日至 8 月 20 日）推出科幻冒險敘事遊戲《Caravan SandWitch》供玩家限時免費領取",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -356,46 +396,6 @@
     "date": "2026/08/05",
     "title": "第二屆東亞獨立遊戲慶典 EAIGC 於 Steam 展開",
     "summary": "由台灣團隊發起的第二屆東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）於 2026 年 8 月 5 日至 8 月 19 日在 Steam 平台舉行，集結 550 款東亞獨立遊戲，並有超過百款遊戲提供公開試玩（Demo）或封閉測試，同時結合限時特賣活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "第二屆東亞獨立遊戲慶典 Steam 線上開跑",
-    "summary": "由台灣團隊發起的第二屆「東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）」於8月5日至8月19日在 Steam 平台展開，匯集了來自東亞各地的550款獨立遊戲，其中超過百款遊戲提供公開試玩（Demo）。活動期間，更將有超過50位東亞實況主、VTuber 與遊戲內容創作者輪番直播介紹參展作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "第二屆東亞獨立遊戲慶典EAIGC於Steam平台登場",
-    "summary": "由台灣團隊發起的第二屆「東亞獨立遊戲慶典」（EAIGC）於8月5日至8月19日在Steam平台展開，集結550款來自東亞各地的獨立遊戲，並提供超過百款Demo或封閉測試。活動主視覺採用夏日海洋風，並有50多位內容創作者接力直播。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/05",
-    "title": "彩虹社VTuber綠仙因「歌曲失言」引發爭議並致歉",
-    "summary": "彩虹社所屬VTuber綠仙日前在X（推特）發起秋季卡拉OK選曲募集，卻因內文提到：「『沒看過有VTuber唱過這首歌…』想減少因為這種理由而埋沒的名曲」而引爆爭議。 該貼文在短短兩天內衝破2600萬次觀看，許多網友認為此言論是對原曲創作者和歌手的不尊重，有將VTuber置於高姿態推廣者的嫌疑。 綠仙隨後已將爭議貼文刪除，並公開致歉及澄清。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "Steam 電馭叛客節點數物品上架",
-    "summary": "Steam於8月5日上架了「電馭叛客節」相關的點數商店物品。 （註：Steam 電馭叛客節預計於8月3日至8月10日舉行）",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "Humble Choice 8月免費遊戲陣容",
-    "summary": "Humble Choice 公布2026年8月會員免費遊戲陣容，包含《人中之龍8》、《Dead Cells》等8款知名作品，會員可於9月1日前免費遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
