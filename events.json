@@ -337,6 +337,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 限時免費遊戲《Beacon Pines》上架",
+    "summary": "Epic Games Store 本週免費遊戲為《Beacon Pines》，玩家可於 8 月 6 日至 8 月 13 日期間免費領取這款可愛又詭異的冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲《OTXO》與《Sol Cesto》下架",
+    "summary": "先前於 Epic Games Store 開放免費領取的《OTXO》與《Sol Cesto》已於 8 月 6 日截止免費活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -380,22 +396,6 @@
     "date": "2026/08/05",
     "title": "SQUARE ENIX Steam 夏日優惠活動登場",
     "summary": "SQUARE ENIX 宣布，Steam 平台「SQUARE ENIX 夏日優惠活動 for Steam」正式開跑，多款人氣作品推出限時優惠。其中《FINAL FANTASY VII REBIRTH》祭出四折特別價格，另有《FINAL FANTASY TACTICS - The Ivalice Chronicles》及《勇者鬥惡龍VII Reimagined》等作品同步加入優惠陣容，活動預計將於 8 月 11 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/05",
-    "title": "VTuber綠仙因「歌曲埋沒」失言引發社群炎上後急忙道歉",
-    "summary": "彩虹社所屬VTuber綠仙（緑仙）日前發起秋季卡拉OK直播的選曲募集，卻因在內文提到：「從沒看過有VTuber唱過這首歌…想減少因為這種理由而埋沒的名曲」而引爆爭議。此言論被許多網友認為是對原曲創作者和歌手的不尊重，暗示歌曲的受歡迎程度取決於VTuber是否翻唱，姿態過高。綠仙該貼文公開後迅速在X（推特）衝破2600多萬次觀看，並引起大量轉發與留言。事件延燒後，綠仙已將爭議貼文刪除，並公開致歉，澄清原意是希望能認識更多觀眾珍藏的動畫歌曲，單純出於「純粹喜歡唱歌的KTV愛好者」。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "第二屆東亞獨立遊戲慶典 EAIGC 於 Steam 展開",
-    "summary": "由台灣團隊發起的第二屆東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）於 2026 年 8 月 5 日至 8 月 19 日在 Steam 平台舉行，集結 550 款東亞獨立遊戲，並有超過百款遊戲提供公開試玩（Demo）或封閉測試，同時結合限時特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -5135,6 +5135,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2031/07/31",
     "expiry_date": "2031/08/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/06",
+    "title": "伊隆·馬斯克預言人工智能與未來社會走向",
+    "summary": "伊隆·馬斯克預測，在五年內，人工智能系統的智力可能超越所有人類智力的總和。他還預計十年內機器人將協助人類進入一個「驚人富足」的時代，屆時金錢將變得毫無意義，並預言二十年內英國將陷入內戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/08/06",
+    "expiry_date": "2031/08/07"
   },
   {
     "category": "PROPHECY",
