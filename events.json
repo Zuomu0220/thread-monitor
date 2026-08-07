@@ -145,6 +145,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Steam 免費遊戲推薦：19 款 2026 年 7 月獨立遊戲新作",
+    "summary": "Steam 平台於 2026 年 7 月發行了 19 款免費獨立遊戲新作，涵蓋策略、恐怖心理、喪屍生存、推理解謎、經營模擬等多種類型，玩家可限時免費下載永久保留。其中包含《ECHOES》（像素風視覺小說，7/31發行）、《Dear Magical Girls》（像素風格策略塔防，7/31發行，支援繁體中文）、《Nazi Zombies》（喪屍題材多人合作射擊，7/31發行）等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -252,6 +260,14 @@
     "date": "2026/08/05",
     "title": "Steam 新品發行：《Akatori》",
     "summary": "由 Contrast Games 開發的動作冒險獨立遊戲《Akatori》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/05",
+    "title": "第二屆「東亞獨立遊戲慶典」Steam 登場",
+    "summary": "由台灣團隊發起，第二屆「東亞獨立遊戲慶典」（EAIGC）於 8 月 5 日至 8 月 19 日在 Steam 平台舉行。活動集結 550 款來自東亞的獨立遊戲，提供超過百款遊戲試玩（Demo）或封閉測試，並有 50 多位內容創作者接力直播，同時結合限時特賣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/08/03",
     "title": "Steam 電馭叛客節",
     "summary": "Steam 將於 2026 年 8 月 3 日至 8 月 10 日舉辦「電馭叛客節」，預計將有以電馭叛客為主題的遊戲提供折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam限時免費",
-    "summary": "肉鴿彈幕競技場《Ogre Chambers DX》將於8月4日自Steam商店下架，在此之前將遊戲納入Steam收藏庫可永久保存。其續作《Ogre Chambers 2222》目前正以新台幣87元特價販售，活動至8月5日止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/03",
-    "title": "Steam未來限免",
-    "summary": "Steam綜合討論區公布了2026年8月版的未來限免遊戲清單，其中預告《夜勤人》（Moonlighter）和《德波尼亞》（Deponia）可能在未來限免。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -2239,6 +2239,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮·佛斯特預言 2026 年 11 月 13 日世界末日",
     "summary": "已故物理學家馮·佛斯特（Heinz von Foerster）在 1960 年的《科學》期刊中預測，世界可能在 2020 年代走向終結，並將末日日期精確定為 2026 年 11 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預言 2026 年 11 月 13 日世界末日：人類將被擠死",
+    "summary": "根據《科學》期刊引述物理學家馮·佛斯特在 60 年前的研究，從數學模型與人口成長曲線推算，人類社會可能在 2026 年 11 月 13 日達到極限，並將因人口過剩而「被擠死」，屆時全球將面臨「科學死法」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
