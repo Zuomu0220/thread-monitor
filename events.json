@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Steam 限時免費領取《Breathedge》",
+    "summary": "《Breathedge》（星際垃圾場求生記）於 Steam 平台限時免費領取，截止日期為香港時間 8 月 9 日 00:00 前。這是一款以太空生存為核心的黑色幽默冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
     "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
@@ -388,14 +396,6 @@
     "date": "2026/08/06",
     "title": "Epic Games 免費遊戲：《Beacon Pines》與《We Were Here Together》",
     "summary": "Epic Games Store 於 2026 年 8 月 6 日至 8 月 13 日期間提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。其中《Beacon Pines》是一款可愛又詭異的故事書解謎遊戲，玩家將扮演小鹿男孩 Luka 揭開城鎮的黑暗陰謀；《We Were Here Together》則是一款第一人稱合作冒險遊戲，玩家需與夥伴合作在南極荒地中生存並逃離鬧鬼的城堡。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Steam 免費遊戲：《Moonlighter》限時領取",
-    "summary": "Steam 平台於 2026 年 8 月份將《Moonlighter》加入其限時免費領取活動，玩家可永久保留這款 2018 年發行的遊戲。此消息已於 2026 年 7 月 1 日提前公布。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1979,6 +1979,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言於2026年9月26日再次歸來",
     "summary": "自稱來自2058年的國分玲，曾精準預言多項事件，並表示將於2026年9月26日再次現身，回答大眾提問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "2058年未來人國分玲將於9月26日歸來",
+    "summary": "網路上流傳著來自 2058 年的未來人國分玲的訊息，她曾於 2021 年 9 月 26 日發布最後一條公開貼文，表示將在 2026 年 9 月 26 日再次歸來，揭露未來 10 年的所有答案。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
