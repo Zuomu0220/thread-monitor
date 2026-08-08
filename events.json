@@ -24,6 +24,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/08",
+    "title": "目前無相關負面與爭議事件",
+    "summary": "在 2026/08/01 至 2026/08/08 期間，經搜尋未發現台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的具體報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
@@ -388,14 +396,6 @@
     "date": "2026/08/06",
     "title": "Epic Games Store 限時免費：《Project First Contact》",
     "summary": "Epic Games Store 提供遊戲《Project First Contact》限時免費，優惠期限至 2026 年 8 月 18 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 限時免費：《OTXO》與《Sol Cesto》",
-    "summary": "Epic Games Store 曾於 2026 年 8 月 6 日截止提供《OTXO》和《Sol Cesto》的限時免費領取活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -4511,6 +4511,15 @@
     "date": "2026/08/01",
     "title": "美國預言家保羅·貝格利：2026年火山噴發增多，超級聖嬰現象，核武戰",
     "summary": "保羅·貝格利牧師預測，2026年火山噴發將會更多（可能達到75次），超級聖嬰現象將發生，噴射氣流反轉導致熱風從沙漠吹向美國東岸，農作物枯死。他還警告人類已處於第三次世界大戰的緩慢展開中，核武能力已擺在桌面。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 未來人國分玲預言：最後 7 個月「黃泉客輪」將帶走大量生命",
+    "summary": "國分玲預言，在 2026 年的最後 7 個月，將有「黃泉客輪」帶走大量生命，暗示會有大規模死亡事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
