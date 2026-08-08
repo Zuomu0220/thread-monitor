@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/08",
+    "title": "太空生存冒險遊戲《呼吸邊緣》（Breathedge）Steam限時免費領取",
+    "summary": "《Breathedge》是一款帶有黑色幽默元素的太空生存冒險遊戲，玩家將扮演「The Man」，因一場意外捲入宇宙陰謀。本作於8月10日前可在Steam平台限時免費領取並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Steam平台推薦7款類《薩爾達》免費遊戲",
+    "summary": "為慶祝《薩爾達傳說》系列40週年，Steam推薦了7款受其啟發的免費遊戲，包含《Grizelda: Lynx and the Nine Lives》、《Spiral Knights》、《Floodcore》等，這些遊戲融合了迷宮探索、解謎和冒險元素，部分提供完整遊玩內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
     "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
@@ -204,6 +220,14 @@
     "date": "2026/08/07",
     "title": "Epic Games 行動版免費遊戲",
     "summary": "《A Guidebook of Babel》限時免費領取：Epic Games Store 於 2026 年 8 月 6 日至 8 月 13 日在行動版商店提供冒險解謎遊戲《A Guidebook of Babel》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Epic Games Store公布本週限時免費遊戲：Beacon Pines與We Were Here Together",
+    "summary": "Epic Games Store於8月6日至8月13日期間，提供可愛又詭異的故事書解謎遊戲《Beacon Pines》和考驗友誼的合作解謎遊戲《We Were Here Together》供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -373,30 +397,6 @@
     "title": "美國實況主 DSP Gaming 因斗內不足停播《幻獸帕魯》引發爭議",
     "summary": "美國實況主 DSP Gaming 在直播《幻獸帕魯》約一小時後，因僅收到 40 美元斗內，認為觀眾對遊戲不感興趣而宣布停播，引發社群爭議。知名實況主 Asmongold 批評其為情緒勒索，許多小型實況主也出面分享自身經驗，認為直播應是興趣而非只為金錢，並批評 DSP Gaming 一小時 40 美元已遠高於法定時薪，卻仍嫌錢少。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/06",
-    "title": "網紅「肥大叔」驚傳離世，粉專證實",
-    "summary": "知名臉書直播主「肥大叔」（本名何裕輝）的粉絲專頁於 8 月 6 日晚間發文，證實肥大叔已於 8 月 5 日離世。此前，粉專才於 8 月 4 日宣布他將休播至 8 月 11 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 限時免費遊戲：《Beacon Pines》與《We Were Here Together》",
-    "summary": "Epic Games Store 於 8 月 6 日至 8 月 13 日期間提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。其中《Beacon Pines》是一款敘事冒險遊戲，而《We Were Here Together》則是一款合作解謎遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Steam 新品 Demo：《豬豬探險家》釋出免費體驗版",
-    "summary": "獨立遊戲開發團隊 DOUKUTSU PENGUIN CLUB 宣布，研發中的 3D 探索解謎冒險新作《A Tiny Wander》（中譯：《豬豬探險家》）已於 Steam 平台釋出免費體驗版（Demo）。這款遊戲將世界觀打造成謎面，讓玩家在溫馨又神秘的世界中，手持提燈探索並揭開隱藏在森林深處的謎題。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -773,6 +773,15 @@
     "date": "2026/03/22",
     "title": "沃爾夫·梅辛預言：2026年8月是「分岔點」",
     "summary": "據傳沃爾夫·梅辛（Wolf Messing）的預言提到，2026年8月將是一個「分岔點」，是不可逆轉的改變時刻，命運將在此碰撞。此前他預言2026年3月16日發生於一家美國銀行的「故障」是引發舊世界支柱崩塌的「觸發器」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/03",
+    "title": "August 2026 預言性宣告：保護應許、新開始與突破",
+    "summary": "牧師Robert Clancy發布了2026年8月的預言性宣告，主題為「保護應許」。他預言這將是一個新的開始、復活和嶄新開端的月份。宣告中提到將有充滿應許的禱告、突破舊有循環、以及神將釋放新的事物，包括創造性的想法、意想不到的資源和財富建立的機會。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
@@ -4583,6 +4592,15 @@
     "date": "2026/05/24",
     "title": "2058 年未來人國分玲預言 2026 年底新傳染病",
     "summary": "來自 2058 年的未來人國分玲曾警告，一種全新的傳染病將在 2026 年底肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼預言家Baba Vanga 2026年預言：世界大戰、外星接觸及普丁去職",
+    "summary": "已故盲眼預言家Baba Vanga據稱對2026年有諸多預言。追隨者聲稱，她預測2026年將爆發第三次世界大戰，國際超級大國之間的緊張關係可能升級為大規模衝突。此外，也有預言指出人類可能在2026年末接觸外星生命，並有不明飛行物抵達地球。同時，有預言聲稱俄羅斯總統普丁將在2026年底前下台並由新領導人取代。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
