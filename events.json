@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/08/09",
+    "title": "目前無相關事件",
+    "summary": "本週（2026/08/02 至 2026/08/09）搜尋結果中，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
@@ -193,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Epic Games 行動版免費遊戲",
+    "summary": "《A Guidebook of Babel》限時免費領取：Epic Games Store 於 2026 年 8 月 6 日至 8 月 13 日在行動版商店提供冒險解謎遊戲《A Guidebook of Babel》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -380,22 +396,6 @@
     "date": "2026/08/06",
     "title": "Steam 新品 Demo：《豬豬探險家》釋出免費體驗版",
     "summary": "獨立遊戲開發團隊 DOUKUTSU PENGUIN CLUB 宣布，研發中的 3D 探索解謎冒險新作《A Tiny Wander》（中譯：《豬豬探險家》）已於 Steam 平台釋出免費體驗版（Demo）。這款遊戲將世界觀打造成謎面，讓玩家在溫馨又神秘的世界中，手持提燈探索並揭開隱藏在森林深處的謎題。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 免費遊戲開放領取",
-    "summary": "「Beacon Pines」與「We Were Here Together」即日起至 8 月 13 日止可免費領取。下週（8 月 13 日至 8 月 20 日）將開放免費領取「Caravan SandWitch」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games 免費遊戲：《Beacon Pines》與《We Were Here Together》",
-    "summary": "Epic Games Store 於 2026 年 8 月 6 日至 8 月 13 日期間提供《Beacon Pines》和《We Were Here Together》兩款遊戲限時免費領取。其中《Beacon Pines》是一款可愛又詭異的故事書解謎遊戲，玩家將扮演小鹿男孩 Luka 揭開城鎮的黑暗陰謀；《We Were Here Together》則是一款第一人稱合作冒險遊戲，玩家需與夥伴合作在南極荒地中生存並逃離鬧鬼的城堡。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
