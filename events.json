@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Steam 開放世界生存製作遊戲免費",
+    "summary": "Steam 於8月7日推出兩項新的促銷活動，其中包含一款免費的開放世界生存製作遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -353,6 +361,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/06",
+    "title": "Epic Games Store 免費遊戲",
+    "summary": "Epic Games Store 於8月6日至8月13日期間，限時免費提供《Beacon Pines》和《We Were Here Together》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/05",
     "title": "Steam平台多款遊戲特價促銷中",
     "summary": "Steam平台目前有多款遊戲進行特價促銷，包括《極速快感》系列作品最高可省95%，以及《DRAGON BALL FighterZ》、《七龍珠Z 卡卡洛特》、《STAR WARS 絕地：組織殞落™》、《Sifu》等格鬥與動作遊戲。",
@@ -380,22 +396,6 @@
     "date": "2026/08/05",
     "title": "Epic Games Store下週免費遊戲預告：《Beacon Pines》與《We Were Here Together》",
     "summary": "Epic Games Store預告將於2026年8月6日23:00起，開放限時免費領取單人敘事冒險遊戲《Beacon Pines》以及雙人強制合作遊戲《We Were Here Together》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "Steam 東亞獨立遊戲慶典 (EAIGC) 登場",
-    "summary": "由台灣團隊發起的第二屆東亞獨立遊戲慶典於 Steam 平台展開，集結 550 款來自東亞的獨立遊戲，並提供超過百款遊戲 Demo 或封閉測試，活動持續至 2026 年 8 月 19 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/05",
-    "title": "SQUARE ENIX Steam 夏日優惠活動登場",
-    "summary": "SQUARE ENIX 宣布，Steam 平台「SQUARE ENIX 夏日優惠活動 for Steam」正式開跑，多款人氣作品推出限時優惠。其中《FINAL FANTASY VII REBIRTH》祭出四折特別價格，另有《FINAL FANTASY TACTICS - The Ivalice Chronicles》及《勇者鬥惡龍VII Reimagined》等作品同步加入優惠陣容，活動預計將於 8 月 11 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -647,6 +647,15 @@
     "date": "2026/01/12",
     "title": "駁斥 2026 年 8 月 12 日地球引力消失 7 秒的謠言",
     "summary": "網路上曾流傳關於「錨定計畫」與 2026 年 8 月 12 日 14:33 UTC 地球引力將消失 7 秒的謠言，該謠言聲稱將導致 4000 萬人死亡、基礎設施毀滅和長達十年的經濟崩潰。然而，美國太空總署（NASA）已證實 2026 年 8 月 12 日將發生日全食，但關於引力消失的說法是虛假的。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/02",
+    "title": "NASA機密外洩：地球恐於8月12日瞬間失重",
+    "summary": "網路社群瘋傳一份據稱是NASA「錨定計畫」（Project Anchor）的極機密文件，警告地球將於2026年8月12日出現「瞬間失重」異象，短短7秒恐導致全球4000萬人從高處墜落身亡，並指政府正秘密興建地底碉堡避難。NASA官方目前未證實此說法。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
