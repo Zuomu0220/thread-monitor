@@ -233,6 +233,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Epic Games Store 限時免費遊戲：Beacon Pines 及 We Were Here Together",
+    "summary": "Epic Games Store 宣布從 2026 年 8 月 6 日至 8 月 13 日，玩家可以免費領取《Beacon Pines》和《We Were Here Together》兩款遊戲。其中，《Beacon Pines》是一款畫風精美、充滿神秘色彩的故事書式解謎遊戲；《We Were Here Together》則是一款需要雙人合作解謎的冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/07",
+    "title": "療癒解謎《豬豬探險家》免費試玩版釋出",
+    "summary": "獨立遊戲開發團隊 DOUKUTSU PENGUIN CLUB 宣布其研發中的 3D 探索解謎冒險新作《A Tiny Wander》（中譯：《豬豬探險家》）已於 Steam 平台釋出免費體驗版。遊戲中玩家將扮演小豬送貨員「咘」，探索神秘森林並解開世界觀謎題，並貼心加入注音與假名模式，友善全年齡玩家。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -381,22 +397,6 @@
     "title": "Epic Games Store 限時免費領取《OTXO》與《Sol Cesto》",
     "summary": "Epic Games Store 宣布遊戲《OTXO》和《Sol Cesto》限時免費領取，活動至 2026 年 8 月 6 日上午 11 點（ET）截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 限時免費領取《We Were Here Together》與《Beacon Pines》",
-    "summary": "Epic Games Store 宣布《We Were Here Together》和《Beacon Pines》將於 2026 年 8 月 6 日至 8 月 13 日期間限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/06",
-    "title": "美國實況主 DSP Gaming 因斗內不足停播《幻獸帕魯》引發爭議",
-    "summary": "美國實況主 DSP Gaming 在直播《幻獸帕魯》約一小時後，因僅收到 40 美元斗內，認為觀眾對遊戲不感興趣而宣布停播，引發社群爭議。知名實況主 Asmongold 批評其為情緒勒索，許多小型實況主也出面分享自身經驗，認為直播應是興趣而非只為金錢，並批評 DSP Gaming 一小時 40 美元已遠高於法定時薪，卻仍嫌錢少。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2087,6 +2087,15 @@
     "date": "2026/03/11",
     "title": "盲眼龍婆預言：2026年11月人類將與外星智慧生命首次接觸",
     "summary": "盲眼龍婆預測，2026年11月人類將與外星智慧生命進行第一次接觸，一艘大型太空船將進入地球大氣層，我們可能被地球上未知的文明聯繫。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/01",
+    "expiry_date": "2026/11/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼龍婆巴巴萬加預言：2026 年世界將迎來戰火、天災、AI 反撲與外星接觸",
+    "summary": "已故的保加利亞盲眼預言家巴巴萬加（Baba Vanga）據傳預言 2026 年將是「不安的轉折年」。她預測：戰火將從東歐蔓延至中東，可能涉及主要大國；全球 7-8% 陸地恐被毀滅性天災吞噬；人工智能（AI）將全面控制人類生活，甚至可能反撲；以及人類可能在 2026 年 11 月首次與外星智慧生命接觸。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
@@ -4601,6 +4610,24 @@
     "date": "2026/08/08",
     "title": "盲眼預言家Baba Vanga 2026年預言：世界大戰、外星接觸及普丁去職",
     "summary": "已故盲眼預言家Baba Vanga據稱對2026年有諸多預言。追隨者聲稱，她預測2026年將爆發第三次世界大戰，國際超級大國之間的緊張關係可能升級為大規模衝突。此外，也有預言指出人類可能在2026年末接觸外星生命，並有不明飛行物抵達地球。同時，有預言聲稱俄羅斯總統普丁將在2026年底前下台並由新領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "4chan 用戶預測 2026 年比特幣將達 25 萬美元，以太坊達 2 萬美元",
+    "summary": "一名匿名 4chan 用戶 SBC7H7La，曾精準預測 2025 年 10 月比特幣達到 12.6 萬美元的歷史高點，並於 2025 年 12 月預測 2026 年比特幣將達到 25 萬美元，以太坊將達到 2 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "多位預言家指出 2026 年為人類「奇點」：預示全球強制覺醒",
+    "summary": "Reddit 論壇上有討論指出，來自不同背景和信仰體系的三位人物——Brandon Biggs（美國）、Abhigya Anand（印度）和 Craig Hamilton-Parker（英國）——都將 2026 年視為人類社會的巨大轉折點，預示著一場「被迫的全球覺醒」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
