@@ -249,6 +249,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Epic Games 限時免費遊戲：《Beacon Pines》",
+    "summary": "Epic Games Store 於 2026 年 8 月 7 日推出限時免費遊戲《Beacon Pines》，優惠期限至 8 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -389,14 +397,6 @@
     "title": "優熊事件相關報導",
     "summary": "知名直播主四叉貓於2026年8月6日直播提及「被我盯了十年的優熊忽然上了社會新聞的故事」，暗示優熊涉及某社會新聞事件，但目前網路缺乏其他具體報導說明事件細節與爭議點，因此無法判斷其負面情況或公關危機的性質。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 限時免費領取《OTXO》與《Sol Cesto》",
-    "summary": "Epic Games Store 宣布遊戲《OTXO》和《Sol Cesto》限時免費領取，活動至 2026 年 8 月 6 日上午 11 點（ET）截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -671,6 +671,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/03",
+    "title": "2026 年 8 月 12 日地球重力消失 7 秒的謠言與「錨點計畫」",
+    "summary": "社群媒體上廣泛流傳一則關於 2026 年 8 月 12 日地球重力將消失 7 秒的傳言，並稱 NASA 有一個名為「錨點計畫」（Project Anchor）的秘密文件，預計將造成 4000 萬人死亡。NASA 已證實此為不實謠言，並指出當天將發生日全食，但與重力消失無關。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/26",
     "title": "日本 X 網友預言大阪颱風與地震",
     "summary": "有日本 X 網友預言，2026 年 8 月 14 日大阪將會因颱風或伴隨雷電的暴雨導致交通癱瘓。另一則貼文提及 2026 年 7 月 28 日日本海側的富山可能會發生地震。",
@@ -713,6 +722,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/17",
     "expiry_date": "2026/08/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/05",
+    "title": "日本占卜師 Love Me Do 預測 8 月重大事件",
+    "summary": "日本占卜師 Love Me Do 在 YouTube 節目中預測，2026 年 8 月 19 日為日本「七夕」本場，可能伴隨颱風等天氣變化。此外，他預測在 8 月 15 日至 17 日期間，可能有知名人士結婚或離婚。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/19",
+    "expiry_date": "2026/08/20"
   },
   {
     "category": "PROPHECY",
