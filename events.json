@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 每日限免與折扣遊戲更新",
+    "summary": "Steam平台於2026年8月9日更新了每日限時免費或折扣遊戲。玩家需把握活動期間下載或購買，廠商保留隨時延長或取消限免活動的權利。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -388,14 +396,6 @@
     "date": "2026/08/07",
     "title": "《豬豬探險家（A Tiny Wander）》免費試玩版釋出",
     "summary": "獨立遊戲開發團隊 DOUKUTSU PENGUIN CLUB 宣布，3D 探索解謎冒險新作《豬豬探險家》已於 Steam 平台釋出免費體驗版，並參與 Wholesome Games Celebration 活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam極度好評VR遊戲《Blast the Past》即將轉為收費模式",
-    "summary": "自2018年起免費遊玩的VR模擬遊戲《Blast the Past》將結束免費模式，改為收費1美元。開發團隊表示此舉為使用更多Steam功能，並可能在數月後再次轉回免費。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2069,6 +2069,15 @@
     "date": "2026/05/31",
     "title": "2058年未來人國分玲預言：2026年9月26日將再次歸來，帶來日本與全球的重大轉折點",
     "summary": "自稱來自2058年的日本「未來人」國分玲曾因精準預測多項事件而爆紅。她預言2026年將是日本及全球的重大轉折點，並表示將於2026年9月26日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預言2026-2030年重大事件，預計2026/09/26再次回歸",
+    "summary": "自稱來自2058年的日本未來人國分玲，因其高準確率預言而受到關注。他曾預言日本隊在2022年世界盃的突破表現，並表示將於2026年9月26日再次現身，回答大眾問題。他還預言2028年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
