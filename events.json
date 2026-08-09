@@ -65,6 +65,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam/Epic Games Store",
+    "summary": "2026 最新限時優惠免費遊戲更新：皮諾電玩整理 2026 年 Steam 與 Epic 每日限時免費或折扣的遊戲，其中 Steam 提及《Bunny Guys!》和《BROTHER!!! Save him!》限免；Epic 提及《NoRush!》限免.",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -392,14 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam《邊境開拓者》、《迷失之徑》、《速速上菜！》限時特惠",
-    "summary": "由Yogscast Games與Gamersky Games聯合發行的三款遊戲《邊境開拓者》、《迷失之徑》和《速速上菜！》現已在Steam開啟限時折扣，優惠將持續至8月14日，分別享有五折、四折與2.5折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/01/14",
     "title": "靈媒帕克預言2026年4月15日至11月15日為自然災害危險期",
@@ -683,6 +683,15 @@
     "date": "2026/08/08",
     "title": "8月12日「三大天文奇觀」交匯引發陰謀論",
     "summary": "2026年8月12日，將罕見出現「六星連珠」、日全食及英仙座流星雨極大期「宇宙三重奏」。消息在海外社群平台引發熱議，有網民將此現象與世界末日、喪屍疫症及宗教預言等陰謀論連結。天文學家強調這純屬巧合，無科學證據顯示災難將至。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/09",
+    "title": "日本 X/Twitter 網路社群",
+    "summary": "未來人警示：2026 年 8 月 12 日世界將發生驚人事件：社群平台上有預言指出，2026 年 8 月 12 日有 94.7% 的機率世界將會發生「とんでもない事」（驚人事件），並警告「外出嚴禁」.",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
