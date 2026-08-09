@@ -48,6 +48,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/09",
+    "title": "鷺卓《披荊斬棘2026》疑因公司失職缺席爭議",
+    "summary": "偶像團體「十個勤天」成員鷺卓原定參與《披荊斬棘2026》錄製，但因與團體三巡演唱會檔期衝突而無法參加。粉絲指出，節目邀約在先，公司排定巡演檔期在後，質疑公司營運管理失職，阻礙藝人個人發展。鷺卓本人在直播中表示「沒有人能讓十個勤天解散」，試圖穩定粉絲情緒。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/09",
+    "title": "目前沒有符合「2026/08/02 至 2026/08/09」期間，台灣/華語圈 VTuber 負面與爭議事件的最新動態。",
+    "summary": "詳細內容描述",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
@@ -157,6 +173,22 @@
     "title": "Steam 限時免費：《呼吸邊緣》(Breathedge)",
     "summary": "Steam 於 2026 年 8 月 8 日至 8 月 10 日期間，提供太空生存冒險遊戲《呼吸邊緣》(Breathedge) 限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/08",
+    "title": "BLACKPINK 10週年活動爭議，Jisoo親自道歉",
+    "summary": "韓國女團BLACKPINK出道10週年，經紀公司YG娛樂舉辦的線下紀念活動「Meet & Greet」僅開放40名粉絲參與，且公告資訊不明確，一度傳出成員無法全員出席，引發大量粉絲不滿。成員Jisoo透過粉絲交流平台發文，對粉絲的失望情緒表達歉意，並強調從未忘記粉絲支持，此舉獲得網友好評。隨後確認四名成員將全員出席活動，平息部分爭議。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/08",
+    "title": "河智媛穿阿美族服跳韓舞引發文化爭議",
+    "summary": "韓籍啦啦隊女神河智媛在花蓮吉安鄉豐年節活動中，身穿阿美族傳統服飾搭配韓國流行舞蹈演出，引發部分網友質疑不尊重原住民族文化。經紀公司奧拉娛樂發聲明回應，表示活動服裝與流程皆依循主辦單位規劃，並會虛心聆聽各界聲音，未來將更審慎處理文化交流活動。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -364,38 +396,6 @@
     "date": "2026/08/07",
     "title": "Steam《邊境開拓者》、《迷失之徑》、《速速上菜！》限時特惠",
     "summary": "由Yogscast Games與Gamersky Games聯合發行的三款遊戲《邊境開拓者》、《迷失之徑》和《速速上菜！》現已在Steam開啟限時折扣，優惠將持續至8月14日，分別享有五折、四折與2.5折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam四人合作戰術射擊遊戲《佣兵獵手》結束搶先體驗並五折特惠",
-    "summary": "四人合作戰術射擊遊戲《佣兵獵手》(Rogue Point) 正式結束Steam搶先體驗，推出1.0正式版並提供五折特惠，折後人民幣35元。新增診所地圖、三把武器與新的首領「Oil Rig」，並支持Mod與創意工坊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/07",
-    "title": "抖音封殺母女合拍爭議帳號",
-    "summary": "中國短影音平台抖音大規模封禁多個以「母女合拍」為主題的帳號，其中包含曾有近200萬讚的「知暖&知甜」。這些帳號被質疑利用未成年子女，引導孩子稱呼陌生男性為「爸爸」以營造曖昧互動吸引流量，引發社會對未成年人網路保護的討論。",
-    "avatar_url": "https://cdn.4gamers.com.tw/puku-clone-response/upload/article/a_20260807-160020_bW0y6rB0L1P1bX5g.jpg",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam擬真沙堡建造遊戲《Sandcastle》推出免費試玩Demo",
-    "summary": "獨立工作室Bubblebird Studio開發的休閒沙盒遊戲《沙堡》在Steam推出免費試玩版，主打真實的水沙物理模擬，讓玩家體驗堆砌沙堡的樂趣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Epic Games Store 限時免費：《NoRush!》",
-    "summary": "Epic Games Store 於 2026 年 8 月 7 日提供遊戲《NoRush!》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2051,6 +2051,15 @@
     "date": "2026/07/19",
     "title": "未來人「國分玲」預計於 2026 年 9 月 26 日再度歸來",
     "summary": "自稱來自 2058 年的「國分玲」，在 2021 年 9 月 26 日發布最後一條公開貼文後銷聲匿跡，並預告將於 2026 年 9 月 26 日再次歸來，曝光未來十年的所有答案。他曾精準預言多項重大事件，例如東京奧運金牌數與安倍辭職等。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/31",
+    "title": "2058年未來人國分玲預言：2026年9月26日將再次歸來，帶來日本與全球的重大轉折點",
+    "summary": "自稱來自2058年的日本「未來人」國分玲曾因精準預測多項事件而爆紅。她預言2026年將是日本及全球的重大轉折點，並表示將於2026年9月26日再次歸來，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
