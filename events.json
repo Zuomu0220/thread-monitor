@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Epic Games 限時優惠免費遊戲：NoRush!",
+    "summary": "Epic Games 商店於 2026 年 8 月 9 日整理了限時優惠免費遊戲，其中包括《NoRush!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -390,14 +398,6 @@
     "summary": "Epic Games Store 於 2026 年 8 月 7 日提供遊戲《NoRush!》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
-    "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -2500,6 +2500,15 @@
     "date": "2026/01/02",
     "title": "2026年11月13日世界末日預言：「科學死法」難逃？盲眼龍婆預言將會很準",
     "summary": "城市學報導，盲眼龍婆（Baba Vanga）的追隨者在整理其遺物時發現，她特別將2026年形容為「不安的轉折年」，內容被解讀涵蓋第三次世界大戰發生的可能性，以及暗指「台海危機」等國際情勢。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預言 2026 年 11 月 13 日世界末日",
+    "summary": "已故物理學家海因茲（Heinz von Foerster）早在 1960 年便預言，人類文明可能在 2026 年 11 月 13 日走向終結，原因並非戰爭或天災，而是無限人口成長導致的失控與自我毀滅。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
