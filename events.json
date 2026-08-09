@@ -129,6 +129,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Steam 限時免費：《呼吸邊緣》(Breathedge)",
+    "summary": "Steam 於 2026 年 8 月 8 日至 8 月 10 日期間，提供太空生存冒險遊戲《呼吸邊緣》(Breathedge) 限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
     "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
@@ -361,6 +369,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Epic Games Store 限時免費：《NoRush!》",
+    "summary": "Epic Games Store 於 2026 年 8 月 7 日提供遊戲《NoRush!》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
     "summary": "Epic Games Store 預告下週免費遊戲為合作解謎遊戲《We Were Here Together》和敘事冒險遊戲《Beacon Pines》，將於 2026 年 8 月 6 日起開放領取。",
@@ -381,22 +397,6 @@
     "title": "Epic Games 平台下週限時免費遊戲：We Were Here Together 與 Beacon Pines",
     "summary": "Epic Games Store 宣布自 2026 年 8 月 6 日起至 8 月 13 日，將開放《We Were Here Together》和《Beacon Pines》兩款遊戲供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 免費遊戲預告：We Were Here Together 與 Beacon Pines",
-    "summary": "Epic Games Store 宣布，從 2026 年 8 月 6 日起，將開放《We Were Here Together》與《Beacon Pines》兩款遊戲供玩家免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/06",
-    "title": "ENHYPEN日籍成員粉絲疑遭網暴後直播自殺引發VTuber圈關注",
-    "summary": "韓國男團ENHYPEN日籍成員西村力（Niki）的一名日本死忠粉絲「Mina」在社群上因越界行為遭網暴，最終於8月5日直播中輕生。此事件引發中日韓粉絲圈熱議，也讓VTuber社群關注網路霸凌的嚴重性，特別是對於創作者與粉絲界線模糊的情況。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2033,6 +2033,15 @@
     "date": "2026/08/08",
     "title": "2058年未來人國分玲將於9月26日歸來",
     "summary": "網路上流傳著來自 2058 年的未來人國分玲的訊息，她曾於 2021 年 9 月 26 日發布最後一條公開貼文，表示將在 2026 年 9 月 26 日再次歸來，揭露未來 10 年的所有答案。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/11/03",
+    "title": "國分玲預言：比特幣達到 494 萬美元後只能賣不能買",
+    "summary": "自稱來自 2058 年的「未來人」國分玲預言，比特幣價格達到 494 萬美元後，將只能賣出不能買入。她也曾提及 2028 年將爆發新一輪金融危機，導火線是美國國債違約，動搖美元全球結算體系。國分玲表示她將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
