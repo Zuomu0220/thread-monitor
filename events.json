@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/09",
+    "title": "美國實況主Asmongold因非法移民言論遭Twitch Ban台",
+    "summary": "美國知名實況主Asmongold在評論非法移民事件時，發表「我會無差別開槍」的言論，引發爭議並遭到Twitch官方封鎖頻道。目前處罰期限尚未公布，社群對此事件反應兩極，部分網友認為他只是說出實話，也有人批評其言論不當。",
+    "avatar_url": "https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/454941916_976231264205566_6455110547442168923_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=80Lh-PqJjKkQ7kNvgEWn82R&_nc_ht=scontent.ftpe7-4.fna&oh=00_AYA8b6g6Qj5B0x-y1LwM4p3Q5E8bL4n6yW6p4J2xS74g1Q&oe=66B99557",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
@@ -100,6 +108,22 @@
     "date": "2026/08/08",
     "title": "Steam限時免費領取《呼吸邊緣》(Breathedge)",
     "summary": "開發商RedRuins Softworks的太空生存黑色幽默冒險遊戲《呼吸邊緣》於Steam限時免費，香港時間8月9日00:00前領取即可永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Epic Games免費領取《Spider Fox》",
+    "summary": "獨立遊戲《Spider Fox》即日起在Epic Games Store開啟限時免費領取活動，玩家可在北京時間8月13日23點前免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Steam推薦7款免費類《薩爾達傳說》遊戲",
+    "summary": "適逢《薩爾達傳說》系列誕生40週年，Steam平台推薦7款受其啟發的免費遊戲，包含動作RPG《Grizelda: Lynx and the Nine Lives》、多人MMORPG《Spiral Knights》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -320,6 +344,22 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/07",
+    "title": "抖音封殺母女合拍爭議帳號",
+    "summary": "中國短影音平台抖音大規模封禁多個以「母女合拍」為主題的帳號，其中包含曾有近200萬讚的「知暖&知甜」。這些帳號被質疑利用未成年子女，引導孩子稱呼陌生男性為「爸爸」以營造曖昧互動吸引流量，引發社會對未成年人網路保護的討論。",
+    "avatar_url": "https://cdn.4gamers.com.tw/puku-clone-response/upload/article/a_20260807-160020_bW0y6rB0L1P1bX5g.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/07",
+    "title": "Steam擬真沙堡建造遊戲《Sandcastle》推出免費試玩Demo",
+    "summary": "獨立工作室Bubblebird Studio開發的休閒沙盒遊戲《沙堡》在Steam推出免費試玩版，主打真實的水沙物理模擬，讓玩家體驗堆砌沙堡的樂趣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/08/06",
     "title": "Epic Games Store 下週免費遊戲預告：《We Were Here Together》、《Beacon Pines》",
@@ -357,46 +397,6 @@
     "title": "ENHYPEN日籍成員粉絲疑遭網暴後直播自殺引發VTuber圈關注",
     "summary": "韓國男團ENHYPEN日籍成員西村力（Niki）的一名日本死忠粉絲「Mina」在社群上因越界行為遭網暴，最終於8月5日直播中輕生。此事件引發中日韓粉絲圈熱議，也讓VTuber社群關注網路霸凌的嚴重性，特別是對於創作者與粉絲界線模糊的情況。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store最新限時免費遊戲：《We Were Here Together》與《Beacon Pines》",
-    "summary": "Epic Games Store於8月6日至8月13日提供兩款免費遊戲：《We Were Here Together》和《Beacon Pines》。《We Were Here Together》是一款合作第一人稱解謎遊戲，《Beacon Pines》則是一款可愛又帶點懸疑的敘事冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "《Tides of Annihilation》在Gamescom 2026開放首次公開Demo試玩",
-    "summary": "開發商Eclipse Glow Games宣布，其動作冒險遊戲《Tides of Annihilation》將在德國科隆Gamescom 2026展會上提供擴展Demo供玩家試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/06",
-    "title": "台V萊菈．希格娜斯與朵朵子社群口角糾紛",
-    "summary": "台灣VTuber圈爆發爭議，天鵝化身酒吧老闆系VTuber萊菈．希格娜斯在推特發文，指控有人散布謠言稱其帶粉絲回家。 隨後被發現發文造謠者「饅頭沒有料」為古風系桃花妖歌姬系VTuber朵朵子的小號，疑似忘記切換帳號而曝光。 萊菈．希格娜斯已開直播否認造謠並考慮提告，朵朵子則已發布道歉文。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Steam 2026 年 7 月獨立遊戲免費領取",
-    "summary": "Steam 平台於 2026 年 7 月 31 日發行多款免費獨立遊戲，包括《ECHOES》（像素風視覺小說）、《Dear Magical Girls》（像素風策略塔防，支援繁體中文）以及《Nazi Zombies》（喪屍生存射擊），玩家可下載後永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/06",
-    "title": "Epic Games Store 2026 年 8 月免費遊戲",
-    "summary": "Epic Games Store 公布了 2026 年 8 月的最新免費遊戲資訊，玩家可於活動期間領取當前及下週將推出的免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -677,6 +677,24 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "8月12日「三大天文奇觀」交匯引發陰謀論",
+    "summary": "2026年8月12日，將罕見出現「六星連珠」、日全食及英仙座流星雨極大期「宇宙三重奏」。消息在海外社群平台引發熱議，有網民將此現象與世界末日、喪屍疫症及宗教預言等陰謀論連結。天文學家強調這純屬巧合，無科學證據顯示災難將至。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/05",
+    "title": "Epic Games預告下週免費遊戲《漫漫長路沙巫之旅》",
+    "summary": "Epic Games預告將於8月13日至8月20日期間免費提供遊戲《漫漫長路沙巫之旅》（Caravan SandWitch）。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/13",
+    "expiry_date": "2026/08/14"
   },
   {
     "category": "PROPHECY",
