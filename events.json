@@ -113,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 限時免費",
+    "summary": "《呼吸邊緣》（Breathedge）太空生存冒險好評遊戲：為慶祝續作《呼吸邊緣2》即將推出搶先體驗版，Steam 平台正限時免費贈送太空生存冒險遊戲《呼吸邊緣》，活動至台灣時間 2026 年 8 月 10 日上午 1 點截止，領取後可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -249,6 +257,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Epic Games 限時免費",
+    "summary": "《Spider Fox》動作冒險遊戲：獨立遊戲開發商 Planet 47 Games 推出《Spider Fox》限時免費領取活動，玩家可在北京時間 2026 年 8 月 13 日 23 點前於 Epic Games Store 免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
     "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
@@ -380,22 +396,6 @@
     "date": "2026/08/07",
     "title": "Steam 限時免費：《Breathedge》與《NBA 2K26》免費試玩",
     "summary": "Steam 平台推出多項優惠活動。開放世界生存製作遊戲《Breathedge》可限時免費領取並永久保留，截止日期為 2026 年 8 月 9 日。此外，籃球遊戲《NBA 2K26》也開放免費試玩至 2026 年 8 月 14 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Epic限免",
-    "summary": "《Beacon Pines》與《我們曾一同在此》：Epic Games商城開放限時免費領取雙敘事冒險遊戲《Beacon Pines》與雙人解謎遊戲《我們曾一同在此》（We Were Here Together），活動至8月13日止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Epic Games 行動版免費遊戲",
-    "summary": "《A Guidebook of Babel》限時免費領取：Epic Games Store 於 2026 年 8 月 6 日至 8 月 13 日在行動版商店提供冒險解謎遊戲《A Guidebook of Babel》免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -5294,6 +5294,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲：2028年全球金融危機與美元動搖",
     "summary": "來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "自稱來自 2045 年的 Adam Archon 預言未來數年科技與社會巨變",
+    "summary": "一位自稱來自 2045 年的時間旅行者 Adam Archon 發表多項未來預測。他聲稱時間旅行技術將於 2028 年公開，同年外星人將登陸地球，結束政府數十年來的隱瞞。此外，一種名為「The One」的植入式微晶片將於 2029 年 2 月開始推廣，而美國政府將在 2030 年解體，並被整合進一個統一的全球政府，美國將成為「第三區」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/01/01",
     "expiry_date": "2028/01/02"
