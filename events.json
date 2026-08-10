@@ -80,6 +80,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Epic Games特價：2026 遊戲優惠活動",
+    "summary": "Epic Games Store 的「優惠特賣」活動於 2026 年 8 月 6 日至 8 月 20 日舉行，多款遊戲提供高達 90% 或以上的折扣，包括《火線獵殺：野境》、《計程車人生：城市駕駛模擬器》、《極速快感：全民公敵》、《SimCity 3000 Unlimited》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -212,6 +220,22 @@
     "date": "2026/08/09",
     "title": "Steam 免費遊戲：《The Black Lily Blooms in Her Eyes》發行",
     "summary": "策略冒險遊戲《The Black Lily Blooms in Her Eyes》於 2026 年 8 月 9 日在 Steam 平台發行，並提供免費遊玩。這是一款回合制卡牌戰鬥遊戲，玩家需組建 10 張牌的牌組，挑戰六位魔法師。遊戲包含故事模式和 Roguelike 模式。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Epic Games限免：《Cat Named Mojave》",
+    "summary": "Epic Games Store 於 2026 年 8 月 9 日提供《Cat Named Mojave》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Epic Games限免：《happiness market》",
+    "summary": "Epic Games Store 於 2026 年 8 月 9 日提供《happiness market》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -373,30 +397,6 @@
     "title": "日V百百波美宣布9/29畢業直播",
     "summary": "日本VTuber百百波美宣布將於2026年9月29日進行畢業直播。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/08",
-    "title": "台V幽李鈴失言「護理師沒人活該」引爭議",
-    "summary": "台灣VTuber幽李鈴在討論護理師辛酸史時，發表了「現在沒護理師活該」的言論，此話一出立即引起網友爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/08",
-    "title": "日V言論引網友不滿：「VTuber不唱，名曲就會被埋沒？」",
-    "summary": "一名日本VTuber（可能與花凪まな相關）一句「VTuber不唱，名曲就會被埋沒？」的言論，惹怒了許多網友。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam限時免費遊戲",
-    "summary": "Steam於2026年8月8日至8月10日期間提供《Breathedge》（呼吸邊緣）限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -4853,6 +4853,15 @@
     "date": "2026/05/24",
     "title": "國分玲預言 2026 年底全新傳染病將肆虐全球",
     "summary": "自稱來自 2058 年的未來人國分玲警告，2026 年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆 2026 年預言：普丁可能失勢",
+    "summary": "有報導指出，巴巴萬加的預言被解讀為俄羅斯總統普丁可能在 2026 年底前失去權力，由新的領導人取代。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
