@@ -313,6 +313,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Epic Games",
+    "summary": "限時免費領取恐怖遊戲《Cat Named Mojave》：獨立開發團隊Stargazers Studios製作發行的心理恐怖遊戲《Cat Named Mojave》即日起在Epic Games Store開放限時免費領取，活動將持續至8月15日上午11點結束。遊戲中玩家扮演被困荒漠的角色，遇見詭異貓人「Mojave」，必須獵殺超現實生物並帶回地下室。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -389,14 +397,6 @@
     "title": "日本VTuber母親遭國外網友炎上",
     "summary": "有報導指出，一位日本VTuber的母親因涉嫌聘請他人跟蹤自己的女兒，而在國外社群平台上引發爭議與炎上。詳細VTuber身份尚未明確公開。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam限時免費領取《呼吸邊緣》(Breathedge)",
-    "summary": "開發商RedRuins Softworks的太空生存黑色幽默冒險遊戲《呼吸邊緣》於Steam限時免費，香港時間8月9日00:00前領取即可永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -4916,6 +4916,24 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆巴巴．萬加",
     "summary": "2026 年五項預言中，已有兩項被追隨者認定應驗：「全球重大天災」與「AI 取代人類工作」。 剩下三項預言為：「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯領導人於 2026 年底前出現重大更替」，其中世界大戰預言被部分追隨者聯想到台海局勢。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲",
+    "summary": "未來人國分玲警告2026年底全球將肆虐全新傳染病，並預告俄烏停火時間：來自2058年的未來人國分玲發出最新警告，預言2026年底全球將爆發一種全新的傳染病，且其致死率與傳播速度皆相當驚人，同時也已預告俄烏戰爭的停火時間。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "香港時空旅人",
+    "summary": "自稱2048年香港未來人預測2026年香港將有水災、傳染病及外星接觸：Threads社群近日瘋傳一張截圖，內容顯示一名自稱「來自2048年的香港人」的帳號發文預告，2026年香港將會發生水災、傳染病，且社群媒體將充斥震撼新聞，甚至聲稱這兩年將開始有「外星接觸」。這些離奇內容引發網民半信半疑與熱烈轉載。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
