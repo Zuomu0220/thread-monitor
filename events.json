@@ -305,6 +305,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/08",
+    "title": "Steam限時免費遊戲",
+    "summary": "Steam於2026年8月8日至8月10日期間提供《Breathedge》（呼吸邊緣）限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/07",
     "title": "Steam 新品發行：《GRAIN ROT》",
     "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
@@ -389,14 +397,6 @@
     "title": "VTuber ばあちゃる宣布引退",
     "summary": "VTuber ばあちゃる（Virtual）於 2026 年 8 月 7 日宣布引退。ばあちゃる是 VTuber 圈的知名人物，其引退消息在社群引起廣泛討論，被視為「無限期停播」的重大事件。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam 恐怖合作遊戲《Unpossess 2》搶先體驗版推出 Demo",
-    "summary": "個人開發者 Chreseeba Games 宣布，四人合作驅魔恐怖遊戲《Unpossess 2: Exorcism Simulator》將於 8 月 22 日在 Steam 展開搶先體驗，目前已推出免費 Demo 供玩家搶先體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -5432,6 +5432,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/08/01",
     "expiry_date": "2028/08/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/07",
+    "title": "Raoul Pal預言AI兩年內全面接管經濟",
+    "summary": "金融專家Raoul Pal於2026年8月7日在X平台發布預言，表示在未來兩年內，全球大部分經濟活動將由AI代理自動完成，導致人類薪資分配體系崩潰。他預測區塊鏈將成為機器間清算的唯一可行通道。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/08/07",
+    "expiry_date": "2028/08/08"
   },
   {
     "category": "PROPHECY",
