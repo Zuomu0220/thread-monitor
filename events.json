@@ -296,6 +296,22 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/09",
+    "title": "知名遊戲實況主「黑貓」因遊戲內不當言論引發爭議並道歉",
+    "summary": "實況主黑貓在直播《末日生存錄》時，因情緒激動對遊戲角色使用歧視性詞彙，並在觀眾提醒後仍持續其言論，引發社群平台Dcard與X（原Twitter）網友公憤，認為其行為不尊重遊戲與其他玩家。事後黑貓於個人社群發布道歉聲明，表示將會深刻反省並暫停直播數日。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam平台公布2026年8月多款免費獨立遊戲，下載即可永久保留",
+    "summary": "Steam平台於8月公布了多款2026年7月發行的免費獨立遊戲，包括《ECHOES》、《Dear Magical Girls》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
@@ -380,22 +396,6 @@
     "date": "2026/08/08",
     "title": "Steam限時免費領取《呼吸邊緣》(Breathedge)",
     "summary": "開發商RedRuins Softworks的太空生存黑色幽默冒險遊戲《呼吸邊緣》於Steam限時免費，香港時間8月9日00:00前領取即可永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Epic Games免費領取《Spider Fox》",
-    "summary": "獨立遊戲《Spider Fox》即日起在Epic Games Store開啟限時免費領取活動，玩家可在北京時間8月13日23點前免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam推薦7款免費類《薩爾達傳說》遊戲",
-    "summary": "適逢《薩爾達傳說》系列誕生40週年，Steam平台推薦7款受其啟發的免費遊戲，包含動作RPG《Grizelda: Lynx and the Nine Lives》、多人MMORPG《Spiral Knights》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -716,6 +716,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "日本網路流傳「2026年8月12日日本將發生大災難」預言，疑似與行星連珠謠言有關",
+    "summary": "日本網路社群與Yahoo!知恵袋上流傳著關於2026年8月12日日本將發生大災難的預言，部分討論指向與「行星連珠」現象有關，但多數意見認為過去也曾有行星連珠，其影響可能不大。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/05",
     "title": "Epic Games預告下週免費遊戲《漫漫長路沙巫之旅》",
     "summary": "Epic Games預告將於8月13日至8月20日期間免費提供遊戲《漫漫長路沙巫之旅》（Caravan SandWitch）。",
@@ -728,6 +737,15 @@
     "date": "2026/08/09",
     "title": "日本 Love Me Do 預言",
     "summary": "知名日本占卜師 Love Me Do 預言 8 月 9 日至 13 日期間將會發生令人驚訝的新聞或發表。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/13",
+    "expiry_date": "2026/08/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/07",
+    "title": "日本占星師Love Me Do預言2026年8月將是「世界規模的轉捩點」，留意社會動盪與交通通訊",
+    "summary": "知名占星師Love Me Do在其「奇蹟星象學」中預言，2026年8月13日的獅子座新月與日全食將是全球的轉捩點。他警告這前後可能出現政治上的重大變革，並需注意交通混亂、豪雨停電與通訊障礙等問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/13",
     "expiry_date": "2026/08/14"
