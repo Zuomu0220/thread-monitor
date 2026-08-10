@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam",
+    "summary": "多款新作搶先體驗上市：",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
@@ -112,6 +120,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Epic Games Store",
+    "summary": "限時免費遊戲《Cat Named Mojave》、《happiness market》與《第一次接觸計畫》開放領取：",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -133,14 +149,6 @@
     "title": "美國實況主Asmongold因非法移民言論遭Twitch Ban台",
     "summary": "美國知名實況主Asmongold在評論非法移民事件時，發表「我會無差別開槍」的言論，引發爭議並遭到Twitch官方封鎖頻道。目前處罰期限尚未公布，社群對此事件反應兩極，部分網友認為他只是說出實話，也有人批評其言論不當。",
     "avatar_url": "https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/454941916_976231264205566_6455110547442168923_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=80Lh-PqJjKkQ7kNvgEWn82R&_nc_ht=scontent.ftpe7-4.fna&oh=00_AYA8b6g6Qj5B0x-y1LwM4p3Q5E8bL4n6yW6p4J2xS74g1Q&oe=66B99557",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam",
-    "summary": "即將發行遊戲 Demo 免費試玩：包含《挂机魔王Demo》等策略、角色扮演類遊戲，預計於 8 月 9 日開放試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -388,14 +396,6 @@
     "date": "2026/08/08",
     "title": "Steam推薦7款免費類《薩爾達傳說》遊戲",
     "summary": "適逢《薩爾達傳說》系列誕生40週年，Steam平台推薦7款受其啟發的免費遊戲，包含動作RPG《Grizelda: Lynx and the Nine Lives》、多人MMORPG《Spiral Knights》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam 限時免費：《呼吸邊緣》(Breathedge)",
-    "summary": "Steam 於 2026 年 8 月 8 日至 8 月 10 日期間，提供太空生存冒險遊戲《呼吸邊緣》(Breathedge) 限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -4889,6 +4889,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆2026年預言與台海局勢",
     "summary": "盲眼靈媒巴巴·萬加（Baba Vanga）的追隨者聲稱，她對2026年的五大預言中已有兩項「應驗」，包括全球自然災害增加及人工智慧快速發展。尚未應驗的三項預言則為：巨型外星飛船抵達地球、第三次世界大戰爆發，以及俄羅斯總統普廷失去權力。其中「第三次世界大戰」被部分追隨者解讀為可能牽涉台海衝突。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆巴巴．萬加",
+    "summary": "2026 年五項預言中，已有兩項被追隨者認定應驗：「全球重大天災」與「AI 取代人類工作」。 剩下三項預言為：「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯領導人於 2026 年底前出現重大更替」，其中世界大戰預言被部分追隨者聯想到台海局勢。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
