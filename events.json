@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/08/11",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/08/04 至 2026/08/11 期間，未發現華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件的報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
     "summary": "在 2026/08/03 至 2026/08/10 期間，Google Search 未搜捕到台灣/華語圈實況主的顯著負面或爭議事件。",
@@ -13,14 +21,6 @@
     "title": "查無近期爭議事件",
     "summary": "在 2026/08/03 至 2026/08/10 期間，未搜尋到台灣/華語圈實況主相關的負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/10",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/08/03 至 2026/08/10 期間，未發現台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -281,6 +281,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 每日限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "PinoGamer 皮諾電玩整理，Steam 於2026年8月9日提供《Bunny Guys!》和《BROTHER!!! Save him!》限時免費下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -389,14 +397,6 @@
     "title": "Steam 限時免費：《呼吸邊緣》(Breathedge)",
     "summary": "Steam 於 2026 年 8 月 8 日至 8 月 10 日期間，提供太空生存冒險遊戲《呼吸邊緣》(Breathedge) 限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/08",
-    "title": "BLACKPINK 10週年活動爭議，Jisoo親自道歉",
-    "summary": "韓國女團BLACKPINK出道10週年，經紀公司YG娛樂舉辦的線下紀念活動「Meet & Greet」僅開放40名粉絲參與，且公告資訊不明確，一度傳出成員無法全員出席，引發大量粉絲不滿。成員Jisoo透過粉絲交流平台發文，對粉絲的失望情緒表達歉意，並強調從未忘記粉絲支持，此舉獲得網友好評。隨後確認四名成員將全員出席活動，平息部分爭議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -701,6 +701,15 @@
     "date": "2026/08/08",
     "title": "網路社群熱議：2026年8月12日將發生「末日災難」？科學家警告全球重力或將關閉",
     "summary": "社群網路近日流傳一則關於「2026年8月12日」的末日預言，聲稱科學家警告這天全球重力可能將關閉，引發廣泛討論與恐慌。此預言提及人類文明可能因此走向終點，並討論了精英階層的「末日生存指南」等陰謀論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/07",
+    "title": "4chan 貼文預言8月12日地球重力將消失7秒",
+    "summary": "在 4chan 的 Paranormal 板塊中，一篇於2026年8月7日發布的貼文（IT OVER AUGUST 12 REPOST!）預言，地球的重力將在2026年8月12日消失7秒，導致文明毀滅性的地震、海嘯和火山活動。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/12",
     "expiry_date": "2026/08/13"
