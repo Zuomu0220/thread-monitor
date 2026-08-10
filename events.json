@@ -88,6 +88,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 2026 年 8 月必買遊戲推薦",
+    "summary": "《游民星空》發布 8 月值得入手的 Steam 單機遊戲推薦清單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/08",
     "title": "日V花凪まな承認抹黑觀眾後宣布畢業",
     "summary": "日本VTuber花凪まな突然宣布活動結束，並發出道歉文，承認自己到處散布假消息，還將觀眾等相關人士描述為跟蹤狂、強O犯等犯罪者。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/08",
-    "title": "日V百百波美宣布9/29畢業直播",
-    "summary": "日本VTuber百百波美宣布將於2026年9月29日進行畢業直播。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
     "days_left": 5
   },
@@ -4862,6 +4862,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆 2026 年預言：普丁可能失勢",
     "summary": "有報導指出，巴巴萬加的預言被解讀為俄羅斯總統普丁可能在 2026 年底前失去權力，由新的領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼靈媒巴巴·萬加 2026 年預言進入倒數",
+    "summary": "根據預言解讀，中國將試圖奪取台灣，而俄羅斯與美國之間的緊張關係將升級為直接軍事衝突。此外，預言俄羅斯總統普京將在 2026 年底前失去權力，由新領導人取代，全球自然災害亦頻繁發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
