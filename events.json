@@ -48,6 +48,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 平台 8 月新品 Demo 推薦",
+    "summary": "GameGrin 推薦 8 月 10 日至 16 日期間 Steam 平台上值得關注的 9 款 Demo，包括冒險獨立遊戲《One Neck Ahead Demo》、RPG 策略遊戲《IF Enemy: SMACK! Demo》以及劇情豐富的 RPG《Travelling At Night》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "SQUARE ENIX 夏日優惠活動",
+    "summary": "Steam 平台上的 SQUARE ENIX 部分遊戲如《FINAL FANTASY TACTICS - The Ivalice Chronicles Deluxe Edition》和《歧路旅人》系列正進行折扣優惠，部分優惠活動將於 8 月 11 日或 8 月 12 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -381,22 +397,6 @@
     "title": "Steam《殺戮空間3》與《獸獵突襲》特價",
     "summary": "第一人稱恐怖射擊遊戲《殺戮空間3》和第三人稱 PvP 射擊遊戲《獸獵突襲》在 Steam 平台提供特價，優惠至 2026 年 8 月 7 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam 開放世界生存製作遊戲免費",
-    "summary": "Steam 於8月7日推出兩項新的促銷活動，其中包含一款免費的開放世界生存製作遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/07",
-    "title": "知名料理直播主「肥大叔」逝世，享年46歲",
-    "summary": "知名料理直播主「肥大叔」何裕輝於2026年8月5日離世，享年46歲。其粉絲專頁於8月6日證實此消息，震驚許多喜愛他的粉絲。昔日被視為競爭對手的「直播天后」丟丟妹也親自留言悼念，短短數語引發網友鼻酸。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -4826,6 +4826,24 @@
     "date": "2026/03/17",
     "title": "「維也納信件」預言",
     "summary": "「維也納信件」描述 2026 年左右將出現一個「可見性閾值」，屆時資訊將更難以被控制，真相也將更難以辨別。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言 2026 年普丁可能失去權力",
+    "summary": "巴巴萬加的預言中包含俄羅斯政局的變動，網路版本稱俄羅斯總統普丁可能在 2026 年底前失去權力。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲預言 2026 年底全新傳染病將肆虐全球",
+    "summary": "自稱來自 2058 年的未來人國分玲警告，2026 年底將有全新的傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
