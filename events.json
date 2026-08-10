@@ -64,6 +64,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Epic喜加一：《莫哈維之貓》限時免費",
+    "summary": "Epic Games Store 正在限時免費發送第一人稱超現實恐怖遊戲《莫哈維之貓》（Cat Named Mojave）。玩家可在台灣時間 8 月 15 日上午 11 點前領取並永久入庫。這款遊戲以荒涼的沙漠為背景，玩家需接受詭異貓人的要求，獵殺奇特生物以求生存。該遊戲曾於 Steam 獲得「極度好評」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 免費 Demo：《Vholume》跑酷神作精神續作開放試玩",
+    "summary": "《Vholume》是一款受《鏡之邊緣》啟發的第一人稱跑酷遊戲，將於 8 月 21 日登陸 Steam 平台。目前遊戲的免費試玩版已開放，包含 4 個關卡，讓玩家熟悉其高速移動和慣性系統。遊戲專注於跑酷挑戰，取消了戰鬥系統，並降低了第一人稱跑酷時的鏡頭晃動以減少眩暈感，同時也加入多人模式。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -181,6 +197,22 @@
     "title": "YouTuber 九粒「顯化」課程爭議",
     "summary": "知名YouTuber錫蘭踢爆九粒高價出售「顯化」課程割韭菜，並質疑其「手汗機」及學歷真實性。九粒隨後發布回應影片，但被指避重就輕，未能正面回應核心質疑，引發網友熱議。",
     "avatar_url": "https://ui-avatars.com/api/?name=Cey&background=dc2626&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 限免：《呼吸邊緣》好評太空生存冒險免費領取中",
+    "summary": "為慶祝續作《呼吸邊緣2》即將推出搶先體驗版，RedRuins Softworks 開發的太空生存冒險遊戲《呼吸邊緣》（Breathedge）在 Steam 平台限時免費。玩家可在 8 月 10 日凌晨 1 點前領取，即可永久保存至收藏庫。遊戲以諷刺和黑色幽默為特色，玩家需在零重力下搜尋補給、製作工具，並解開災難背後的大陰謀。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 免費遊戲：《The Black Lily Blooms in Her Eyes》發行",
+    "summary": "策略冒險遊戲《The Black Lily Blooms in Her Eyes》於 2026 年 8 月 9 日在 Steam 平台發行，並提供免費遊玩。這是一款回合制卡牌戰鬥遊戲，玩家需組建 10 張牌的牌組，挑戰六位魔法師。遊戲包含故事模式和 Roguelike 模式。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -366,38 +398,6 @@
     "summary": "Steam於2026年8月8日至8月10日期間提供《Breathedge》（呼吸邊緣）限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam 限時免費領取《Moonlighter》與《Breathedge》",
-    "summary": "Steam 平台推出限時免費活動，玩家可於 8 月 10 日上午 1:00 前免費取得並永久保留動作角色扮演遊戲《Moonlighter》與太空生存遊戲《呼吸邊緣》(Breathedge)。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam 新品發行：《GRAIN ROT》",
-    "summary": "由 Beck & Branch Games 開發的動作、獨立、模擬遊戲《GRAIN ROT》於 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam 新品發行：《Expeditions: Samurai》",
-    "summary": "由 Campfire Cabal 開發的角色扮演、策略遊戲《Expeditions: Samurai》於 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/07",
-    "title": "Steam《殺戮空間3》與《獸獵突襲》特價",
-    "summary": "第一人稱恐怖射擊遊戲《殺戮空間3》和第三人稱 PvP 射擊遊戲《獸獵突襲》在 Steam 平台提供特價，優惠至 2026 年 8 月 7 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
