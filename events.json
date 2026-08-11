@@ -734,6 +734,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/11",
+    "title": "地球將失重7秒謠言",
+    "summary": "網路社群近期瘋傳一則駭人預言，聲稱地球將於 2026 年 8 月 12 日失去重力 7 秒，預計造成 4000 萬至 6000 萬人傷亡，並指 NASA 已知情並秘密準備。然而，NASA 已出面闢謠，強調地球不會在該日失去重力。查核機構也指出，發布該傳言的源頭帳號疑似常使用 AI 產出虛構內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/12",
+    "expiry_date": "2026/08/13"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/05",
     "title": "Epic Games預告下週免費遊戲《漫漫長路沙巫之旅》",
     "summary": "Epic Games預告將於8月13日至8月20日期間免費提供遊戲《漫漫長路沙巫之旅》（Caravan SandWitch）。",
