@@ -136,6 +136,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 2026 年 8 月特賣活動",
+    "summary": "Steam 於 8 月 3 日至 8 月 10 日舉辦了「電馭叛客節」。此外，8 月 17 日至 8 月 20 日將有「彈珠與樁釘節」，以及 8 月 31 日至 9 月 7 日的「玩家合作生存工藝節」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -337,6 +345,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/09",
+    "title": "Steam 新增免費遊戲",
+    "summary": "PinoGamer 整理了 2026 年 Steam 平台的最新限時免費遊戲情報，其中提到新上架的免費遊戲有《Bunny Guys!》和《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/08",
     "title": "Steam 限時免費：《Breathedge》太空生存遊戲",
     "summary": "由 RedRuins Softworks 開發的太空開放世界生存冒險遊戲《Breathedge》正在 Steam 舉行限時免費活動，玩家可於 8 月 10 日前領取並永久保存至收藏庫。",
@@ -380,22 +396,6 @@
     "date": "2026/08/08",
     "title": "Steam 限時免費領取《Breathedge》",
     "summary": "《Breathedge》（星際垃圾場求生記）於 Steam 平台限時免費領取，截止日期為香港時間 8 月 9 日 00:00 前。這是一款以太空生存為核心的黑色幽默冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "太空生存冒險遊戲《呼吸邊緣》（Breathedge）Steam限時免費領取",
-    "summary": "《Breathedge》是一款帶有黑色幽默元素的太空生存冒險遊戲，玩家將扮演「The Man」，因一場意外捲入宇宙陰謀。本作於8月10日前可在Steam平台限時免費領取並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/08",
-    "title": "Steam平台推薦7款類《薩爾達》免費遊戲",
-    "summary": "為慶祝《薩爾達傳說》系列40週年，Steam推薦了7款受其啟發的免費遊戲，包含《Grizelda: Lynx and the Nine Lives》、《Spiral Knights》、《Floodcore》等，這些遊戲融合了迷宮探索、解謎和冒險元素，部分提供完整遊玩內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
