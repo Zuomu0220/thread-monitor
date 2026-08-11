@@ -41,6 +41,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/11",
+    "title": "無相關事件",
+    "summary": "本週（2026/08/04 至 2026/08/11）華語圈內未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam 發行商特賣",
+    "summary": "Mango Party 芒果派對夏日特賣進行中：Steam 發行商 Mango Party 舉辦夏日特別促銷，旗下多款新品享有特價優惠，活動至 8 月 18 日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
     "summary": "在 2026/08/03 至 2026/08/10 期間，Google Search 未搜捕到台灣/華語圈實況主的顯著負面或爭議事件。",
@@ -224,6 +240,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Epic Games 限時免費",
+    "summary": "《Cat Named Mojave》極度好評恐怖遊戲限時免費領取：獨立開發團隊 Stargazers Studios 製作發行的第一人稱心理恐怖遊戲《Cat Named Mojave》在 Epic Games Store 展開限時免費活動，活動將持續至台灣時間 8 月 15 日上午 11 點。該遊戲最初於 2025 年 12 月 8 日發售，在 Steam 平台獲得 95% 的極度好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 免費遊戲",
+    "summary": "《Knytt Classic》經典獨立冒險遊戲免費上架：由瑞典獨立開發者 Nifflas 製作的氛圍平台遊戲系列首作《Knytt Classic》於 Steam 平台免費發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -365,38 +397,6 @@
     "title": "Epic Games限免：《happiness market》",
     "summary": "Epic Games Store 於 2026 年 8 月 9 日提供《happiness market》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Epic Games限時免費：《Project First Contact》",
-    "summary": "第一人稱科幻恐怖遊戲《Project First Contact》在Epic Games Store開放免費領取，活動期限至2026年8月18日早上6時。遊戲結合科幻、恐怖與生存元素，玩家需在受外星入侵的地球上探索、對抗敵對生物並管理資源以求生存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam多款遊戲序號免費領取",
-    "summary": "Steam免費遊戲情報站顯示，Humble Bundle推出多款遊戲組合包，另有《Deep Eclipse: New Space Odyssey》和《Drop Loot (Beta)》免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam 每日限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
-    "summary": "PinoGamer 皮諾電玩整理，Steam 於2026年8月9日提供《Bunny Guys!》和《BROTHER!!! Save him!》限時免費下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/09",
-    "title": "知名遊戲實況主「黑貓」因遊戲內不當言論引發爭議並道歉",
-    "summary": "實況主黑貓在直播《末日生存錄》時，因情緒激動對遊戲角色使用歧視性詞彙，並在觀眾提醒後仍持續其言論，引發社群平台Dcard與X（原Twitter）網友公憤，認為其行為不尊重遊戲與其他玩家。事後黑貓於個人社群發布道歉聲明，表示將會深刻反省並暫停直播數日。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
