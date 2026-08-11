@@ -64,6 +64,30 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Epic Games限時免費：《名為莫哈維的貓》與《幸福市集》",
+    "summary": "Epic Games近日推出兩款限時免費遊戲供玩家領取，分別是獲得極度好評的獵奇超現實恐怖遊戲《名為莫哈維的貓》（Cat Named Mojave）以及商店經營模擬小品遊戲《happiness market》。玩家可在2026年8月15日前免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam新作《恐龍小當家》正式上市並享七五折優惠",
+    "summary": "《恐龍小當家》（Dinotica）於2026年8月12日正式在Steam平台推出。這是一款融合Roguelike戰鬥與沙盒家園建設的種田養龍遊戲，支援多人合作。為慶祝上市，遊戲將於首發兩週推出75折限時優惠，原價$17.99，現售$13.49。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "《全境封鎖：曙光》PC版登陸Steam引玩家負評",
+    "summary": "Ubisoft旗下免費手機遊戲《全境封鎖：曙光》（The Division Resurgence）於2026年8月5日正式登陸PC版Steam，卻因遊戲內微交易系統引發大量玩家批評，導致評價不佳。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
@@ -312,6 +336,14 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/10",
+    "title": "LCK英文台主播Wadid再次因Kanavi事件引發爭議",
+    "summary": "LCK英文台主播Wadid據報再次因提及電競選手Kanavi的相關事件而引發社群討論與批評，詳細爭議點在報導中未完全闡明。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -365,38 +397,6 @@
     "title": "目前沒有符合「2026/08/02 至 2026/08/09」期間，台灣/華語圈 VTuber 負面與爭議事件的最新動態。",
     "summary": "詳細內容描述",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam/Epic Games Store",
-    "summary": "2026 最新限時優惠免費遊戲更新：皮諾電玩整理 2026 年 Steam 與 Epic 每日限時免費或折扣的遊戲，其中 Steam 提及《Bunny Guys!》和《BROTHER!!! Save him!》限免；Epic 提及《NoRush!》限免.",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam 每日限免與折扣遊戲更新",
-    "summary": "Steam平台於2026年8月9日更新了每日限時免費或折扣遊戲。玩家需把握活動期間下載或購買，廠商保留隨時延長或取消限免活動的權利。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam 限時免費：《呼吸邊緣》（Breathedge）",
-    "summary": "為慶祝續作《呼吸邊緣2》即將推出搶先體驗版，RedRuins Softworks 開發的太空生存冒險遊戲《呼吸邊緣》限時免費領取至 2026 年 8 月 10 日上午 1 點。該遊戲在 Steam 平台獲得「極度好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Epic Games 限時免費：《Project First Contact》",
-    "summary": "PC 玩家可於 Epic Games Store 免費領取第一人稱科幻恐怖遊戲《Project First Contact》，活動期限至 2026 年 8 月 18 日早上 6 時。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
