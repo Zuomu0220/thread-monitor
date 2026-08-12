@@ -96,6 +96,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Epic 限免遊戲《名為莫哈維的貓》、《Happiness Market》",
+    "summary": "Epic Games 平台推出兩款限時免費遊戲。《名為莫哈維的貓》（Cat Named Mojave）是一款第一人稱心理恐怖遊戲，以低多邊形復古風格和引人入勝的劇情廣受好評，支援繁體中文，領取時間至 2026 年 8 月 15 日 11:00 截止。另一款《Happiness Market》為商店經營遊戲，支援簡體中文，領取時間至 2026 年 8 月 15 日 00:00 截止。玩家可把握機會免費領取並永久保存。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
@@ -389,14 +397,6 @@
     "title": "美國實況主Asmongold因非法移民言論遭Twitch Ban台",
     "summary": "美國知名實況主Asmongold在評論非法移民事件時，發表「我會無差別開槍」的言論，引發爭議並遭到Twitch官方封鎖頻道。目前處罰期限尚未公布，社群對此事件反應兩極，部分網友認為他只是說出實話，也有人批評其言論不當。",
     "avatar_url": "https://scontent.ftpe7-4.fna.fbcdn.net/v/t39.30808-6/454941916_976231264205566_6455110547442168923_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=80Lh-PqJjKkQ7kNvgEWn82R&_nc_ht=scontent.ftpe7-4.fna&oh=00_AYA8b6g6Qj5B0x-y1LwM4p3Q5E8bL4n6yW6p4J2xS74g1Q&oe=66B99557",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Steam 限免遊戲《呼吸邊緣》（Breathedge）",
-    "summary": "這是一款以外太空為主題，帶有諷刺意味與黑色幽默的開放世界生存冒險遊戲。玩家扮演的「Man」獨自攜帶爺爺的骨灰參加銀河葬禮，卻遭遇大災難，爺爺的棺材流落太空。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -1835,6 +1835,15 @@
     "date": "2026/07/19",
     "title": "2058年未來人國分玲預計於9月26日歸來",
     "summary": "自稱來自2058年的「未來人」國分玲（Kokubun Rei）的帳號，在消失五年後於2026年2月24日出現登錄痕跡，並預計於2026年9月26日再度歸來，揭示未來10年的所有答案。此前國分玲曾精準預測多項重大事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/06",
+    "title": "2062 年與 2058 年未來人國分玲預言 2026 年將是重大轉折點，涉及數位貨幣與第三次世界大戰",
+    "summary": "兩位自稱來自未來的「未來人」（一位來自 2062 年，另一位是國分玲，自稱來自 2058 年）在網絡上發布的預言指出，2026 年將是日本和全球的重大轉折點。預言內容提及數位日元的試點導入、基本收入的實現，以及第三次世界大戰的序章。他們指出歷史具有「自我修復」的模式，重大事件的骨架不會改變，但細節可能出現偏差。此外，國分玲曾預言 2026 年 9 月 26 日將再次出現。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
