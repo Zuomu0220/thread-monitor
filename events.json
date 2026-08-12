@@ -176,6 +176,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Epic Games 限時免費：《名為莫哈維的貓》與《happiness market》",
+    "summary": "Epic Games Store 於近日推出兩款限時免費遊戲，分別是獵奇超現實恐怖遊戲《名為莫哈維的貓》（Cat Named Mojave）及商店經營模擬小品《happiness market》，領取時間至2026年8月15日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/10",
     "title": "Epic Games 限時免費遊戲：《Cat Named Mojave》",
     "summary": "由獨立開發團隊 Stargazers Studios 製作發行的第一人稱心理恐怖遊戲《Cat Named Mojave》在 Epic Games Store 展開限時免費活動，活動將持續至台灣時間 8 月 15 日上午 11 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "台灣獨立遊戲《自拍蟲蟲》雙料入選 TGS 2026 SI80 與 SOWN",
-    "summary": "台灣雙人獨立團隊「正直香蕉遊戲工作室」研發的療癒系 2D 物理攝影冒險遊戲《自拍蟲蟲》，獲選為東京電玩展「SELECTED INDIE 80」參展作品，並入圍「Sense of Wonder Night 2026」，將於 2026 年 8 月 14 日在 Steam 平台正式發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -4706,6 +4706,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058未來人國分玲警告：2026年底新型傳染病肆虐全球",
+    "summary": "自稱來自2058年的未來人國分玲，曾於2019年預言AI發展、全球大流行病、解放軍內部路線鬥爭等事件。他最新預言警告，2026年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -4883,6 +4892,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/16",
     "expiry_date": "2027/01/17"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/12",
+    "title": "易經預言家高輔進：日全食引動全球劇變，領導人恐遇險",
+    "summary": "命理諮商師高輔進透過易經演卦，預警2026年8月12日日全食將帶來全球動盪。點名生肖屬蛇的習近平和丙年生的川普在2027年立春前可能發生槍擊、暗殺或健康意外。同時預言下半年股市「海盜船式」擺動、空前缺水、地表裂縫天坑浮現，並指出2026年9月19日、11月18日及2027年1月17日前後一週有大事發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/02/04",
+    "expiry_date": "2027/02/05"
   },
   {
     "category": "PROPHECY",
