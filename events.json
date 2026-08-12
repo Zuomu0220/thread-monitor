@@ -9,11 +9,19 @@
   },
   {
     "category": "STREAMER",
-    "date": "2026/08/11",
+    "date": "2026/08/12",
     "title": "無最新負面與爭議事件",
-    "summary": "在 2026/08/04 至 2026/08/11 期間，未發現華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件的報導。",
+    "summary": "在 2026/08/05 至 2026/08/12 期間，Google Search 未搜捕到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam 8 月免費領取遊戲預告：Moonlighter, Deponia, Electoral Carnage",
+    "summary": "Steam 預計於 2026 年 8 月釋出多款可永久保留的免費遊戲，包含《Moonlighter》與《Deponia》等作品，其中《Electoral Carnage》已被列為 8 月免費遊戲之一。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
   },
   {
     "category": "GAME",
@@ -352,6 +360,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/10",
+    "title": "Steam 免費小遊戲推薦",
+    "summary": "游民星空於 2026 年 8 月 10 日推薦多款可在 Steam 免費下載遊玩的小遊戲，涵蓋像素風解壓和魔性聯機沙雕遊戲等類型。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/09",
     "title": "目前無相關事件",
@@ -381,22 +397,6 @@
     "title": "Steam 限免遊戲《呼吸邊緣》（Breathedge）",
     "summary": "這是一款以外太空為主題，帶有諷刺意味與黑色幽默的開放世界生存冒險遊戲。玩家扮演的「Man」獨自攜帶爺爺的骨灰參加銀河葬禮，卻遭遇大災難，爺爺的棺材流落太空。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "Epic Games 限時優惠免費遊戲：NoRush!",
-    "summary": "Epic Games 商店於 2026 年 8 月 9 日整理了限時優惠免費遊戲，其中包括《NoRush!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/09",
-    "title": "鷺卓《披荊斬棘2026》疑因公司失職缺席爭議",
-    "summary": "偶像團體「十個勤天」成員鷺卓原定參與《披荊斬棘2026》錄製，但因與團體三巡演唱會檔期衝突而無法參加。粉絲指出，節目邀約在先，公司排定巡演檔期在後，質疑公司營運管理失職，阻礙藝人個人發展。鷺卓本人在直播中表示「沒有人能讓十個勤天解散」，試圖穩定粉絲情緒。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
