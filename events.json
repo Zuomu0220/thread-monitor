@@ -32,6 +32,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/13",
+    "title": "無重大事件報導",
+    "summary": "在 2026/08/06 至 2026/08/13 期間，未發現華語圈實況主與 VTuber 相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等重大負面或爭議事件在主要網路社群與新聞媒體上被廣泛討論或報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
@@ -389,14 +397,6 @@
     "title": "【TGS 26】SOWN 2026 決賽晉級遊戲名單與SELECTED INDIE 80 卓越獎得獎名單公布",
     "summary": "2026 東京電玩展（TOKYO GAME SHOW 2026）宣布「SENSE OF WONDER NIGHT 2026」決賽晉級遊戲名單與「SELECTED INDIE 80」卓越獎得獎名單。展期為2026年9月17日至9月21日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/10",
-    "title": "蔡阿嘎前員工蘿拉捲款爭議後現身二手車業",
-    "summary": "百萬 YouTuber 蔡阿嘎前團隊元老級成員蘿拉，自 2024 年爆發「AB 合約」款項爭議後淡出螢光幕。近日，蘿拉被發現已轉行加入桃園二手車商「賢哥」團隊，從事短影音企劃並公開宣傳車輛銷售。面對網友對債務處理的質疑，蘿拉回應「還債沒有時間挑」，並承諾將以公開透明的流程進行汽車交易。",
-    "avatar_url": "https://img.cool-style.com.tw/2026/08/10/%E8%98%BF%E6%8B%89%E5%9B%9E%E6%87%89%E7%B6%B2%E5%8F%8B%E7%B6%B2%E8%B7%AF%E8%B2%A0%E8%A9%95%EF%BC%8C%E8%AA%8D%E7%9C%9F%E9%9D%A2%E5%B0%8D%E5%80%B5%E5%8B%99%E5%95%8F%E9%A1%8C%E3%80%82IG%40lauralin1113.png",
     "days_left": 4
   },
   {
@@ -4709,6 +4709,15 @@
     "date": "2026/05/24",
     "title": "未來人國分玲預言：2026年底全新傳染病肆虐全球",
     "summary": "來自 2058 年的未來人國分玲，發出最新預言警告，預計在 2026 年底將有全新傳染病肆虐全球，且俄烏戰爭的停火時間也已確定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆 2026 年預言更新",
+    "summary": "已故的「盲眼龍婆」巴巴萬加針對 2026 年的預言再度引起熱議。據追隨者稱，其「全球重大天災」與「AI 取代人類工作」兩項預言已被認定應驗。而尚有三項預言未實現，包括「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯領導人於 2026 年底前出現重大更替」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
