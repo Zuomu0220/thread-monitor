@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
+    "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -69,6 +77,22 @@
     "title": "反校園霸凌互動影遊《惡校遊戲》定檔8月14日發售：試玩Demo已開放",
     "summary": "由CineGame Interactive開發的反校園霸凌題材真人互動影遊《惡校遊戲》定於2026年8月14日上午11:00正式發售。遊戲試玩Demo已開放，玩家可提前體驗並將遊戲加入願望單。遊戲劇情圍繞一場跨越8年的校園霸凌事件展開。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "蔡阿嘎擺脫炎上陰霾，赴日慶生花費鉅資遭批",
+    "summary": "百萬YouTuber蔡阿嘎在經歷妻子品牌抄襲爭議與「AI繪師」事件後的停更近一個月，於2026/08/12發布新片，記錄前往大阪「棉花糖女子俱樂部」慶祝42歲生日的過程，花費約新台幣16,500元。儘管他自嘲是「炎上系YouTuber」並表示活動很划算，但網友仍對他未直接回應爭議的態度持兩極看法，部分網友批評他「裝死不面對」。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "YouTuber張家寧眾量級頻道糾紛，獲判無罪但家人被判刑",
+    "summary": "YouTuber張家寧（眾量級）與前男友Andy老師因頻道經營權及公司帳務爭議鬧上法院，一審判決結果於2026/08/12出爐。張家寧本人獲判無罪，但其家人則分別遭判刑。此事件引發網路熱議，替張家寧辯護的律師郭柏鴻因勝訴而意外爆紅。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -180,6 +204,22 @@
     "date": "2026/08/11",
     "title": "Epic Games 限時免費：《名為莫哈維的貓》與《happiness market》",
     "summary": "Epic Games Store 於近日推出兩款限時免費遊戲，分別是獵奇超現實恐怖遊戲《名為莫哈維的貓》（Cat Named Mojave）及商店經營模擬小品《happiness market》，領取時間至2026年8月15日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Epic Games 限免遊戲：《名為莫哈維的貓》與《happiness market》開放領取",
+    "summary": "Epic Games 於2026年8月11日推出兩款限時免費遊戲：《名為莫哈維的貓》（Cat Named Mojave）及《happiness market》。《名為莫哈維的貓》是一款獵奇超現實恐怖遊戲，而《happiness market》則是一款2D像素風格的商店經營模擬小品。兩款遊戲領取時間皆至2026年8月15日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam 恐怖探索遊戲《No Visitors Allowed Demo》釋出",
+    "summary": "由Second Guess開發與發行的心理恐怖遊戲《No Visitors Allowed Demo》於2026年8月11日在Steam平台釋出試玩版。該遊戲靈感來自《Exit 8》，玩家需透過偵測異常來逃離一個循環的廢棄醫院走廊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -356,46 +396,6 @@
     "date": "2026/08/10",
     "title": "Steam 多款獨立遊戲 Demo 釋出",
     "summary": "上週（2026 年 8 月 3 日至 8 月 9 日）Steam 平台釋出了多款獨立遊戲 Demo，包括《500 FINGER FILLET Demo》（8 月 4 日）、《Beastfolk Barber Demo》（8 月 6 日）、《Tony The Mole Demo》（8 月 6 日）、《Wild n Chill Demo》（8 月 6 日）和《A Stray Line Demo》（8 月 7 日）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam《BOMBANANA! Demo》於特賣活動中獲高關注",
-    "summary": "解謎策略遊戲《BOMBANANA! Demo》雖於 2026 年 6 月 15 日發布，但在近期 Steam 特賣活動中再次受到矚目，憑藉其獨特的炸彈拆除團隊玩法，獲得極度好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Epic Games 限時免費",
-    "summary": "《Cat Named Mojave》極度好評恐怖遊戲限時免費領取：獨立開發團隊 Stargazers Studios 製作發行的第一人稱心理恐怖遊戲《Cat Named Mojave》在 Epic Games Store 展開限時免費活動，活動將持續至台灣時間 8 月 15 日上午 11 點。該遊戲最初於 2025 年 12 月 8 日發售，在 Steam 平台獲得 95% 的極度好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 免費遊戲",
-    "summary": "《Knytt Classic》經典獨立冒險遊戲免費上架：由瑞典獨立開發者 Nifflas 製作的氛圍平台遊戲系列首作《Knytt Classic》於 Steam 平台免費發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam Debut Festival 2026 開跑",
-    "summary": "Steam 平台於 8 月 10 日啟動 2026 年度 Debut Festival，活動期間將提供多款遊戲折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Epic Games 限時免費遊戲：《Cat Named Mojave》",
-    "summary": "由獨立開發團隊 Stargazers Studios 製作發行的第一人稱心理恐怖遊戲《Cat Named Mojave》在 Epic Games Store 展開限時免費活動，活動將持續至台灣時間 8 月 15 日上午 11 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
