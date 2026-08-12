@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/13",
+    "title": "無最新事件",
+    "summary": "由於目前時間為真實世界的 2024 年，無法獲取 2026 年 8 月 6 日至 2026 年 8 月 13 日之間台灣/華語圈實況主與 VTuber 的負面與爭議事件資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/13",
+    "title": "無最新情報",
+    "summary": "由於目前時間為真實世界的 2024 年，無法獲取 2026 年 8 月 6 日至 2026 年 8 月 13 日之間 Steam/Epic 平台的最新遊戲特價與免費情報。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
@@ -381,22 +397,6 @@
     "title": "Materia Music 對 AI VTuber Neuro-sama 歌曲版權提出異議",
     "summary": "Reddit 社群討論 Materia Music 對 AI VTuber Neuro-sama 翻唱其音樂的影片提出版權下架（strike）事件。此舉引發了關於 AI 內容創作版權、VTuber 圈音樂使用規範以及 Materia Music 公司政策的討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 推出限時免費虛寶：《Choices Matter Festival》",
-    "summary": "Steam 平台為《Choices Matter Festival》特賣活動提供限時免費虛寶，包含動態大頭貼、動態邊框及四款貼紙，玩家完成指定任務即可領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 多款獨立遊戲 Demo 釋出",
-    "summary": "上週（2026 年 8 月 3 日至 8 月 9 日）Steam 平台釋出了多款獨立遊戲 Demo，包括《500 FINGER FILLET Demo》（8 月 4 日）、《Beastfolk Barber Demo》（8 月 6 日）、《Tony The Mole Demo》（8 月 6 日）、《Wild n Chill Demo》（8 月 6 日）和《A Stray Line Demo》（8 月 7 日）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
