@@ -40,6 +40,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "蕭敬騰日料店租約糾紛",
+    "summary": "歌手蕭敬騰經營的日料店因租金問題與房東發生爭議。房東指控其經紀人Summer「玩兩面手法、殺價殺到見骨」，並澄清續約條件是3年約、租金未稅17.4萬，而非報導所稱的從15萬漲至23萬。房東強調23萬是對方要求1年短租的價格，並質疑對方加油添醋。蕭敬騰經紀人Summer則回應已交由雙方律師友善協商，期望儘快達成共識。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/11",
     "title": "Steam",
@@ -388,14 +396,6 @@
     "date": "2026/08/10",
     "title": "Steam 獨立遊戲Demo 釋出",
     "summary": "多款獨立遊戲Demo 於Steam 上推出，包含《One Neck Ahead》（8月11日）、《IF Enemy: SMACK!》（8月14日）等作品，供玩家限時免費試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 免費小遊戲推薦",
-    "summary": "游民星空於 2026 年 8 月 10 日推薦多款可在 Steam 免費下載遊玩的小遊戲，涵蓋像素風解壓和魔性聯機沙雕遊戲等類型。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
