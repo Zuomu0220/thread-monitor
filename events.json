@@ -24,6 +24,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "知名YouTuber蔡阿嘎擺脫炎上陰霾，生日赴日慶生花費1萬7被櫻花妹包圍超嗨",
+    "summary": "百萬YouTuber蔡阿嘎上個月迎接42歲生日，因妻子二伯的品牌「HAHABABY」捲入抄襲爭議，社群上未見大肆慶祝。不過，蔡阿嘎於8月11日上傳新片，透露生日被團隊帶到大阪「棉花糖女子俱樂部」慶生，店內女孩們準備蛋糕並唱生日快樂歌，讓他直呼「很可愛」、「完了有心動的感覺」。他表示總花費約82000日幣（約新台幣16500元），認為「這間消費其實很划算」。蔡阿嘎也自嘲是「炎上系YouTuber」並恢復頻道更新。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "YouTube頻道「眾量級」情侶檔Andy與家寧分手後頻道歸屬爭議，家寧母親、父親、胞妹獲判刑，家寧則獲判無罪",
+    "summary": "YouTube頻道「眾量級」情侶檔Andy與家寧分手後，頻道歸屬引發爭議。Andy為此提告家寧及其家人，8月11日法院判決出爐，家寧母親曾淑惠、父親張國龍、胞妹張家芸分別依業務侵占、背信、違反稅捐稽徵法及商業會計法等罪，判刑3年至2月不等。至於家寧擅改YT帳戶密碼妨礙電腦使用部分獲判無罪。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/11",
     "title": "Steam",
@@ -384,22 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/09",
-    "title": "目前無相關事件",
-    "summary": "本週（2026/08/02 至 2026/08/09）搜尋結果中，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/09",
-    "title": "《夜勤人（Moonlighter）》限時免費領取",
-    "summary": "為慶祝續作《夜勤人2：無盡寶庫》將於 9 月 2 日正式上市，初代《夜勤人》於 Steam 平台開放限時免費領取，活動時間至 8 月 9 日止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/08/05",
     "title": "Epic Games預告下週免費遊戲《漫漫長路沙巫之旅》",
@@ -422,6 +422,15 @@
     "date": "2026/08/07",
     "title": "日本占星師Love Me Do預言2026年8月將是「世界規模的轉捩點」，留意社會動盪與交通通訊",
     "summary": "知名占星師Love Me Do在其「奇蹟星象學」中預言，2026年8月13日的獅子座新月與日全食將是全球的轉捩點。他警告這前後可能出現政治上的重大變革，並需注意交通混亂、豪雨停電與通訊障礙等問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/13",
+    "expiry_date": "2026/08/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/11",
+    "title": "日本「伊勢ー白山 道」部落格發布2026年8月「行星直列」後的地震與本震預警",
+    "summary": "日本知名部落格「伊勢ー白山 道」於8月11日發布警示，指出8月12日將發生木星、水星、火星、天王星、土星、海王星的「朝之大行星直列」。文章引用「おじいちゃんの予言」指出「星が並ぶ時，その時がやってくる。それはすべての序章、始まりに過ぎない」，並預警8月13日需注意震度4級以上的前震，若發生則14日、15日需注意本震。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/13",
     "expiry_date": "2026/08/14"
@@ -4961,6 +4970,15 @@
     "date": "2026/07/11",
     "title": "匿名推特帳號預言「某科技巨頭將爆發大規模資料外洩，影響數億用戶」",
     "summary": "一個長期發布科技預言的匿名推特帳號「@FutureEchoes_2027」在本日發文警告，聲稱在不久的將來，一家全球知名的科技巨頭將經歷一次毀滅性的大規模資料外洩事件，導致數億用戶的個人隱私資訊遭到洩露。該帳號指出，這次事件將引發全球對網路安全法規的重新審視，並導致多家相關企業面臨巨額罰款和品牌信任危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/15",
+    "expiry_date": "2027/03/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/06",
+    "title": "Reddit自稱「來自2077年的旅者」警告全球糧食危機將惡化",
+    "summary": "Reddit論壇上有用戶自稱來自2077年，警告未來幾年極端氣候將導致主要農作物產量銳減，全球將面臨更嚴重的糧食危機，呼籲各國提早儲備。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/03/15",
     "expiry_date": "2027/03/16"
