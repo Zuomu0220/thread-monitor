@@ -129,6 +129,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam KINGDOM HEARTS 系列遊戲折扣",
+    "summary": "Steam 於 2026 年 8 月 12 日推出「KINGDOM HEARTS」系列遊戲折扣，提供史低三折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/11",
     "title": "Steam",
     "summary": "多款新作搶先體驗上市：",
@@ -388,14 +396,6 @@
     "date": "2026/08/10",
     "title": "《火線獵殺：未來戰士》限時免費領！全系列低至95% off",
     "summary": "為慶祝系列誕生25週年，Ubisoft 宣布《火線獵殺：未來戰士》（Tom Clancy's Ghost Recon Future Soldier）現於Ubisoft Connect 平台限時免費領取，優惠至8月13日。同時，Ubisoft 正舉行系列大型減價活動，多款遊戲及DLC折扣高達95%。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "【TGS 26】SOWN 2026 決賽晉級遊戲名單與SELECTED INDIE 80 卓越獎得獎名單公布",
-    "summary": "2026 東京電玩展（TOKYO GAME SHOW 2026）宣布「SENSE OF WONDER NIGHT 2026」決賽晉級遊戲名單與「SELECTED INDIE 80」卓越獎得獎名單。展期為2026年9月17日至9月21日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1826,6 +1826,15 @@
     "date": "2026/04/08",
     "title": "2058年未來人國分玲預言：2026年是全球轉折點與多項未來事件",
     "summary": "來自2058年的未來人國分玲表示，2026年將是日本及全球的重大轉折點。他曾精準預言東京奧運金牌數、股市暴跌、安倍首相辭職等。國分玲預言日本首都將於2058年遷至岡山縣，中國將在2030年代後半發生內亂並誕生新國家「華國」，台灣將在2040年代前半發生獨立戰爭並成功獨立。他還警告比特幣價值將飆升，但普通人屆時只能賣不能買。國分玲預計將於2026年9月26日再次歸來，提供未來十年的詳細預言.",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言 2026-2030 重大事件",
+    "summary": "自稱來自 2058 年的日本神秘人國分玲，曾預言 2026 年將是日本及全球社會結構變更的關鍵節點，並提到未來人口老齡化、負增長將成常態，養老模式將徹底告別養兒防老。他亦預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現根本性動搖。國分玲表示，他將在 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
