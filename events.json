@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games Store 限時免費：《Caravan SandWitch》",
+    "summary": "Epic Games Store 宣布將於 2026 年 8 月 13 日至 8 月 20 日期間，提供《Caravan SandWitch》供玩家免費領取，永久保存至遊戲庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games Store 免費暢玩：《原神》、《Marvel Rivals》、《明日方舟：終末地》",
+    "summary": "Epic Games Store 於 2026 年 8 月 13 日至 8 月 20 日期間，提供《原神》、《Marvel Rivals》、《明日方舟：終末地》限時免費暢玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -156,6 +172,30 @@
     "date": "2026/08/12",
     "title": "《黑神話：悟空》全平台開啟史低 7 折優惠",
     "summary": "國產動作遊戲《黑神話：悟空》於 2026 年 8 月 12 日起在 PlayStation Store、Microsoft Store、Steam、Epic Games Store、WeGame 等平台開啟為期兩週的史低 7 折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/12",
+    "title": "Niconico與YouTube收益化門檻比較",
+    "summary": "日本老牌彈幕影音網站Niconico趁YouTube提高收益化門檻之際，宣傳自身極低的收益化門檻，引發日本網友熱議，認為Niconico適合將影片上傳視為興趣、加減賺錢的創作者，但若想全職賺錢，YouTube仍是首選。此為平台層面的討論，非特定實況主或VTuber的負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam：《Reigns》十週年更新與特惠",
+    "summary": "為慶祝《Reigns》遊戲十週年，Steam 於 2026 年 8 月 12 日推出最大規模更新並提供遊戲折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam：《王國之心》系列史低特惠",
+    "summary": "Steam 平台於 2026 年 8 月 12 日推出《KINGDOM HEARTS》系列遊戲史上最低三折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -320,83 +360,43 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Epic Games Store 額外限免：《名為莫哈維的貓》、《happiness market》",
+    "summary": "Epic Games 近期推出兩款非官方限時免費遊戲：《名為莫哈維的貓》（一款獵奇超現實恐怖遊戲）及《happiness market》（商店經營模擬遊戲），玩家可免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam 活動：Buwan Ng Wika 語言敘事慶典 2026",
+    "summary": "Steam 於 2026 年 8 月 11 日舉辦「Buwan Ng Wika：語言敘事慶典」，慶祝菲律賓多元文化與語言，並表彰來自全球各地才華洋溢的開發者。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam 活動：Steamy NSFW Event",
+    "summary": "Steam 於 2026 年 8 月 11 日舉辦「Steamy NSFW Event」，主打折扣遊戲、新發行和熱門即將推出之 NSFW 內容遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/11",
+    "title": "Steam 活動：廣州獨立遊戲ONLY 3.0「宇宙美食節」",
+    "summary": "2026 年 8 月 11 日，廣州獨立遊戲ONLY 3.0活動再次舉行，並在 Steam 上推出特設活動頁面，讓無法到場的玩家也能體驗展出遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/10",
     "title": "目前無最新爭議事件",
     "summary": "在 2026/08/03 至 2026/08/10 期間，Google Search 未搜捕到台灣/華語圈實況主的顯著負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/10",
-    "title": "查無近期爭議事件",
-    "summary": "在 2026/08/03 至 2026/08/10 期間，未搜尋到台灣/華語圈實況主相關的負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "多款新遊戲Demo於Steam限時推出",
-    "summary": "本週（8月10日至8月16日）Steam 平台將推出多款新遊戲 Demo 供玩家免費體驗，其中包括《Meowmories》、《Travelling At Night》、《One Neck Ahead Demo》、《Bloomvale: Bouquets & Scents Demo》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/10",
-    "title": "蘿拉神隱近19個月後更新社群並回應欠債",
-    "summary": "曾與百萬YouTuber蔡阿嘎鬧翻的蘿拉，在神隱近19個月後首度更新社群平台，透露目前於桃園一間二手車商擔任短影音企劃。面對網友關於「欠債還錢」的酸言，她正面回應將好好面對負責。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Epic Games Store限時免費遊戲《Cat Named Mojave》",
-    "summary": "第一人稱心理恐怖遊戲《Cat Named Mojave》在Epic Games Store展開限時免費活動，至8月15日上午11點截止。該作在Steam獲得極度好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 平台 8 月新品 Demo 推薦",
-    "summary": "GameGrin 推薦 8 月 10 日至 16 日期間 Steam 平台上值得關注的 9 款 Demo，包括冒險獨立遊戲《One Neck Ahead Demo》、RPG 策略遊戲《IF Enemy: SMACK! Demo》以及劇情豐富的 RPG《Travelling At Night》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "SQUARE ENIX 夏日優惠活動",
-    "summary": "Steam 平台上的 SQUARE ENIX 部分遊戲如《FINAL FANTASY TACTICS - The Ivalice Chronicles Deluxe Edition》和《歧路旅人》系列正進行折扣優惠，部分優惠活動將於 8 月 11 日或 8 月 12 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Epic喜加一：《莫哈維之貓》限時免費",
-    "summary": "Epic Games Store 正在限時免費發送第一人稱超現實恐怖遊戲《莫哈維之貓》（Cat Named Mojave）。玩家可在台灣時間 8 月 15 日上午 11 點前領取並永久入庫。這款遊戲以荒涼的沙漠為背景，玩家需接受詭異貓人的要求，獵殺奇特生物以求生存。該遊戲曾於 Steam 獲得「極度好評」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Steam 免費 Demo：《Vholume》跑酷神作精神續作開放試玩",
-    "summary": "《Vholume》是一款受《鏡之邊緣》啟發的第一人稱跑酷遊戲，將於 8 月 21 日登陸 Steam 平台。目前遊戲的免費試玩版已開放，包含 4 個關卡，讓玩家熟悉其高速移動和慣性系統。遊戲專注於跑酷挑戰，取消了戰鬥系統，並降低了第一人稱跑酷時的鏡頭晃動以減少眩暈感，同時也加入多人模式。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/10",
-    "title": "Epic Games特價：2026 遊戲優惠活動",
-    "summary": "Epic Games Store 的「優惠特賣」活動於 2026 年 8 月 6 日至 8 月 20 日舉行，多款遊戲提供高達 90% 或以上的折扣，包括《火線獵殺：野境》、《計程車人生：城市駕駛模擬器》、《極速快感：全民公敵》、《SimCity 3000 Unlimited》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
