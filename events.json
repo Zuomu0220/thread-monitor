@@ -113,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games Store 宣布自 2026 年 8 月 13 日至 8 月 20 日，限時免費領取敘事探索冒險遊戲《Caravan SandWitch》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -389,14 +397,6 @@
     "title": "Steam 恐怖探索遊戲《No Visitors Allowed Demo》釋出",
     "summary": "由Second Guess開發與發行的心理恐怖遊戲《No Visitors Allowed Demo》於2026年8月11日在Steam平台釋出試玩版。該遊戲靈感來自《Exit 8》，玩家需透過偵測異常來逃離一個循環的廢棄醫院走廊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/11",
-    "title": "台V企業勢Limnos營運「煙猴」私開粉絲禮物引發爭議",
-    "summary": "VTuber經紀公司Limnos的營運人員「煙猴」在個人直播中開箱粉絲贈送給旗下藝人的禮物，引發粉絲不滿。事件延燒後，「煙猴」已離開團隊。網友進一步挖掘發現Limnos過去曾有粉絲資料表單洩露、合作及營運相關爭議，不少人對此事件表示「又是Limnos」。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k68F35gL91M2m67yE9c2i5l7oR6k51r2K8i2b3=s900-c-k-c0x00ffffff-no-rj",
     "days_left": 4
   },
   {
@@ -2443,14 +2443,6 @@
     "date": "2026/02/08",
     "title": "Threads「未來人」預言 2026 年文明轉折點",
     "summary": "一位自稱來自其他時間線的「未來人」在 Threads 上發文，預言 2026 年是人類文明的關鍵轉折點，並列出多項預言，包括烏克蘭與俄羅斯將在 2026 年 2 月完成初步停火協議、因 AI 引發一起嚴重的國際事故，以及美、歐地區會有嚴重的大型野火導致人口大量流失與外移。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/04/22",
-    "title": "盲眼龍婆 2026 年預言",
-    "summary": "保加利亞預言家盲眼龍婆（Baba Vanga）的 2026 年最新預言內容曝光，其中包括金融危機以及第三次世界大戰的發生，並警告地球將會失控。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31"
   },
