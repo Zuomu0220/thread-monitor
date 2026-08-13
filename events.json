@@ -121,6 +121,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "Epic Games Store 於 8 月 13 日至 8 月 20 日提供《Caravan SandWitch》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -388,14 +396,6 @@
     "date": "2026/08/11",
     "title": "Epic Games 限免遊戲：《名為莫哈維的貓》與《happiness market》開放領取",
     "summary": "Epic Games 於2026年8月11日推出兩款限時免費遊戲：《名為莫哈維的貓》（Cat Named Mojave）及《happiness market》。《名為莫哈維的貓》是一款獵奇超現實恐怖遊戲，而《happiness market》則是一款2D像素風格的商店經營模擬小品。兩款遊戲領取時間皆至2026年8月15日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "Steam 恐怖探索遊戲《No Visitors Allowed Demo》釋出",
-    "summary": "由Second Guess開發與發行的心理恐怖遊戲《No Visitors Allowed Demo》於2026年8月11日在Steam平台釋出試玩版。該遊戲靈感來自《Exit 8》，玩家需透過偵測異常來逃離一個循環的廢棄醫院走廊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1880,6 +1880,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言：2026年9月再次歸來與2028年金融危機",
     "summary": "自稱來自2058年的國分玲，其預言的準確率令人震驚，被認為是最像穿越者的人。她預言將於 2026 年 9 月 26 日再次現身網路，回答大家想知道的事情。此外，她也預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言",
+    "summary": "自稱來自 2058 年的國分玲曾預言 2026 年將是日本及全球的重大轉折點，並表示將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -4782,6 +4791,24 @@
     "date": "2026/05/24",
     "title": "2058年未來人國分玲預警：2026年底新型傳染病肆虐全球",
     "summary": "根據對 2058 年未來人國分玲預言的檢視，其警告 2026 年底將有全新的傳染病肆虐全球，該疾病會嚴重損傷人體免疫系統，其影響和傳播速度令人擔憂。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆 2026 年預言應驗兩項",
+    "summary": "有報導指出，已故保加利亞預言家「盲眼龍婆」巴巴．萬加（Baba Vanga）對 2026 年的五大預言中，已有兩項被支持者認定應驗，包括「全球災害增加」與「人工智慧快速發展」。另外三項未應驗的預言為「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯領導人出現重大更替」，其中「第三次世界大戰」被部分解讀為可能牽涉台海。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "2048 年香港未來人預言",
+    "summary": "一名自稱「來自 2048 年的香港人」在 Threads 平台發布預言，稱 2026 年香港將有水災、傳染病，社群媒體將充斥震撼新聞，並預測這兩年將開始有「外星接觸」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
