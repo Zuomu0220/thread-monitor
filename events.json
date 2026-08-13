@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Epic Games Store 免費遊戲《Caravan SandWitch》即將開放",
+    "summary": "Epic Games Store 宣布下一款免費遊戲為《Caravan SandWitch》，將於 2026 年 8 月 13 日至 8 月 20 日開放領取，這是一款引人入勝的敘事驅動探索冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/11",
     "title": "Steam",
     "summary": "多款新作搶先體驗上市：",
@@ -390,14 +398,6 @@
     "summary": "2026 年 8 月 11 日，廣州獨立遊戲ONLY 3.0活動再次舉行，並在 Steam 上推出特設活動頁面，讓無法到場的玩家也能體驗展出遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/10",
-    "title": "目前無最新爭議事件",
-    "summary": "在 2026/08/03 至 2026/08/10 期間，Google Search 未搜捕到台灣/華語圈實況主的顯著負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -1862,6 +1862,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預告2026年9月再次現身",
     "summary": "自稱來自2058年的日本神祕人物國分玲，因過去成功預言多項事件而備受關注，他曾表示將於2026年9月26日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的未來人國分玲將於2026/09/26再次現身",
+    "summary": "自稱來自2058年的神秘人物國分玲，預言2026至2030年將發生多項重大事件。他曾表示將於2026年9月26日再次現身，回答眾人疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
