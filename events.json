@@ -209,6 +209,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam「戀愛遊戲節 2026」正式開幕",
+    "summary": "由 LoveStoryProject 主辦的第一屆「戀愛遊戲節 2026」於 2026 年 8 月 12 日在 Steam 平台正式開幕。此活動匯集了優秀的中文戀愛遊戲、全年齡戀愛題材作品、劇情豐富的動漫風格遊戲與美少女主題作品，旨在讓玩家輕鬆瀏覽各具特色的作品、掌握最新資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/12",
+    "title": "Steam 《KINGDOM HEARTS》系列史低三折優惠",
+    "summary": "Steam 平台於 2026 年 8 月 12 日推出《KINGDOM HEARTS》系列遊戲的史低三折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/11",
     "title": "Steam",
     "summary": "多款新作搶先體驗上市：",
@@ -380,22 +396,6 @@
     "date": "2026/08/11",
     "title": "Steam 活動：Buwan Ng Wika 語言敘事慶典 2026",
     "summary": "Steam 於 2026 年 8 月 11 日舉辦「Buwan Ng Wika：語言敘事慶典」，慶祝菲律賓多元文化與語言，並表彰來自全球各地才華洋溢的開發者。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "Steam 活動：Steamy NSFW Event",
-    "summary": "Steam 於 2026 年 8 月 11 日舉辦「Steamy NSFW Event」，主打折扣遊戲、新發行和熱門即將推出之 NSFW 內容遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "Steam 活動：廣州獨立遊戲ONLY 3.0「宇宙美食節」",
-    "summary": "2026 年 8 月 11 日，廣州獨立遊戲ONLY 3.0活動再次舉行，並在 Steam 上推出特設活動頁面，讓無法到場的玩家也能體驗展出遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1871,6 +1871,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的未來人國分玲將於2026/09/26再次現身",
     "summary": "自稱來自2058年的神秘人物國分玲，預言2026至2030年將發生多項重大事件。他曾表示將於2026年9月26日再次現身，回答眾人疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的國分玲預言 2026 年為日本及全球重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲曾預言 2026 年是日本及全球的重大轉折點，可能涉及自然災害或社會動蕩。他指出一個東方國家將在 2026 年正式成為世界主宰，並持續到 2058 年。國分玲也曾表示，他將在 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
