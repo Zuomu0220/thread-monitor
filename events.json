@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 限時免費",
+    "summary": "Steam 商店限時免費領取遊戲《Bunny Guys!》和《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -389,14 +397,6 @@
     "title": "Epic Games Store 行動版限免：《The Wreck》",
     "summary": "本週 Epic Games Store 行動版提供免費領取《The Wreck》，玩家可協助主角 Junon 面對人生難題。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/11",
-    "title": "無相關事件",
-    "summary": "本週（2026/08/04 至 2026/08/11）華語圈內未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
