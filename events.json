@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Epic Games Store 免費遊戲《Cat Named Mojave》今日截止",
+    "summary": "遊戲《Cat Named Mojave》於 2026 年 8 月 14 日在 Epic Games Store 的免費領取活動今日截止，感興趣的玩家需把握最後機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -132,6 +140,14 @@
     "date": "2026/08/13",
     "title": "Epic Games 限時免費：《Caravan SandWitch》",
     "summary": "Epic Games 商店於 2026 年 8 月 13 日至 8 月 20 日期間提供科幻冒險敘事遊戲《Caravan SandWitch》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games Store 限時免費遊戲《Caravan SandWitch》開放領取",
+    "summary": "Epic Games Store 宣布，敘事導向的探索冒險遊戲《Caravan SandWitch》於 2026 年 8 月 13 日至 8 月 20 日期間開放所有玩家限時免費領取，領取後可永久收藏。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/08/11",
     "title": "Epic Games 限時免費遊戲：領取《名為莫哈維的貓》及《happiness market》",
     "summary": "Epic Games Store 推出兩款限時免費遊戲供玩家領取，分別是獵奇超現實恐怖遊戲《名為莫哈維的貓》（Cat Named Mojave）以及商店經營模擬遊戲《happiness market》。兩款遊戲領取時間至2026年8月15日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "心理恐怖戀愛ADV《殘損失愛》全語音體驗版重啟：與「斷肢狂」的窒息寵愛",
-    "summary": "獨立遊戲《殘損失愛》限時重啟全語音體驗版至2026年8月20日。這款心理恐怖戀愛冒險遊戲以獨特的設定引發討論，玩家將扮演失去四肢的主角，在被「斷肢狂」監禁與照顧的密室中，偽裝成戀人以求生存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "Epic Games 限時免費：《名為莫哈維的貓》與《happiness market》",
-    "summary": "Epic Games Store 於近日推出兩款限時免費遊戲，分別是獵奇超現實恐怖遊戲《名為莫哈維的貓》（Cat Named Mojave）及商店經營模擬小品《happiness market》，領取時間至2026年8月15日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1898,6 +1898,15 @@
     "date": "2026/08/14",
     "title": "國分玲預告將於2026年9月26日再次歸來",
     "summary": "日本未來人國分玲曾表示，他將在2026年9月26日再次現身，回答大眾想知道的問題。此一預告在網路社群中因其臨近日期而再次引起關注與討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "來自2058年的國分玲預告2026年9月26日再次歸來",
+    "summary": "曾在2019年預測多項重大事件並精準命中的國分玲，於2021年9月26日留下「我會在2026年9月26日回來」的訊息後消失。其帳號於2026年2月24日曾有17秒登入痕跡，全球社群正倒數他的歸來，期待他揭露未來十年的所有答案。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -5331,15 +5340,6 @@
     "date": "2026/07/05",
     "title": "自稱2118年時空旅人Alexander Smith預言商業時空旅行將於2028年實現，並爆發世界大戰",
     "summary": "一位自稱來自2118年的時空旅人Alexander Smith透過YouTube平台Apex TV發表驚人預測。他聲稱，商業時空旅行將在2028年成為現實，美國政府也將在同年證實外星智慧生命的存在。此外，他預測未來將爆發第三次世界大戰，起初是美國與北韓的利益衝突，隨後俄羅斯加入北韓一方，導致局勢升級並發射飛彈，但最終會使世界團結。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2028/01/01",
-    "expiry_date": "2028/01/02"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/05/19",
-    "title": "來自2058年的國分玲預言2028年全球金融危機",
-    "summary": "來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，導火線為美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/01/01",
     "expiry_date": "2028/01/02"
