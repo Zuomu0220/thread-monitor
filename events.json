@@ -161,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam限時免費《Deponia》",
+    "summary": "Steam於2026年8月14日起提供冒險遊戲《Deponia》限時免費領取，活動將持續至8月21日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -388,14 +396,6 @@
     "date": "2026/08/13",
     "title": "Epic Games 限時免費遊戲《Caravan SandWitch》",
     "summary": "Epic Games Store 於 8 月 13 日至 8 月 20 日期間，提供休閒旅行探險遊戲《Caravan SandWitch》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games 預告下週免費遊戲《Cardpocalypse》",
-    "summary": "Epic Games Store 預告將於 8 月 20 日至 8 月 27 日提供遊戲《Cardpocalypse》免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1895,6 +1895,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告將於2026年9月再次現身並發布警告",
+    "summary": "自稱來自2058年的日本未來人「國分玲」，因其過去多次精準預言而受到關注。據稱，他將於2026年9月26日再次回到網路，回答大眾問題，並已預言2026年將是日本及全球的重大轉折點。他還曾預言2028年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -2427,6 +2436,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆巴巴萬加2026年預言：天災、AI取代人類、外星人造訪及世界大戰",
     "summary": "已故預言家「盲眼龍婆」巴巴萬加的追隨者認為，她的2026年預言中，全球重大天災和AI取代人類工作已應驗。剩下的預言包括巨型外星太空船抵達地球、第三次世界大戰爆發，以及俄羅斯領導人普丁失去政權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/30",
+    "expiry_date": "2026/12/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/11",
+    "title": "盲眼龍婆預言2026年外星人將抵達地球",
+    "summary": "盲眼龍婆預測，2026年11月人類將首次與外星智慧生命接觸，一艘大型太空船將進入地球大氣層，並可能與地球上未知的文明建立聯繫。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/30",
     "expiry_date": "2026/12/01"
@@ -4914,6 +4932,33 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "未來人國分玲警告2026年底將有全新傳染病肆虐全球",
+    "summary": "來自2058年的未來人國分玲發出最新預言警告，指出2026年底將有一種全新的傳染病在全球範圍內肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆巴巴萬加對2026年的三大未實現預言再次引發討論",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加針對2026年的預言中，追隨者認為「全球重大天災」與「AI取代人類工作」已應驗，但仍有三項更驚人的預言尚未發生：巨型外星太空船抵達地球、第三次世界大戰爆發，以及俄羅斯領導人將於2026年底前出現重大更替。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/02",
+    "title": "泰國神算Plai師傅預言2026下半年全球面臨毀滅性戰爭與網絡崩潰",
+    "summary": "泰國神算Plai師傅預言2026年下半年將面臨多項危機。她指出年中將爆發一場非中東地區的毀滅性戰爭，戰火將蔓延至公海，水底爆炸巨響預示戰爭開始。此外，她預言將出現世紀級駭客襲擊，導致全球網絡全面癱瘓，所有虛擬資產價值將暴跌至歸零。同時，新型混合病毒可能透過水源傳播，帶來比猴痘更恐怖的災情，並預言極端旱災與水災將並存。Plai師傅也多次強調外星人很快會現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -5589,6 +5634,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "自稱來自2045年的時空旅行者Archon預言2028年將發生重大事件",
+    "summary": "一位自稱來自2045年的時空旅行者Adam Archon預言，時間旅行技術將於2028年對大眾開放。他還聲稱，外星人將於2028年8月登陸地球，結束數十年來的「全球政府秘密」，並且植入式微晶片「The One」將於2029年2月開始在人們的右手中推廣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/08/31",
+    "expiry_date": "2028/09/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "國分玲洩漏預言草案：2028年11月黃石超級火山地質異動",
     "summary": "據稱是國分玲帳號洩漏的預言草案指出，2028 年 11 月美國黃石超級火山將出現大規模地質異動，地面每年抬升達 22 厘米，預計在 2030 年 3 月噴發機率為 78%。",
@@ -5628,6 +5682,15 @@
     "date": "2026/06/24",
     "title": "時空旅人展示X光片預言2028年UFO登陸地球",
     "summary": "一段於近期流傳的影片中，一名自稱來自2030年的時空旅人展示了一張X光片作為時間穿梭的證據，並警告2028年將有UFO（不明飛行物）登陸地球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/12/31",
+    "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/02",
+    "title": "自稱來自2118年的時空旅行者Alexander Smith預言2028年實現商業時空旅行與外星人接觸",
+    "summary": "一位自稱來自2118年的時空旅行者Alexander Smith聲稱，商業時空旅行將在2028年成為可能。他還預言美國政府將在2028年證實外星智慧生命的存在。此外，他警告在下個世紀將爆發第三次世界大戰，涉及美國、北韓和俄羅斯。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/12/31",
     "expiry_date": "2029/01/01"
