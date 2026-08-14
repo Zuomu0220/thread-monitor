@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games",
+    "summary": "限時免費：《Caravan SandWitch》：Epic Games Store 於 8 月 13 日至 8 月 20 日期間，開放限時免費領取科幻冒險解謎遊戲《Caravan SandWitch》。這款遊戲主打無戰鬥、無死亡、無時間限制的探索體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -388,14 +396,6 @@
     "date": "2026/08/11",
     "title": "Steam新作《恐龍小當家》正式上市並享七五折優惠",
     "summary": "《恐龍小當家》（Dinotica）於2026年8月12日正式在Steam平台推出。這是一款融合Roguelike戰鬥與沙盒家園建設的種田養龍遊戲，支援多人合作。為慶祝上市，遊戲將於首發兩週推出75折限時優惠，原價$17.99，現售$13.49。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/11",
-    "title": "《全境封鎖：曙光》PC版登陸Steam引玩家負評",
-    "summary": "Ubisoft旗下免費手機遊戲《全境封鎖：曙光》（The Division Resurgence）於2026年8月5日正式登陸PC版Steam，卻因遊戲內微交易系統引發大量玩家批評，導致評價不佳。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -4827,6 +4827,15 @@
     "date": "2026/05/18",
     "title": "2048 年香港未來人預言",
     "summary": "一名自稱「來自 2048 年的香港人」在 Threads 平台發布預言，稱 2026 年香港將有水災、傳染病，社群媒體將充斥震撼新聞，並預測這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆巴巴萬加 2026 年預言更新",
+    "summary": "已故保加利亞預言家巴巴萬加的追隨者表示，其 2026 年的五項預言中，已有兩項被認定應驗：「全球爆發嚴重天災」與「人工智慧逐漸取代人類工作」。另外三項尚未應驗的預言包括「巨型外星太空船抵達地球」（預計可能在 2026 年 11 月）、全球「第三次世界大戰」爆發（與台海局勢相關），以及俄羅斯總統普丁將在 2026 年底前失去政權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
