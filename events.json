@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/08/15",
+    "title": "無相關事件",
+    "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/14",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026 年 8 月 7 日至 8 月 14 日期間，未搜尋到台灣/華語圈實況主或 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
@@ -116,6 +124,22 @@
     "date": "2026/08/14",
     "title": "Steam限時免費領取經典冒險點擊遊戲《德波尼亞》",
     "summary": "經典冒險點擊遊戲《德波尼亞》（Deponia）目前可在Steam免費領取，活動截止至8月21日凌晨1點。遊戲自帶簡體中文，Steam評價為「特別好評」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam限時免費：《Deponia》",
+    "summary": "Steam 平台開放經典手繪點擊冒險遊戲《Deponia》限時免費領取，活動至 8 月 21 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Epic Games Store 限時免費：《Beholder: Conductor》",
+    "summary": "Epic Games Store 推出反烏托邦解謎遊戲《Beholder: Conductor》限時免費領取，活動至 8 月 20 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -329,6 +353,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games Store 限時免費：《Targeted – 10 Days》",
+    "summary": "Epic Games Store 開放《Targeted – 10 Days》限時免費領取，活動至 8 月 31 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/12",
     "title": "Steam 新遊戲發售",
     "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
@@ -365,38 +397,6 @@
     "title": "蕭敬騰日料店租約糾紛",
     "summary": "歌手蕭敬騰經營的日料店因租金問題與房東發生爭議。房東指控其經紀人Summer「玩兩面手法、殺價殺到見骨」，並澄清續約條件是3年約、租金未稅17.4萬，而非報導所稱的從15萬漲至23萬。房東強調23萬是對方要求1年短租的價格，並質疑對方加油添醋。蕭敬騰經紀人Summer則回應已交由雙方律師友善協商，期望儘快達成共識。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "台灣YouTuber馬來西亞遇假警搶劫案：價值3.5萬令吉財物被劫，12嫌犯落網",
-    "summary": "一名台灣YouTuber在馬來西亞吉隆坡的住處遭假冒警察的犯罪集團闖入毆打並搶劫，損失約3.5萬令吉（約新台幣25.5萬元）的外幣現金。當地警方已逮捕12名嫌犯，正追緝一名在逃主嫌。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "實況主詹姆士捲入空殼公司爭議：認罪道歉並強調坦然面對司法",
-    "summary": "知名型男主廚兼實況主詹姆士（本名鄭堅克）因被控假驗資成立空殼公司，於2016年借款200萬元充當資本額後旋即匯出還債，遭檢方依違反《公司法》起訴。詹姆士的經紀人已發布612字聲明坦承公司設立程序「處理不夠嚴謹」，並向社會大眾致歉，表示會坦然面對司法調查。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/12",
-    "title": "反校園霸凌互動影遊《惡校遊戲》定檔8月14日發售：試玩Demo已開放",
-    "summary": "由CineGame Interactive開發的反校園霸凌題材真人互動影遊《惡校遊戲》定於2026年8月14日上午11:00正式發售。遊戲試玩Demo已開放，玩家可提前體驗並將遊戲加入願望單。遊戲劇情圍繞一場跨越8年的校園霸凌事件展開。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "蔡阿嘎擺脫炎上陰霾，赴日慶生花費鉅資遭批",
-    "summary": "百萬YouTuber蔡阿嘎在經歷妻子品牌抄襲爭議與「AI繪師」事件後的停更近一個月，於2026/08/12發布新片，記錄前往大阪「棉花糖女子俱樂部」慶祝42歲生日的過程，花費約新台幣16,500元。儘管他自嘲是「炎上系YouTuber」並表示活動很划算，但網友仍對他未直接回應爭議的態度持兩極看法，部分網友批評他「裝死不面對」。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
