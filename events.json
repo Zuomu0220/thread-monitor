@@ -145,6 +145,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 限時免費遊戲《Deponia》",
+    "summary": "Steam 平台再次提供極度好評的點擊冒險遊戲《Deponia》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 免費遊戲《Electoral Carnage》",
+    "summary": "Steam 平台在 2026 年 8 月提供結合誇張動作與政治諷刺的遊戲《Electoral Carnage》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -361,43 +377,27 @@
   },
   {
     "category": "GAME",
-    "date": "2026/08/12",
-    "title": "Steam 新遊戲發售",
-    "summary": "《Agefield High: Rock the School》、《Security 51》等多款遊戲上市：Steam 於 2026 年 8 月 12 日有多款新遊戲發售，包括《Agefield High: Rock the School》和《Security 51》。",
+    "date": "2026/08/13",
+    "title": "Humble Bundle 遊戲同捆包",
+    "summary": "Humble Bundle 推出多個遊戲同捆包，包含「Handsome Husbandos Bundle」(7 款遊戲，18.9 美金) 和「Indie's Support for Venezuela Bundle」(12 款遊戲，15.75 美金)。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "GAME",
-    "date": "2026/08/12",
-    "title": "Steam 8 月免費領取遊戲預告：Moonlighter, Deponia, Electoral Carnage",
-    "summary": "Steam 預計於 2026 年 8 月釋出多款可永久保留的免費遊戲，包含《Moonlighter》與《Deponia》等作品，其中《Electoral Carnage》已被列為 8 月免費遊戲之一。",
+    "date": "2026/08/13",
+    "title": "Epic Games 限時免費遊戲《Caravan SandWitch》",
+    "summary": "Epic Games Store 於 8 月 13 日至 8 月 20 日期間，提供休閒旅行探險遊戲《Caravan SandWitch》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "知名YouTuber蔡阿嘎擺脫炎上陰霾，生日赴日慶生花費1萬7被櫻花妹包圍超嗨",
-    "summary": "百萬YouTuber蔡阿嘎上個月迎接42歲生日，因妻子二伯的品牌「HAHABABY」捲入抄襲爭議，社群上未見大肆慶祝。不過，蔡阿嘎於8月11日上傳新片，透露生日被團隊帶到大阪「棉花糖女子俱樂部」慶生，店內女孩們準備蛋糕並唱生日快樂歌，讓他直呼「很可愛」、「完了有心動的感覺」。他表示總花費約82000日幣（約新台幣16500元），認為「這間消費其實很划算」。蔡阿嘎也自嘲是「炎上系YouTuber」並恢復頻道更新。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "YouTube頻道「眾量級」情侶檔Andy與家寧分手後頻道歸屬爭議，家寧母親、父親、胞妹獲判刑，家寧則獲判無罪",
-    "summary": "YouTube頻道「眾量級」情侶檔Andy與家寧分手後，頻道歸屬引發爭議。Andy為此提告家寧及其家人，8月11日法院判決出爐，家寧母親曾淑惠、父親張國龍、胞妹張家芸分別依業務侵占、背信、違反稅捐稽徵法及商業會計法等罪，判刑3年至2月不等。至於家寧擅改YT帳戶密碼妨礙電腦使用部分獲判無罪。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/12",
-    "title": "蕭敬騰日料店租約糾紛",
-    "summary": "歌手蕭敬騰經營的日料店因租金問題與房東發生爭議。房東指控其經紀人Summer「玩兩面手法、殺價殺到見骨」，並澄清續約條件是3年約、租金未稅17.4萬，而非報導所稱的從15萬漲至23萬。房東強調23萬是對方要求1年短租的價格，並質疑對方加油添醋。蕭敬騰經紀人Summer則回應已交由雙方律師友善協商，期望儘快達成共識。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "category": "GAME",
+    "date": "2026/08/13",
+    "title": "Epic Games 預告下週免費遊戲《Cardpocalypse》",
+    "summary": "Epic Games Store 預告將於 8 月 20 日至 8 月 27 日提供遊戲《Cardpocalypse》免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
@@ -2386,6 +2386,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/04",
+    "title": "YouTube「時空旅人」預測 2026 年事件",
+    "summary": "一名 YouTube 上的「時空旅人」預測了 2026 年的多項事件，包括：《俠盜獵車手 6》將於 2026 年 11 月 19 日發售，並將不負眾望；EDP 將重返 Kick 平台進行內容創作；將會出現大量小眾的「腦力退化迷因」；人工智慧將在 2025 年的基礎上進一步進化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/19",
+    "expiry_date": "2026/11/20"
   },
   {
     "category": "PROPHECY",
@@ -4890,6 +4899,15 @@
     "date": "2026/06/02",
     "title": "泰國神算Plai師傅2026年六大預言",
     "summary": "泰國神算Plai師傅預言2026年下半年全球將面臨網絡大癱瘓、虛擬資產歸零（實體黃金最保值）、年中爆發毀滅性戰爭（戰場不在中東，水底傳出爆炸巨響為開端）、水源傳播混合型病毒、旱災水災極端並存，以及外星人將現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預言 2026 年加密貨幣價格",
+    "summary": "一名在 2025 年準確預測比特幣高點的 4chan 匿名用戶 (SBC7HL) 預測，比特幣將在 2026 年底達到 250,000 美元，以太坊將達到 20,000 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
