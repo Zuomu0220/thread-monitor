@@ -225,6 +225,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Epic 限時免費遊戲領取（2026）",
+    "summary": "Epic Games Store 每天更新限時免費或折扣遊戲，提醒玩家在活動期間內下載或購買，錯過即需等待下次機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 限時免費遊戲領取（2026）",
+    "summary": "Steam 每日限時免費或折扣遊戲會更新，建議玩家抓緊時間在活動期間下載或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -380,22 +396,6 @@
     "date": "2026/08/13",
     "title": "Steam 遊戲特價：《Low-Budget Repairs》折扣",
     "summary": "《Low-Budget Repairs》在 Steam 上享有 25% 的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/13",
-    "title": "台灣VTuber圈爭議",
-    "summary": "峰哥爆料兩大VTuber吵架：實況主峰哥在社群暗示兩位台灣知名VTuber發生激烈爭執，並有網友指稱爭議涉及「阿狗包圍網」及「煙花耍大牌」等職場人際糾紛。峰哥曾為此發布會員限定影片，引起社群廣泛討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games限時免費",
-    "summary": "《Caravan SandWitch》：Epic Games Store限時免費領取解謎冒險遊戲《Caravan SandWitch》，活動至8月20日止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1922,6 +1922,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2026-2030 重大事件：將於 2026/09/26 再次歸來",
+    "summary": "自稱來自 2058 年的「未來人」國分玲曾因多次精準預言而受到關注，他預測 2028 年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。國分玲表示他將在 2026 年 9 月 26 日再次現身回答問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -2446,6 +2455,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特預言：2026年11月13日世界末日",
     "summary": "物理學家馮．佛斯特 (Heinz von Foerster) 早在 1960 年即預測，世界將於 2026 年 11 月 13 日因人口過度擁擠而走向終結。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預測 2026 年 11 月 13 日人類恐因人口過剩而滅絕",
+    "summary": "物理學家佛斯特（Heinz von Foerster）在 1960 年發表論文，預測人類文明可能在 2026 年 11 月 13 日因人口過剩而被「擠死」，而非糧食短缺。他曾提出「人口恆定器」的爭議性解決方案以控制人口。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
