@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam 限時免費：《德波尼亞》(Deponia)",
+    "summary": "Daedalic Entertainment 宣布，旗下點擊式冒險遊戲《德波尼亞》（Deponia）在 Steam 平台開啟限時免費領取活動，活動至 2026 年 8 月 21 日凌晨 1 點截止。這款原價 59 元的遊戲，只要在期間內領取即可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/14",
     "title": "無最新負面與爭議事件",
@@ -241,6 +249,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Epic Games Store 限時免費：Caravan SandWitch 等多款遊戲",
+    "summary": "Epic Games Store 於 2026 年 8 月 13 日起提供《漫漫長路沙巫之旅》（Caravan SandWitch）限時免費領取，截止時間為 8 月 20 日 23 點。 此外，還有《被鎖定的 10 天》（優惠期限至 8 月 31 日）、《Cat Named Mojave》（優惠期限至 8 月 15 日）和《Happiness Market》（優惠期限至 8 月 15 日）等多款遊戲限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -380,22 +396,6 @@
     "date": "2026/08/13",
     "title": "蔡阿嘎舊片再遭炎上，嘲諷LV與草間彌生被批",
     "summary": "繼品牌抄襲風波後，蔡阿嘎去年赴日旅遊的舊影片被網友翻出，因其對LV與草間彌生聯名藝術裝置比倒讚，並開玩笑稱LV抄襲、調侃藝術家為董至成等言論，再次遭到輿論抨擊，認為其不尊重國際藝術家。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games 免費遊戲：《Targeted - 10 Days》限時領取",
-    "summary": "獨立開發團隊 Glitchy Frame Studio 的異常探索遊戲《Targeted - 10 Days》已在 Epic 遊戲商城開啟限時免費領取活動，將持續至 8 月 31 日 23 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Steam 遊戲特價：《Low-Budget Repairs》折扣",
-    "summary": "《Low-Budget Repairs》在 Steam 上享有 25% 的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1925,6 +1925,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言 2026-2030 重大事件：將於 2026/09/26 再次歸來",
     "summary": "自稱來自 2058 年的「未來人」國分玲曾因多次精準預言而受到關注，他預測 2028 年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。國分玲表示他將在 2026 年 9 月 26 日再次現身回答問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲的金融危機預言",
+    "summary": "自稱來自 2058 年的未來人國分玲曾預言，2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。 國分玲表示她將於 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -5160,6 +5169,15 @@
     "date": "2026/01/10",
     "title": "希露弟弟啃雞腿：六個與台灣相關的末日預言",
     "summary": "YouTube 頻道「希露弟弟啃雞腿」發布影片，討論了六個與台灣有關的 2026 年末日預言。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 未來人國分玲最新預言：2026 年底全新傳染病肆虐",
+    "summary": "有網路影片指出，2058 未來人國分玲預言將於 2026 年底有全新傳染病肆虐全球。 該預言同時提及俄烏停火時間已定。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
