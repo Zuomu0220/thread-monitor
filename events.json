@@ -176,6 +176,14 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/14",
+    "title": "83歲VTuber淺井國子分享二戰滿洲回憶",
+    "summary": "一位83歲的日本虛擬YouTuber淺井國子（Kuniko Asai），在頻道「滿洲婆婆」（Manshu bachan）上分享她和其他人在二戰期間於滿洲的經歷。她希望能將這些逐漸褪色的戰爭記憶傳承給下一代。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
@@ -388,14 +396,6 @@
     "date": "2026/08/13",
     "title": "Epic Games Store 限時免費：《Targeted – 10 Days》",
     "summary": "Epic Games Store 開放《Targeted – 10 Days》限時免費領取，活動至 8 月 31 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Humble Bundle 遊戲同捆包",
-    "summary": "Humble Bundle 推出多個遊戲同捆包，包含「Handsome Husbandos Bundle」(7 款遊戲，18.9 美金) 和「Indie's Support for Venezuela Bundle」(12 款遊戲，15.75 美金)。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -4986,6 +4986,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆2026年預言：外星太空船現身、第三次世界大戰、普丁政權更替",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加的追隨者認為，她的2026年五項預言中，「全球重大天災」與「AI取代人類工作」已應驗。剩下三項未實現的預言包含「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯總統普丁在2026年底前失去政權」。其中世界大戰預言甚至被聯想到台海局勢。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -5376,6 +5385,15 @@
     "date": "2026/08/14",
     "title": "地球物理學家警告加州超級強震將至",
     "summary": "地球物理學家伯恩斯在成功預測哥倫比亞 7.4 級地震後，再次警告美國西海岸，特別是加州，極可能在未來六個月到一年內迎來一場毀滅性的超級大地震。他指出，強震能量正向北傳導，加州聖安德烈斯斷層地應力已嚴重超載。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/08/14",
+    "expiry_date": "2027/08/15"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "地球物理專家伯恩斯預言加州未來一年將面臨毀滅性地震威脅",
+    "summary": "曾精準預警哥倫比亞7.5級強震的地球物理專家Stefan Burns警告，加州未來一年內可能面臨毀滅性地震威脅，點名聖安德烈亞斯斷層最致命。他指出，若加州北方卡斯卡迪亞隱沒帶觸發8級以上強震，海嘯恐衝擊亞洲，包括台灣和日本。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/08/14",
     "expiry_date": "2027/08/15"
