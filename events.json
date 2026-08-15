@@ -24,6 +24,38 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam 限時免費：《Project First Contact》",
+    "summary": "Steam 平台推出限時免費領取《Project First Contact》，活動至 2026 年 8 月 17 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam 限時免費：《Arena of Trophies》",
+    "summary": "Steam 平台推出限時免費領取《Arena of Trophies》，活動至 2026 年 10 月 22 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam 限時免費：《Tell Me Why》",
+    "summary": "Steam 平台目前可限時免費領取遊戲《Tell Me Why》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam 限時免費：《Dwarven Realms》、《Blacklist Mafia》、《Whiskey.Mafia. Leo\\'s Family》",
+    "summary": "Steam 平台目前可限時免費領取遊戲《Dwarven Realms》、《Blacklist Mafia》和《Whiskey.Mafia. Leo\\'s Family》，數量有限，送完為止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/14",
     "title": "無最新負面與爭議事件",
@@ -364,38 +396,6 @@
     "date": "2026/08/13",
     "title": "Epic Games 限時免費",
     "summary": "Epic Games Store 宣布自 2026 年 8 月 13 日至 8 月 20 日，限時免費領取敘事探索冒險遊戲《Caravan SandWitch》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games Store 免費遊戲更新",
-    "summary": "Epic Games Store 於 8 月 13 日至 8 月 20 日提供《Caravan SandWitch》免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games 限時免費：《Caravan SandWitch》",
-    "summary": "Epic Games 商店於 2026 年 8 月 13 日至 8 月 20 日期間提供科幻冒險敘事遊戲《Caravan SandWitch》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games Store 限時免費遊戲《Caravan SandWitch》開放領取",
-    "summary": "Epic Games Store 宣布，敘事導向的探索冒險遊戲《Caravan SandWitch》於 2026 年 8 月 13 日至 8 月 20 日期間開放所有玩家限時免費領取，領取後可永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Steam 限時免費：《德波尼亞》與《Breathedge》",
-    "summary": "Steam 商店更新資訊顯示，冒險遊戲《德波尼亞》(Deponia) 可在 8 月 21 日上午 1:00 前免費永久保留；太空生存遊戲《Breathedge》則可在 8 月 10 日上午 1:00 前免費永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1934,6 +1934,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲的金融危機預言",
     "summary": "自稱來自 2058 年的未來人國分玲曾預言，2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。 國分玲表示她將於 2026 年 9 月 26 日再次歸來。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲將於 2026 年 9 月 26 日再次現身",
+    "summary": "自稱來自 2058 年的未來人國分玲表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
