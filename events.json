@@ -312,6 +312,30 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/14",
+    "title": "PTT熱議：兩位台灣知名VTuber疑因社群貼文爆發爭吵",
+    "summary": "PTT C_Chat板上出現一篇題為「峰哥：兩個台灣大Vtuber吵架了」的討論串，內容暗示有兩位台灣知名VTuber在社群平台發文後，引發了爭吵。討論串中網友猜測此事件是否與「騎士團」及「聲音」等因素有關，但具體VTuber名稱及爭吵細節未被明確揭露。",
+    "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/14",
+    "title": "個人勢VTuber殷緋直播透露情緒低落，尋求觀眾分享近況與影片以振作",
+    "summary": "個人勢VTuber殷緋於8月14日的雜談直播中表示情緒可能較為低落，希望能藉由與觀眾的交流及分享近況或影片來振作精神。",
+    "avatar_url": "https://i.ytimg.com/vi/q1R2fT5f6qQ/hqdefault.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam限免與折扣遊戲更新",
+    "summary": "Steam平台於2026年8月14日更新多款限時免費或折扣遊戲。玩家需在活動期間內下載或購買，部分遊戲可能隨時延長或取消活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
@@ -372,30 +396,6 @@
     "date": "2026/08/13",
     "title": "Epic Games Store 免費暢玩：《原神》、《Marvel Rivals》、《明日方舟：終末地》",
     "summary": "Epic Games Store 於 2026 年 8 月 13 日至 8 月 20 日期間，提供《原神》、《Marvel Rivals》、《明日方舟：終末地》限時免費暢玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "《BOMBANANA!》爆笑新作9/2 上架Steam亮相",
-    "summary": "獨立遊戲開發團隊Lefto Studio與TARK宣布，非對稱合作拆彈解謎遊戲《BOMBANANA!》將於9月2日在Steam平台推出。本作曾在2026年6月的Steam Next遊戲節推出試玩版，吸引超過600萬名玩家下載體驗，累積超過100萬願望清單。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games Store 限時免費領取：《Caravan SandWitch》",
-    "summary": "Epic Games Store 於本週提供敘事驅動的探索冒險遊戲《Caravan SandWitch》限時免費領取，活動期間為 2026 年 8 月 13 日至 8 月 20 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "《Hellforged Demo》Steam 免費試玩版釋出",
-    "summary": "動作角色扮演類輕度Rogue遊戲《Hellforged》的免費試玩版已於 2026 年 8 月 13 日在 Steam 平台釋出，玩家可體驗與惡魔戰鬥、搜刮裝備的樂趣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -5664,6 +5664,15 @@
     "date": "2026/12/17",
     "title": "AI未來計畫預言AI將於2027年底超越人類智慧",
     "summary": "由前OpenAI研究員領導的「AI未來計畫」報告《AI 2027》預測，AI系統將持續進步，直到2027年底左右，將成為完全自主的代理人，並在所有方面都勝過人類。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/09",
+    "title": "自稱來自5026年的未來人預警2026-2027年將發生重大改變，並提及一語道破人類未來",
+    "summary": "一段於2020年進行的催眠治療中，一位自稱來自5026年的未來人突然現身，預警2026和2027年將會發生重大改變，並提及一句話道破人類未來。該預言據稱已部分應驗。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
