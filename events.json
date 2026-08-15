@@ -192,6 +192,14 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/14",
+    "title": "華語 VTuber 團體「幻境之聲」成員「月光蝶」宣布無限期停播",
+    "summary": "華語 VTuber 團體「幻境之聲」官方公告，旗下成員「月光蝶」因「身體健康因素」將無限期停播，所有直播與社群活動暫停。公告內容簡潔，未詳述具體原因，引發粉絲對於成員健康狀況及團體營運的擔憂與討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
@@ -389,14 +397,6 @@
     "title": "彩虹社VTuber夢月蘿亞誹謗中傷訴訟與鳴神裁達成和解",
     "summary": "VTuber團體「彩虹社」（にじさんじ）的夢月蘿亞（夢月ロア）相關誹謗中傷訴訟與鳴神裁達成和解。鳴神裁被法院認定基於虛假資訊進行名譽損害直播並已道歉。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games Store 限時免費：《Targeted – 10 Days》",
-    "summary": "Epic Games Store 開放《Targeted – 10 Days》限時免費領取，活動至 8 月 31 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -1958,6 +1958,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/09",
+    "title": "Reddit 論壇出現自稱「2077 年時間旅行者」警告極端天氣事件",
+    "summary": "在 Reddit 的 r/conspiracy 版面，一位自稱來自 2077 年的匿名用戶發文，警告地球將在未來數月內經歷一系列前所未有的極端天氣事件，特別點名中歐地區將面臨歷史性洪災。該用戶提供了幾個模糊的日期和地點，引發社群熱議。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/05",
+    "expiry_date": "2026/10/06"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit未來人預言：2026年下半年全球能源危機加劇，新型態再生能源將嶄露頭角",
     "summary": "一位自稱來自2077年的Reddit用戶「Temporal_Echoes」在「r/FuturePredictions」板塊中發文指出，2026年下半年起全球將面臨嚴峻的能源短缺問題，特別是化石燃料供應將持續吃緊，導致多國電價飆升。此壓力將加速各國對新型態再生能源技術的投資與發展，其中「生物光合反應爐」將首次在實驗性電廠中展現其潛力。",
@@ -2484,6 +2493,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/08",
     "expiry_date": "2026/12/09"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "X/Twitter 知名預言帳號「未來之眼」預警新型科技突破",
+    "summary": "X/Twitter 上擁有數十萬追蹤者的預言帳號「未來之眼」（@FutureSight20），發布一則推文預言，聲稱在 2026 年底前，某國科學家將宣布一項關於「能源儲存」的重大突破，這項技術將徹底改變現有電力供應模式。該帳號過去曾有多次模糊但事後被認為應驗的預測。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/15",
+    "expiry_date": "2026/12/16"
   },
   {
     "category": "PROPHECY",
@@ -5163,6 +5181,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/16",
     "expiry_date": "2027/01/17"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/11",
+    "title": "日本 2ch 網友轉發「2058 年國分玲」關於經濟局勢的新預言",
+    "summary": "日本 2ch 論壇上，有網友重新轉發並討論號稱「來自 2058 年的國分玲」早前發布的一則關於全球經濟震盪的預言。該預言提到在 2027 年初，某個主要經濟體將面臨貨幣大幅貶值，導致連鎖效應。這次轉發是因為近期國際金融市場出現波動而引發關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/20",
+    "expiry_date": "2027/01/21"
   },
   {
     "category": "PROPHECY",
