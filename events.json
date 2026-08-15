@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Epic Games",
+    "summary": "《Cardpocalypse》Standard Edition 與史詩法師禮包即將免費：Epic Games Store 預告將於 8 月 20 日至 8 月 27 日限時免費領取《Cardpocalypse》Standard Edition 及史詩法師禮包。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/14",
     "title": "無最新負面與爭議事件",
@@ -324,14 +332,6 @@
     "date": "2026/08/13",
     "title": "蔡阿嘎舊片再遭炎上，嘲諷LV與草間彌生被批",
     "summary": "繼品牌抄襲風波後，蔡阿嘎去年赴日旅遊的舊影片被網友翻出，因其對LV與草間彌生聯名藝術裝置比倒讚，並開玩笑稱LV抄襲、調侃藝術家為董至成等言論，再次遭到輿論抨擊，認為其不尊重國際藝術家。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Epic Games",
-    "summary": "限時免費：《Caravan SandWitch》：Epic Games Store 於 8 月 13 日至 8 月 20 日期間，開放限時免費領取科幻冒險解謎遊戲《Caravan SandWitch》。這款遊戲主打無戰鬥、無死亡、無時間限制的探索體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -3828,15 +3828,6 @@
     "date": "2026/07/16",
     "title": "X/Twitter",
     "summary": "對2026年與川普的預言：在X/Twitter社群平台上，有用戶留言預測「自由將於2026年消亡，但川普將在2027年仍然活著。」",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/07/16",
-    "title": "YouTube",
-    "summary": "路易絲·瓊斯全球預言影片發布：YouTube頻道「アロハピ」於2026年7月16日發布了一則名為「ルイーズ・ジョーンズ世界予言 アロハピ 7月16日2026年」的影片，內容為路易絲·瓊斯（Louise Jones）的全球預言。詳細預測內容需觀看影片以取得。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
