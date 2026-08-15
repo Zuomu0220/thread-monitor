@@ -217,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 限時優惠",
+    "summary": "PinoGamer 皮諾電玩整理了 2026 年 Steam 每日限時免費或折扣遊戲，包含《Bunny Guys!》和《BROTHER!!! Save him!》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -389,14 +397,6 @@
     "title": "Epic Games限時免費",
     "summary": "《Caravan SandWitch》：Epic Games Store限時免費領取解謎冒險遊戲《Caravan SandWitch》，活動至8月20日止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/13",
-    "title": "蔡阿嘎生日企劃影片復出試水溫，倒讚數驚人",
-    "summary": "YouTuber蔡阿嘎和老婆「二伯」因個人品牌「hahababy」的抄襲風波遭炎上，道歉聲明被批避重就輕。其YouTube頻道沉寂近一個月後更新生日企劃影片，但觀眾似乎不賞臉，倒讚數遠遠超過讚數。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -5079,6 +5079,51 @@
     "date": "2026/08/08",
     "title": "盲眼龍婆預言：俄羅斯領導人普廷將於 2026 年底前失去權力",
     "summary": "盲眼龍婆巴巴．萬加的預言指出，俄羅斯總統普廷的權力將在 2026 年底前出現重大更替。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言：全球天災與 AI 取代人類",
+    "summary": "已故預言家盲眼龍婆巴巴萬加（Baba Vanga）的追隨者聲稱，她對 2026 年的五項預言中，已有兩項成真，分別是「全球重大天災」與「AI 取代人類工作」。全球各地持續發生的自然災害以及 AI 技術在各領域的應用被認為是這些預言應驗的證明。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼龍婆預言：巨型太空船到來、第三次世界大戰及俄羅斯領導層劇變",
+    "summary": "盲眼龍婆巴巴萬加針對 2026 年的另外三項預言持續受到關注，包括一艘巨型太空船將進入地球大氣層，人類將與外星生命聯繫；第三次世界大戰爆發，其中中國試圖奪取台灣，俄羅斯和美國之間緊張關係升級為直接軍事對抗；以及俄羅斯總統普丁將在年底前失去權力，並由新領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/20",
+    "title": "多位預言者共識：2026年將發生中東衝突升級與美國內戰",
+    "summary": "Reddit 論壇上的一篇貼文指出，多位背景和方法各異的預言者，不約而同地預測 2026 年將出現類似的事件鏈，主要聚焦於中東衝突升級為更大規模的戰爭（甚至核事件），以及美國可能發生內戰。其中，Chris Bledsoe 稱 2026 年復活節前後將有事件改變世界，一位華裔加拿大教授預測美伊戰爭將導致美國經濟崩潰並失去超級大國地位，而 4chan 用戶「MJkiller」則預言全球戰爭、社會崩潰並最終走向單一世界政府。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/09",
+    "title": "未來人預言：2026年日本將發生重大事件",
+    "summary": "YouTube 頻道「都市伝説アリー」整理了兩位未來人（2062年氏與國分玲）對 2026 年日本的預言，指出將發生「とんでもないこと」（不可思議的事情）。預言內容涉及日本的未來、意識變化和歷史轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "希露弟弟啃雞腿：六個與台灣相關的末日預言",
+    "summary": "YouTube 頻道「希露弟弟啃雞腿」發布影片，討論了六個與台灣有關的 2026 年末日預言。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
