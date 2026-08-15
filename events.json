@@ -209,6 +209,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam 限時免費遊戲：Bunny Guys! 與 BROTHER!!! Save him!",
+    "summary": "Steam 平台上，目前可限時免費領取遊戲《Bunny Guys!》和《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -389,14 +397,6 @@
     "title": "蔡阿嘎生日企劃影片復出試水溫，倒讚數驚人",
     "summary": "YouTuber蔡阿嘎和老婆「二伯」因個人品牌「hahababy」的抄襲風波遭炎上，道歉聲明被批避重就輕。其YouTube頻道沉寂近一個月後更新生日企劃影片，但觀眾似乎不賞臉，倒讚數遠遠超過讚數。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/13",
-    "title": "日本女主播奈納蒂因歧視言論遭Kick平台永久封禁",
-    "summary": "2026年8月，日本女主播奈納蒂（Nenati）因在直播平台Kick使用針對黑人的歧視性詞彙，遭平台永久封禁，相關爭議內容在48小時內全部下架。Kick官方重申零容忍政策，該主播隨後道歉但封禁未被撤銷。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -1898,6 +1898,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告將於2026年9月再次現身並發布警告",
     "summary": "自稱來自2058年的日本未來人「國分玲」，因其過去多次精準預言而受到關注。據稱，他將於2026年9月26日再次回到網路，回答大眾問題，並已預言2026年將是日本及全球的重大轉折點。他還曾預言2028年全球將爆發新一輪金融危機，導火索是美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲宣告：2026 年 9 月 26 日將再次現身",
+    "summary": "自稱來自 2058 年的國分玲表示，她將於 2026 年 9 月 26 日再次回到社群平台，回答大眾提出的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -5043,6 +5052,15 @@
     "date": "2026/05/24",
     "title": "2058年未來人國分玲預言：2026年底全新傳染病肆虐全球",
     "summary": "自稱來自 2058 年的日本未來人國分玲預警，2026 年底將有一種全新傳染病在全球範圍內肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼龍婆預言：俄羅斯領導人普廷將於 2026 年底前失去權力",
+    "summary": "盲眼龍婆巴巴．萬加的預言指出，俄羅斯總統普廷的權力將在 2026 年底前出現重大更替。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
