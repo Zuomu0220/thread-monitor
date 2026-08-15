@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/14",
+    "title": "Steam限時免費領取《Deponia》",
+    "summary": "Steam平台限時免費領取冒險遊戲《Deponia》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/13",
     "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
     "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
@@ -388,14 +396,6 @@
     "date": "2026/08/13",
     "title": "日本女主播奈納蒂因歧視言論遭Kick平台永久封禁",
     "summary": "2026年8月，日本女主播奈納蒂（Nenati）因在直播平台Kick使用針對黑人的歧視性詞彙，遭平台永久封禁，相關爭議內容在48小時內全部下架。Kick官方重申零容忍政策，該主播隨後道歉但封禁未被撤銷。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/13",
-    "title": "彩虹社VTuber夢月蘿亞誹謗中傷訴訟與鳴神裁達成和解",
-    "summary": "VTuber團體「彩虹社」（にじさんじ）的夢月蘿亞（夢月ロア）相關誹謗中傷訴訟與鳴神裁達成和解。鳴神裁被法院認定基於虛假資訊進行名譽損害直播並已道歉。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
@@ -1952,6 +1952,24 @@
     "date": "2026/07/29",
     "title": "華爾街先知惠特尼預警美國經濟清算時刻",
     "summary": "曾精準預言 2008 年金融海嘯的「華爾街先知」梅雷迪思·惠特尼（Meredith Whitney）近日受訪時示警，由於美國消費者支出降溫及財政刺激效果減弱，美國經濟恐在 2026 年第四季迎來「清算時刻」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/01",
+    "expiry_date": "2026/10/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/12",
+    "title": "2026年超級厄爾尼諾事件預測",
+    "summary": "Reddit社群討論艾略特·雅各布森教授的預測，指出2026年第四季度（10、11、12月）的厄爾尼諾現象將是一個「1250萬年一遇」的事件，可能導致5000萬人陷入急性飢餓。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/01",
+    "expiry_date": "2026/10/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/09",
+    "title": "2026年超級厄爾尼諾是千萬年一遇事件",
+    "summary": "Reddit社群討論指出，根據Eliot Jacobson教授的圖表，從1982年到2025年的厄爾尼諾3.4海面溫度異常數據，預測2026年10、11、12月將出現「1250萬次中才會發生一次」的超級厄爾尼諾事件。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/10/01",
     "expiry_date": "2026/10/02"
@@ -5232,6 +5250,15 @@
     "date": "2026/08/02",
     "title": "TikTok時空旅人自稱在2027年西班牙城市中倖存",
     "summary": "一位名為哈維爾（Javier）的 TikTok 時空旅人聲稱自己被困在 2027 年一座荒涼的西班牙城市中，是某次大規模滅絕事件的唯一倖存者，並發布影片證明其說法。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/02/13",
+    "expiry_date": "2027/02/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/13",
+    "title": "準預言家警告加州半年內將爆發超級強震",
+    "summary": "地球物理學家伯恩斯在成功預測6月哥倫比亞強震後，再次警告美國西海岸，特別是加州，可能在未來半年至一年內發生毀滅性超級大地震。他指出，哥倫比亞地震的能量正向北傳導，加州聖安德烈斯斷層的地應力已達千年最高臨界點。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/02/13",
     "expiry_date": "2027/02/14"
