@@ -65,6 +65,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/16",
+    "title": "實況主可杰",
+    "summary": "中國《無畏契約》手遊週年慶直播與組合「TOP登陸少年」合作，主持人多次念錯團名，實況主可杰在念粉絲ID時發音被部分觀眾解讀為冒犯性詞彙，加上工作人員私下稱「對面的粉絲非常恐怖」被直播收錄，引發粉絲強烈不滿。可杰雖曾發文解釋為口音誤會並無惡意，但隨後刪除澄清並關閉評論區，後又發布爭議影片，被指態度敷衍。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/16",
+    "title": "網紅Kson",
+    "summary": "網紅Kson在直播道別時，因洋裝拉鍊未拉好，意外側身走光，性感一面在鏡頭前曝光，引發粉絲與社群熱議。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/16",
+    "title": "Steam特價：《末日之戰 World War Z》",
+    "summary": "《末日之戰 World War Z》遊戲本體在Steam上特價開跑，活動至8月24日止（太平洋時間）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/15",
     "title": "無相關事件",
     "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
@@ -372,30 +396,6 @@
     "date": "2026/08/14",
     "title": "Epic Games Store 限時免費：Caravan SandWitch 等多款遊戲",
     "summary": "Epic Games Store 於 2026 年 8 月 13 日起提供《漫漫長路沙巫之旅》（Caravan SandWitch）限時免費領取，截止時間為 8 月 20 日 23 點。 此外，還有《被鎖定的 10 天》（優惠期限至 8 月 31 日）、《Cat Named Mojave》（優惠期限至 8 月 15 日）和《Happiness Market》（優惠期限至 8 月 15 日）等多款遊戲限時免費。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "搜打撤逆彈幕遊戲《地獄鑄造》首個公開Demo上線",
-    "summary": "《地獄鑄造》（Hellforged）於2026年8月13日開放首個公開Demo試玩，此前僅進行過封閉測試。這是一款搜打撤逆彈幕遊戲，玩家需在惡魔肆虐的地圖中蒐集裝備，並決定中途撤離保全收穫或冒險以小博大。Demo提供聖騎與黑暗精靈法師兩種職業，以及活用武器庫、挑戰強力頭目和每月試煉等內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 限時免費遊戲：《Deponia》",
-    "summary": "Steam 平台於 2026 年 8 月 14 日至 8 月 21 日提供《Deponia》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 限時免費領取《Deponia》",
-    "summary": "Steam 商店現正提供經典手繪點擊冒險遊戲《Deponia》限時免費領取，可永久保留在帳號中，活動預計於 8 月 21 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2105,6 +2105,15 @@
     "date": "2026/08/08",
     "title": "盲眼龍婆巴巴萬加預言：2026 年世界將迎來戰火、天災、AI 反撲與外星接觸",
     "summary": "已故的保加利亞盲眼預言家巴巴萬加（Baba Vanga）據傳預言 2026 年將是「不安的轉折年」。她預測：戰火將從東歐蔓延至中東，可能涉及主要大國；全球 7-8% 陸地恐被毀滅性天災吞噬；人工智能（AI）將全面控制人類生活，甚至可能反撲；以及人類可能在 2026 年 11 月首次與外星智慧生命接觸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/01",
+    "expiry_date": "2026/11/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆巴巴萬加2026年預言",
+    "summary": "已故保加利亞盲眼預言家巴巴萬加對2026年的預言再次引發熱議，其中「全球重大天災」與「AI取代人類工作」被追隨者認為已經應驗。她還預言外星太空船現身、第三次世界大戰爆發，以及俄羅斯總統普丁失去政權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
