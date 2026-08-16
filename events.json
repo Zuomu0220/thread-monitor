@@ -56,6 +56,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/16",
+    "title": "PS港服「準備就位遊戲開始」促銷活動",
+    "summary": "香港PlayStation Store 推出全新促銷活動「準備就位遊戲開始」，活動將持續至 8 月 26 日。共有 2579 款遊戲及追加內容參與，包括《黑神話：悟空》、《暗黑破壞神 4》、《刺客教條：影》及《浪人崛起》等大作提供折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/15",
     "title": "無相關事件",
@@ -389,14 +397,6 @@
     "title": "Steam 限時免費領取《Deponia》",
     "summary": "Steam 商店現正提供經典手繪點擊冒險遊戲《Deponia》限時免費領取，可永久保留在帳號中，活動預計於 8 月 21 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/14",
-    "title": "PTT熱議：兩位台灣知名VTuber疑因社群貼文爆發爭吵",
-    "summary": "PTT C_Chat板上出現一篇題為「峰哥：兩個台灣大Vtuber吵架了」的討論串，內容暗示有兩位台灣知名VTuber在社群平台發文後，引發了爭吵。討論串中網友猜測此事件是否與「騎士團」及「聲音」等因素有關，但具體VTuber名稱及爭吵細節未被明確揭露。",
-    "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
     "days_left": 5
   },
   {
