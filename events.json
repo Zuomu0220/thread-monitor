@@ -128,6 +128,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/16",
+    "title": "東京電玩展 TGS 2026 獨立遊戲專區「SELECTED INDIE 80」名單公布",
+    "summary": "TOKYO GAME SHOW 2026 公布了其獨立遊戲企劃「SELECTED INDIE 80」的入選名單，從超過 1,500 件投稿作品中選出 80 款遊戲將免費參展，聚焦全球獨立遊戲開發者的創新與挑戰。展覽將於 9 月 17 日至 9 月 21 日舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/15",
     "title": "無相關事件",
@@ -237,6 +245,14 @@
     "title": "VTuber 峰哥提及台灣兩大 VTuber 吵架事件",
     "summary": "根據 PTT C_Chat 版的討論，峰哥在直播中提到台灣有兩位大型 VTuber 發生爭吵，但詳細原因及涉及人物並未明確指出，引發網友熱烈討論與猜測。有網友聯想到「親親幫大將開搞」的說法，但並無實質證據證實。",
     "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/15",
+    "title": "知名實況主「遊戲狂人阿魯巴」捲入賭博爭議導致無限期停播",
+    "summary": "實況主阿魯巴在近期直播中，被觀眾發現遊玩線上博弈遊戲並涉嫌推廣，引發大量網友撻伐。雖然阿魯巴迅速刪除了相關影片並在社群媒體上發表道歉聲明，但輿論仍持續延燒，多個遊戲社群論壇出現抵制聲浪，最終阿魯巴宣布將無限期停播以示負責，並配合相關單位調查。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/14",
     "title": "Steam 限時免費遊戲《Deponia》",
     "summary": "Steam 平台再次提供極度好評的點擊冒險遊戲《Deponia》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 免費遊戲《Electoral Carnage》",
-    "summary": "Steam 平台在 2026 年 8 月提供結合誇張動作與政治諷刺的遊戲《Electoral Carnage》免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam限時免費《Deponia》",
-    "summary": "Steam於2026年8月14日起提供冒險遊戲《Deponia》限時免費領取，活動將持續至8月21日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
