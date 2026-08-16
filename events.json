@@ -393,11 +393,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/08/13",
-    "title": "Steam 動作彈幕射擊遊戲《Hellforged Demo》推出",
-    "summary": "由Moonpyre開發、Grindstone發行的動作角色扮演彈幕射擊遊戲《Hellforged Demo》於2026年8月13日在Steam平台推出試玩版。玩家可在試玩版中體驗迎戰惡魔、規劃流派與收集史詩裝備的刺激戰鬥。",
+    "date": "2026/08/14",
+    "title": "Steam 限時免費遊戲",
+    "summary": "Steam 平台推出《Bunny Guys!》和《BROTHER!!! Save him!》限時免費下載活動，玩家需在活動期間內領取以永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
@@ -1952,6 +1952,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的未來人國分玲預告回歸",
     "summary": "自稱來自 2058 年的日本未來人國分玲，預計將於 2026 年 9 月 26 日再次現身社群平台，回答網友問題。她先前因準確預言東京奧運金牌數、2020 年 3 月股市跳水、安倍晉三辭職及東奧延期而受到關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/12",
+    "title": "國分玲電影預告與討論",
+    "summary": "關於來自 2058 年的未來人國分玲，其預言事蹟被改編為電影，並於近期釋出預告片，再次引發關於其預言真實性的討論。她曾預言將於 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
