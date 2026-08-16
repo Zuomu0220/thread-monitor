@@ -176,6 +176,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/15",
+    "title": "Steam七夕大促《德波尼亞》限時免費領取",
+    "summary": "Steam平台於七夕期間開啟超低價大促，其中《德波尼亞（Deponia）》開放限時免費領取，活動至8月21日截止。同時，《坦克機械師模擬器》和《咩咩啟示錄》等多款遊戲也迎來平史低或新史低折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/14",
     "title": "無最新負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/14",
     "title": "Epic 限時免費遊戲領取（2026）",
     "summary": "Epic Games Store 每天更新限時免費或折扣遊戲，提醒玩家在活動期間內下載或購買，錯過即需等待下次機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 限時免費遊戲領取（2026）",
-    "summary": "Steam 每日限時免費或折扣遊戲會更新，建議玩家抓緊時間在活動期間下載或購買。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
