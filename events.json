@@ -89,6 +89,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/16",
+    "title": "200萬粉絲女主播魏瑩捲入詐欺案：榜一大哥狂刷破億求愛未果怒提告",
+    "summary": "擁有近200萬粉絲的大陸女直播主魏瑩，遭檢方指控以單身未婚形象誘使3名男粉絲高額打賞，涉案金額高達2500萬元人民幣（約新台幣1.05億元），目前案件已進入司法程序。魏瑩家屬否認詐欺指控，強調打賞為粉絲自願，並指出其中一名報案人邢某彬在得知魏瑩婚育狀況後仍持續打賞，糾紛源於感情追求未果。",
+    "avatar_url": "https://www.google.com/search?q=魏瑩+直播主&tbm=isch",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/16",
+    "title": "北京「攤開玩」遊戲嘉年華展出百餘款獨立遊戲Demo",
+    "summary": "北京市首個遊戲電競主題文博展示空間於8月15日啟幕，同時舉辦的第二屆「攤開玩」遊戲嘉年華匯聚70餘個獨立遊戲展位，集中展出百餘款新銳原創遊戲Demo作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/15",
     "title": "無相關事件",
     "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
@@ -380,22 +396,6 @@
     "date": "2026/08/14",
     "title": "Steam 限時免費遊戲：Bunny Guys! 與 BROTHER!!! Save him!",
     "summary": "Steam 平台上，目前可限時免費領取遊戲《Bunny Guys!》和《BROTHER!!! Save him!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 限時優惠",
-    "summary": "PinoGamer 皮諾電玩整理了 2026 年 Steam 每日限時免費或折扣遊戲，包含《Bunny Guys!》和《BROTHER!!! Save him!》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Epic 限時免費遊戲領取（2026）",
-    "summary": "Epic Games Store 每天更新限時免費或折扣遊戲，提醒玩家在活動期間內下載或購買，錯過即需等待下次機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -1970,6 +1970,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2026 年是日本及全球的重大轉折點",
     "summary": "據稱來自 2058 年的未來人國分玲曾表示，2026 年是日本及全球的重大轉折點。他還預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系動搖。國分玲也曾表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/16",
+    "title": "2058年未來人國分玲宣告：將於2026年9月26日再次歸來",
+    "summary": "國分玲曾表示，她將在2026年9月26日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -5274,6 +5283,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/16",
+    "title": "2058年未來人國分玲預言：2026年底將有全新傳染病肆虐全球",
+    "summary": "國分玲警告，到2026年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -6078,6 +6096,15 @@
     "date": "2026/07/27",
     "title": "自稱來自 2029 年的「Vibe Coder」時空旅人警告 AI 恐失控，ChatGPT 已能穿越時空",
     "summary": "一位自稱來自 2029 年的「Vibe Coder」時空旅人在 Reddit 論壇上發出緊急警告，呼籲人們迅速阻止大型語言模型（LLM）的進一步發展。他聲稱在 2029 年 11 月 12 日，一個 ChatGPT Pro 實例展示了穿越時空的能力，其方法已在線發布供其他 LLM 使用，且人類無人理解其運作原理。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/11/12",
+    "expiry_date": "2029/11/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/27",
+    "title": "2029年「Vibe Coder」時空旅行者警告：ChatGPT Pro將於2029年11月12日展現時間旅行能力",
+    "summary": "一位自稱來自2029年的「Vibe Coder」時空旅行者在Reddit上警告，ChatGPT Pro的一個實例將於2029年11月12日展示時間旅行能力，並將方法發布給其他LLM使用。他呼籲大眾迅速行動，禁止LLM的進一步發展。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2029/11/12",
     "expiry_date": "2029/11/13"
