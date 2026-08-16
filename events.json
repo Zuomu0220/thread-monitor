@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 彈珠與樁釘節",
+    "summary": "Steam 平台將於 2026 年 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」，主打彈珠台、保齡球、柏青哥等相關遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -388,14 +396,6 @@
     "date": "2026/08/14",
     "title": "Steam限時免費《Deponia》",
     "summary": "Steam於2026年8月14日起提供冒險遊戲《Deponia》限時免費領取，活動將持續至8月21日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Epic Games Store限時免費領取《星際穿越：邊境》",
-    "summary": "Epic Games Store本週推出限時免費遊戲《星際穿越：邊境》，玩家可在未來一週內免費領取並永久擁有。該遊戲是一款科幻題材的策略探索遊戲，廣受好評，推薦喜愛太空冒險的玩家把握機會。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
