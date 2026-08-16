@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 主題特賣",
+    "summary": "Steam 將舉辦「彈珠與樁釘節」（Pinball & Peggle Fest），活動期間為 2026 年 8 月 17 日至 8 月 20 日，主要收錄與彈珠檯、保齡球、柏青哥等相關的遊戲作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -388,14 +396,6 @@
     "date": "2026/08/14",
     "title": "83歲VTuber淺井國子分享二戰滿洲回憶",
     "summary": "一位83歲的日本虛擬YouTuber淺井國子（Kuniko Asai），在頻道「滿洲婆婆」（Manshu bachan）上分享她和其他人在二戰期間於滿洲的經歷。她希望能將這些逐漸褪色的戰爭記憶傳承給下一代。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/14",
-    "title": "華語 VTuber 團體「幻境之聲」成員「月光蝶」宣布無限期停播",
-    "summary": "華語 VTuber 團體「幻境之聲」官方公告，旗下成員「月光蝶」因「身體健康因素」將無限期停播，所有直播與社群活動暫停。公告內容簡潔，未詳述具體原因，引發粉絲對於成員健康狀況及團體營運的擔憂與討論。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -1844,15 +1844,6 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預言：2026年9月再次歸來與2028年金融危機",
     "summary": "自稱來自2058年的國分玲，其預言的準確率令人震驚，被認為是最像穿越者的人。她預言將於 2026 年 9 月 26 日再次現身網路，回答大家想知道的事情。此外，她也預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/09/26",
-    "expiry_date": "2026/09/27"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/05/19",
-    "title": "2058 年未來人國分玲預言",
-    "summary": "自稱來自 2058 年的國分玲曾預言 2026 年將是日本及全球的重大轉折點，並表示將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
