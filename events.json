@@ -120,6 +120,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam/Epic 限免",
+    "summary": "《Deponia》與《Targeted – 10 Days》好評遊戲免費領取中：Steam 平台再度開放喜劇冒險遊戲《Deponia》限時免費領取，期限至 2026/8/21 上午 1 點。Epic Games 平台則可免費領取生存逃脫遊戲《Targeted – 10 Days》，期限至 2026/8/31 23:00 截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -389,14 +397,6 @@
     "title": "VTuber 峰哥提及台灣兩大 VTuber 吵架事件",
     "summary": "根據 PTT C_Chat 版的討論，峰哥在直播中提到台灣有兩位大型 VTuber 發生爭吵，但詳細原因及涉及人物並未明確指出，引發網友熱烈討論與猜測。有網友聯想到「親親幫大將開搞」的說法，但並無實質證據證實。",
     "avatar_url": "https://ui-avatars.com/api/?name=峰哥&background=1e293b&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/15",
-    "title": "知名實況主「遊戲狂人阿魯巴」捲入賭博爭議導致無限期停播",
-    "summary": "實況主阿魯巴在近期直播中，被觀眾發現遊玩線上博弈遊戲並涉嫌推廣，引發大量網友撻伐。雖然阿魯巴迅速刪除了相關影片並在社群媒體上發表道歉聲明，但輿論仍持續延燒，多個遊戲社群論壇出現抵制聲浪，最終阿魯巴宣布將無限期停播以示負責，並配合相關單位調查。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
