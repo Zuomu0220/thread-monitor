@@ -72,6 +72,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 世嘉發行商特賣活動：《全面戰爭》系列等多款大作參與折扣",
+    "summary": "自 2026 年 8 月 14 日起，世嘉在 Steam 平台開啟發行商特賣活動，旗下《全面戰爭》系列全線折扣，部分作品達到歷史最低價，例如《全面戰爭：戰錘3》折後僅售 44.7 元人民幣。活動將持續至 8 月 27 日。除《全面戰爭》外，《如龍》、《女神異聞錄》、《索尼克》等多款世嘉旗下 IP 也同步參與折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -204,6 +212,14 @@
     "date": "2026/08/16",
     "title": "Steam Vaka Game Magazine 年度特賣",
     "summary": "Vaka Game Magazine 年度特賣在 Steam 平台展開，包含《Noel the Mortal Fate》、《Tsugunohi》、《Angels of Death》等多款遊戲提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/16",
+    "title": "Steam《末日之戰》（World War Z）特價開跑",
+    "summary": "Steam 平台遊戲《末日之戰》（World War Z）的遊戲本體開啟特價活動，即日起至 2026 年 8 月 24 日（太平洋時間）截止。此次折扣僅限遊戲本體，包含第一章至第四章。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/08/14",
     "title": "Steam 獨立遊戲 Demo 釋出：《地獄鑄造》",
     "summary": "獨立開發商 Moonpyre 與 RPG 遊戲發行商 Grindstone 共同發布了搜打撤逆彈幕遊戲《地獄鑄造》（Hellforged）的首個公開 Demo，現已登陸 Steam。這款遊戲強調每一局戰鬥都是驚險的掠奪行動，玩家需在嗜血惡魔大軍中殺出生天並決定何時撤離以保全收穫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam",
-    "summary": "限時免費領取《德波尼亞》(Deponia)：Steam 商店於 2026 年 8 月 14 日至 8 月 21 日期間，將限時免費領取遊戲《德波尼亞》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam 限時免費",
-    "summary": "Steam 商店限時免費領取遊戲《Bunny Guys!》和《BROTHER!!! Save him!》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
