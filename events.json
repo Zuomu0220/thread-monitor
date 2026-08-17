@@ -176,6 +176,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 免費領取",
+    "summary": "Steam 2026 年 8 月「Free-to-Keep Game」提前曝光，據悉為《Mafia: Definitive Edition》可永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 特價活動",
+    "summary": "Steam 彈珠與樁釘節將於 8 月 17 日至 8 月 20 日舉行，聚焦相關類型遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -380,22 +396,6 @@
     "date": "2026/08/15",
     "title": "Steam 限時免費：《Tell Me Why》",
     "summary": "Steam 平台目前可限時免費領取遊戲《Tell Me Why》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 限時免費：《Dwarven Realms》、《Blacklist Mafia》、《Whiskey.Mafia. Leo\\'s Family》",
-    "summary": "Steam 平台目前可限時免費領取遊戲《Dwarven Realms》、《Blacklist Mafia》和《Whiskey.Mafia. Leo\\'s Family》，數量有限，送完為止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "影遊《重生2我獨自逆襲》試玩 Demo 上線",
-    "summary": "Proudmate Entertainment 打造的互動影遊《重生2我獨自逆襲》宣布免費試玩 Demo 於 8 月 15 日上線，包含遊戲前六天的內容，體驗時長約 1 小時。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -3144,15 +3144,6 @@
     "date": "2026/06/12",
     "title": "「白毛股神」Serenity 帳號影響 A 股市場預言",
     "summary": "海外社群平台一名自稱「Serenity」的帳號，以其白髮二次元頭像和高調投資戰績（自稱 2026 年初至 5 月底回報率 4502%）走紅，其貼文與 A 股股價異動時間吻合，被視為具有市場影響力的預言帳號。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/04/08",
-    "title": "來自 2058 年的未來人國分玲預言",
-    "summary": "國分玲表示 2026 年將是日本及全球的重大轉折點。她曾預言日本中央新幹線部分區間將開始運作，以及首都功能會部分轉移或統治機構發生變化。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
