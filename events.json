@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/08/18",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026 年 08 月 11 日至 2026 年 08 月 18 日期間，未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈實況主與 VTuber 事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
     "summary": "在 2026/08/10 至 2026/08/17 之間，未發現台灣/華語圈實況主或 VTuber 有新的負面或爭議事件報導。",
@@ -188,6 +196,14 @@
     "date": "2026/08/17",
     "title": "Steam 特價活動",
     "summary": "Steam 彈珠與樁釘節將於 8 月 17 日至 8 月 20 日舉行，聚焦相關類型遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 主題特賣活動：彈珠與樁釘節",
+    "summary": "Steam 平台將於 2026 年 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」（Pinball & Peggle Fest）主題特賣活動。 此活動將聚焦於特定遊戲類型，並提供折扣遊戲、免費遊戲和即將推出的作品 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/08/15",
     "title": "Steam 限時免費：《Project First Contact》",
     "summary": "Steam 平台推出限時免費領取《Project First Contact》，活動至 2026 年 8 月 17 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 限時免費：《Arena of Trophies》",
-    "summary": "Steam 平台推出限時免費領取《Arena of Trophies》，活動至 2026 年 10 月 22 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 限時免費：《Tell Me Why》",
-    "summary": "Steam 平台目前可限時免費領取遊戲《Tell Me Why》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2024,6 +2024,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的未來人國分玲預言 2026 年將是全球轉折點",
     "summary": "自稱來自 2058 年的未來人國分玲（Kokubu Rei）曾多次強調，2026 年將是日本及全球的重大轉折點，可能涉及自然災害或社會動盪，並預言一個東方國家將正式成為世界的主宰，並持續至 2058 年。國分玲也預告將於 2026 年 9 月 26 日再次現身回答問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的國分玲預言：2026年9月26日再次歸來",
+    "summary": "國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
