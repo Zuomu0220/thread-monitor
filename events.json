@@ -152,6 +152,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "《昭和米國物語》將於科隆遊戲展（gamescom 2026）展出試玩",
+    "summary": "中國遊戲開發商鈴空遊戲 NEKCOM 宣布，旗下角色扮演遊戲新作《昭和米國物語》（PS5 / PC）將於 2026 年 8 月 26 日至 30 日在德國科隆舉辦的 gamescom 2026 中展出試玩，並預計在台灣時間 8 月 26 日凌晨 2:00 舉辦的「gamescom Opening Night Live 2026」開幕前夜直播發表會中公開最新宣傳影片。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 8 月限時免費預計為《四海兄弟：決定版》",
+    "summary": "Steam 於 2026 年 8 月份的「Free-to-Keep Game」提前曝光，預計為《四海兄弟：決定版》（Mafia: Definitive Edition）。該遊戲目前在 Steam 上提供 85% 的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -381,22 +397,6 @@
     "title": "北京朝陽遊戲電競創新嘉年華",
     "summary": "北京朝陽區於 8 月 15 日舉辦遊戲電競創新嘉年華，現場匯集 70 餘個獨立遊戲展位，展出百餘款新銳原創遊戲 Demo 作品，提供沉浸式試玩體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 經典RPG《Hexplore》首次降價至約1美元",
-    "summary": "1998年發行的動作角色扮演遊戲《Hexplore》在Steam上首次降價，即日起至8月28日享有85%折扣，價格約1美元。該遊戲在Steam上擁有90%的好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/15",
-    "title": "個人勢VTuber「星野莉亞」因失言風波引發跨文化爭議後宣布無限期休止活動",
-    "summary": "星野莉亞在一次遊戲直播中，無意間對某國家傳統服飾發表了不恰當的評論，觸發該國社群的強烈反彈，並迅速蔓延至華語圈。儘管莉亞多次誠懇道歉並表示是無心之失，但爭議仍未平息。最終，她於個人X（Twitter）帳號發布聲明，表示將無限期休止活動，以沉澱與學習。粉絲對此感到惋惜，但也理解其面對的壓力。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -2015,6 +2015,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預告 2026 年 9 月 26 日回歸",
     "summary": "自稱來自 2058 年的國分玲，其預言精準度受到關注，他曾表示會在 2026 年 9 月 26 日再次回歸，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預言 2026 年將是全球轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲（Kokubu Rei）曾多次強調，2026 年將是日本及全球的重大轉折點，可能涉及自然災害或社會動盪，並預言一個東方國家將正式成為世界的主宰，並持續至 2058 年。國分玲也預告將於 2026 年 9 月 26 日再次現身回答問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
