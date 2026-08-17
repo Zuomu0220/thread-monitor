@@ -208,6 +208,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 遊戲特價：《Mafia: Definitive Edition》",
+    "summary": "Steam 平台對《Mafia: Definitive Edition》提供 85% 的折扣優惠，此次特價將持續至 8 月底。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -369,6 +377,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/16",
+    "title": "中國實況主周淑怡直播國產新遊遭封禁",
+    "summary": "中國知名實況主周淑怡在直播國產新遊戲時，疑因內容觸及平台規範，遭官方強制封禁直播間，其直播畫面更被「強制沒收臉部」。此事件在社群上引發熱議，網友討論官方審查力道與實況主應對策略。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/15",
     "title": "無相關事件",
     "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
@@ -380,22 +396,6 @@
     "date": "2026/08/15",
     "title": "Epic Games",
     "summary": "《Cardpocalypse》Standard Edition 與史詩法師禮包即將免費：Epic Games Store 預告將於 8 月 20 日至 8 月 27 日限時免費領取《Cardpocalypse》Standard Edition 及史詩法師禮包。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 限時免費：《德波尼亞》(Deponia)",
-    "summary": "Daedalic Entertainment 宣布，旗下點擊式冒險遊戲《德波尼亞》（Deponia）在 Steam 平台開啟限時免費領取活動，活動至 2026 年 8 月 21 日凌晨 1 點截止。這款原價 59 元的遊戲，只要在期間內領取即可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Steam 限時免費：《Project First Contact》",
-    "summary": "Steam 平台推出限時免費領取《Project First Contact》，活動至 2026 年 8 月 17 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -5385,6 +5385,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆2026年預言：俄羅斯總統普丁可能失去權力",
     "summary": "網路流傳的盲眼龍婆 2026 年預言指出，俄羅斯總統普丁可能在 2026 年底前失去權力，由新的領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預言加密貨幣飆升",
+    "summary": "一位自稱是 2019 年比特幣預言家的匿名用戶在 4chan 發文，預測比特幣 (BTC) 將在 2026 年底達到 100 萬美元，以太坊 (ETH) 將達到 10 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
