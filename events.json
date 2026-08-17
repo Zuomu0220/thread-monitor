@@ -64,6 +64,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 遊戲節：彈珠與樁釘節",
+    "summary": "Steam 平台將於 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」，活動將聚焦於彈珠（彈珠台、保齡球）和樁釘（柏青哥、彈球遊戲）相關的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -388,14 +396,6 @@
     "date": "2026/08/14",
     "title": "台灣團隊《自拍蟲蟲》入選TGS 2026 並於Steam 發售",
     "summary": "台灣雙人獨立團隊「正直香蕉遊戲工作室」研發的2D物理攝影冒險遊戲《自拍蟲蟲》入選東京電玩展TGS 2026的「SELECTED INDIE 80」及「Sense of Wonder Night 2026」，並宣布將於2026年8月14日台灣時間上午09:00於Steam平台正式發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Epic Games 免費遊戲：《Caravan SandWitch》限時領取",
-    "summary": "休閒旅行探險遊戲《Caravan SandWitch》即日起至 8 月 20 日晚間 11 時可免費領取，一旦領取即可永久收藏於 Epic Games 收藏庫。此遊戲主打無戰鬥、無時間壓力的療癒探索玩法，玩家將駕駛廂型車穿越沙漠星球尋找失蹤妹妹。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
