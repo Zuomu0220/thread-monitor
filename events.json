@@ -41,6 +41,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/17",
+    "title": "目前無 2026/08/10-08/17 期間的即時負面或爭議事件",
+    "summary": "由於無法存取未來的即時資訊，目前無法提供此時間範圍內的台灣/華語圈實況主負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Epic Games Store 最新遊戲推出：圖科尼：森林看護者 & Project DeepWeb: Eternal Nightmare",
+    "summary": "Epic Games Store 在 2026 年 8 月 17 日有兩款新遊戲開放：《圖科尼：森林看護者》和《Project DeepWeb: Eternal Nightmare》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
     "summary": "這篇文章實際上是一則2018年的舊聞，報導內容為知名實況主「超負荷」在電玩展直播期間，遭到另一名實況主謝承祐持刀恐嚇及揮舞，最終謝男被依恐嚇、強制罪起訴。該報導為舊聞，並非在指定時間範圍內發生的事件。",
@@ -380,22 +396,6 @@
     "date": "2026/08/14",
     "title": "Steam限時免費",
     "summary": "《Deponia》：Steam平台開放限時免費領取冒險解謎遊戲《Deponia》，活動至8月21日止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Steam遊戲Demo",
-    "summary": "《X-KEEPERS》試玩版上線：台灣團隊開發的遊戲《X-KEEPERS》於Steam平台釋出試玩版供玩家體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/14",
-    "title": "Epic Games Store 限時免費遊戲：《Caravan SandWitch》",
-    "summary": "《Caravan SandWitch》即日起至8月20日晚間11時可在Epic Games Store免費領取。這是一款休閒旅行探險遊戲，主打無戰鬥、無時間壓力的療癒探索玩法，玩家將開著廂型車穿越沙漠星球尋找失蹤妹妹的下落。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -5313,6 +5313,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆預言 2026 年底前俄羅斯領導人將發生重大更替",
     "summary": "盲眼龍婆的追隨者認為，她預言的 2026 年底前俄羅斯領導人出現重大更替尚未發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 比特幣先知預言：2026 年底比特幣達 100 萬美元",
+    "summary": "一篇匿名發布在 4chan 上的訊息，聲稱來自 2019 年預言比特幣低點的「先知」，預測比特幣將在 2026 年底達到 100 萬美元，以太幣達到 10 萬美元。然而，該貼文的真實性存疑。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
