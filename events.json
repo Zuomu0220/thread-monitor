@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Steam 活動",
+    "summary": "東亞獨立遊戲慶典持續進行中，本次慶典集結了 550 款來自東亞各地的獨立遊戲，並有超過百款遊戲提供試玩（Demo）或封閉測試（Playtest）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
@@ -389,14 +397,6 @@
     "title": "無相關事件",
     "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/15",
-    "title": "Epic Games",
-    "summary": "《Cardpocalypse》Standard Edition 與史詩法師禮包即將免費：Epic Games Store 預告將於 8 月 20 日至 8 月 27 日限時免費領取《Cardpocalypse》Standard Edition 及史詩法師禮包。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2661,15 +2661,6 @@
     "date": "2026/12/29",
     "title": "盲眼龍婆巴巴·萬加：2026年AI重塑人類生活、外星人到訪、世界大戰迫在眉睫",
     "summary": "素有「巴爾幹諾查丹瑪斯」之稱的盲眼龍婆巴巴·萬加預言，2026年將是人工智能永遠改變工業和日常生活的轉折點。她還預見2026年11月將首次與地外智慧生命接觸，一艘巨大的宇宙飛船將進入地球大氣層。此外，她也預言第三次世界大戰迫在眉睫。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/11/30",
-    "expiry_date": "2026/12/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/08",
-    "title": "盲眼龍婆巴巴萬加預言",
-    "summary": "保加利亞盲眼靈媒巴巴萬加的追隨者流傳，2026 年 11 月將有一艘「巨型太空船」進入地球大氣層，人類可能與外星生命接觸。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/30",
     "expiry_date": "2026/12/01"
