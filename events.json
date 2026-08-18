@@ -224,6 +224,22 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/17",
+    "title": "企業勢VTuber團體「虹彩社TW」成員「小葵」宣布無限期停播",
+    "summary": "虹彩社TW官方突發公告，旗下VTuber「小葵」因「身心健康因素」即日起無限期停播。社群間流傳其停播與內部合約糾紛及長期直播壓力有關，引發粉絲高度擔憂與不捨，並對經紀公司的處理方式產生質疑。",
+    "avatar_url": "https://i.imgur.com/nijisanji_xiaokui.jpg",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/17",
+    "title": "Steam 八月主題特賣活動預告：電馭叛客節與玩家合作生存工藝節將登場",
+    "summary": "根據Steam官方時程，8月份將陸續舉辦「電馭叛客節」、「彈珠與樁釘節」以及「玩家合作生存工藝節」等主題特賣活動，將針對特定遊戲類型提供折扣優惠，具體日期與詳細遊戲名單預計將陸續公布。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/16",
     "title": "實況主「超負荷」台上遭揮刀舊聞重提",
@@ -382,22 +398,6 @@
     "summary": "Steam 平台《World War Z》遊戲本體即日起至 2026/08/24（太平洋時間）進行特價促銷。此次特價僅限遊戲本體，不包含所有章節。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/16",
-    "title": "中國實況主周淑怡直播國產新遊遭封禁",
-    "summary": "中國知名實況主周淑怡在直播國產新遊戲時，疑因內容觸及平台規範，遭官方強制封禁直播間，其直播畫面更被「強制沒收臉部」。此事件在社群上引發熱議，網友討論官方審查力道與實況主應對策略。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/15",
-    "title": "無相關事件",
-    "summary": "在 2026/08/08 至 2026/08/15 期間，未發現台灣/華語圈實況主有炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件在網路社群上被廣泛報導或討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -2033,6 +2033,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的國分玲預言：2026年9月26日再次歸來",
     "summary": "國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/18",
+    "title": "未來人國分玲預告2026年9月26日再次現身社群",
+    "summary": "自稱來自2058年的日本未來人「國分玲」，在網路社群的相關討論中被提及，預計將於2026年9月26日再次於社群平台現身，並承諾回答眾人關於未來的疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
