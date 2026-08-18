@@ -80,6 +80,30 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/18",
+    "title": "Twitch",
+    "summary": "MOTHERv3 遭誤判BAN 台後成功撤銷：知名VTuber MOTHERv3 頻道去年12月遭Twitch無預警封禁，經過超過50次申訴並動用律師後，最終成功撤銷封禁。此事件再次引發了對於Twitch處理違規問題的模糊性與低透明度的批評。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Epic Games",
+    "summary": "限時免費《Targeted - 10 Days》：Epic Games Store 推出新的喜加一活動，玩家可免費獲得由獨立工作室 Glitchy Frame Studio 開發的《Targeted - 10 Days》，可在 2026 年 8 月 31 日前領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Steam",
+    "summary": "2026 年度「彈球、彈珠機與保齡球遊戲節」活動：Steam 平台開啟 2026 年度「彈球、彈珠機與保齡球遊戲節」活動，多款益智策略類遊戲折扣，活動將於北京時間 8 月 21 日凌晨 1 點結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
@@ -373,30 +397,6 @@
     "title": "Joeman 遭蕭伊毀滅式爆料",
     "summary": "百萬YouTuber Joeman 近日捲入與前女友蕭伊的感情糾紛，蕭伊在社群平台Threads上爆料Joeman交往期間充斥謊言，並指控其私約女優吃飯。Joeman隨後發出道歉聲明，坦承沒有好好珍惜這段關係，並表示蕭伊並非為了金錢而爆料。此次事件引發網友熱烈討論，有命理師在半年前預警今年將是Joeman運勢不佳的一年，「傷官見官，是要吃官司的」，如今被網友封為「預言家」並前往其貼文朝聖。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "韓國釜山獨立遊戲節 BIC Festival 2026 圓滿落幕",
-    "summary": "韓國釜山獨立遊戲節 (BIC Festival 2026) 於 8 月 17 日圓滿結束為期三天的線下活動，創下歷屆最大展覽規模和最多觀展人數紀錄。本屆從全球 57 個國家 856 件作品中，遴選出 42 個國家 332 件作品展出。線下活動雖已結束，但線上展覽將持續至 8 月 28 日，讓全球玩家仍可瀏覽獲獎及參展作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "Joeman與蕭伊分手風波延燒",
-    "summary": "百萬YouTuber Joeman與前女友蕭伊的分手事件持續發酵，蕭伊在Threads上接連爆料Joeman交往期間的謊言，包括隱瞞女網紅租客、私約女優等。Joeman隨後發表聲明認錯，坦承自己不是好對象。蕭伊於8月18日表示暫停爆料，將重心放回工作與生活，並向吃瓜群眾喊話「想吃瓜的可以退我追了」。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/17",
-    "title": "台灣VTuber經紀公司Limnos宣布停止營運",
-    "summary": "台灣VTuber經紀公司Limnos（利姆諾斯）於8月17日公告，將於2026年10月31日正式結束營運並解散團隊，旗下藝人全數畢業。營運團隊表示，經過對整體狀況與未來發展的審慎評估，現階段已難以維持原有的營運規模與活動。。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
     "days_left": 5
   },
   {
@@ -5475,6 +5475,15 @@
     "date": "2026/05/24",
     "title": "來自 2058 年的國分玲預言：2026 年底全球將爆發全新傳染病",
     "summary": "自稱來自 2058 年的「未來人」國分玲透過社群平台發出警告，預言在 2026 年底前將有一種全新的傳染病肆虐全球。她也提及俄烏戰爭的停火時間已定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "大膽預測",
+    "summary": "Investing.com 對 2026 年底市場的 7 項預測：Investing.com 在 8 月 12 日提出了 7 項對 2026 年底市場的大膽預測，包括 Constellation Software 股價回升至 4,000 加元以上、兩項加拿大企業收購案、黃金、能源和銀行股創下新高，並預測能源 ETF 將從 8 月 12 日起增長 50%。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
