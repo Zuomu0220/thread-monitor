@@ -56,6 +56,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Epic Games 限時免費遊戲《Targeted - 10 Days》",
+    "summary": "Epic遊戲商店推出新的限時免費遊戲活動，獨立工作室Glitchy Frame Studio開發的探索解密偵探遊戲《Targeted - 10 Days》可免費領取，活動至2026年8月31日截止。該遊戲在Steam上售價22元，但在Epic顯示價格高達618元，疑為系統錯誤。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/16",
     "title": "實況主可杰",
     "summary": "中國《無畏契約》手遊週年慶直播與組合「TOP登陸少年」合作，主持人多次念錯團名，實況主可杰在念粉絲ID時發音被部分觀眾解讀為冒犯性詞彙，加上工作人員私下稱「對面的粉絲非常恐怖」被直播收錄，引發粉絲強烈不滿。可杰雖曾發文解釋為口音誤會並無惡意，但隨後刪除澄清並關閉評論區，後又發布爭議影片，被指態度敷衍。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/16",
-    "title": "網紅Kson",
-    "summary": "網紅Kson在直播道別時，因洋裝拉鍊未拉好，意外側身走光，性感一面在鏡頭前曝光，引發粉絲與社群熱議。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2060,6 +2060,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告 2026 年 9 月 26 日再次現身",
     "summary": "此前曾精準預言多項事件的未來人國分玲，表示他將於 2026 年 9 月 26 日再次歸來，並回答網友的問題，引發社群平台廣泛關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058未來人國分玲將於9月回歸",
+    "summary": "自稱來自2058年的日本2CH論壇神秘人國分玲，曾精準預言多起事件。他曾表示將於2026年9月26日再次歸來，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
