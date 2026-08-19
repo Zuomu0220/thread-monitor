@@ -33,6 +33,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/19",
+    "title": "遊戲實況主桃黑黑因朋友不當言論引發掉粉危機",
+    "summary": "中國遊戲實況主桃黑黑因其朋友在《無畏契約》排位賽中發表極端辱女言論，儘管桃黑黑聲稱不認可也不偏袒，但被指在場多次搭腔且未及時制止，導致單日掉粉近4萬，近30天累計流失粉絲超過16萬。桃黑黑拒絕對方主播提出的經濟賠償，並表示已取證將採取法律手段，但批評者認為其為「默許式共犯」。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/18",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026 年 08 月 11 日至 2026 年 08 月 18 日期間，未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈實況主與 VTuber 事件。",
@@ -157,6 +165,14 @@
     "title": "百萬直播主遭榜一大哥控訴詐騙1億",
     "summary": "根據新聞報導，一名擁有200萬粉絲的直播主被其「榜一大哥」指控詐騙高達1億新台幣，直播主的母親也出面揭露了驚人內幕。此事件在社群中引發熱烈討論，被視為近期華語直播圈的一大負面爭議。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/18",
+    "title": "Joeman與蕭伊分手後爆料不斷，牽涉多位網紅",
+    "summary": "百萬YouTuber Joeman與網紅蕭伊分手後，蕭伊連日爆料，指控Joeman隱瞞女網紅租客、私約AV女優Tiny、長期要求無套服用避孕藥等五大爭議。Joeman已發布道歉聲明，而AV女優Tiny（胎尼）亦於8月19日對外界質疑其私生活，公開澄清曾有過開放式關係但並非「性友」。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/17",
     "title": "Steam 八月主題特賣活動預告：電馭叛客節與玩家合作生存工藝節將登場",
     "summary": "根據Steam官方時程，8月份將陸續舉辦「電馭叛客節」、「彈珠與樁釘節」以及「玩家合作生存工藝節」等主題特賣活動，將針對特定遊戲類型提供折扣優惠，具體日期與詳細遊戲名單預計將陸續公布。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam/Epic 限免《Deponia》《Targeted – 10 Days》",
-    "summary": "Steam 平台喜劇冒險遊戲《Deponia》再次開放7日限時免費領取，作為系列新作預熱活動，截止日期為2026年8月21日上午1點前。 Epic Games Store 平台獨立團隊Glitchy Frame Studio開發的生存逃脫冒險遊戲《Targeted – 10 Days》也限時免費領取，截止日期為2026年8月31日23:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 2026年8月「Free-to-Keep Game」提前曝光：《Mafia: Definitive Edition》",
-    "summary": "Steam 預計在8月底推出可永久保留的免費遊戲《Mafia: Definitive Edition》，目前正進行85%折扣，從原價$39.99降至約$5。 此折扣將持續到8月底，被視為遊戲即將免費領取的前兆。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -5520,6 +5520,15 @@
     "date": "2026/08/17",
     "title": "印度神童Anand預言太平洋火環「巨龍甦醒」",
     "summary": "印度神童阿南德的 2026 年最新預言稱，太平洋火環帶將爆發極高級數地震，全球截至 8 月中旬已錄得至少 10 宗規模 7 級以上強震，他同時預警經濟巨震、AI 反噬危機及地緣政局動盪。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058未來人國分玲警告2026年底將有新型傳染病肆虐全球",
+    "summary": "自稱來自2058年的日本國分玲預言，2026年底將有一種全新的傳染病在全球範圍內爆發，其預言準確性曾引發廣泛討論，並提及俄烏衝突的停火時間。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
