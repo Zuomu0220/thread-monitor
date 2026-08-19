@@ -17,6 +17,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/20",
+    "title": "目前無台灣/華語圈實況主負面與爭議事件",
+    "summary": "在 2026/08/13 至 2026/08/20 期間，經搜捕網路社群與新聞網站，未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈實況主相關事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/20",
+    "title": "目前無台灣/華語圈VTuber負面與爭議事件",
+    "summary": "在 2026/08/13 至 2026/08/20 期間，經搜捕網路社群與新聞網站，未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的台灣/華語圈 VTuber 相關事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
     "summary": "在 2026 年 8 月 12 日至 8 月 19 日期間，華語圈內未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主相關重大負面與爭議事件被廣泛報導或討論。",
@@ -381,22 +397,6 @@
     "title": "目前無 2026/08/10-08/17 期間的即時負面或爭議事件",
     "summary": "由於無法存取未來的即時資訊，目前無法提供此時間範圍內的台灣/華語圈實況主負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Epic Games Store 最新遊戲推出：圖科尼：森林看護者 & Project DeepWeb: Eternal Nightmare",
-    "summary": "Epic Games Store 在 2026 年 8 月 17 日有兩款新遊戲開放：《圖科尼：森林看護者》和《Project DeepWeb: Eternal Nightmare》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "Joeman與蕭伊分手風波",
-    "summary": "百萬YouTuber Joeman遭前女友蕭伊毀滅式爆料，指控他在交往期間隱瞞與異性網紅往來，並趁她出國時私約AV女優「T開頭、台灣人」吃飯並載回家，甚至在被抓包後辯稱是「兄弟關係」。蕭伊另提及Joeman曾以「扣分、加分」形容她，並要求凌晨驅車為其煮牛肉麵。Joeman隨後發文道歉，坦言在感情中「有很多做錯的地方」，並承認未珍惜真心愛他的人。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
     "days_left": 4
   },
   {
