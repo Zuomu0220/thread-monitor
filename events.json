@@ -33,6 +33,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/20",
+    "title": "目前無相關事件",
+    "summary": "由於目前時間設定為 2026 年 8 月 20 日，Google 搜尋結果未能找到在 2026/08/13 至 2026/08/20 期間發生的台灣/華語圈實況主相關負面爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
     "summary": "在 2026 年 8 月 12 日至 8 月 19 日期間，華語圈內未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主相關重大負面與爭議事件被廣泛報導或討論。",
@@ -389,14 +397,6 @@
     "title": "Steam《Tukoni: Forest Keepers》今日發售，試玩版已開放",
     "summary": "由烏克蘭工作室Dream Operator製作的繪本風解謎冒險遊戲《Tukoni: Forest Keepers》於8月17日在Steam發售，目前提供試玩版。這是一款無文字或低文字依賴的點擊解謎遊戲，適合喜歡慢節奏短篇冒險的玩家。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "目前無 2026/08/10-08/17 期間的即時負面或爭議事件",
-    "summary": "由於無法存取未來的即時資訊，目前無法提供此時間範圍內的台灣/華語圈實況主負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2132,6 +2132,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的國分玲預告將於2026年9月26日再次現身",
     "summary": "自稱未來人的國分玲曾表示，他將在 2026 年 9 月 26 日再次回歸，回答網友提問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/06",
+    "title": "2058 年未來人國分玲 2026-2030 年重大事件預言",
+    "summary": "來自 2058 年的日本未來人國分玲，曾因預言日本東京奧運金牌數、2020 年全球股市暴跌、安倍晉三辭職、東京奧運延期等事件而爆紅。她預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系動搖。國分玲也曾表示她將於 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -5664,6 +5673,15 @@
     "date": "2026/01/06",
     "title": "未來人國分玲預警 2026 年日本面臨「三大危機」",
     "summary": "來自 2058 年的未來人國分玲曾對 2026 年日本做出預言警告，指出日本將面臨「現金消滅」、「複合災害」以及「日本崩潰」的三大危機情境。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 比特幣預言者預測 2026 年 BTC 達到 100 萬美元",
+    "summary": "一位在 2019 年準確預測比特幣底部和反彈的匿名 4chan 用戶，在 2025 年 11 月再次發布預言，聲稱比特幣將在 2026 年底前達到 100 萬美元，以太坊達到 10 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
