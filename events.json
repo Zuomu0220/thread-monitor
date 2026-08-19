@@ -40,6 +40,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "東亞獨立遊戲慶典 EAIGC 於 Steam 平台展開",
+    "summary": "由台灣團隊發起的第二屆「東亞獨立遊戲慶典」(East Asia Indie Games Celebration, EAIGC) 於 8 月 5 日至 8 月 19 日在 Steam 平台舉行，集結 550 款獨立遊戲與上百款 Demo 試玩，並結合限時特賣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/18",
     "title": "無最新負面與爭議事件",
@@ -173,6 +181,14 @@
     "title": "Joeman與蕭伊分手後爆料不斷，牽涉多位網紅",
     "summary": "百萬YouTuber Joeman與網紅蕭伊分手後，蕭伊連日爆料，指控Joeman隱瞞女網紅租客、私約AV女優Tiny、長期要求無套服用避孕藥等五大爭議。Joeman已發布道歉聲明，而AV女優Tiny（胎尼）亦於8月19日對外界質疑其私生活，公開澄清曾有過開放式關係但並非「性友」。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Steam 「命運抉擇節」參與活動免費領取 Steam 物品",
+    "summary": "Steam 平台舉辦「命運抉擇節」(Choices Matter Festival) 活動，玩家登入 Steam 帳號回答三個問題後，即可至個人物品庫領取免費 Steam 物品，活動至台灣時間 8 月 18 日 01:00 截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/17",
     "title": "Steam 遊戲特價：《Mafia: Definitive Edition》",
     "summary": "Steam 平台對《Mafia: Definitive Edition》提供 85% 的折扣優惠，此次特價將持續至 8 月底。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/17",
-    "title": "企業勢VTuber團體「虹彩社TW」成員「小葵」宣布無限期停播",
-    "summary": "虹彩社TW官方突發公告，旗下VTuber「小葵」因「身心健康因素」即日起無限期停播。社群間流傳其停播與內部合約糾紛及長期直播壓力有關，引發粉絲高度擔憂與不捨，並對經紀公司的處理方式產生質疑。",
-    "avatar_url": "https://i.imgur.com/nijisanji_xiaokui.jpg",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 八月主題特賣活動預告：電馭叛客節與玩家合作生存工藝節將登場",
-    "summary": "根據Steam官方時程，8月份將陸續舉辦「電馭叛客節」、「彈珠與樁釘節」以及「玩家合作生存工藝節」等主題特賣活動，將針對特定遊戲類型提供折扣優惠，具體日期與詳細遊戲名單預計將陸續公布。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -5529,6 +5529,24 @@
     "date": "2026/05/24",
     "title": "2058未來人國分玲警告2026年底將有新型傳染病肆虐全球",
     "summary": "自稱來自2058年的日本國分玲預言，2026年底將有一種全新的傳染病在全球範圍內爆發，其預言準確性曾引發廣泛討論，並提及俄烏衝突的停火時間。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "印度神童阿南德預言 2026 年經濟巨震與 AI 反噬危機",
+    "summary": "印度神童阿南德 (Abhigya Anand) 預言 2026 年將面臨金融市場劇烈波動，金價可能暴漲 4 倍，全球物資短缺與糧食危機加劇。他也警告，若人類過度依賴人工智慧，智能體恐反制人類，成為新時代一大挑戰。此外，地緣政治動盪加劇，美中關係惡化，南海衝突升溫，西方政治秩序衰退。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "印度神童阿南德預言太平洋火環帶巨震應驗",
+    "summary": "印度神童阿南德 (Abhigya Anand) 早前預警太平洋火環帶「巨龍甦醒」，環太平洋地區將爆發極高級數地震。截至 2026 年 8 月中旬，全球已錄得至少 10 宗規模 7 級以上強震，完美呼應其預言。他暗示若板塊能量未完全釋放，2026 年或將迎來新一輪劇烈地質活動。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
