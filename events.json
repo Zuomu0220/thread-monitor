@@ -1,5 +1,21 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Steam 即將發行遊戲《Mortal Shell II》",
+    "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Steam 即將發行遊戲《How to Fish》",
+    "summary": "多人線上合作釣魚遊戲《How to Fish》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -84,6 +100,22 @@
     "date": "2026/08/19",
     "title": "東亞獨立遊戲慶典 EAIGC 結束多款遊戲試玩",
     "summary": "第二屆東亞獨立遊戲慶典（East Asia Indie Games Celebration, EAIGC）於 8 月 5 日至 8 月 19 日在 Steam 平台舉行，期間集結 550 款獨立遊戲，並提供超過百款遊戲的公開試玩（Demo）或封閉測試。活動已於昨日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Steam 即將發行遊戲《放置領主：財富之城》",
+    "summary": "休閒城市營造遊戲《放置領主：財富之城》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Steam 即將發行遊戲《STEINS;GATE RE:BOOT》",
+    "summary": "視覺小說遊戲《STEINS;GATE RE:BOOT》於 Steam 平台發行，擁有豐富劇情與多重結局。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -280,6 +312,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/18",
+    "title": "Steam 免費序號領取",
+    "summary": "Steam 平台推出《Tape 101: Liminal Descent (Beta)》的免費序號領取活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
@@ -356,46 +396,6 @@
     "date": "2026/08/17",
     "title": "Steam 世嘉發行商特賣活動：《全面戰爭》系列等多款大作參與折扣",
     "summary": "自 2026 年 8 月 14 日起，世嘉在 Steam 平台開啟發行商特賣活動，旗下《全面戰爭》系列全線折扣，部分作品達到歷史最低價，例如《全面戰爭：戰錘3》折後僅售 44.7 元人民幣。活動將持續至 8 月 27 日。除《全面戰爭》外，《如龍》、《女神異聞錄》、《索尼克》等多款世嘉旗下 IP 也同步參與折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "實況主多米多羅因「玩梗」文化與創作者小尾巴爆發爭議",
-    "summary": "知名YouTuber多米多羅近日因與創作者「小尾巴」之間的「玩梗」爭議受到關注。小尾巴於8月16日公開影片，表示長期受多米多羅相關玩笑與留言影響，甚至因此尋求心理諮商，並宣告雙方關係已無法繼續。多米多羅隨後在影片下方留言道歉，坦承當時僅想「炒熱氣氛」，並表示會檢討自身行為並下架相關影片。此事件引發遊戲實況與網路創作者圈對「玩梗」界線的討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "多米多羅與小尾巴「玩梗」文化爭議",
-    "summary": "YouTuber多米多羅近日因與創作者小尾巴之間的玩笑和留言引發爭議。小尾巴公開影片表示受到影響，甚至尋求心理諮商，並表示雙方關係已無法繼續。多米多羅已在影片下方留言道歉，坦言當時只是想「炒熱氣氛」，並表示會檢討自己的行為。此事件引發了對遊戲實況與網路創作者「玩梗」文化界線的討論，提醒創作者流量越大，玩笑所需承擔的責任也越大。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam/Epic 限免遊戲《Deponia》與《Targeted – 10 Days》",
-    "summary": "Steam 平台喜劇冒險遊戲《Deponia》再次限時免費領取，活動至 2026/08/21 上午 1 點截止。Epic Games Store 平台生存逃脫遊戲《Targeted – 10 Days》限時免費領取，活動至 2026/08/31 23:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam：《Deponia》限時免費領取",
-    "summary": "喜劇冒險遊戲《Deponia》在 Steam 平台再次開放限時免費領取，活動截止至 2026 年 8 月 21 日上午 1 點，玩家可永久保存至收藏庫，遊戲支援繁體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam：《Mafia: Definitive Edition》預告8月免費",
-    "summary": "Steam 平台上的黑幫經典重製版《Mafia: Definitive Edition》目前正進行 85% 的折扣，預計將於 2026 年 8 月底前開放永久免費領取，此為 Steam 常見在遊戲免費前大幅降價的慣例。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
