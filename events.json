@@ -16,6 +16,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "《Fidget Widget》於「East Asia Indie Games Celebration 2026」期間特賣",
+    "summary": "《Fidget Widget》參加「East Asia Indie Games Celebration 2026」活動，即日起至 2026 年 8 月 19 日期間提供 30% 折扣特惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "《絕區零》希格莉德時裝限時折扣",
+    "summary": "手機/PC 遊戲《絕區零》於 3.1 版本更新「漫長的告別」後，希格莉德時裝「驚鴻逐浪」在商城限時折扣出售，期間為 2026 年 8 月 19 日 12:00（伺服器時間）至 2026 年 9 月 9 日 05:59（UTC+8），折扣後售價為 1350 菲林底片。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/18",
     "title": "無最新負面與爭議事件",
@@ -109,6 +125,14 @@
     "title": "Steam",
     "summary": "2026 年度「彈球、彈珠機與保齡球遊戲節」活動：Steam 平台開啟 2026 年度「彈球、彈珠機與保齡球遊戲節」活動，多款益智策略類遊戲折扣，活動將於北京時間 8 月 21 日凌晨 1 點結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/18",
+    "title": "Joeman「翻車」事件引發預言熱議",
+    "summary": "Threads網友eml_dong在9個月前曾精準預警Joeman在2026年（丙午年）將會遭遇「絕對不好的一年」，並特別指出事件將「跟女人有關」。隨著近日Joeman相關負面新聞爆出，大批網友湧入eml_dong的原始貼文朝聖，稱其為「真預言家」和「時空旅人」，引發社群熱烈討論。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
     "days_left": 6
   },
   {
@@ -373,30 +397,6 @@
     "title": "世界賽主播悠五因播報風格遭觀眾負評炎上",
     "summary": "知名遊戲主播悠五（Yuwu），在世界賽播報期間因其使用詞語奇特、講話尷尬、缺乏幽默感且語調奇怪等因素，在社群平台上（如遊戲大亂鬥等）獲得壓倒性負面評價，引發大量觀眾不滿與「炎上」。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 免費遊戲《Deponia》限時領取",
-    "summary": "《Deponia》於 Steam 平台開放限時免費領取至 2026 年 8 月 20 日，錯過後將恢復原價。此外，「Daedalic Days」活動將持續至 8 月 27 日，仍可瀏覽其他特價商品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 潛在免費遊戲《Mafia: Definitive Edition》特價預示",
-    "summary": "Steam 平台提前曝光 2026 年 8 月將有一款「Free-to-Keep Game」，目前《Mafia: Definitive Edition》正進行 85% 折扣，價格從原價 39.99 美元下殺至約 5 美元，優惠將持續到 8 月底，此舉被視為遊戲即將永久免費領取的前兆。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 「彈珠與樁釘節」主題特賣",
-    "summary": "Steam 於 2026 年 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」主題特賣活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -2096,6 +2096,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的國分玲預告將於 2026 年 9 月 26 日再次現身",
     "summary": "此前曾多次做出精準預言的「未來人」國分玲表示，她將於 2026 年 9 月 26 日再次歸來，並回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告2026年9月26日再次歸來",
+    "summary": "據稱來自 2058 年的未來人國分玲表示，他將在 2026 年 9 月 26 日再次現身，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
