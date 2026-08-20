@@ -144,6 +144,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store下週免費遊戲預告：《Cardpocalypse》與《Albion Online Epic Mage Bundle》",
+    "summary": "Epic Games Store預告將於2026年8月20日至8月27日開放免費領取卡牌遊戲《Cardpocalypse Standard Edition》以及《Albion Online Epic Mage Bundle》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -320,6 +328,14 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/19",
+    "title": "中型實況主「蛋塔」因遊戲態度不佳與觀眾社群吵架",
+    "summary": "實況主蛋塔在遊戲中表現不佳，面對觀眾指責時情緒失控，在Discord社群與多名觀眾爆發激烈口角，並揚言無限期停播。事件截圖與錄音檔已在PTT與巴哈姆特等論壇傳開，引起大量玩家討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/08/18",
     "title": "Steam 活動",
@@ -381,22 +397,6 @@
     "title": "Joeman與蕭伊分手風波延燒：凌晨牛肉麵梗爆紅，Toyz茶飲公司搭順風車推出新品",
     "summary": "百萬YouTuber Joeman與網紅蕭伊近日證實分手，隨後蕭伊揭露Joeman曾私約女優，並要求她在凌晨時段從林口開車到新莊幫忙熱牛肉麵，一句「我想吃牛肉麵」意外成為網路迷因。知名直播主Toyz創辦的「拾汣茶屋」迅速搭上這波熱潮，於8月18日推出諧音為「JOE愛凌晨牛肉麵」的新品「JOE愛檸橙柳肉蜜」，並在宣傳語中暗諷Joeman要求前女友幫繳房貸的爭議。此行銷操作引發網友熱烈討論，認為「含金量極高」。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/18",
-    "title": "Twitch",
-    "summary": "MOTHERv3 遭誤判BAN 台後成功撤銷：知名VTuber MOTHERv3 頻道去年12月遭Twitch無預警封禁，經過超過50次申訴並動用律師後，最終成功撤銷封禁。此事件再次引發了對於Twitch處理違規問題的模糊性與低透明度的批評。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/18",
-    "title": "Epic Games",
-    "summary": "限時免費《Targeted - 10 Days》：Epic Games Store 推出新的喜加一活動，玩家可免費獲得由獨立工作室 Glitchy Frame Studio 開發的《Targeted - 10 Days》，可在 2026 年 8 月 31 日前領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -779,9 +779,9 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/05/19",
+    "date": "2026/08/15",
     "title": "2058年未來人國分玲預告2026年9月26日將再次現身",
-    "summary": "自稱來自2058年的日本「未來人」國分玲因過去預言的準確性而廣受關注。她曾預言2028年全球將爆發新一輪金融危機，由美國國債違約引發，動搖美元全球結算體系。國分玲表示她將於2026年9月26日再次歸來，回答大眾的問題。",
+    "summary": "自稱來自2058年的日本「未來人」國分玲，曾成功預言多項事件而爆紅，她預告將於2026年9月26日再次回到網路，揭露關於未來十年的所有答案，特別是俄烏戰爭的最終結局。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
