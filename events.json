@@ -120,6 +120,22 @@
     "days_left": 7
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/20",
+    "title": "未有新資訊",
+    "summary": "在 2026/08/13 至 2026/08/20 期間，未發現台灣/華語圈 VTuber 相關的重大負面與爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store 即將免費領取：《Cardpocalypse》",
+    "summary": "《Cardpocalypse》將於 2026 年 8 月 20 日至 8 月 27 日在 Epic Games Store 開放免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -289,6 +305,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Steam 新增多款 Demo",
+    "summary": "Steam 於 2026 年 8 月 19 日上架多款遊戲試玩版，包括《Cyber Planet Demo》（動作類）、《Tomato Dealer》（商店經營、社交推理、農場模擬、多結局）以及《White Dwarf》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/18",
     "title": "Steam 活動",
     "summary": "東亞獨立遊戲慶典持續進行中，本次慶典集結了 550 款來自東亞各地的獨立遊戲，並有超過百款遊戲提供試玩（Demo）或封閉測試（Playtest）。",
@@ -373,30 +397,6 @@
     "title": "Steam",
     "summary": "2026 年度「彈球、彈珠機與保齡球遊戲節」活動：Steam 平台開啟 2026 年度「彈球、彈珠機與保齡球遊戲節」活動，多款益智策略類遊戲折扣，活動將於北京時間 8 月 21 日凌晨 1 點結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/18",
-    "title": "Joeman「翻車」事件引發預言熱議",
-    "summary": "Threads網友eml_dong在9個月前曾精準預警Joeman在2026年（丙午年）將會遭遇「絕對不好的一年」，並特別指出事件將「跟女人有關」。隨著近日Joeman相關負面新聞爆出，大批網友湧入eml_dong的原始貼文朝聖，稱其為「真預言家」和「時空旅人」，引發社群熱烈討論。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/18",
-    "title": "知名YouTuber Joeman深陷感情糾紛，9個月前神預言被挖出",
-    "summary": "百萬YouTuber Joeman近期因與前女友蕭伊的感情風波持續延燒，被指控隱瞞異性租客、私下邀約AV女優等。有網友翻出2025年11月Threads上一則透過紫微斗數分析Joeman運勢的貼文，該預言精準指出2026年對他將是「傷官見官，要吃官司的」，且「與女人脫不了關係」，該貼文在事件爆發後被大量網友朝聖，驚呼預言成真。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/18",
-    "title": "趙建銘 Threads小帳被起底狂追色情按摩",
-    "summary": "前總統陳水扁女婿趙建銘的Threads私人帳號遭網友挖出，該帳號不僅曾為本人喊冤，還被發現頻繁搭訕女性並追蹤大量色情按摩帳號。前妻陳幸妤已親自證實該帳號為趙建銘本人，並指出他過去就常「多線發展」，此事件迅速引發PTT網友高度討論，許多人直呼這是「阿銘社死」等級的公關危機。  (註：圖片網址為示意，實際應為公開可用的趙建銘近期照片)",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
