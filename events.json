@@ -48,6 +48,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store 即將免費領取：《卡片世界末日》、《阿爾比恩Online：史詩法師禮包》",
+    "summary": "Epic Games Store 宣布，從 2026 年 8 月 20 日至 8 月 27 日，玩家將可限時免費領取《Cardpocalypse Standard Edition》和《Albion Online: Epic Mage Bundle》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -156,6 +164,14 @@
     "date": "2026/08/19",
     "title": "gamescom 2026 獨立遊戲展區規模創新高，德國總統將首次出席",
     "summary": "歐洲知名電玩展 gamescom 2026 即將於下週在德國科隆登場，主辦單位宣布本次展會將迎來 67 個地區、超過 1600 家參展商，展覽總面積達 23.3 萬平方公尺，其中獨立遊戲展區規模創下歷史新高。德國聯邦總統 Frank-Walter Steinmeier 將首次出席科隆遊戲展並發表主題演講。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Gamescom 2026 獨立遊戲展區規模創新高",
+    "summary": "歐洲知名電玩展 Gamescom 2026 即將於下週在德國科隆登場，主辦單位宣布本次獨立遊戲展區規模創下歷史新高，將匯聚數百款遊戲和超過 420 家公司，規模比去年增長 16%。開幕夜直播（gamescom Opening Night Live）預定於台灣時間 8 月 26 日凌晨 2 時登場。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -376,28 +392,12 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/17",
-    "title": "目前無最新負面或爭議事件",
-    "summary": "在 2026/08/10 至 2026/08/17 之間，未發現台灣/華語圈實況主或 VTuber 有新的負面或爭議事件報導。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 主題特賣",
-    "summary": "Steam 將舉辦「彈珠與樁釘節」（Pinball & Peggle Fest），活動期間為 2026 年 8 月 17 日至 8 月 20 日，主要收錄與彈珠檯、保齡球、柏青哥等相關的遊戲作品。",
+    "date": "2026/08/18",
+    "title": "Steam 新發售：《星砂島》",
+    "summary": "生活模擬、農場模擬、角色扮演與建造遊戲《星砂島》於 2026 年 8 月 18 日在 Steam 平台發行，目前享 8 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam 彈珠與樁釘節",
-    "summary": "Steam 平台將於 2026 年 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」，主打彈珠台、保齡球、柏青哥等相關遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
@@ -2195,6 +2195,15 @@
     "date": "2026/05/31",
     "title": "2058年未來人國分玲預告將於2026年9月26日回歸",
     "summary": "一名自稱來自2058年的日本未來人國分玲，曾於2021年秋天表示將回到2058年，並預告下一次能穩定穿越回這個時空的節點是2026年9月26日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2026 年是日本及全球重大轉折點",
+    "summary": "自稱來自 2058 年的「未來人」國分玲，因過去預言的高準確率而受到關注。他曾表示 2026 年將是日本及全球的重大轉折點，並預告將在 2026 年 9 月 26 日再次現身回答眾人疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -4518,15 +4527,6 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/04/08",
-    "title": "未來人國分玲預言 2026 年是日本及全球重大轉折點",
-    "summary": "來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
     "date": "2026/02/27",
     "title": "4chan「比特幣先知」回歸：預言2026年底比特幣將達100萬美元，以太坊達10萬美元",
     "summary": "一篇來自 2025 年 11 月的匿名 4chan 貼文於 2026 年 2 月 27 日再度在社群媒體上廣為流傳。該貼文自稱是 2019 年曾準確預測比特幣低點的「4chan 比特幣先知」，預測在 2026 年底前，比特幣價格將達到 100 萬美元，以太坊將達到 10 萬美元。此預言引發社群熱烈討論，儘管其真實性仍存疑。",
@@ -5844,6 +5844,15 @@
     "date": "2026/12/25",
     "title": "命理師蔡上機的2026年「AI詐騙全面升級」預言",
     "summary": "命理師蔡上機指出，2026年將是一個詐騙手法與科技高度結合、真假資訊更難分辨的一年。他稱這一年為「智慧型世紀大騙局」和「世界大詐騙」當道，充斥著謠言、恐慌、動盪和貪婪混亂的氛圍。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "未來人國分玲警告 2026 年底全新傳染病將肆虐全球",
+    "summary": "來自 2058 年的未來人國分玲發出最新預言警告，指出到 2026 年底，全球將爆發一種全新的傳染病。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
