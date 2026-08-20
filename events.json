@@ -112,6 +112,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store 特惠活動",
+    "summary": "Epic Games Store 正進行限時特惠活動，多款遊戲享有深度折扣，優惠截至北京時間 2026 年 8 月 20 日晚上 11 點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -265,6 +273,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Steam 最新遊戲 Demo：《Cyber Planet Demo》",
+    "summary": "動作遊戲《Cyber Planet Demo》於 2026 年 8 月 19 日在 Steam 平台釋出免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/19",
+    "title": "Steam 最新遊戲 Demo：《White Dwarf》",
+    "summary": "遊戲《White Dwarf》於 2026 年 8 月 19 日在 Steam 平台釋出免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/18",
     "title": "Steam 活動",
     "summary": "東亞獨立遊戲慶典持續進行中，本次慶典集結了 550 款來自東亞各地的獨立遊戲，並有超過百款遊戲提供試玩（Demo）或封閉測試（Playtest）。",
@@ -373,30 +397,6 @@
     "title": "趙建銘 Threads小帳被起底狂追色情按摩",
     "summary": "前總統陳水扁女婿趙建銘的Threads私人帳號遭網友挖出，該帳號不僅曾為本人喊冤，還被發現頻繁搭訕女性並追蹤大量色情按摩帳號。前妻陳幸妤已親自證實該帳號為趙建銘本人，並指出他過去就常「多線發展」，此事件迅速引發PTT網友高度討論，許多人直呼這是「阿銘社死」等級的公關危機。  (註：圖片網址為示意，實際應為公開可用的趙建銘近期照片)",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/18",
-    "title": "百萬直播主遭榜一大哥控訴詐騙1億",
-    "summary": "根據新聞報導，一名擁有200萬粉絲的直播主被其「榜一大哥」指控詐騙高達1億新台幣，直播主的母親也出面揭露了驚人內幕。此事件在社群中引發熱烈討論，被視為近期華語直播圈的一大負面爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/18",
-    "title": "Joeman與蕭伊分手後爆料不斷，牽涉多位網紅",
-    "summary": "百萬YouTuber Joeman與網紅蕭伊分手後，蕭伊連日爆料，指控Joeman隱瞞女網紅租客、私約AV女優Tiny、長期要求無套服用避孕藥等五大爭議。Joeman已發布道歉聲明，而AV女優Tiny（胎尼）亦於8月19日對外界質疑其私生活，公開澄清曾有過開放式關係但並非「性友」。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/18",
-    "title": "Steam 「命運抉擇節」參與活動免費領取 Steam 物品",
-    "summary": "Steam 平台舉辦「命運抉擇節」(Choices Matter Festival) 活動，玩家登入 Steam 帳號回答三個問題後，即可至個人物品庫領取免費 Steam 物品，活動至台灣時間 8 月 18 日 01:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
