@@ -280,6 +280,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store 公布八月最終免費遊戲",
+    "summary": "Epic Games Store 正式公布其 2026 年 8 月份的最終免費遊戲，兩款遊戲將於 8 月 27 日至 9 月 3 日限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "知名直播主「肥大叔」驟逝",
     "summary": "深耕直播拍賣十多年的台中知名直播主何裕輝（肥大叔）驚傳於 8 月 5 日離世，享年 46 歲。好友丟丟妹透露，肥大叔因長期高強度直播工作，導致肝臟舊疾惡化，下播後送醫隔天便宣告不治，生前背負員工生計壓力過勞倒下。",
     "avatar_url": "https://cc.tvbs.com.tw/img/upload/2026/08/19/20260819124237-f0c237c5.jpg",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/19",
-    "title": "時代峰峻總部男直播主與未成年粉絲衝突",
-    "summary": "打造知名男團 TFBOYS、時代少年團的經紀公司「時代峰峻」位於重慶長江國際的大樓總部，近日爆發嚴重流血衝突。多名男直播主為博取網路流量，前往現場挑釁未成年女性粉絲，雙方衝突自上週日（8/16）起升級為肢體圍毆與性別對立事件。官方已緊急宣布「暫停訓練」。",
-    "avatar_url": "https://img.mirrormedia.mg/images/upload/2026/08/19/189874558_449969249767351_6702967169493540643_n.jpg",
     "days_left": 5
   },
   {
@@ -2228,6 +2228,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告：2026 年 9 月 26 日再次歸來",
+    "summary": "來自 2058 年的國分玲表示，他將在 2026 年 9 月 26 日再次回到網路社群，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -2309,6 +2318,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/01/04",
+    "title": "自稱來自 2027 年的 Wolf Tunes YT 預言：喬·拜登將於 2026 年 10 月去世",
+    "summary": "Wolf Tunes YT 預言，美國總統喬·拜登將於 2026 年 10 月去世。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/01",
+    "expiry_date": "2026/10/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/09",
     "title": "Reddit 論壇出現自稱「2077 年時間旅行者」警告極端天氣事件",
     "summary": "在 Reddit 的 r/conspiracy 版面，一位自稱來自 2077 年的匿名用戶發文，警告地球將在未來數月內經歷一系列前所未有的極端天氣事件，特別點名中歐地區將面臨歷史性洪災。該用戶提供了幾個模糊的日期和地點，引發社群熱議。",
@@ -2330,6 +2348,15 @@
     "date": "2026/01/04",
     "title": "自稱未來人預測 2016 年小丑將於萬聖節回歸",
     "summary": "一名自稱是未來人的預測者曾表示，2016 年的小丑主題將在 2026 年的萬聖節再次回歸，成為當時的熱門現象。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/31",
+    "expiry_date": "2026/11/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/04",
+    "title": "自稱來自 2027 年的 Wolf Tunes YT 預言：2026 年萬聖節「小丑」將回歸",
+    "summary": "Wolf Tunes YT 預言，2016 年出現的「小丑」現象將在 2026 年萬聖節期間再次出現。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/10/31",
     "expiry_date": "2026/11/01"
@@ -2384,6 +2411,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆巴巴萬加2026年預言",
     "summary": "已故保加利亞盲眼預言家巴巴萬加對2026年的預言再次引發熱議，其中「全球重大天災」與「AI取代人類工作」被追隨者認為已經應驗。她還預言外星太空船現身、第三次世界大戰爆發，以及俄羅斯總統普丁失去政權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/01",
+    "expiry_date": "2026/11/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/13",
+    "title": "盲眼預言家 Baba Vanga 預言：2026 年 11 月與外星人接觸",
+    "summary": "Baba Vanga 也預言，人類將在 2026 年 11 月與外星人接觸。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
@@ -2869,6 +2905,15 @@
     "date": "2026/01/04",
     "title": "來自 2026 年的時空旅人預言",
     "summary": "《GTA 6》將於 2026 年 11 月 19 日發布：一名自稱來自 2026 年的時空旅人預測，《俠盜獵車手 6 (Grand Theft Auto 6)》將於 2026 年 11 月 19 日發布。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/19",
+    "expiry_date": "2026/11/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/04",
+    "title": "自稱來自 2027 年的 Wolf Tunes YT 預言：GTA 6 將於 2026 年 11 月 19 日發售",
+    "summary": "一位自稱來自 2027 年的 YouTube 用戶 Wolf Tunes YT 預言，遊戲《俠盜獵車手 6》將於 2026 年 11 月 19 日發售。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/19",
     "expiry_date": "2026/11/20"
@@ -6615,6 +6660,33 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言：2028 年全球金融危機",
+    "summary": "自稱來自 2058 年的國分玲預言，全球將於 2028 年爆發新一輪金融危機，導火線是美國的國債違約，這將導致美元全球結算體系出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "自稱來自 2045 年的時空旅人 Adam Archon 預言：2028 年時間旅行將公開化",
+    "summary": "一名自稱來自 2045 年的時空旅人 Adam Archon 預言，時間旅行技術將在 2028 年向公眾開放。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "自稱來自 2033 年的時空旅人 Darryl Dean 預言：2028 年外星人帶來世界和平",
+    "summary": "自稱來自 2033 年的時空旅人 Darryl Dean 預言，外星人將於 2028 年到來，並將引領一個和平與繁榮的時代，全球將因此團結。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/01/01",
+    "expiry_date": "2028/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/15",
     "title": "2058年未來人國分玲新預言：2026年末全球新疫情，2028年AI奇點與俄烏和平",
     "summary": "一位自稱來自2058年的未來人「國分玲」，其過去的預言（如安倍晉三辭職、東京奧運獎牌數）被聲稱精準命中。近期，網路社群上再次出現關於國分玲新時間線的討論，內容涵蓋2026年至2058年的預測。其中包括2026年末爆發新的全球疫情、2028年人工智慧奇點將徹底改變勞動模式、俄烏戰爭將於2028年3月17日達成和平協議。",
@@ -6663,6 +6735,15 @@
     "date": "2026/07/18",
     "title": "來自 2045 年的時空旅行者預言外星人將於 2028 年 8 月首度接觸地球",
     "summary": "自稱來自 2045 年的時空旅行者 Adam Archon 在通過測謊後表示，外星人將在 2028 年 8 月首次與人類進行公開接觸，並強調他們並非來自外太空。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/08/01",
+    "expiry_date": "2028/08/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "自稱來自 2045 年的時空旅人 Adam Archon 預言：2028 年外星人降臨地球",
+    "summary": "Adam Archon 聲稱，外星人將於 2028 年 8 月降臨地球，結束政府數十年來對外星生命存在的保密。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/08/01",
     "expiry_date": "2028/08/02"
@@ -6807,6 +6888,15 @@
     "date": "2026/07/25",
     "title": "自稱來自2045年的亞當·阿爾瓊預言2029年2月將推行「合一」微晶片",
     "summary": "亞當·阿爾瓊預言，一種名為「The One」（合一）的可植入微晶片將於 2029 年 2 月開始推向大眾，該晶片將提升健康、認知能力並處理金融交易。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/02/01",
+    "expiry_date": "2029/02/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/25",
+    "title": "自稱來自 2045 年的時空旅人 Adam Archon 預言：2029 年植入式微晶片「The One」普及",
+    "summary": "Adam Archon 預言，一種名為「The One」的植入式微晶片將於 2029 年 2 月開始向公眾推廣，並將使貨幣變得過時。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2029/02/01",
     "expiry_date": "2029/02/02"
@@ -6969,6 +7059,15 @@
     "date": "2026/03/07",
     "title": "2062年未來人對第三次世界大戰的預言",
     "summary": "自稱來自2062年的未來人「2062氏」在2ch論壇上表示，第三次世界大戰將在「2030年以前」發生，而非2030年，並暗示當前的地緣政治局勢令人擔憂。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/01/01",
+    "expiry_date": "2030/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/14",
+    "title": "2062 未來人預言：2030 年前爆發第三次世界大戰",
+    "summary": "自稱來自 2062 年的未來人透露，全球將於 2030 年以前爆發第三次世界大戰，戰爭初期中日爆發軍事衝突，美國隨後介入，最終由印度擺平紛爭。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2030/01/01",
     "expiry_date": "2030/01/02"
@@ -7227,6 +7326,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "未來人國分玲預言：沖繩將於 2037 年遭遇天災",
+    "summary": "來自 2058 年的國分玲預言，2037 年 1 月沖繩地區將發生「直下型地震」，同年 8 月除了有餘震，還將同時受到颱風的襲擊，使災情更加嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/01",
+    "expiry_date": "2037/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2038 年外星文明將被正式接觸",
     "summary": "來自 2058 年的國分玲預言，到了 2038 年，太陽系將不再是地球文明的孤島，外星文明會被人類正式接觸，並指出這些外星文明可能藏匿在木星或土星的衛星上。",
@@ -7308,9 +7416,27 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/12",
+    "title": "KFK 2060 未來人預言：2048 年前無全球性戰爭",
+    "summary": "自稱來自 2060 年的 KFK 預言，全球在 2048 年以前不會發生全球性戰爭，但局部戰爭將持續不斷。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2048/01/01",
+    "expiry_date": "2048/01/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/01",
     "title": "時空旅人 Alexander Smith 預言人類將面臨三戰與外星接觸",
     "summary": "自稱來自 2118 年的時空旅人 Alexander Smith 預言，地球將在未來一百年內爆發第三次世界大戰，並指出至 2028 年，商業時空旅行將普及，美國政府也會公開高智慧外星生物的存在。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2050/01/01",
+    "expiry_date": "2050/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/12",
+    "title": "KFK 2060 未來人預言：2050 年代超級細菌將造成嚴重災難",
+    "summary": "KFK 預言，儘管癌症將被大體克服，但超級細菌將無法克服，並在 2050 年代給人類造成嚴重災難。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2050/01/01",
     "expiry_date": "2050/01/02"
@@ -7446,6 +7572,24 @@
     "date": "2026/02/12",
     "title": "2062年未來人預言：2062年中國不存在、台灣變日本領土",
     "summary": "一名自稱「2062未來人」在2010年於日本2ch論壇預言，2062年「中國不存在，台灣變成日本領土」。該未來人曾準確預測311大地震。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/14",
+    "title": "2062 未來人預言：2062 年中國將不復存在",
+    "summary": "2062 未來人預言，到 2062 年中國將不復存在，因暴力混亂與印度發生大規模衝突，遭所有國家攻擊，最終成為他國附屬國。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/14",
+    "title": "2062 未來人預言：2062 年南韓、北朝鮮不復存在",
+    "summary": "2062 未來人預言，南韓和北朝鮮將不復存在，曾一度成為中國自治區，現則屬於俄羅斯。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2062/01/01",
     "expiry_date": "2062/01/02"
