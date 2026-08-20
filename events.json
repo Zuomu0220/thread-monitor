@@ -2210,6 +2210,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲將再次歸來",
+    "summary": "來自 2058 年的國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -5853,6 +5862,24 @@
     "date": "2026/05/24",
     "title": "未來人國分玲警告 2026 年底全新傳染病將肆虐全球",
     "summary": "來自 2058 年的未來人國分玲發出最新預言警告，指出到 2026 年底，全球將爆發一種全新的傳染病。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶關於加密貨幣的預言",
+    "summary": "一位在 4chan 上被稱為「2019 年比特幣先知」的匿名用戶預測，比特幣將在 2026 年底達到 100 萬美元，以太坊將達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "2058 年未來人國分玲關於新傳染病的警告",
+    "summary": "2058 年未來人國分玲預言，在 2026 年底將有一種全新的傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
