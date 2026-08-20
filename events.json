@@ -89,6 +89,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/20",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/08/13 至 2026/08/20 期間，未發現台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等最新負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store 限時免費：《Cardpocalypse》",
+    "summary": "Epic Games Store 宣布自 8 月 20 日起至 8 月 27 日，玩家可限時免費領取遊戲《Cardpocalypse》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Steam 8 月主題遊戲節預告",
+    "summary": "Steam 預計在 2026 年 8 月舉辦多個主題遊戲節，包含「電馭叛客節」、「彈珠與樁釘節」以及「玩家合作生存工藝節」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
     "summary": "在 2026 年 8 月 12 日至 8 月 19 日期間，華語圈內未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主相關重大負面與爭議事件被廣泛報導或討論。",
@@ -157,14 +181,6 @@
     "title": "Steam 開羅遊戲大特價",
     "summary": "開羅遊戲（Kairosoft）推出暑假優惠，囊括其成立30年以來共62款作品的「Kairosoft Bundle」組合包在Steam上以約2折新台幣2,102元販售。此組合包原價為11,681元，新手玩家可考慮先購買組合包6與8再補差價購買此大包會更划算。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/19",
-    "title": "無最新負面與爭議事件",
-    "summary": "在2026年8月12日至2026年8月19日期間，未搜尋到符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的台灣/華語圈實況主負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/18",
     "title": "Steam 「命運抉擇節」參與活動免費領取 Steam 物品",
     "summary": "Steam 平台舉辦「命運抉擇節」(Choices Matter Festival) 活動，玩家登入 Steam 帳號回答三個問題後，即可至個人物品庫領取免費 Steam 物品，活動至台灣時間 8 月 18 日 01:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/18",
-    "title": "Steam 彈球、彈珠機與保齡球遊戲節",
-    "summary": "Steam 平台正在舉辦 2026 年彈球、彈珠機與保齡球遊戲節，活動期間至北京時間 2026 年 8 月 21 日凌晨 1 點截止，旨在慶祝所有包含彈球、彈珠機或保齡球元素的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/18",
-    "title": "Steam 日本 FPS 精選包特惠",
-    "summary": "日本獨立遊戲發行商 Waku Waku Games 在 Steam 推出「JFPS Bundle Series 1」，收錄 7 款日本開發者製作的第一人稱射擊遊戲。其中《The Citadel》享 5 折優惠，《Beyond Citadel》享 75 折優惠，特價活動皆至 8 月 20 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
