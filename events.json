@@ -40,6 +40,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/20",
+    "title": "Epic Games Store即將免費：《Cardpocalypse Standard Edition》及《Albion Online Epic Mage Bundle》",
+    "summary": "Epic Games Store宣布，自2026年8月20日至8月27日，將提供《Cardpocalypse Standard Edition》和《Albion Online Epic Mage Bundle》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/19",
     "title": "目前無最新負面與爭議事件",
@@ -360,6 +368,14 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/18",
+    "title": "日本VTuber TanZ遭指控私約粉絲，社群討論熱度攀升",
+    "summary": "近期有鄉民在社群平台爆料，指稱日本VTuber TanZ有私下約見粉絲的行為，引發網路社群的熱烈討論與爭議。儘管指控的真確性尚未完全釐清，但事件已對TanZ的形象造成衝擊，粉絲與網友間看法兩極。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/17",
     "title": "目前無最新負面或爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/08/17",
     "title": "Steam 彈珠與樁釘節",
     "summary": "Steam 平台將於 2026 年 8 月 17 日至 8 月 20 日舉辦「彈珠與樁釘節」，主打彈珠台、保齡球、柏青哥等相關遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/17",
-    "title": "目前無台灣/華語圈VTuber重大負面與爭議事件",
-    "summary": "在2026年08月10日至08月17日期間，Google搜尋未發現台灣或華語圈VTuber社群發生明確的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/17",
-    "title": "Steam《Tukoni: Forest Keepers》今日發售，試玩版已開放",
-    "summary": "由烏克蘭工作室Dream Operator製作的繪本風解謎冒險遊戲《Tukoni: Forest Keepers》於8月17日在Steam發售，目前提供試玩版。這是一款無文字或低文字依賴的點擊解謎遊戲，適合喜歡慢節奏短篇冒險的玩家。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2186,6 +2186,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲的再歸與金融危機預言",
     "summary": "來自2058年的未來人國分玲預言，他將於2026年9月26日再次現身，解答人們的疑問。他曾預測2028年全球將爆發新一輪金融危機，源於美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/31",
+    "title": "2058年未來人國分玲預告將於2026年9月26日回歸",
+    "summary": "一名自稱來自2058年的日本未來人國分玲，曾於2021年秋天表示將回到2058年，並預告下一次能穩定穿越回這個時空的節點是2026年9月26日。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
