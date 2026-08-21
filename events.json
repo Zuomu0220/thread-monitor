@@ -1,5 +1,13 @@
 [
   {
+    "category": "VTUBER",
+    "date": "2026/08/22",
+    "title": "無最新重大負面爭議事件",
+    "summary": "在 2026/08/15 至 2026/08/22 期間，未搜尋到台灣或華語圈 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/20",
     "title": "Steam 限時免費《Deponia》",
     "summary": "經典手繪點擊冒險遊戲《Deponia》在 Steam 平台再次開放限時免費領取，截止日期為 8 月 21 日上午 1 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games 限時免費《Caravan SandWitch》",
-    "summary": "後末日治癒探索敘事冒險遊戲《Caravan SandWitch》在 Epic Games 平台限時免費領取，活動於 8 月 20 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
