@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 限時免費 RPG《Orion the Hero》領取倒數",
+    "summary": "PC 玩家仍有機會在 8 月 22 日前於 Steam 平台免費領取 2026 年獨立 RPG 遊戲《Orion the Hero》，將其永久加入遊戲庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -172,6 +180,14 @@
     "date": "2026/08/21",
     "title": "Steam 限時免費遊戲結束",
     "summary": "冒險遊戲《Deponia》的限時免費領取活動已於 8 月 21 日上午 1 點前結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 新增 5 款可永久保留的免費遊戲",
+    "summary": "Steam 於 2026 年 8 月份推出 5 款新的免費遊戲供玩家永久保留。這些遊戲皆於過去一週內（撰寫時）發布，其中包括 8 月 19 日上架的古怪節奏遊戲《My Singing Monsters Karaoke》以及著重網路偵查的點擊冒險遊戲《No Results Found》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -380,22 +396,6 @@
     "date": "2026/08/20",
     "title": "《史詩法師禮包》Epic Games Store 限時免費領取",
     "summary": "Epic Games Store 將於8月20日至8月27日提供《史詩法師禮包》免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games 限時免費《Grow & Go: Cozy Deliveries》",
-    "summary": "田園送貨模擬遊戲《Grow & Go: Cozy Deliveries》在 Epic Games 平台開放限時免費領取，活動將持續至 8 月 22 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam 限時免費《Deponia》",
-    "summary": "經典手繪點擊冒險遊戲《Deponia》在 Steam 平台再次開放限時免費領取，截止日期為 8 月 21 日上午 1 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
