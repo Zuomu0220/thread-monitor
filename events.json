@@ -121,6 +121,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Xbox 2026 年科隆遊戲展直播活動安排",
+    "summary": "Xbox 官方公布 2026 年科隆遊戲展直播活動將於北京時間 8 月 26 日與 27 日每晚 10 點播出，屆時將帶來 30 多款作品的全新內容，包含《神鬼寓言》、《戰爭機器：事變日》、《極限競速：地平線 6》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Shueisha Games 參展 gamescom 2026，展示六款遊戲",
+    "summary": "Shueisha Games 將攜六款遊戲回歸 2026 年科隆遊戲展，並將首次公開《Conquista》並提供試玩，以及首次公開展示《Wild Wild Eden》的試玩版。其他遊戲如《BAKUDO》、《Chronoscript: The Endless End》、《UN:Me》、《Schrödinger's Call》也將有新試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -380,22 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store 免費：《Epic Mage Bundle》禮包",
     "summary": "Epic Games Store 提供《Epic Mage Bundle》免費禮包，內含神秘虛榮物品和有用的資源，協助玩家在 Albion 世界中發展角色。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Roguelike 彈幕射擊遊戲《彈企鵝》今日發售",
-    "summary": "發行商 Gamirror Games 宣布，由 Sandy Floor 工作室開發的 Roguelike 彈幕射擊遊戲《彈企鵝》已於 Steam 平台推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 公布八月最終免費遊戲",
-    "summary": "Epic Games Store 正式公布其 2026 年 8 月份的最終免費遊戲，兩款遊戲將於 8 月 27 日至 9 月 3 日限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -2258,6 +2258,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言：2028 年全球金融危機",
     "summary": "自稱來自 2058 年的未來人國分玲（於日本 2ch 論壇現身），曾預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。國分玲也曾表示將於 2026 年 9 月 26 日再次歸來。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的未來人國分玲預言 2026 年 9 月 26 日將再次現身",
+    "summary": "自稱來自 2058 年的未來人國分玲曾表示，他會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
