@@ -105,6 +105,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Nintendo Switch Online 試玩同樂會：《牧場物語 來吧！風之繁華市集》限時免費與折扣",
+    "summary": "任天堂於 8 月 21 日公開本月的 Nintendo Switch Online 試玩同樂會免費遊戲為《牧場物語 來吧！風之繁華市集》。試玩時期為 8 月 24 日 12:00 至 8 月 30 日 17:59。此外，遊戲下載版軟體也將有最高 6 折折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 週末免費暢玩活動：《Front Mission 3: Remake》和《Over the Top: WWI》",
+    "summary": "Steam 平台開啟最新一期免費週末活動，提供《Front Mission 3: Remake》（戰術機甲 RPG）和《Over the Top: WWI》（第一次世界大戰射擊遊戲）免費暢玩至太平洋時間 8 月 24 日上午 10 點。 《Front Mission 3: Remake》同時享有 5 折優惠至 9 月 3 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -384,22 +400,6 @@
     "days_left": 6
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/20",
-    "title": "Joeman、蕭伊分手引爆網紅圈內幕",
-    "summary": "知名YouTuber Joeman 證實與女友蕭伊分手後，蕭伊隨即在社群平台公開交往內幕，指控Joeman隱瞞與其他女網紅往來，甚至私約AV女優。此事牽連到女網紅Tiny，其六年前的開放式關係言論被網友再次挖出，導致Tiny遭受人身威脅。此外，阿滴也因網友影射Joeman上酒店的言論，而被捲入這場風波。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 本週免費遊戲：《紙牌啟示錄》與《史詩法師同捆包》",
-    "summary": "Epic Games Store 宣布本週免費遊戲，從 2026 年 8 月 20 日英國夏令時間下午 4 點起，玩家可免費領取《紙牌啟示錄》（Cardpocalypse）與《史詩法師同捆包》（Epic Mage Bundle），活動持續至 8 月 27 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/08/07",
     "title": "X用戶預言：2026年8月26日北海道札幌將發生7級弱地震",
@@ -542,6 +542,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/11",
     "expiry_date": "2026/09/12"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "未來人預言關於 8/14 的格鬥技事件",
+    "summary": "根據「バンダナ刑事の柔術24時」部落格的報導，一位「バンダナ刑事」的未來預言，提到了「8/14 的格鬥技的男」。內容提及 K-1 WORLD MAX 2026 -70kg 世界最強決定淘汰賽開幕戰的組合已公布，日本代表松本和樹將與柬埔寨的 Kun Khmer 選手 Lon Panha 對決。預言在 8 月 13 日公布，比賽則在 9 月 12 日舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/12",
+    "expiry_date": "2026/09/13"
   },
   {
     "category": "PROPHECY",
