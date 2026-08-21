@@ -145,6 +145,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Epic Games 限時免費遊戲",
+    "summary": "Epic Games Store 提供懷舊卡牌 RPG 遊戲《Cardpocalypse》限時免費領取，並加碼贈送《阿爾比恩 Online》史詩法師禮包，活動至 8 月 27 日 23:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 免費週末活動",
+    "summary": "Steam 平台開放《Front Mission 3: Remake》和《Over the Top: WWI》兩款遊戲免費暢玩至 8 月 24 日。其中，《Front Mission 3: Remake》同時享有 5 折優惠至 9 月 3 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費遊戲結束",
+    "summary": "冒險遊戲《Deponia》的限時免費領取活動已於 8 月 21 日上午 1 點前結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -372,30 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games 限時免費《Caravan SandWitch》",
     "summary": "後末日治癒探索敘事冒險遊戲《Caravan SandWitch》在 Epic Games 平台限時免費領取，活動於 8 月 20 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam 限時免費《螺絲起子賽車》即將結束",
-    "summary": "極度好評競速遊戲《螺絲起子賽車》（Screw Drivers）於 8 月 20 日晚間將轉為付費版，玩家應把握最後時間領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games 限時免費：《Grow & Go: Cozy Deliveries》農場經營遊戲",
-    "summary": "Epic Games Store 推出限時免費活動，休閒農業與配送模擬遊戲《Grow & Go: Cozy Deliveries》開放玩家免費領取，持續至台灣時間 8 月 22 日 07:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam/Epic 限免：《螺絲起子賽車》免費即將轉付費",
-    "summary": "由 Creactstudios 開發的物理汽車競速遊戲《螺絲起子賽車》（Screw Drivers）將於 8 月 20 日晚間（台灣時間可能為 8/21 凌晨）轉為付費模式，目前仍可免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -6087,6 +6087,15 @@
     "date": "2026/05/24",
     "title": "來自 2058 年的國分玲預言 2026 年底將有全新傳染病肆虐",
     "summary": "有媒體報導指出，來自 2058 年的未來人國分玲曾發出最新預言警告，表示 2026 年底將有全新傳染病在全球肆虐。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預測 2026 年加密貨幣走勢",
+    "summary": "一位在 4chan 論壇上以 SBC7HL 為代號的匿名用戶，成功預測 2025 年比特幣高點後，預測比特幣（BTC）在 2026 年可能達到 250,000 美元，以太坊（ETH）達到 20,000 美元，Solana（SOL）達到 1,500 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
