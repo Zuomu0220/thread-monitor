@@ -305,6 +305,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費遊玩：《Over The Top: WWI》與《Front Mission 3 Remake》",
+    "summary": "Steam 平台推出兩款遊戲限時免費遊玩至 2026 年 8 月 24 日，分別是大型多人歷史第一人稱射擊遊戲《Over The Top: WWI》以及經典機甲策略角色扮演遊戲《Front Mission 3 Remake》的現代化版本。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費領取：《Orion the Hero》",
+    "summary": "2026 年獨立角色扮演遊戲《Orion the Hero》可在 Steam 上免費領取並永久入庫，活動至 2026 年 8 月 22 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -381,22 +397,6 @@
     "title": "錫蘭Ceylan宣布考慮離開台灣，因過度曝光造成生活壓力",
     "summary": "華語YouTuber兼實況主錫蘭Ceylan在台灣居住約半年並取得居留證後，因頻繁被粉絲認出要求合照及遭偷拍，導致出門壓力大增，宣布正考慮搬到日本。此事件引發網路社群對公眾人物隱私與粉絲界線的討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=Cey&background=dc2626&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam 限時免費領取《螺絲起子賽車》即將轉為付費遊戲",
-    "summary": "遊戲《Screw Drivers》（螺絲起子賽車）在2026年8月20日正式轉換為付費遊戲，並同步推出大型更新。在免費期間領取過遊戲的玩家不受影響。免費領取活動至台灣時間2026年8月21日早晨截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/20",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/08/13 至 2026/08/20 期間，未發現台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等最新負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -2285,6 +2285,15 @@
     "date": "2026/08/22",
     "title": "2058年未來人國分玲預言：2026年9月26日再次歸來",
     "summary": "國分玲曾表示他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告2026年9月再次歸來",
+    "summary": "自稱來自2058年的日本未來人國分玲表示，他將在2026年9月26日再次歸來，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
