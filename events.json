@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/08/23",
+    "title": "查無近期爭議事件",
+    "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/08/22",
     "title": "無最新重大負面爭議事件",
@@ -52,6 +60,14 @@
     "date": "2026/08/22",
     "title": "Steam 新增 5 款可永久保留的免費遊戲",
     "summary": "Steam 在 2026 年 8 月份新增了 5 款可永久保留的免費遊戲，其中包括發行於 8 月 19 日的音樂節奏遊戲《My Singing Monsters Karaoke》和解謎冒險遊戲《No Results Found》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 限時免費",
+    "summary": "《My Singing Monsters Karaoke》：這款古怪系列的最新作品是一款節奏遊戲，玩家將帶領怪物進行音樂表演，適合喜愛《Trombone Champ》的玩家，支援自訂控制器並可上傳新歌曲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "目前無相關事件",
     "summary": "由於目前時間設定為 2026 年 8 月 20 日，Google 搜尋結果未能找到在 2026/08/13 至 2026/08/20 期間發生的台灣/華語圈實況主相關負面爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store即將免費：《Cardpocalypse Standard Edition》及《Albion Online Epic Mage Bundle》",
-    "summary": "Epic Games Store宣布，自2026年8月20日至8月27日，將提供《Cardpocalypse Standard Edition》和《Albion Online Epic Mage Bundle》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 即將免費領取：《卡片世界末日》、《阿爾比恩Online：史詩法師禮包》",
-    "summary": "Epic Games Store 宣布，從 2026 年 8 月 20 日至 8 月 27 日，玩家將可限時免費領取《Cardpocalypse Standard Edition》和《Albion Online: Epic Mage Bundle》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
