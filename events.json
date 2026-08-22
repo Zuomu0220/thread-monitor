@@ -321,6 +321,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費遊玩",
+    "summary": "Steam 平台推出兩款遊戲《Over The Top: WWI》和《Front Mission 3 Remake》限時免費遊玩，活動至 8 月 24 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -389,14 +397,6 @@
     "title": "Steam 限時免費：《螺絲起子賽車》",
     "summary": "Steam 平台上的遊戲《螺絲起子賽車 (Screw Drivers)》宣布將於台灣時間 8 月 21 日早晨正式轉為付費遊戲。在此之前，玩家仍可限時免費領取並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/20",
-    "title": "錫蘭Ceylan宣布考慮離開台灣，因過度曝光造成生活壓力",
-    "summary": "華語YouTuber兼實況主錫蘭Ceylan在台灣居住約半年並取得居留證後，因頻繁被粉絲認出要求合照及遭偷拍，導致出門壓力大增，宣布正考慮搬到日本。此事件引發網路社群對公眾人物隱私與粉絲界線的討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=Cey&background=dc2626&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -512,6 +512,15 @@
     "date": "2026/08/19",
     "title": "英國神諭的2026年美國與國家法令預言",
     "summary": "His Kingdom Prophecy網站發布2026年8月的預言，內容關於美國和各國的法令。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "未來人國分玲警告",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，日本將在 2026 年 7 月至 8 月期間面臨水、電力、資訊的複合式危機，稱這是日本未來發展的「第二個轉捩點」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
@@ -6156,6 +6165,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言",
+    "summary": "盲眼龍婆巴巴萬加（Baba Vanga）的追隨者認為，2026 年的五項預言中，「全球重大天災」與「AI 取代人類工作」兩項已應驗。其餘預言包括巨型外星太空船抵達地球、第三次世界大戰爆發以及俄羅斯領導人普丁在 2026 年底前出現重大更替。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/22",
+    "title": "匿名時間旅行者預言",
+    "summary": "一位不願透露姓名的時間旅行者聲稱，人類將面臨未來的災難，傳統貨幣制度將很快消失，社會將迎來崩潰，後代將目睹巨大的災難。他還聲稱其活動受到名為「時間管理局」的秘密組織監控，以維持時間流的平衡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7023,6 +7050,15 @@
     "date": "2026/07/02",
     "title": "2118 年未來人 Alexander Smith 預言商業時空旅行將於 2028 年實現",
     "summary": "Alexander Smith 聲稱來自 2118 年，預言商業時空旅行技術將於 2028 年公開，同年美國政府將證實外星智慧生命存在。此外，他警告下一世紀將爆發涉及美國、北韓與俄羅斯的第三次世界大戰，最終將導致全球統一。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/12/31",
+    "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/22",
+    "title": "英國靈媒 Craig Hamilton-Parker 預言",
+    "summary": "英國知名通靈人士克雷格．漢米爾頓．帕克（Craig Hamilton-Parker）預測，2027 年中國將面臨內外壓力，對台灣施壓可能升高，而 2028 年可能出現「台灣危機」，但台灣不會被中國吞併，中國未來可能走向分裂。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/12/31",
     "expiry_date": "2029/01/01"
