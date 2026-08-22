@@ -25,6 +25,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/22",
+    "title": "虛擬偶像經紀公司VTubia旗下新星VTuber「星野芽衣」因合約糾紛宣布無限期停播",
+    "summary": "VTubia發布聲明指出，星野芽衣因個人行為嚴重違反經紀合約條款，經多次協商未果，雙方已終止合作關係。星野芽衣本人則在社群平台X上發文暗示公司待遇不公，引發粉絲熱議，多數網友認為經紀公司抽成過高，且限制藝人自由，呼籲抵制VTubia。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
     "summary": "在 2026 年 8 月 14 日至 2026 年 8 月 21 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件的最新動態。",
@@ -225,6 +233,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam推出五款全新免費遊戲，包含節奏遊戲《我的歌唱怪物卡拉OK》與點擊冒險遊戲《未找到結果》",
+    "summary": "Steam平台於8月21日推出了五款可永久保留的免費遊戲，其中包括廣受好評的節奏遊戲《我的歌唱怪物卡拉OK》（My Singing Monsters Karaoke）和一款以Windows 95介面解謎的點擊冒險遊戲《未找到結果》（No Results Found），玩家可透過搜索引擎調查邪教謎團。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam週末限時免費遊玩《戰壕：第一次世界大戰》與《雷霆任務3：重製版》",
+    "summary": "Steam平台宣布，從8月21日起至8月24日，玩家可限時免費體驗大型多人歷史FPS遊戲《戰壕：第一次世界大戰》（Over The Top: WWI），以及經典機甲策略JRPG的現代化重製版《雷霆任務3：重製版》（Front Mission 3 Remake）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -372,30 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store下週免費遊戲預告：《Cardpocalypse》與《Albion Online Epic Mage Bundle》",
     "summary": "Epic Games Store預告將於2026年8月20日至8月27日開放免費領取卡牌遊戲《Cardpocalypse Standard Edition》以及《Albion Online Epic Mage Bundle》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam 遊戲發行：《Mortal Shell II》",
-    "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於此日發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 免費：《Cardpocalypse Standard Edition》和《Albion Online: Epic Mage Bundle》",
-    "summary": "這兩款遊戲將於台灣時間 8 月 20 日至 8 月 27 日在 Epic Games Store 開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 免費：《Beholder: Conductor》",
-    "summary": "反烏托邦解謎遊戲《Beholder: Conductor》的 Android 版本提供限時免費領取，截止日期為 8 月 20 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2267,6 +2267,15 @@
     "date": "2026/05/19",
     "title": "來自 2058 年的未來人國分玲預言 2026 年 9 月 26 日將再次現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，他會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "來自2058年的未來人國分玲預言2026年9月26日將再次現身",
+    "summary": "自稱來自2058年的日本未來人國分玲，曾精準預言多項事件，他預告將於2026年9月26日再次歸來，回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
