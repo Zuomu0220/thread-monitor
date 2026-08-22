@@ -48,6 +48,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 新增 5 款可永久保留的免費遊戲",
+    "summary": "Steam 在 2026 年 8 月份新增了 5 款可永久保留的免費遊戲，其中包括發行於 8 月 19 日的音樂節奏遊戲《My Singing Monsters Karaoke》和解謎冒險遊戲《No Results Found》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -218,14 +226,6 @@
   {
     "category": "GAME",
     "date": "2026/08/21",
-    "title": "Steam 新增 5 款可永久保留的免費遊戲",
-    "summary": "Steam 於 2026 年 8 月份推出 5 款新的免費遊戲供玩家永久保留。這些遊戲皆於過去一週內（撰寫時）發布，其中包括 8 月 19 日上架的古怪節奏遊戲《My Singing Monsters Karaoke》以及著重網路偵查的點擊冒險遊戲《No Results Found》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
     "title": "Steam 限時免費遊戲釋出：我的會說話的怪物卡拉OK、未找到結果、SURA：破碎之星",
     "summary": "Steam 平台在八月釋出了五款可永久保留的免費遊戲，其中「我的會說話的怪物卡拉OK」（My Singing Monsters Karaoke）於 8 月 19 日上線，「未找到結果」（No Results Found）和「SURA：破碎之星」（SURA: Shattered Star）亦在此次名單中。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
@@ -337,6 +337,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 兩款遊戲限時免費試玩：《Over The Top: WWI》與《Front Mission 3 Remake》",
+    "summary": "Steam 平台於本週末推出兩款 2026 年新作的免費試玩活動，包括大規模多人歷史 FPS 遊戲《Over The Top: WWI》和經典機甲策略 RPG 的《Front Mission 3 Remake》。試玩活動開放至 8 月 24 日上午 10 點（太平洋時間），玩家可在截止日期前免費體驗遊戲內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -388,14 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store 即將免費領取：《卡片世界末日》、《阿爾比恩Online：史詩法師禮包》",
     "summary": "Epic Games Store 宣布，從 2026 年 8 月 20 日至 8 月 27 日，玩家將可限時免費領取《Cardpocalypse Standard Edition》和《Albion Online: Epic Mage Bundle》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 即將免費：《Cardpocalypse》",
-    "summary": "Epic Games Store 宣布將於 2026 年 8 月 20 日至 8 月 27 日提供遊戲《Cardpocalypse》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2312,6 +2312,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2026 年為重大轉折點，2028 年將爆發金融危機",
     "summary": "自稱來自 2058 年的日本未來人國分玲曾預言，2026 年將是日本及全球的重大轉折點。她還預測 2028 年將爆發由美國國債違約引發的全球金融危機，動搖美元全球結算體系。國分玲表示她將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言 2028 年將爆發新一輪金融危機",
+    "summary": "自稱來自 2058 年的日本未來人國分玲，曾因多次精準預言而聞名。他預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。他還表示將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
