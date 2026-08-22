@@ -17,6 +17,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/22",
+    "title": "無相關資訊",
+    "summary": "在指定時間範圍內未發現任何台灣/華語實況主的負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
     "summary": "在 2026 年 8 月 14 日至 2026 年 8 月 21 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件的最新動態。",
@@ -209,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam限時免費遊玩：《Over The Top: WWI》、《Front Mission 3 Remake》",
+    "summary": "Steam平台推出兩款遊戲限時免費遊玩至8月24日。其中《Over The Top: WWI》是一款高度評價的一戰FPS遊戲，支援多達200人同時參與歷史戰役，地圖可破壞性高，提供豐富的載具、角色和武器選擇。另一款《Front Mission 3 Remake》則是2026年推出的《雷霆任務3》現代化重製版，結合了經典的機甲戰略JRPG玩法與更新的視覺效果。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -380,22 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store 免費：《Beholder: Conductor》",
     "summary": "反烏托邦解謎遊戲《Beholder: Conductor》的 Android 版本提供限時免費領取，截止日期為 8 月 20 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam 遊戲發行與折扣：《Project P.I.T.T.》",
-    "summary": "物理、遞增、沙盒、資本主義類型遊戲《Project P.I.T.T.》於 8 月 19 日發行，並提供 15% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 免費遊戲",
-    "summary": "《卡片世界末日 (Cardpocalypse)》將於 8 月 20 日至 8 月 27 日期間在 Epic Games Store 開放免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
