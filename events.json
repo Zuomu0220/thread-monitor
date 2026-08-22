@@ -97,6 +97,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/22",
+    "title": "知名實況主「小豪」直播失言風波",
+    "summary": "小豪在深夜直播中，因遊戲操作不順而脫口說出具爭議性的玩笑話，引發部分觀眾不滿，社群討論區湧現大量批評。小豪隨後發布限時動態道歉，表示會謹言慎行。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
     "summary": "在 2026 年 8 月 14 日至 2026 年 8 月 21 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件的最新動態。",
@@ -392,14 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam限時免費轉付費：《第一人稱資料探索器》領取倒數",
-    "summary": "Steam遊戲《First-Person Data Explorer》（第一人稱資料探索器）宣布將於2026年8月24日從免費遊戲轉為付費遊戲，售價2.99美元。在此轉換生效之前，任何玩家都可以免費領取遊戲，已擁有的玩家遊玩權限不受影響。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/08/07",
     "title": "X用戶預言：2026年8月26日北海道札幌將發生7級弱地震",
@@ -560,6 +560,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/12",
     "expiry_date": "2026/09/13"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "Reddit 網友「TimeJumper2077」預言大型網路服務中斷",
+    "summary": "一位自稱來自 2077 年的 Reddit 匿名帳號在 r/conspiracy 版塊留言，警告在未來一個月內全球將發生一次嚴重的網路服務中斷事件，影響範圍廣泛。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/15",
+    "expiry_date": "2026/09/16"
   },
   {
     "category": "PROPHECY",
@@ -6375,6 +6384,15 @@
     "date": "2026/03/19",
     "title": "4chan用戶MJkiller預言：2027年50億人死亡，真外星人協助擊敗假外星人",
     "summary": "MJkiller預言，到2027年將有50億人死亡，真正的外星人將協助擊敗假外星人，最終形成一個由MJ12和聯合國領導的單一世界政府。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/16",
+    "title": "日本 2ch 討論區出現關於「太平洋某島嶼異變」的神祕留言",
+    "summary": "在日本 2ch 論壇的超自然版塊，有匿名用戶發文，聲稱來自未來，警告在南太平洋某個無人島嶼將在不久後發生不可思議的自然異變，並可能導致新的科學發現。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
