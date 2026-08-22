@@ -193,6 +193,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費遊戲釋出：我的會說話的怪物卡拉OK、未找到結果、SURA：破碎之星",
+    "summary": "Steam 平台在八月釋出了五款可永久保留的免費遊戲，其中「我的會說話的怪物卡拉OK」（My Singing Monsters Karaoke）於 8 月 19 日上線，「未找到結果」（No Results Found）和「SURA：破碎之星」（SURA: Shattered Star）亦在此次名單中。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 限時免費遊玩：一戰壕溝戰、雷霆任務3 重製版",
+    "summary": "Steam 平台提供兩款新遊戲限時免費遊玩至 8 月 24 日。玩家可在這段期間內體驗大型多人 FPS 遊戲「一戰壕溝戰」（Over The Top: WWI）及經典機甲戰略 JRPG 的現代化版本「雷霆任務3 重製版」（Front Mission 3 Remake）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -380,22 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store 免費遊戲",
     "summary": "《卡片世界末日 (Cardpocalypse)》將於 8 月 20 日至 8 月 27 日期間在 Epic Games Store 開放免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "《Cardpocalypse》Epic Games Store 限時免費領取",
-    "summary": "Epic Games Store 將於8月20日至8月27日提供《Cardpocalypse》標準版免費領取。這是一款以1990年代小學為背景，融合卡牌策略與懷舊元素的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "《史詩法師禮包》Epic Games Store 限時免費領取",
-    "summary": "Epic Games Store 將於8月20日至8月27日提供《史詩法師禮包》免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
