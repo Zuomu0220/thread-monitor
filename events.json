@@ -32,6 +32,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 免費遊戲",
+    "summary": "點擊式解謎冒險遊戲《未找到結果 (No Results Found)》於 Steam 平台免費釋出，玩家可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 免費領取",
+    "summary": "2D 角色扮演遊戲《英雄獵戶座 (Orion the Hero)》於 Steam 平台限時免費領取，活動至 8 月 22 日截止，領取後永久擁有。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -249,6 +265,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Steam 免費試玩",
+    "summary": "第一人稱射擊遊戲《破壕行動 (Over The Top: WWI)》開放免費遊玩週末，活動至 8 月 25 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/21",
+    "title": "Epic Games 免費遊戲",
+    "summary": "3D 平台跳躍冒險遊戲《Bolmn》於 Epic Games Store 限時免費領取，活動至 8 月 27 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/20",
     "title": "Steam 即將發行遊戲《Mortal Shell II》",
     "summary": "類魂動作角色扮演遊戲《Mortal Shell II》於 Steam 平台發行。",
@@ -364,38 +396,6 @@
     "date": "2026/08/20",
     "title": "Epic Games Store 特惠活動",
     "summary": "Epic Games Store 正進行限時特惠活動，多款遊戲享有深度折扣，優惠截至北京時間 2026 年 8 月 20 日晚上 11 點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/20",
-    "title": "未有新資訊",
-    "summary": "在 2026/08/13 至 2026/08/20 期間，未發現台灣/華語圈 VTuber 相關的重大負面與爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store 即將免費領取：《Cardpocalypse》",
-    "summary": "《Cardpocalypse》將於 2026 年 8 月 20 日至 8 月 27 日在 Epic Games Store 開放免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Steam/Epic/GOG 每週免費遊戲更新",
-    "summary": "免費資源網於 8 月 20 日更新本週的限時免費遊戲清單，涵蓋 Epic Games Store、Steam 和 GOG 平台。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/20",
-    "title": "Epic Games Store下週免費遊戲預告：《Cardpocalypse》與《Albion Online Epic Mage Bundle》",
-    "summary": "Epic Games Store預告將於2026年8月20日至8月27日開放免費領取卡牌遊戲《Cardpocalypse Standard Edition》以及《Albion Online Epic Mage Bundle》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2276,6 +2276,15 @@
     "date": "2026/08/19",
     "title": "來自2058年的未來人國分玲預言2026年9月26日將再次現身",
     "summary": "自稱來自2058年的日本未來人國分玲，曾精準預言多項事件，他預告將於2026年9月26日再次歸來，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/22",
+    "title": "2058年未來人國分玲預言：2026年9月26日再次歸來",
+    "summary": "國分玲曾表示他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6123,6 +6132,15 @@
     "date": "2026/12/26",
     "title": "4chan 匿名用戶預測 2026 年加密貨幣走勢",
     "summary": "一位在 4chan 論壇上以 SBC7HL 為代號的匿名用戶，成功預測 2025 年比特幣高點後，預測比特幣（BTC）在 2026 年可能達到 250,000 美元，以太坊（ETH）達到 20,000 美元，Solana（SOL）達到 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/22",
+    "title": "Reddit未來人預測：2026年AI將大幅進步但社會無改善",
+    "summary": "有 Reddit 用戶預測 2026 年底 AI 將大幅進步，但社會不會有實質改善，人們將更懶惰、學習更少，產品服務品質下降且價格不變。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
