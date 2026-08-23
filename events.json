@@ -24,6 +24,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/23",
+    "title": "Steam 多款遊戲史低特價",
+    "summary": "截至2026年8月23日，Steam平台有多款遊戲達到歷史最低價格，其中包括《天國：拯救 II》（Kingdom Come: Deliverance II）降價60%至NT$702、《殭屍部隊4：死亡戰爭》（Zombie Army 4: Dead War）降價95%至NT$37、《無盡空間2》（Endless Space 2）降價80%至NT$173等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/23",
+    "title": "Steam 新增Demo《Sevendays Demo》與《The Odyssey Simulator》",
+    "summary": "Steam平台於2026年8月23日新增了兩款遊戲的免費試玩版：角色扮演/文字遊戲《Sevendays Demo》以及動作冒險射擊遊戲《The Odyssey Simulator》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "VTUBER",
     "date": "2026/08/22",
     "title": "無最新重大負面爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam週末限時免費遊玩《戰壕：第一次世界大戰》與《雷霆任務3：重製版》",
     "summary": "Steam平台宣布，從8月21日起至8月24日，玩家可限時免費體驗大型多人歷史FPS遊戲《戰壕：第一次世界大戰》（Over The Top: WWI），以及經典機甲策略JRPG的現代化重製版《雷霆任務3：重製版》（Front Mission 3 Remake）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 免費試玩",
-    "summary": "第一人稱射擊遊戲《破壕行動 (Over The Top: WWI)》開放免費遊玩週末，活動至 8 月 25 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Epic Games 免費遊戲",
-    "summary": "3D 平台跳躍冒險遊戲《Bolmn》於 Epic Games Store 限時免費領取，活動至 8 月 27 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -6303,6 +6303,24 @@
     "date": "2026/05/24",
     "title": "2058 年未來人國分玲警告：2026 年底將有全新傳染病肆虐全球",
     "summary": "自稱來自 2058 年的日本未來人「國分玲」，透過社群平台發布最新警告。她預言在 2026 年底，全球將會爆發全新的傳染病疫情，並提及「黃泉客輪」將在最後 7 個月帶走許多人。此外，她也表示俄烏戰爭的停火時間已定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "來自2058年的國分玲預言2026年底新傳染病肆虐全球",
+    "summary": "自稱來自2058年的日本未來人國分玲，其預言於2026年5月24日再次受到討論，警告2026年底將有全新傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言2026年普丁政權將終結",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加（Baba Vanga）的追隨者於2026年8月10日指出，其2026年預言中，俄羅斯總統普丁的政權將於2026年底前出現重大更替，一位新的領導人將崛起並改變全球政治格局。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
