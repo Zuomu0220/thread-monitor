@@ -168,6 +168,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam《前線任務3 重製版》免費試玩",
+    "summary": "Steam 提供《前線任務3 重製版》免費試玩活動，截止至 8 月 25 日，試玩期結束後無法永久保留遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/21",
     "title": "Epic Games 免費遊戲",
     "summary": "3D 平台跳躍冒險遊戲《Bolmn》於 Epic Games Store 限時免費領取，活動至 8 月 27 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Epic Games Store《Cardpocalypse Standard Edition》與《Albion Online Epic Mage Bundle》限時免費領取",
-    "summary": "自 2026 年 8 月 20 日至 8 月 27 日上午 11 點（美東時間），玩家可在 Epic Games Store 免費領取單人卡牌 RPG 遊戲《Cardpocalypse Standard Edition》以及 MMORPG《Albion Online》的「史詩法師同捆包」附加內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
