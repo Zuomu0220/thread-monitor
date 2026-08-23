@@ -41,6 +41,14 @@
   },
   {
     "category": "VTUBER",
+    "date": "2026/08/23",
+    "title": "Hololive所屬VTuber時乃空提醒粉絲勿使用改造螢光棒",
+    "summary": "Hololive旗下VTuber時乃空（ときのそら）在直播中向粉絲發出警告，表示對於使用眩光改造螢光棒的觀眾，將不會給予任何粉絲福利，此舉旨在維護演唱會現場的觀賞品質與其他觀眾的權益。",
+    "avatar_url": "https://i.imgur.com/TokinoSora_Img.png",
+    "days_left": 7
+  },
+  {
+    "category": "VTUBER",
     "date": "2026/08/22",
     "title": "無最新重大負面爭議事件",
     "summary": "在 2026/08/15 至 2026/08/22 期間，未搜尋到台灣或華語圈 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
@@ -388,14 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam推出五款全新免費遊戲，包含節奏遊戲《我的歌唱怪物卡拉OK》與點擊冒險遊戲《未找到結果》",
     "summary": "Steam平台於8月21日推出了五款可永久保留的免費遊戲，其中包括廣受好評的節奏遊戲《我的歌唱怪物卡拉OK》（My Singing Monsters Karaoke）和一款以Windows 95介面解謎的點擊冒險遊戲《未找到結果》（No Results Found），玩家可透過搜索引擎調查邪教謎團。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam週末限時免費遊玩《戰壕：第一次世界大戰》與《雷霆任務3：重製版》",
-    "summary": "Steam平台宣布，從8月21日起至8月24日，玩家可限時免費體驗大型多人歷史FPS遊戲《戰壕：第一次世界大戰》（Over The Top: WWI），以及經典機甲策略JRPG的現代化重製版《雷霆任務3：重製版》（Front Mission 3 Remake）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -3138,6 +3138,15 @@
     "date": "2026/08/19",
     "title": "印度神童阿南德 2026 年「400 年一遇」轉折預言",
     "summary": "印度神童阿南德 (Abhigya Anand) 在 2025 年 12 月發布影片，指出 2026 年是「400 年一遇」的歷史轉折點，全球將進入「新時代」。他點名 4 月下旬、7 月 24 日前後及 11 月中旬為三個關鍵時間點，並提到中國西北部、菲律賓及朝鮮半島可能面臨地緣政治風險或恐怖主義事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/30",
+    "expiry_date": "2026/12/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言2026年11月外星太空船抵達地球",
+    "summary": "已故保加利亞預言家盲眼龍婆巴巴萬加（Baba Vanga）的追隨者認為，她關於2026年11月「巨型外星太空船抵達地球並首次與人類接觸」的預言可能成真，部分人士將美國政府近期公布的UAP解密文件視為可能線索。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/30",
     "expiry_date": "2026/12/01"
@@ -6327,6 +6336,51 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/05",
+    "title": "自稱2582年時空旅人預言2026年地球將陷入3天黑暗期",
+    "summary": "一名自稱來自2582年的時空旅人透過網路影片警告，地球將於2026年陷入為期3天的恐怖黑暗期，並提出人們應遵守的6項規定以求安全。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/31",
+    "title": "盲眼龍婆預言2026年第三次世界大戰爆發",
+    "summary": "盲眼龍婆巴巴萬加預測，2026年第三次世界大戰將可能正式爆發，並指出中國入侵台灣將成為引爆美國與俄羅斯正面交鋒的導火線。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言2026年底俄羅斯領導人將有重大更替",
+    "summary": "盲眼龍婆巴巴萬加預言，俄羅斯領導人將在2026年底前出現重大更替。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/31",
+    "title": "盲眼龍婆預言2026年人工智慧全面掌控人類社會",
+    "summary": "盲眼龍婆巴巴萬加預言，人工智慧將在2026年全面掌控人類社會，奪走人類的工作、情感與生活方式。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/17",
+    "title": "盲眼龍婆預言2026年歐洲將爆發史無前例的生化戰爭",
+    "summary": "盲眼龍婆巴巴萬加預言，2026年歐洲將因一場史無前例的「生化戰爭」而變得荒無人煙，這場浩劫的餘波更將席捲亞洲。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7218,6 +7272,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言2028年全球金融危機",
+    "summary": "未來人國分玲指出，2028年全球將爆發新一輪金融危機，導火線為美國的國債違約，導致美元全球結算體系出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/12/31",
+    "expiry_date": "2029/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/02/23",
     "title": "Reddit未來預測：2029年社會媒體淪為金融戰場",
     "summary": "Reddit 社群預測 2029 年社會媒體將成為一個由貧困機器人、虛假政府 ID (因年齡驗證恐懼) 和 AI 內容組成的金融戰場。",
@@ -7686,6 +7749,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "未來人國分玲預言2037年沖繩將發生地震與颱風複合災害",
+    "summary": "未來人國分玲預測，2037年1月沖繩地區將發生「直下型地震」，同年8月除了有餘震外，還會同時受到颱風侵襲，使災情更為嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/31",
+    "expiry_date": "2037/02/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2038 年外星文明將被正式接觸",
     "summary": "來自 2058 年的國分玲預言，到了 2038 年，太陽系將不再是地球文明的孤島，外星文明會被人類正式接觸，並指出這些外星文明可能藏匿在木星或土星的衛星上。",
@@ -7851,6 +7923,15 @@
     "date": "2026/12/27",
     "title": "2058年未來人國分玲預言：比特幣飆升後只能賣不能買，以太幣更具增長機會",
     "summary": "2024年12月27日報導，自稱來自2058年的未來人國分玲預測比特幣未來雖會飆漲到令人咋舌的高度，但最終可能「只能賣，不能買」，且流通渠道受限。她強調以太幣將提供更多增長機會，並透露自己在2019年底至2020年初期間大量買入以太幣。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2058/12/31",
+    "expiry_date": "2059/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "未來人國分玲預言日本將於2058年遷都岡山",
+    "summary": "來自2058年的未來人國分玲曾預言，日本的首都將因東京遭受地震或海平面上升影響，於2058年從東京搬遷至岡山縣。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2058/12/31",
     "expiry_date": "2059/01/01"
