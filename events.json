@@ -152,6 +152,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 免費遊戲遊玩至 8/24",
+    "summary": "Steam 在本週末新增了更多免費遊戲供玩家遊玩，這些遊戲可免費遊玩至 8 月 24 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam 免費週末：《Front Mission 3: Remake》與《Over the Top: WWI》限時暢玩與折扣",
     "summary": "Steam 於 2026 年 8 月 21 日開啟最新一期免費週末活動，玩家可在太平洋時間 8 月 24 日上午 10 點前免費暢玩《Front Mission 3: Remake》和《Over the Top: WWI》。兩款遊戲在免費活動結束後至 9 月 3 日前，皆享有 5 折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 兩款新遊戲限時免費遊玩至 8 月 24 日",
-    "summary": "Steam 新增了兩款 2026 年推出的遊戲，提供限時免費遊玩至 8 月 24 日。其中包括歷史 FPS 遊戲《Over The Top: WWI》，支援多達 200 名玩家參與大規模戰鬥，以及經典機甲策略 RPG 遊戲《Front Mission 3 Remake》的現代化版本。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2339,6 +2339,15 @@
     "date": "2026/08/20",
     "title": "X/Twitter預言帳號：2026年9月全球將有重大金融轉折",
     "summary": "一個在X/Twitter上自稱來自2058年的預言帳號（國分玲）發文指出，2026年9月26日將是全球的一個重大轉折點，尤其與金融穩定相關，並預告屆時她將再次現身回答眾人疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言：2026 年 9 月 26 日再次歸來",
+    "summary": "自稱來自 2058 年的日本神秘人物國分玲，曾預言 2026 至 2030 年間的重大事件。他曾表示將於 2026 年 9 月 26 日再次歸來，回答大眾的問題。他還預言 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
