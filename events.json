@@ -129,6 +129,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/22",
+    "title": "中型遊戲直播團隊「邊緣聯盟」成員爆出合約糾紛疑雲",
+    "summary": "臉書社團及PTT論壇傳出中型遊戲直播團隊「邊緣聯盟」有成員因不滿公司抽成比例與合約條款而選擇離開，並爆料團隊內部管理混亂。雖然團隊官方聲稱是和平分手，但前成員在匿名討論區的發言暗示情況並非如此，引發網友對實況主經紀公司生態的討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam：兩款新作《前線任務3 重製版》與《WE ARE SO DEAD》提供免費試玩，至8/25截止",
+    "summary": "Steam平台推出兩款新作的免費試玩活動，包括經典機甲策略RPG《前線任務3 重製版》和合作通靈通訊遊戲《WE ARE SO DEAD》，試玩期結束後無法永久保留，活動至8月25日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Gamescom 2026：台灣團隊賽亞遊戲《BAKUDO》將展出新版Demo",
+    "summary": "由台灣獨立遊戲團隊賽亞遊戲SAYIL GAMES開發的鬥球Boss Rush動作遊戲《BAKUDO》將參與Gamescom 2026，並於集英社遊戲攤位展出最新版線下試玩Demo，將公開先前未曝光的校園場景與全新Boss「Flash」挑戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
     "summary": "在 2026 年 8 月 14 日至 2026 年 8 月 21 日期間，未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件的最新動態。",
@@ -372,30 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam 兩款新遊戲限時免費遊玩至 8 月 24 日",
     "summary": "Steam 新增了兩款 2026 年推出的遊戲，提供限時免費遊玩至 8 月 24 日。其中包括歷史 FPS 遊戲《Over The Top: WWI》，支援多達 200 名玩家參與大規模戰鬥，以及經典機甲策略 RPG 遊戲《Front Mission 3 Remake》的現代化版本。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 限時免費遊玩：《Over The Top: WWI》與《Front Mission 3 Remake》",
-    "summary": "Steam 平台推出兩款遊戲限時免費遊玩至 2026 年 8 月 24 日，分別是大型多人歷史第一人稱射擊遊戲《Over The Top: WWI》以及經典機甲策略角色扮演遊戲《Front Mission 3 Remake》的現代化版本。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 限時免費領取：《Orion the Hero》",
-    "summary": "2026 年獨立角色扮演遊戲《Orion the Hero》可在 Steam 上免費領取並永久入庫，活動至 2026 年 8 月 22 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 限時免費遊玩",
-    "summary": "Steam 平台推出兩款遊戲《Over The Top: WWI》和《Front Mission 3 Remake》限時免費遊玩，活動至 8 月 24 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2330,6 +2330,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言 2028 年將爆發新一輪金融危機",
     "summary": "自稱來自 2058 年的日本未來人國分玲，曾因多次精準預言而聞名。他預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。他還表示將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/20",
+    "title": "X/Twitter預言帳號：2026年9月全球將有重大金融轉折",
+    "summary": "一個在X/Twitter上自稱來自2058年的預言帳號（國分玲）發文指出，2026年9月26日將是全球的一個重大轉折點，尤其與金融穩定相關，並預告屆時她將再次現身回答眾人疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
