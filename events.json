@@ -33,6 +33,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "無最新負面與爭議事件報導",
+    "summary": "根據目前掌握的網路資訊，在 2026/08/17 至 2026/08/24 期間，未發現有台灣/華語圈知名或中小型實況主、VTuber 及相關經紀公司發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面或爭議事件的報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
     "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
@@ -272,6 +280,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 兩款新作開放免費試玩",
+    "summary": "Steam 平台於 2026 年 8 月 22 日推出兩款新作的限時免費試玩活動，截止至 8 月 25 日。雖然無法永久保留，但提供玩家搶先體驗《Front Mission 3》的宏大劇情與機甲玩法，以及《Car Park Capital》的街區停車場戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -380,22 +396,6 @@
     "date": "2026/08/21",
     "title": "Nintendo Switch Online 試玩同樂會：《牧場物語 來吧！風之繁華市集》限時免費與折扣",
     "summary": "任天堂於 8 月 21 日公開本月的 Nintendo Switch Online 試玩同樂會免費遊戲為《牧場物語 來吧！風之繁華市集》。試玩時期為 8 月 24 日 12:00 至 8 月 30 日 17:59。此外，遊戲下載版軟體也將有最高 6 折折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam 週末免費暢玩活動：《Front Mission 3: Remake》和《Over the Top: WWI》",
-    "summary": "Steam 平台開啟最新一期免費週末活動，提供《Front Mission 3: Remake》（戰術機甲 RPG）和《Over the Top: WWI》（第一次世界大戰射擊遊戲）免費暢玩至太平洋時間 8 月 24 日上午 10 點。 《Front Mission 3: Remake》同時享有 5 折優惠至 9 月 3 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Xbox 2026 年科隆遊戲展直播活動安排",
-    "summary": "Xbox 官方公布 2026 年科隆遊戲展直播活動將於北京時間 8 月 26 日與 27 日每晚 10 點播出，屆時將帶來 30 多款作品的全新內容，包含《神鬼寓言》、《戰爭機器：事變日》、《極限競速：地平線 6》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2366,6 +2366,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲",
     "summary": "預言 2028 年金融危機與回歸日期：自稱來自 2058 年的國分玲曾預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系動搖。他還表示將於 2026 年 9 月 26 日再次歸來，回答大家想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲宣告將於 2026 年 9 月 26 日再度現身",
+    "summary": "自稱來自 2058 年的「未來人」國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
