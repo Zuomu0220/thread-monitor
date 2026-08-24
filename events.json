@@ -49,6 +49,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "中國實況主辛巴稱快手若給幾十億願播一場",
+    "summary": "中國知名電商直播主辛巴在社群平台表示，「如果快手給我拿幾十億讓我播一場，我就播了。」此言論引發網友討論，顯示其對自身影響力及直播帶貨效益的自信。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
     "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
@@ -125,6 +133,14 @@
     "title": "Steam 新發行工具《mark-link》",
     "summary": "工具類應用《mark-link》於 2026 年 8 月 23 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/23",
+    "title": "大學生主播遭MCN公司仲裁違約金，律師提醒不需過度恐慌",
+    "summary": "一篇報導指出許多大學生主播在收到MCN公司仲裁通知後感到慌張，擔心影響學業、畢業或徵信。律師楊律提醒，仲裁具保密性，不影響學業與畢業，本身也不影響徵信，僅在需賠償卻無力償還時才受影響。楊律指出，目前針對一般主播，特別是在校大學生，判處高額違約金的情況越來越少，但前提是主播需積極應訴。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
     "days_left": 6
   },
   {
@@ -296,6 +312,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/22",
+    "title": "Steam 推出多款新免費遊戲，包含《My Singing Monsters Karaoke》和《No Results Found》",
+    "summary": "Steam於8月22日新增多款可永久保留的免費遊戲，其中包括8月19日發布的節奏遊戲《My Singing Monsters Karaoke》以及點擊式冒險遊戲《No Results Found》，後者讓玩家透過Windows 95介面解開邪教謎團。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/21",
     "title": "無相關事件",
@@ -372,30 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam《Moo Who?》發售",
     "summary": "隱藏物件獨立遊戲《Moo Who?》於 2026 年 8 月 21 日在 Steam 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam《VHOLUME》發售",
-    "summary": "跑酷平台遊戲《VHOLUME》於 2026 年 8 月 21 日在 Steam 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam《CICADAMATA》發售",
-    "summary": "動作第一人稱射擊遊戲《CICADAMATA》於 2026 年 8 月 21 日在 Steam 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Steam《整理工坊 The Sorting Bureau》發售",
-    "summary": "休閒解謎遊戲《整理工坊 The Sorting Bureau》於 2026 年 8 月 21 日在 Steam 平台發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2375,6 +2375,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲宣告將於 2026 年 9 月 26 日再度現身",
     "summary": "自稱來自 2058 年的「未來人」國分玲曾表示，她將在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "自稱來自2058年的未來人國分玲預言2026年9月26日將再次歸來",
+    "summary": "自稱來自2058年的未來人國分玲，曾於日本2CH論壇發布多項預言，因準確率高被認為是最像穿越者的人。其中一項預言提到，他將在2026年9月26日再次現身，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6438,6 +6447,15 @@
     "date": "2026/12/26",
     "title": "4chan 匿名用戶預測 2026 年加密貨幣目標價格",
     "summary": "一位在 2025 年 10 月精準預測比特幣高點的 4chan 匿名用戶（SBC7HL），於 2025 年 12 月 20 日發布預言，預計比特幣 (BTC) 到 2026 年底可能達到 25 萬美元，以太坊 (ETH) 達到 2 萬美元，Solana (SOL) 達到 1,500 美元，一個名為 BULLISH 的迷因代幣將達到 10 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/14",
+    "title": "自稱來自2058年的未來人國分玲預言2026年底將有全新傳染病肆虐全球",
+    "summary": "有媒體整理自稱來自2058年的未來人國分玲的預言，內容指出2026年底將有全新的傳染病肆虐全球，其致死率和傳播速度都極為驚人，並會對人體免疫系統造成嚴重損害。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
