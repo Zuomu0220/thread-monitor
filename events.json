@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam平台夏日遊戲節特惠進入最後階段",
+    "summary": "Steam平台上的年度夏日遊戲節（Summer Sale）即將於台灣時間8月26日凌晨結束，許多熱門大作與獨立遊戲仍提供大幅折扣，是玩家入手心儀遊戲的最後機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -77,6 +85,14 @@
     "title": "實況主泥泥汝因觀看《英雄聯盟》賽事言行不當引發爭議並致歉",
     "summary": "知名實況主泥泥汝於 8 月 24 日在 Threads 發布道歉聲明，針對自己近期觀看《英雄聯盟》電競賽事時，因幫對手加油甚至寫錯選手 Faker 名字等不成熟言行致歉，並表示已深刻意識到問題且會確實反省，此舉引發網路社群炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "Joeman分手風波持續延燒，社群討論其「神隱」態度",
+    "summary": "在Joeman與前女友蕭伊的「凌晨3點牛肉麵」及其他爆料引發巨大爭議後，Joeman於初期迅速認錯道歉。然而，從8月24日的社群討論來看，Joeman在道歉後已整整六天未更新社群平台或上傳新影片，其「神隱」態度引發網友對其公關策略的討論與質疑，部分網友將其與其他網紅的爭議處理方式進行比較。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/22",
     "title": "Steam兩款新作《前線任務3》與《Car Park Capital》提供免費試玩至8月25日",
     "summary": "Steam平台推出兩款2026年新作的免費試玩活動，包括劇情宏大的機甲策略遊戲《前線任務3》和街區停車場經營模擬《Car Park Capital》，試玩活動將持續至8月25日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "台灣獨立遊戲《彈射少女Magika Bounce》Steam DEMO開放體驗",
-    "summary": "由台灣南台科大團隊開發的非傳統高難度打磚塊遊戲《彈射少女Magika Bounce》已於Steam平台發布新版正式DEMO，玩家可免費下載體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "解謎冒險遊戲《Saviour & Religion》於8月20日發布免費DEMO",
-    "summary": "台灣獨立開發工作室「萊斯特的帽子」新作《Saviour & Religion》已於8月20日發布免費體驗版DEMO，遊戲時長約1至2小時，內容包含解謎與逃脫玩法。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
