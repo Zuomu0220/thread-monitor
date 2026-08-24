@@ -41,6 +41,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "無特定負面事件彙報",
+    "summary": "在 2026 年 8 月 17 日至 8 月 24 日期間，經網路搜尋台灣/華語圈實況主與 VTuber 相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件，未能找到廣泛報導且具體的單一事件。這可能表示在此期間未發生引起大規模關注的爭議，或小型事件未被新聞媒體與主要論壇廣泛收錄。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
     "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
@@ -388,14 +396,6 @@
     "date": "2026/08/21",
     "title": "Steam《整理工坊 The Sorting Bureau》發售",
     "summary": "休閒解謎遊戲《整理工坊 The Sorting Bureau》於 2026 年 8 月 21 日在 Steam 平台發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/21",
-    "title": "Nintendo Switch Online 試玩同樂會：《牧場物語 來吧！風之繁華市集》限時免費與折扣",
-    "summary": "任天堂於 8 月 21 日公開本月的 Nintendo Switch Online 試玩同樂會免費遊戲為《牧場物語 來吧！風之繁華市集》。試玩時期為 8 月 24 日 12:00 至 8 月 30 日 17:59。此外，遊戲下載版軟體也將有最高 6 折折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -6420,6 +6420,24 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆巴巴·萬加",
     "summary": "預言外星飛船與第三次世界大戰：保加利亞盲人靈媒巴巴·萬加 (Baba Vanga) 流傳的預言稱，一艘「巨型太空船」將在 2026 年 11 月進入地球大氣層，人類可能因此與外星生命接觸。她也預言第三次世界大戰可能爆發，以及俄羅斯總統普丁可能在 2026 年底前失去權力。這些預言的真實性仍存疑，多為後人解讀。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預測 2026 年比特幣將達 100 萬美元",
+    "summary": "一位在 2019 年曾精準預測比特幣低點的 4chan 匿名用戶，於 2025 年 11 月發布預言，稱比特幣將在 2026 年底前達到 100 萬美元，以太坊將達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預測 2026 年加密貨幣目標價格",
+    "summary": "一位在 2025 年 10 月精準預測比特幣高點的 4chan 匿名用戶（SBC7HL），於 2025 年 12 月 20 日發布預言，預計比特幣 (BTC) 到 2026 年底可能達到 25 萬美元，以太坊 (ETH) 達到 2 萬美元，Solana (SOL) 達到 1,500 美元，一個名為 BULLISH 的迷因代幣將達到 10 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
