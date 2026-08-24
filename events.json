@@ -104,6 +104,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "Steam Demo釋出",
+    "summary": "受斯里蘭卡神話啟發的敘事解謎平台遊戲《Song of Kings》免費試玩版已於 Steam 平台開放，邀請玩家在正式發售前體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "Steam 獨立遊戲發布",
+    "summary": "台灣獨立開發者製作的第一款獨立遊戲《Ember Kingdom》即將在 Steam 平台推出，是一款單人回合制、路線探索型黑暗奇幻 RPG，目前已可加入願望清單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
@@ -381,22 +397,6 @@
     "title": "Steam兩款新作提供免費試玩活動，含《前線任務3 重製版》",
     "summary": "Steam本週末新增兩款遊戲提供免費試玩，活動將截止至8月25日。其中包括經典機甲策略RPG的現代化重製作品《前線任務3 重製版》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 兩款新作限時免費試玩",
-    "summary": "Steam 平台提供兩款新作的限時免費試玩活動，截止至8月25日，其中一款可能是《前線任務3》，讓玩家有機會體驗其獨特的機甲玩法。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/22",
-    "title": "新晉VTuber「星野夢」遭爆合約糾紛，無限期停播引粉絲譁然",
-    "summary": "獨立VTuber「星野夢」的帳號於本週無預警停止所有活動，隨後其前經紀人於社群平台揭露雙方存在嚴重合約糾紛，內容涉及收益分配與人身自由限制。此事件引發V圈對小型VTuber與經紀公司之間權力不對等的討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
