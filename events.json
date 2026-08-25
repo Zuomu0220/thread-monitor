@@ -104,6 +104,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam限時免費遊戲：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "PinoGamer皮諾電玩整理2026年Steam每日限時免費或折扣遊戲，目前包含《Bunny Guys!》與《BROTHER!!! Save him!》開放限時免費下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -280,6 +288,22 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "Steam商店限時免費領取《Microsoft Flight Simulator Suite: Themes Reimagined》原聲帶DLC",
+    "summary": "Steam商店於2026年8月24日推出限時免費領取《Microsoft Flight Simulator Suite: Themes Reimagined》原聲帶DLC活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "Steam商店限時免費領取《Dokimon Quest》",
+    "summary": "Steam商店於2026年8月24日推出限時免費領取遊戲《Dokimon Quest》活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
@@ -373,30 +397,6 @@
     "title": "中型實況主「夜語」私人Discord對話外洩，內容涉及抨擊同行與粉絲",
     "summary": "實況主「夜語」的私人Discord群組對話紀錄遭到匿名人士外洩，內容顯示她長期在小圈子內嘲諷其他實況主及批評部分粉絲行為，導致大量粉絲感到失望並退訂，形象嚴重受損。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "國產多人遊戲《驟影：緋月殺》8/25開啟Demo公測",
-    "summary": "國產虛幻5打造的買斷制多人遊戲《驟影：緋月殺》將於2026年8月25日上午10點開啟Demo公測，測試持續至8月31日17點結束，PC玩家可前往Steam下載體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Epic Games Store 公布 8 月底兩款限時免費遊戲",
-    "summary": "(https://i.imgur.com/example_epic_free.jpg)： Epic Games Store 於本週正式揭露其 2026 年 8 月份最後兩款限時免費遊戲，分別為《Cardpocalypse》和《Epic Mage Bundle for Albion Online》。玩家可於 8 月 20 日至 8 月 27 日期間免費領取，永久保存於遊戲庫中。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam《The Walking Trade》推出30%折扣",
-    "summary": "喪屍末日背景下的商店經營模擬遊戲《The Walking Trade》正在Steam上提供30%的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2465,6 +2465,15 @@
     "date": "2026/07/19",
     "title": "2058年未來人「國分玲」預告將於2026年9月26日再次歸來",
     "summary": "自稱來自2058年的日本未來人國分玲，在2021年9月26日發布最後一條公開訊息後便銷聲匿跡，其訊息中預告將於2026年9月26日再次歸來，並將揭露未來10年的所有答案。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年的國分玲預言2026年9月26日將再次歸來，並預言2028年全球金融危機",
+    "summary": "自稱來自2058年的日本「未來人」國分玲，曾表示將於2026年9月26日再次歸來，回答大眾問題。她也曾預言2028年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -7638,6 +7647,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2029/04/01",
     "expiry_date": "2029/04/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/23",
+    "title": "伊隆·馬斯克警告：三年內勞動將完全消失，人類將無用武之地",
+    "summary": "根據日本5ch論壇於2026年8月23日的討論串，伊隆·馬斯克被引述發出警告，表示在三年內，勞動將會完全消失，而人類將會變得無用武之地。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2029/08/23",
+    "expiry_date": "2029/08/24"
   },
   {
     "category": "PROPHECY",
