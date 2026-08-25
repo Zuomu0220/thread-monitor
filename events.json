@@ -128,6 +128,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限時免費",
+    "summary": "《Microsoft Flight Simulator Suite: Themes Reimagined》可在 2026 年 9 月 2 日上午 1:00 前於 Steam 商店免費取得並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/08/23",
     "title": "Steam 新發行遊戲《AFTERLIGHT: The Apartment》",
     "summary": "步行模擬冒險遊戲《AFTERLIGHT: The Apartment》於 2026 年 8 月 23 日在 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam 新發行工具《mark-link》",
-    "summary": "工具類應用《mark-link》於 2026 年 8 月 23 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
