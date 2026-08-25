@@ -120,6 +120,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "PC 女性向視覺小說RPG《ZombiSeed》釋出試玩版",
+    "summary": "由韓國獨立遊戲團隊LemonVelvet開發的女性向視覺小說卡牌戰鬥RPG新作《ZombiSeed》已於PC平台釋出免費試玩版，並預計於2026年9月10日開啟Kickstarter募資計畫，遊戲將於2027年4月在Android／iOS平台推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "獨立遊戲《Ember Kingdom》即將推出",
+    "summary": "一款結合《Slay the Spire》與《魔獸世界》概念的單人回合制黑暗奇幻RPG獨立遊戲《Ember Kingdom》即將在Steam推出，目前已開放玩家加入願望清單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
@@ -213,6 +229,14 @@
     "title": "中型實況主「夜語」私人Discord對話外洩，內容涉及抨擊同行與粉絲",
     "summary": "實況主「夜語」的私人Discord群組對話紀錄遭到匿名人士外洩，內容顯示她長期在小圈子內嘲諷其他實況主及批評部分粉絲行為，導致大量粉絲感到失望並退訂，形象嚴重受損。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/23",
+    "title": "國產多人遊戲《驟影：緋月殺》8/25開啟Demo公測",
+    "summary": "國產虛幻5打造的買斷制多人遊戲《驟影：緋月殺》將於2026年8月25日上午10點開啟Demo公測，測試持續至8月31日17點結束，PC玩家可前往Steam下載體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -376,30 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 兩款新作開放免費試玩",
-    "summary": "Steam 平台於 2026 年 8 月 22 日推出兩款新作的限時免費試玩活動，截止至 8 月 25 日。雖然無法永久保留，但提供玩家搶先體驗《Front Mission 3》的宏大劇情與機甲玩法，以及《Car Park Capital》的街區停車場戰爭。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 推出多款新免費遊戲，包含《My Singing Monsters Karaoke》和《No Results Found》",
-    "summary": "Steam於8月22日新增多款可永久保留的免費遊戲，其中包括8月19日發布的節奏遊戲《My Singing Monsters Karaoke》以及點擊式冒險遊戲《No Results Found》，後者讓玩家透過Windows 95介面解開邪教謎團。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam兩款新作提供免費試玩活動，含《前線任務3 重製版》",
-    "summary": "Steam本週末新增兩款遊戲提供免費試玩，活動將截止至8月25日。其中包括經典機甲策略RPG的現代化重製作品《前線任務3 重製版》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/08/07",
     "title": "X用戶預言：2026年8月26日北海道札幌將發生7級弱地震",
@@ -557,6 +557,15 @@
     "date": "2026/08/04",
     "title": "美國預言家比格斯預警9月中將有「大震動」與長期斷電",
     "summary": "美國預言家比格斯（YouTube頻道Last Days主持人）發布最新預言，警告在2026年9月11日猶太新年前後，將有「大震動」來臨，包括水中重大事件、海岸線30萬人遭海嘯溺斃，以及爆炸前兆。他還預言加州、俄勒岡、華盛頓將發生8.0級大地震，黃石公園老忠實泉異常噴發。此外，他提到有敵人試圖癱瘓美國，導致大城市斷電長達三週或更久，稱其為「赤色黎明」般的攻擊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/11",
+    "expiry_date": "2026/09/12"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "2026年吹號節的聖經預言意義",
+    "summary": "有網路社群討論指出，2026年9月11日至13日的吹號節可能具有重要的聖經預言意義，特別是關於「被提」（Rapture）與末世的象徵。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/11",
     "expiry_date": "2026/09/12"
