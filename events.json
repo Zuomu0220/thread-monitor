@@ -1,6 +1,22 @@
 [
   {
     "category": "GAME",
+    "date": "2026/08/26",
+    "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
+    "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/26",
+    "title": "2026 年 8 月發售的 PC 遊戲：Fatal Claw",
+    "summary": "遊戲新作發行表顯示，PC 平台遊戲《Fatal Claw》於 2026 年 8 月 26 日發售。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/25",
     "title": "Steam平台夏日遊戲節特惠進入最後階段",
     "summary": "Steam平台上的年度夏日遊戲節（Summer Sale）即將於台灣時間8月26日凌晨結束，許多熱門大作與獨立遊戲仍提供大幅折扣，是玩家入手心儀遊戲的最後機會。",
@@ -380,22 +396,6 @@
     "date": "2026/08/23",
     "title": "Steam 新發行遊戲《桌面塔羅Desktop Tarot》",
     "summary": "接龍益智遊戲《桌面塔羅Desktop Tarot》於 2026 年 8 月 23 日在 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam 新發行免費 Demo《Into the Planet's Flesh Demo》",
-    "summary": "放置角色扮演策略遊戲《Into the Planet's Flesh Demo》於 2026 年 8 月 23 日在 Steam 平台發行免費試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam 新發行遊戲《AFTERLIGHT: The Apartment》",
-    "summary": "步行模擬冒險遊戲《AFTERLIGHT: The Apartment》於 2026 年 8 月 23 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
