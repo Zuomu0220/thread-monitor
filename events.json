@@ -112,6 +112,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 於 2026 年 8 月 25 日提供《Bunny Guys!》和《BROTHER!!! Save him!》兩款遊戲限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "大學生主播遭MCN公司仲裁違約金，律師提醒不需過度恐慌",
     "summary": "一篇報導指出許多大學生主播在收到MCN公司仲裁通知後感到慌張，擔心影響學業、畢業或徵信。律師楊律提醒，仲裁具保密性，不影響學業與畢業，本身也不影響徵信，僅在需賠償卻無力償還時才受影響。楊律指出，目前針對一般主播，特別是在校大學生，判處高額違約金的情況越來越少，但前提是主播需積極應訴。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/23",
-    "title": "中型實況主「夜語」私人Discord對話外洩，內容涉及抨擊同行與粉絲",
-    "summary": "實況主「夜語」的私人Discord群組對話紀錄遭到匿名人士外洩，內容顯示她長期在小圈子內嘲諷其他實況主及批評部分粉絲行為，導致大量粉絲感到失望並退訂，形象嚴重受損。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2474,6 +2474,15 @@
     "date": "2026/05/19",
     "title": "來自2058年的國分玲預言2026年9月26日將再次歸來，並預言2028年全球金融危機",
     "summary": "自稱來自2058年的日本「未來人」國分玲，曾表示將於2026年9月26日再次歸來，回答大眾問題。她也曾預言2028年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系出現根本性動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預言 2026 年 9 月 26 日將再次現身",
+    "summary": "自稱來自 2058 年的國分玲曾預言 2026 年將是日本及全球的重大轉折點，並表示將於 2026 年 9 月 26 日再次歸來回答大家的問題。 此外，她也預言 2028 年將爆發全球金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
