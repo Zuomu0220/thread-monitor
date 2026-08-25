@@ -25,6 +25,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/25",
+    "title": "目前無重大負面或爭議事件",
+    "summary": "在 2026 年 8 月 18 日至 8 月 25 日期間，華語圈實況主與 VTuber 社群未出現廣泛報導的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 微軟模擬飛行系列優惠",
+    "summary": "微軟模擬飛行系列遊戲在 Steam 上進行特價活動，最高享八折優惠，活動持續至 9 月 1 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 其他遊戲折扣",
+    "summary": "《Ranch Simulator》、《Flashing Lights》、《Jalopy》等多款遊戲及 DLC 在 Steam 商店同步推出超值折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/08/17 至 2026/08/24 期間，針對台灣/華語圈實況主（包含中小型實況主）及相關經紀公司的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，未搜尋到明確的公開報導或社群討論。",
@@ -372,30 +396,6 @@
     "date": "2026/08/22",
     "title": "Steam推出5款可永久保留的免費遊戲",
     "summary": "Steam於2026年8月發布了5款新的免費遊戲，包括《My Singing Monsters Karaoke》這款節奏遊戲，以及將玩家帶入Windows 95介面解謎的點擊式冒險遊戲《No Results Found》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/22",
-    "title": "中型遊戲直播團隊「邊緣聯盟」成員爆出合約糾紛疑雲",
-    "summary": "臉書社團及PTT論壇傳出中型遊戲直播團隊「邊緣聯盟」有成員因不滿公司抽成比例與合約條款而選擇離開，並爆料團隊內部管理混亂。雖然團隊官方聲稱是和平分手，但前成員在匿名討論區的發言暗示情況並非如此，引發網友對實況主經紀公司生態的討論。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam：兩款新作《前線任務3 重製版》與《WE ARE SO DEAD》提供免費試玩，至8/25截止",
-    "summary": "Steam平台推出兩款新作的免費試玩活動，包括經典機甲策略RPG《前線任務3 重製版》和合作通靈通訊遊戲《WE ARE SO DEAD》，試玩期結束後無法永久保留，活動至8月25日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Gamescom 2026：台灣團隊賽亞遊戲《BAKUDO》將展出新版Demo",
-    "summary": "由台灣獨立遊戲團隊賽亞遊戲SAYIL GAMES開發的鬥球Boss Rush動作遊戲《BAKUDO》將參與Gamescom 2026，並於集英社遊戲攤位展出最新版線下試玩Demo，將公開先前未曝光的校園場景與全新Boss「Flash」挑戰。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -6573,6 +6573,15 @@
     "date": "2026/08/19",
     "title": "未來人國分玲預言2026年底新傳染病肆虐",
     "summary": "自稱來自2058年的日本未來人國分玲預測，2026年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆 2026 年預言：俄羅斯領導人重大更替",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加的追隨者預言，俄羅斯領導人將在 2026 年底前出現重大更替。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
