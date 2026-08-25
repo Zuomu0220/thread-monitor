@@ -96,6 +96,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam《Architecture & Design Demo》發布",
+    "summary": "建築設計遊戲《Architecture & Design》的試玩版已於Steam上線，發行日期為8月17日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -233,6 +241,46 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "Joeman深陷感情風波後神隱",
+    "summary": "百萬YouTuber Joeman遭前女友蕭伊爆料私約女優、買房給網紅等「渣男」行為，雖已在社群公開道歉，但隨後神隱長達八天，YouTube頻道已連續十天未更新影片，引發大量粉絲不滿，許多忠實觀眾湧入留言敲碗，甚至威脅退訂。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "日本直播主冒犯「平將門首塚」遭除名",
+    "summary": "一名日本男性直播主於8月19日直播時，在東京知名歷史遺跡「將門塚」攀爬石碑並發出怪叫，甚至疑似裸露下半身。此行為引發日本網友強烈批評，其所屬直播主團體KICKERS已於8月22日宣布將其除名，該直播主還可能面臨「對禮拜場所不敬罪」及「公然猥褻罪」的法律起訴，其Kick帳號也因違反平台規範遭停權。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/24",
+    "title": "韓國百萬YouTuber朴偉公開KTX跌倒監視器畫面引爭議",
+    "summary": "韓國百萬YouTuber朴偉近日公開自己在高速列車（KTX）上跌倒的監視器畫面，引發輿論強烈撻伐，批評其做法過於激烈。儘管朴偉事後緊急刪除影片並公開道歉，但爭議持續發酵，導致他原定於8月28日舉行的無障礙演講活動遭取消，其YouTube頻道訂閱人數也已跌破百萬。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/24",
+    "title": "VTuber珮蕾與實況主小亮遭CP粉情勒",
+    "summary": "預見娛樂VTuber「珮蕾」與Twitch實況主小亮因頻繁互動吸引大量CP粉絲，近期因參加賽事分隊導致檯面互動減少，部分極端粉絲竟私訊向兩人發洩情緒，使珮蕾不堪其擾，呼籲觀眾理性觀看，勿過度代入情感並騷擾其他實況主。",
+    "avatar_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/08/24/realtime/28741369.jpg&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600&fit=true",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/24",
+    "title": "Lulu主持Vtuber選秀節目被質疑不尊重圈內文化",
+    "summary": "藝人Lulu（黃路梓茵）主持VTuber選秀節目《VPOP ASIA》後，在社群分享錄影側拍，笑稱自己是「跟空氣對話」，並表示這是「世界上最難主持的節目」，此番言論讓部分VTuber圈內人士感到不舒服，認為她可能不夠尊重圈內文化。",
+    "avatar_url": "https://attach.setn.com/newsimages/2026/08/24/4795325-XL.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/23",
     "title": "查無近期爭議事件",
     "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
@@ -344,60 +392,12 @@
     "days_left": 4
   },
   {
-    "category": "VTUBER",
-    "date": "2026/08/22",
-    "title": "無最新重大負面爭議事件",
-    "summary": "在 2026/08/15 至 2026/08/22 期間，未搜尋到台灣或華語圈 VTuber 相關的重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
     "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 限時免費 RPG《Orion the Hero》領取倒數",
-    "summary": "PC 玩家仍有機會在 8 月 22 日前於 Steam 平台免費領取 2026 年獨立 RPG 遊戲《Orion the Hero》，將其永久加入遊戲庫。",
+    "date": "2026/08/23",
+    "title": "Steam《The Walking Trade》推出30%折扣",
+    "summary": "喪屍末日背景下的商店經營模擬遊戲《The Walking Trade》正在Steam上提供30%的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/22",
-    "title": "無相關資訊",
-    "summary": "在指定時間範圍內未發現任何台灣/華語實況主的負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/22",
-    "title": "虛擬偶像經紀公司VTubia旗下新星VTuber「星野芽衣」因合約糾紛宣布無限期停播",
-    "summary": "VTubia發布聲明指出，星野芽衣因個人行為嚴重違反經紀合約條款，經多次協商未果，雙方已終止合作關係。星野芽衣本人則在社群平台X上發文暗示公司待遇不公，引發粉絲熱議，多數網友認為經紀公司抽成過高，且限制藝人自由，呼籲抵制VTubia。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 免費遊戲",
-    "summary": "點擊式解謎冒險遊戲《未找到結果 (No Results Found)》於 Steam 平台免費釋出，玩家可永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 免費領取",
-    "summary": "2D 角色扮演遊戲《英雄獵戶座 (Orion the Hero)》於 Steam 平台限時免費領取，活動至 8 月 22 日截止，領取後永久擁有。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 新增 5 款可永久保留的免費遊戲",
-    "summary": "Steam 在 2026 年 8 月份新增了 5 款可永久保留的免費遊戲，其中包括發行於 8 月 19 日的音樂節奏遊戲《My Singing Monsters Karaoke》和解謎冒險遊戲《No Results Found》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "PROPHECY",
@@ -2456,6 +2456,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言將於 2026/09/26 再次現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/19",
+    "title": "2058年未來人「國分玲」預告將於2026年9月26日再次歸來",
+    "summary": "自稱來自2058年的日本未來人國分玲，在2021年9月26日發布最後一條公開訊息後便銷聲匿跡，其訊息中預告將於2026年9月26日再次歸來，並將揭露未來10年的所有答案。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
