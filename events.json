@@ -72,6 +72,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限時免費遊戲：Bunny Guys! 與 BROTHER!!! Save him!",
+    "summary": "Steam 平台目前可免費領取《Bunny Guys!》與《BROTHER!!! Save him!》兩款遊戲，領取後可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "美國直播主Jacob Pugmire硬闖「十三層遺址」遭函送",
     "summary": "美國直播主Jacob Pugmire來台爭議不斷，近日他疑似擅自闖入新北瑞芳的「十三層遺址」並進行直播。該地區因重金屬污染和建物風化，存在坍塌風險，但他不顧網友勸導，仍以戲 謔方式進入。警方已證實將他依法函送。Jacob Pugmire去年也曾因夜宿楊梅火車站遭提告，開庭未現身被通緝。",
     "avatar_url": "https://cc.tvbs.com.tw/img/upload/2026/08/22/20260822161944-a4f61e86.jpg",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/22",
-    "title": "張雅婷留言惹議遭VTuber真理果公開制止並Ban掉",
-    "summary": "知名Youtube留言者「張雅婷」近日在台V真理果的影片下方留下「開車」言論，觸犯真理果對三次元骨科發言的禁忌。真理果第一時間制止，但張雅婷仍持續留言，最終真理果直接在影片下方發出公告，嚴正聲明會Ban掉此類留言，並在推特表達不喜歡這種互動方式，希望粉絲注意。社群上許多網友也認為張雅婷的留言不舒服且不禮貌。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -6600,6 +6600,15 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆巴巴萬加預言俄羅斯領導人普丁將在2026年底前失去政權",
     "summary": "已故預言家盲眼龍婆巴巴萬加的追隨者指出，她曾預言俄羅斯領導人普丁將在2026年底前出現重大更替，失去政權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "來自2058年的未來人國分玲預警2026年底將爆發全新傳染病",
+    "summary": "自稱來自2058年的「未來人」國分玲預言，2026年底將有全新傳染病在全球肆虐。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
