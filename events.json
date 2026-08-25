@@ -49,6 +49,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/08/25",
+    "title": "無負面與爭議事件報告",
+    "summary": "在 2026/08/18 至 2026/08/25 期間，未搜尋到台灣/華語圈實況主（包含中小型實況主、相關經紀公司）的任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面或爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 最新限免遊戲",
+    "summary": "截至 2026 年 8 月 25 日，Steam 上有「Bunny Guys!」與「BROTHER!!! Save him!」等遊戲提供限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/08/17 至 2026/08/24 期間，針對台灣/華語圈實況主（包含中小型實況主）及相關經紀公司的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，未搜尋到明確的公開報導或社群討論。",
@@ -172,6 +188,14 @@
     "date": "2026/08/24",
     "title": "獨立遊戲《Ember Kingdom》即將推出",
     "summary": "一款結合《Slay the Spire》與《魔獸世界》概念的單人回合制黑暗奇幻RPG獨立遊戲《Ember Kingdom》即將在Steam推出，目前已開放玩家加入願望清單。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/24",
+    "title": "《城堡漂流記》Demo 今日上線",
+    "summary": "由荷蘭獨立工作室 Renegade Games 開發的遊戲《城堡漂流記》（Castle Away）於 2026 年 8 月 24 日在 Steam 平台正式推出 Demo，玩家可免費下載體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -373,30 +397,6 @@
     "title": "知名實況主「小豪」直播失言風波",
     "summary": "小豪在深夜直播中，因遊戲操作不順而脫口說出具爭議性的玩笑話，引發部分觀眾不滿，社群討論區湧現大量批評。小豪隨後發布限時動態道歉，表示會謹言慎行。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 推出五款可永久保留的免費遊戲",
-    "summary": "Steam 在 2026 年 8 月推出五款新的免費遊戲，玩家可以永久保留。其中包括音樂節奏遊戲《My Singing Monsters Karaoke》和點擊式解謎冒險遊戲《No Results Found》。《My Singing Monsters Karaoke》於 8 月 19 日發行，支援自訂控制器並可上傳新歌。《No Results Found》則提供類似 Windows 95 的介面，讓玩家透過搜尋引擎和文件解開邪教謎團。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam 兩款新作提供免費試玩",
-    "summary": "Steam 本週末開放兩款 2026 年新作《Over The Top: WWI》和《Front Mission 3 Remake》免費試玩至 8 月 24 日。前者是一款歷史第一人稱射擊遊戲，支援 200 人大規模戰鬥，地圖高度可破壞。後者則是經典機甲策略角色扮演遊戲的現代化版本，劇情宏大且新增快速戰鬥模式。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam推出5款可永久保留的免費遊戲",
-    "summary": "Steam於2026年8月發布了5款新的免費遊戲，包括《My Singing Monsters Karaoke》這款節奏遊戲，以及將玩家帶入Windows 95介面解謎的點擊式冒險遊戲《No Results Found》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -2447,6 +2447,15 @@
     "date": "2026/05/19",
     "title": "國分玲（來自2058年）的2026年9月26日再次歸來預言",
     "summary": "自稱來自2058年的未來人國分玲表示，他將於2026年9月26日再次歸來，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/23",
+    "title": "來自 2058 年的國分玲預言：日本將迎來重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，2026 年將是日本及全球的重大轉折點。她曾表示將於 2026 年 9 月 26 日再次現身回答問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
