@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Epic Games Store 捍衛戰士：航母打擊 限時免費暢玩",
+    "summary": "即日起至 8 月 25 日，玩家可免費暢玩「捍衛戰士：航母打擊」等內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Epic Games Store 《黑神話：悟空》七折優惠",
+    "summary": "史詩級動作角色扮演遊戲《黑神話：悟空》推出七折特價，活動至 8 月 25 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/08/22",
     "title": "Steam 免費遊戲遊玩至 8/24",
     "summary": "Steam 在本週末新增了更多免費遊戲供玩家遊玩，這些遊戲可免費遊玩至 8 月 24 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam《前線任務3 重製版》免費試玩",
-    "summary": "Steam 提供《前線任務3 重製版》免費試玩活動，截止至 8 月 25 日，試玩期結束後無法永久保留遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/22",
-    "title": "Steam《Remote Reaper》FPV無人機模擬器Demo與折扣",
-    "summary": "烏克蘭開發者Vladyslav Fomenko宣布，其FPV無人機模擬器《Remote Reaper》將於10月14日退出Steam搶先體驗版。作為2026年烏克蘭遊戲節的一部分，該遊戲的免費演示目前可在Steam上遊玩，截止至8月24日，並提供20%的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2420,6 +2420,15 @@
     "date": "2026/05/19",
     "title": "2058年未來人國分玲預告再次現身",
     "summary": "自稱來自 2058 年的國分玲預言，她將於 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "未來人國分玲預言2026年9月26日再次現身",
+    "summary": "來自2058年的未來人國分玲表示，她將於2026年9月26日再次出現在社群媒體上，回答大眾的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6534,6 +6543,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "未來人國分玲預言2026年底新傳染病肆虐",
+    "summary": "自稱來自2058年的日本未來人國分玲預測，2026年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7437,15 +7455,6 @@
     "date": "2026/08/22",
     "title": "英國靈媒 Craig Hamilton-Parker 預言",
     "summary": "英國知名通靈人士克雷格．漢米爾頓．帕克（Craig Hamilton-Parker）預測，2027 年中國將面臨內外壓力，對台灣施壓可能升高，而 2028 年可能出現「台灣危機」，但台灣不會被中國吞併，中國未來可能走向分裂。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2028/12/31",
-    "expiry_date": "2029/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/05/19",
-    "title": "未來人國分玲預言2028年全球金融危機",
-    "summary": "未來人國分玲指出，2028年全球將爆發新一輪金融危機，導火線為美國的國債違約，導致美元全球結算體系出現根本性動搖。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/12/31",
     "expiry_date": "2029/01/01"
