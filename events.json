@@ -336,6 +336,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 平台在 2026 年 8 月 25 日提供《Bunny Guys!》和《BROTHER!!! Save him!》兩款遊戲限時免費下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "中國實況主辛巴稱快手若給幾十億願播一場",
     "summary": "中國知名電商直播主辛巴在社群平台表示，「如果快手給我拿幾十億讓我播一場，我就播了。」此言論引發網友討論，顯示其對自身影響力及直播帶貨效益的自信。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "無相關事件：在 2026/08...",
-    "summary": "無相關事件：在 2026/08/17 至 2026/08/24 期間，未發現華語圈實況主有明顯炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -6780,6 +6780,15 @@
     "date": "2026/02/27",
     "title": "Bitcoin News：4chan 先知更改 2026 年預測，比特幣上看 100 萬美元",
     "summary": "據稱來自 2019 年準確預測比特幣低點的 4chan 匿名先知，重新現身並發布更大膽的預言，稱比特幣在 2026 年底前可能達到 100 萬美元，以太坊達到 10 萬美元。然而，社群對其真實性存疑。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/08",
+    "title": "盲眼龍婆巴巴．萬加 2026 年預言：俄羅斯領導人變動",
+    "summary": "巴巴．萬加預言俄羅斯總統普丁可能在 2026 年底前失去權力，並由新的領導人取代。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
