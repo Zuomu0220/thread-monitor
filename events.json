@@ -256,6 +256,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "2026 科隆遊戲展正式開幕",
+    "summary": "2026 科隆遊戲展 (Gamescom) 正式開幕，開幕之夜直播匯聚多款全球新作。Xbox 在本次展會中展出 25 款遊戲，並設有 140 個體驗站，其中核心試玩遊戲包括《決勝時刻：現代戰爭 4》、《戰爭機器：E-Day》、《Minecraft：地下城 2》、《神鬼寓言》及《異形：隔離 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "《城堡漂流記》Demo 今日上線",
     "summary": "由荷蘭獨立工作室 Renegade Games 開發的遊戲《城堡漂流記》（Castle Away）於 2026 年 8 月 24 日在 Steam 平台正式推出 Demo，玩家可免費下載體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "Joeman深陷感情風波後神隱",
-    "summary": "百萬YouTuber Joeman遭前女友蕭伊爆料私約女優、買房給網紅等「渣男」行為，雖已在社群公開道歉，但隨後神隱長達八天，YouTube頻道已連續十天未更新影片，引發大量粉絲不滿，許多忠實觀眾湧入留言敲碗，甚至威脅退訂。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
     "days_left": 5
   },
   {
@@ -3229,6 +3229,15 @@
     "date": "2026/08/24",
     "title": "物理學家馮·福斯特的人口「末日預言」",
     "summary": "物理學家海因茨·馮·福斯特在1960年基於數學模型預測，人類人口成長將在 2026年11月13日達到極限，屆時人類將因過度膨脹而「窒息而死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言世界終結日期",
+    "summary": "1960 年已逝物理學家馮．佛斯特（Heinz von Foerster）於《科學》（Science）期刊警示「世界恐在 2020 年代走向終結」，他所標定的明確日期為 2026 年 11 月 13 日。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
