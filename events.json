@@ -216,6 +216,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限時免費：類寶可夢 RPG《Dokimon Quest》",
+    "summary": "Steam 平台限時免費提供類寶可夢 RPG 遊戲《Dokimon Quest》，重溫懷舊掌機抓寶樂趣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Epic Games Store 限時免費：3D 動作平台跳躍小品《Bolmn》",
+    "summary": "Epic Games Store 限時免費提供 3D 動作平台跳躍遊戲《Bolmn》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -384,22 +400,6 @@
     "days_left": 5
   },
   {
-    "category": "VTUBER",
-    "date": "2026/08/24",
-    "title": "Lulu主持Vtuber選秀節目被質疑不尊重圈內文化",
-    "summary": "藝人Lulu（黃路梓茵）主持VTuber選秀節目《VPOP ASIA》後，在社群分享錄影側拍，笑稱自己是「跟空氣對話」，並表示這是「世界上最難主持的節目」，此番言論讓部分VTuber圈內人士感到不舒服，認為她可能不夠尊重圈內文化。",
-    "avatar_url": "https://attach.setn.com/newsimages/2026/08/24/4795325-XL.jpg",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "Steam商店限時免費領取《Microsoft Flight Simulator Suite: Themes Reimagined》原聲帶DLC",
-    "summary": "Steam商店於2026年8月24日推出限時免費領取《Microsoft Flight Simulator Suite: Themes Reimagined》原聲帶DLC活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/01/18",
     "title": "2062 年未來人警示 2026 年夏日本可能發生複合型災難",
@@ -533,6 +533,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/01",
     "expiry_date": "2026/09/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/24",
+    "title": "吠陀占星大師預言：2026 年 9 月美國領導層面臨麻煩",
+    "summary": "吠陀占星大師喬尼·派特里預言，約在 2026 年 9 月 5 日至 6 日，火星將經過美國國慶盤的太陽位置，預示美國領導層將面臨巨大麻煩或攻擊。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/05",
+    "expiry_date": "2026/09/06"
   },
   {
     "category": "PROPHECY",
