@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/26",
+    "title": "PSN 遊戲特價",
+    "summary": "PlayStation Store 推出特價活動，期間為 2026/08/12 至 2026/08/26，多款遊戲提供優惠折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/25",
     "title": "Steam平台夏日遊戲節特惠進入最後階段",
     "summary": "Steam平台上的年度夏日遊戲節（Summer Sale）即將於台灣時間8月26日凌晨結束，許多熱門大作與獨立遊戲仍提供大幅折扣，是玩家入手心儀遊戲的最後機會。",
@@ -296,6 +304,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 遊戲折扣",
+    "summary": "德國科隆國際遊戲展（gamescom 2026）期間，Steam 平台同步推出遊戲折扣活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Nintendo Switch 夏季優惠",
+    "summary": "台灣 Nintendo eShop 啟動 2026 夏季優惠，多款 Switch 遊戲享折扣，例如《集合啦！動物森友會》、《潛水員戴夫》等，活動持續至 8 月 25 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -373,30 +397,6 @@
     "title": "實況主泥泥汝因觀看《英雄聯盟》賽事言行不當引發爭議並致歉",
     "summary": "知名實況主泥泥汝於 8 月 24 日在 Threads 發布道歉聲明，針對自己近期觀看《英雄聯盟》電競賽事時，因幫對手加油甚至寫錯選手 Faker 名字等不成熟言行致歉，並表示已深刻意識到問題且會確實反省，此舉引發網路社群炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "Joeman分手風波持續延燒，社群討論其「神隱」態度",
-    "summary": "在Joeman與前女友蕭伊的「凌晨3點牛肉麵」及其他爆料引發巨大爭議後，Joeman於初期迅速認錯道歉。然而，從8月24日的社群討論來看，Joeman在道歉後已整整六天未更新社群平台或上傳新影片，其「神隱」態度引發網友對其公關策略的討論與質疑，部分網友將其與其他網紅的爭議處理方式進行比較。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "Steam限免：類寶可夢RPG《Dokimon Quest》",
-    "summary": "Steam 平台限時免費提供類寶可夢 RPG 遊戲《Dokimon Quest》，讓玩家能重溫懷舊掌機抓寶樂趣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "Steam Demo釋出",
-    "summary": "受斯里蘭卡神話啟發的敘事解謎平台遊戲《Song of Kings》免費試玩版已於 Steam 平台開放，邀請玩家在正式發售前體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -2537,6 +2537,15 @@
     "date": "2026/05/19",
     "title": "來自2058年未來人國分玲預告2026年9月26日再次歸來",
     "summary": "自稱來自2058年的日本神祕人國分玲，曾有多個預言，她表示將於2026年9月26日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "國分玲回歸與 2026 年日本異變預言",
+    "summary": "來自 2058 年的日本「未來人」國分玲，其曾預言多項事件，並預告將於 2026 年 9 月 26 日再次現身。近期網路社群正熱烈討論他關於 2026 年日本可能發生的「某種異變」的預言。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
