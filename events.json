@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/26",
+    "title": "無相關事件",
+    "summary": "在 2026/08/19 至 2026/08/26 期間，未發現符合「實況主與 VTuber 全網負面與爭議事件」標準的台灣/華語圈實況主相關爭議。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/25",
     "title": "Steam平台夏日遊戲節特惠進入最後階段",
@@ -389,14 +397,6 @@
     "title": "Joeman深陷感情風波後神隱",
     "summary": "百萬YouTuber Joeman遭前女友蕭伊爆料私約女優、買房給網紅等「渣男」行為，雖已在社群公開道歉，但隨後神隱長達八天，YouTube頻道已連續十天未更新影片，引發大量粉絲不滿，許多忠實觀眾湧入留言敲碗，甚至威脅退訂。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "日本直播主冒犯「平將門首塚」遭除名",
-    "summary": "一名日本男性直播主於8月19日直播時，在東京知名歷史遺跡「將門塚」攀爬石碑並發出怪叫，甚至疑似裸露下半身。此行為引發日本網友強烈批評，其所屬直播主團體KICKERS已於8月22日宣布將其除名，該直播主還可能面臨「對禮拜場所不敬罪」及「公然猥褻罪」的法律起訴，其Kick帳號也因違反平台規範遭停權。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -2519,6 +2519,15 @@
     "date": "2026/06/16",
     "title": "來自2058年的未來人國分玲預言2028年全球金融危機",
     "summary": "自稱來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。他曾多次準確預測過去事件而受到關注，並表示將於2026年9月26日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "準確率驚人的國分玲：自稱來自 2058 年，預言 2026 到 2030 年的重大事件",
+    "summary": "一位自稱來自 2058 年的日本神秘人「國分玲」因多次準確預言而備受關注。他曾預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現根本性動搖。國分玲也曾表示他將於 2026 年 9 月 26 日再次歸來，回答大眾問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6735,6 +6744,15 @@
     "date": "2026/12/26",
     "title": "4chan 匿名用戶 SBC7HL 預言",
     "summary": "加密貨幣價格目標：一位 4chan 匿名用戶 SBC7HL 預測比特幣 (BTC) 到 2026 年底可能達到 25 萬美元，以太坊 (ETH) 可能達到 2 萬美元，Solana (SOL) 可能攀升至 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "Bitcoin News：4chan 先知更改 2026 年預測，比特幣上看 100 萬美元",
+    "summary": "據稱來自 2019 年準確預測比特幣低點的 4chan 匿名先知，重新現身並發布更大膽的預言，稱比特幣在 2026 年底前可能達到 100 萬美元，以太坊達到 10 萬美元。然而，社群對其真實性存疑。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
