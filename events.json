@@ -232,6 +232,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限免遊戲《Dokimon Quest》復古像素抓寶RPG 免費領取中",
+    "summary": "致敬Game Boy掌機時代風格的復古像素抓寶RPG遊戲《Dokimon Quest》目前在Steam平台限時免費領取，活動至2026年8月27日上午1:00前截止。遊戲不支援中文，發行至今在Steam平台獲得77%好評率，儘管存在一些Bug，但官方積極修復的態度受到肯定。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "韓國百萬YouTuber朴偉公開KTX跌倒監視器畫面引爭議",
     "summary": "韓國百萬YouTuber朴偉近日公開自己在高速列車（KTX）上跌倒的監視器畫面，引發輿論強烈撻伐，批評其做法過於激烈。儘管朴偉事後緊急刪除影片並公開道歉，但爭議持續發酵，導致他原定於8月28日舉行的無障礙演講活動遭取消，其YouTube頻道訂閱人數也已跌破百萬。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/24",
-    "title": "VTuber珮蕾與實況主小亮遭CP粉情勒",
-    "summary": "預見娛樂VTuber「珮蕾」與Twitch實況主小亮因頻繁互動吸引大量CP粉絲，近期因參加賽事分隊導致檯面互動減少，部分極端粉絲竟私訊向兩人發洩情緒，使珮蕾不堪其擾，呼籲觀眾理性觀看，勿過度代入情感並騷擾其他實況主。",
-    "avatar_url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/08/24/realtime/28741369.jpg&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600&fit=true",
     "days_left": 5
   },
   {
@@ -2492,6 +2492,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2026 年 9 月 26 日將再次現身",
     "summary": "自稱來自 2058 年的國分玲曾預言 2026 年將是日本及全球的重大轉折點，並表示將於 2026 年 9 月 26 日再次歸來回答大家的問題。 此外，她也預言 2028 年將爆發全球金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/16",
+    "title": "來自2058年的未來人國分玲預言2028年全球金融危機",
+    "summary": "自稱來自2058年的國分玲預言，2028年全球將爆發新一輪金融危機，導火索是美國的國債違約，屆時美元全球結算體系將出現根本性動搖。他曾多次準確預測過去事件而受到關注，並表示將於2026年9月26日再次歸來，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
