@@ -240,6 +240,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "科隆遊戲展2026啟幕",
+    "summary": "全球頂級遊戲盛會科隆遊戲展於2026年8月25日正式啟幕，展館展位首次全部售罄，匯聚1600餘家廠商。開幕夜直播定於8月26日凌晨2點（台灣時間），內容涵蓋《巫師3》、《FF7 啟示》等海外大作預告，以及《黑神話：鐘馗》、《影之刃零》等國產遊戲實機亮相。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "日本直播主冒犯「平將門首塚」遭除名",
     "summary": "一名日本男性直播主於8月19日直播時，在東京知名歷史遺跡「將門塚」攀爬石碑並發出怪叫，甚至疑似裸露下半身。此行為引發日本網友強烈批評，其所屬直播主團體KICKERS已於8月22日宣布將其除名，該直播主還可能面臨「對禮拜場所不敬罪」及「公然猥褻罪」的法律起訴，其Kick帳號也因違反平台規範遭停權。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "韓國百萬YouTuber朴偉公開KTX跌倒監視器畫面引爭議",
-    "summary": "韓國百萬YouTuber朴偉近日公開自己在高速列車（KTX）上跌倒的監視器畫面，引發輿論強烈撻伐，批評其做法過於激烈。儘管朴偉事後緊急刪除影片並公開道歉，但爭議持續發酵，導致他原定於8月28日舉行的無障礙演講活動遭取消，其YouTube頻道訂閱人數也已跌破百萬。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -572,6 +572,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "宗教預言：2026年9月「吹角節」與末日審判",
+    "summary": "Reddit論壇上討論，根據聖經事件與猶太節日，2026年的「吹角節」（猶太新年）被認為是《聖經》中末日審判的下一個未實現節日，可能與「提拉結」（Rapture）相關。2026年的猶太新年從9月11日日落開始，至9月13日日落結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/11",
+    "expiry_date": "2026/09/12"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/14",
     "title": "未來人預言關於 8/14 的格鬥技事件",
     "summary": "根據「バンダナ刑事の柔術24時」部落格的報導，一位「バンダナ刑事」的未來預言，提到了「8/14 的格鬥技的男」。內容提及 K-1 WORLD MAX 2026 -70kg 世界最強決定淘汰賽開幕戰的組合已公布，日本代表松本和樹將與柬埔寨的 Kun Khmer 選手 Lon Panha 對決。預言在 8 月 13 日公布，比賽則在 9 月 12 日舉行。",
@@ -602,6 +611,15 @@
     "date": "2026/04/06",
     "title": "Chris Bledsoe 預言 2026 新知識降臨與天狼星對齊",
     "summary": "超自然現象體驗者 Chris Bledsoe 預言，當天狼星（Regulus）在黎明前與獅身人面像（Sphinx）的凝視對齊時，「新知識」將進入世界。最初認為會在 2026 年復活節前後或秋季發生，但有研究者指出實際對齊日期可能在 2026 年 10 月 7 日。另一種解釋認為這預示著 2026 年伊朗與以色列爆發核戰，隨後數千個發光球體從海洋升起進行干預。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/21",
+    "expiry_date": "2026/09/22"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/21",
+    "title": "Chris Bledsoe的2026年預言：Regulus星體與金星對齊",
+    "summary": "Reddit論壇上對Chris Bledsoe預言的模擬結果顯示，Regulus星體（獅子座中最亮的星）將於2026年9月21日至24日期間在黎明前可見。特別是9月24日，Regulus星體與金星將幾乎同時位於正東方位90.0000°的精確軸線上，此現象預計在日出前不久發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/21",
     "expiry_date": "2026/09/22"
