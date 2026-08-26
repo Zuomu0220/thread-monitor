@@ -32,6 +32,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/26",
+    "title": "無最新負面與爭議事件報告",
+    "summary": "在2026年8月19日至8月26日期間，未發現台灣/華語圈實況主與VTuber相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面事件報告",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/25",
     "title": "Steam平台夏日遊戲節特惠進入最後階段",
@@ -272,6 +280,22 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam限時免費《Dokimon Quest》復古像素抓寶RPG",
+    "summary": "由Yanako RPGs開發的回合制RPG遊戲《Dokimon Quest》，為回饋社群玩家與慶祝續作發表，推出48小時限時免費領取活動，活動至8月27日凌晨1點結束",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam免費遊戲《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "PinoGamer皮諾電玩報導，Steam平台有《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲提供限時免費下載",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -372,30 +396,6 @@
     "date": "2026/08/24",
     "title": "Steam Demo釋出",
     "summary": "受斯里蘭卡神話啟發的敘事解謎平台遊戲《Song of Kings》免費試玩版已於 Steam 平台開放，邀請玩家在正式發售前體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "Steam 獨立遊戲發布",
-    "summary": "台灣獨立開發者製作的第一款獨立遊戲《Ember Kingdom》即將在 Steam 平台推出，是一款單人回合制、路線探索型黑暗奇幻 RPG，目前已可加入願望清單。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "PC 女性向視覺小說RPG《ZombiSeed》釋出試玩版",
-    "summary": "由韓國獨立遊戲團隊LemonVelvet開發的女性向視覺小說卡牌戰鬥RPG新作《ZombiSeed》已於PC平台釋出免費試玩版，並預計於2026年9月10日開啟Kickstarter募資計畫，遊戲將於2027年4月在Android／iOS平台推出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "獨立遊戲《Ember Kingdom》即將推出",
-    "summary": "一款結合《Slay the Spire》與《魔獸世界》概念的單人回合制黑暗奇幻RPG獨立遊戲《Ember Kingdom》即將在Steam推出，目前已開放玩家加入願望清單。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -2528,6 +2528,15 @@
     "date": "2026/05/19",
     "title": "準確率驚人的國分玲：自稱來自 2058 年，預言 2026 到 2030 年的重大事件",
     "summary": "一位自稱來自 2058 年的日本神秘人「國分玲」因多次準確預言而備受關注。他曾預言 2028 年全球將爆發新一輪金融危機，導火索是美國的國債違約，導致美元全球結算體系出現根本性動搖。國分玲也曾表示他將於 2026 年 9 月 26 日再次歸來，回答大眾問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自2058年未來人國分玲預告2026年9月26日再次歸來",
+    "summary": "自稱來自2058年的日本神祕人國分玲，曾有多個預言，她表示將於2026年9月26日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
