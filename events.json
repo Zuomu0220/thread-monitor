@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
+    "summary": "Epic Games Store預告，將於2026年8月27日至9月3日期間，提供《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》兩款遊戲供玩家免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
@@ -344,6 +352,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Gamescom 2026遊戲展啟動",
+    "summary": "Gamescom 2026遊戲展已正式啟動，Steam平台將同步展示最新的遊戲作品與公告，為玩家帶來遊戲產業的最新趨勢與創新資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -381,22 +397,6 @@
     "title": "無最新負面與爭議事件報導",
     "summary": "根據目前掌握的網路資訊，在 2026/08/17 至 2026/08/24 期間，未發現有台灣/華語圈知名或中小型實況主、VTuber 及相關經紀公司發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面或爭議事件的報導。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "無特定負面事件彙報",
-    "summary": "在 2026 年 8 月 17 日至 8 月 24 日期間，經網路搜尋台灣/華語圈實況主與 VTuber 相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件，未能找到廣泛報導且具體的單一事件。這可能表示在此期間未發生引起大規模關注的爭議，或小型事件未被新聞媒體與主要論壇廣泛收錄。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "中國實況主辛巴稱快手若給幾十億願播一場",
-    "summary": "中國知名電商直播主辛巴在社群平台表示，「如果快手給我拿幾十億讓我播一場，我就播了。」此言論引發網友討論，顯示其對自身影響力及直播帶貨效益的自信。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
