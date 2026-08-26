@@ -152,6 +152,38 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam Demo釋出：《極上人妻在我身邊》",
+    "summary": "成人單機遊戲《極上人妻在我身邊》的 Steam Demo 已正式推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 限免遊戲：《Dokimon Quest》",
+    "summary": "復古像素抓寶 RPG 遊戲《Dokimon Quest》正在 Steam 平台限時免費領取中，領取時間至 2026 年 8 月 27 日上午 1:00 前。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 免費遊戲：《Blasterbug: Last Bug Standing!》",
+    "summary": "《Blasterbug: Last Bug Standing!》已於 Steam 免費推出，這是一款支援 1 至 8 人本機對戰的炸彈大亂鬥遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/25",
+    "title": "Steam 特價：《1666: Amsterdam》10% 折扣",
+    "summary": "冒險搶先體驗遊戲《1666: Amsterdam》在 Steam 平台提供 10% 的新品優惠，活動將於 9 月 1 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/24",
     "title": "無最新負面與爭議事件",
@@ -360,44 +392,12 @@
     "days_left": 5
   },
   {
-    "category": "STREAMER",
-    "date": "2026/08/23",
-    "title": "查無近期爭議事件",
-    "summary": "在 2026 年 8 月 16 日至 2026 年 8 月 23 日期間，華語圈實況主與 VTuber 社群未發現符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的重大負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/23",
-    "title": "暫無",
-    "summary": "過去7天內（2026/08/16 至 2026/08/23），台灣/華語圈實況主與VTuber相關的重大負面與爭議事件，除上述實況主事件外，經搜尋後目前無明確符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況之最新動態。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
     "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam 多款遊戲史低特價",
-    "summary": "截至2026年8月23日，Steam平台有多款遊戲達到歷史最低價格，其中包括《天國：拯救 II》（Kingdom Come: Deliverance II）降價60%至NT$702、《殭屍部隊4：死亡戰爭》（Zombie Army 4: Dead War）降價95%至NT$37、《無盡空間2》（Endless Space 2）降價80%至NT$173等。",
+    "date": "2026/08/24",
+    "title": "Steam Demo釋出：《深巷》",
+    "summary": "第一人稱心理恐怖遊戲《深巷》提供免費 Demo 試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/23",
-    "title": "Steam 新增Demo《Sevendays Demo》與《The Odyssey Simulator》",
-    "summary": "Steam平台於2026年8月23日新增了兩款遊戲的免費試玩版：角色扮演/文字遊戲《Sevendays Demo》以及動作冒險射擊遊戲《The Odyssey Simulator》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/23",
-    "title": "Hololive所屬VTuber時乃空提醒粉絲勿使用改造螢光棒",
-    "summary": "Hololive旗下VTuber時乃空（ときのそら）在直播中向粉絲發出警告，表示對於使用眩光改造螢光棒的觀眾，將不會給予任何粉絲福利，此舉旨在維護演唱會現場的觀賞品質與其他觀眾的權益。",
-    "avatar_url": "https://i.imgur.com/TokinoSora_Img.png",
-    "days_left": 4
+    "days_left": 5
   },
   {
     "category": "PROPHECY",
