@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store 下週限時免費：《Breathedge》及《Rival Stars Horse Racing: Desktop Edition》",
+    "summary": "Epic Games Store 預告，自 2026 年 8 月 27 日起至 9 月 3 日，將開放免費領取太空生存冒險喜劇《Breathedge》以及賽馬模擬遊戲《Rival Stars Horse Racing: Desktop Edition》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
@@ -392,14 +400,6 @@
     "days_left": 4
   },
   {
-    "category": "GAME",
-    "date": "2026/08/24",
-    "title": "Steam 新發行遊戲《Titanic Escape Simulator™》",
-    "summary": "生存冒險模擬遊戲《Titanic Escape Simulator™》於 2026 年 8 月 24 日在 Steam 平台發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/01/18",
     "title": "2062 年未來人警示 2026 年夏日本可能發生複合型災難",
@@ -521,6 +521,15 @@
     "date": "2026/08/13",
     "title": "未來人國分玲預言 2026 年日本面臨水電資訊危機",
     "summary": "自稱來自 2058 年的未來人國分玲，曾留下關於 2026 年的預言，指出日本將在 7 月至 8 月期間面臨水、電力與資訊的危機。他提到這是一個「日本最為重要的年份」及「需要注意的期間」，並暗示 2026 年日本的首都功能可能部分轉移或統治機構發生變化。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/08/31",
+    "expiry_date": "2026/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/15",
+    "title": "2058年未來人國分玲預言：2026年7月至8月日本將面臨水、電力、資訊危機",
+    "summary": "自稱來自 2058 年的未來人國分玲，曾預言 2026 年 7 月至 8 月期間，日本將發生水、電力、資訊方面的危機。目前該期間仍在進行中。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/08/31",
     "expiry_date": "2026/09/01"
@@ -2546,6 +2555,15 @@
     "date": "2026/08/21",
     "title": "國分玲回歸與 2026 年日本異變預言",
     "summary": "來自 2058 年的日本「未來人」國分玲，其曾預言多項事件，並預告將於 2026 年 9 月 26 日再次現身。近期網路社群正熱烈討論他關於 2026 年日本可能發生的「某種異變」的預言。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058年未來人國分玲預言：2026年將是日本及全球的重大轉折點",
+    "summary": "來自 2058 年的未來人國分玲表示，2026 年將是日本及全球的重大轉折點。他進一步預言，將於 2026 年 9 月 26 日再次現身，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6798,6 +6816,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預言：2026 年底全新傳染病肆虐全球",
     "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）預言，2026 年底全球將爆發全新傳染病，並再次強調他將於 2026 年 9 月 26 日再次現身。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/10",
+    "title": "盲眼龍婆預言：2026年底前俄羅斯領導人出現重大更替",
+    "summary": "巴巴萬加（Baba Vanga）對 2026 年的預言還包括「俄羅斯領導人於 2026 年底前出現重大更替」。此項預言目前尚未發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
