@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games 下週免費遊戲預告：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
+    "summary": "Epic Games Store 預計從 8 月 27 日至 9 月 3 日提供《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
@@ -389,14 +397,6 @@
     "title": "Steam 新發行遊戲《Titanic Escape Simulator™》",
     "summary": "生存冒險模擬遊戲《Titanic Escape Simulator™》於 2026 年 8 月 24 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "無最新負面與爭議事件報導",
-    "summary": "根據目前掌握的網路資訊，在 2026/08/17 至 2026/08/24 期間，未發現有台灣/華語圈知名或中小型實況主、VTuber 及相關經紀公司發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面或爭議事件的報導。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -6789,6 +6789,15 @@
     "date": "2026/08/08",
     "title": "盲眼龍婆巴巴．萬加 2026 年預言：俄羅斯領導人變動",
     "summary": "巴巴．萬加預言俄羅斯總統普丁可能在 2026 年底前失去權力，並由新的領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預言：2026 年底全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的未來人國分玲（Kokubun Rei）預言，2026 年底全球將爆發全新傳染病，並再次強調他將於 2026 年 9 月 26 日再次現身。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
