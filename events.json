@@ -1,5 +1,21 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/08/28",
+    "title": "直播主王三郎平台突遭停權3天損失逾百萬",
+    "summary": "台灣直播主「王三郎嚴選」粉絲專頁近日突然遭平台停權3天，起因為疑似有印度帳號冒充星巴克公司檢舉其涉及著作權侵權。雖然粉絲頁已於8月27日恢復，但王三郎表示3天無法直播的損失超過百萬元，且無法求償，懷疑是同業競爭惡意檢舉。",
+    "avatar_url": "https://s.newtalk.tw/album/news/418/5ed0a1f4967a1.jpg",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/28",
+    "title": "Steam《拳皇XV》終極版等遊戲史低特價",
+    "summary": "Steam平台於8月21日至9月10日期間，推出多款遊戲的史低特價活動，其中《拳皇XV》終極版降價至2.5折。其他優惠遊戲包含《武裝行動：重鑄者》、《DayZ》、《男孩與鹿》、《汽車經銷商模擬器》、《歸家異途2》、《魂寵獵人》、《最後四件事》等多款高評價作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/08/27",
     "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
@@ -36,6 +52,22 @@
     "date": "2026/08/27",
     "title": "Steam 新品上市與特惠：《STAR WARS 零號連隊™》、《METAL GEAR SOLID: MASTER COLLECTION Vol.2》",
     "summary": "Steam 平台於 2026 年 8 月 27 日發售《STAR WARS 零號連隊™》與《METAL GEAR SOLID: MASTER COLLECTION Vol.2》。此外，SEGA 發行商特賣提供高達九折優惠，以及《FRONT MISSION 3: Remake》提供五折特惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/27",
+    "title": "知名實況主Asmongold因過激言論遭Twitch停權14天",
+    "summary": "美國知名Twitch實況主Asmongold因在直播中針對西班牙北非飛地休達的非法移民事件發表過激言論，導致其副頻道「zackrawrr」遭Twitch平台停權14天。Asmongold對此表示不滿，並認真考慮轉戰Kick、Rumble或YouTube等其他串流平台。",
+    "avatar_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/asmongold-profile_image-f1a27e7d70c436d4-300x300.png",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "鬼屋改造驅魔冒險《There Are No Ghosts at the Grand》12月啟動搶先體驗",
+    "summary": "獨立遊戲開發商Friday Sundae宣布，結合飯店翻修與超自然驅魔題材的全新作品《There Are No Ghosts at the Grand》將於2026年12月在Steam及Microsoft Store平台推出PC搶先體驗版，並於10月的「Steam新品節」提供全新試玩Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -84,6 +116,30 @@
     "date": "2026/08/26",
     "title": "PSN 遊戲特價",
     "summary": "PlayStation Store 推出特價活動，期間為 2026/08/12 至 2026/08/26，多款遊戲提供優惠折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/26",
+    "title": "台灣實況主Ray美國Walmart直播遭拘留",
+    "summary": "知名台灣實況主Ray與友人在美國Walmart賣場直播時，遭到當地警方攔截，被告知因未經許可在賣場內直播，已被列入「禁入名單」，若再進入將構成刑事犯罪。Ray一行人被短暫拘留，期間Ray甚至試圖拿起手機錄製抖音，被律師緊急阻止，事件引發網友熱議。",
+    "avatar_url": "https://i.ytimg.com/vi/w6Y7-7P9E8g/maxresdefault.jpg",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/26",
+    "title": "Epic Games Store 本週免費領取《Boxes: Lost Fragments》",
+    "summary": "Epic Games Store本週提供解謎遊戲《Boxes: Lost Fragments》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/26",
+    "title": "合作拆彈遊戲《炸彈香蕉大作戰》釋出完整版特色Demo遊玩人數破600萬",
+    "summary": "土耳其獨立遊戲團隊Lefto Studio的合作拆彈新作《炸彈香蕉大作戰（BOMBANANA!）》的試玩版遊玩人數已突破600萬。開發團隊公開了正式版完整特色，包括三種遊戲模式及14個新謎題，遊戲預計於9月2日發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -342,62 +398,6 @@
     "summary": "PinoGamer皮諾電玩報導，Steam平台有《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲提供限時免費下載",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 遊戲折扣",
-    "summary": "德國科隆國際遊戲展（gamescom 2026）期間，Steam 平台同步推出遊戲折扣活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Nintendo Switch 夏季優惠",
-    "summary": "台灣 Nintendo eShop 啟動 2026 夏季優惠，多款 Switch 遊戲享折扣，例如《集合啦！動物森友會》、《潛水員戴夫》等，活動持續至 8 月 25 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "gamescom 2026 遊戲折扣",
-    "summary": "德國科隆國際遊戲展 gamescom 2026 於 8 月 25 日起提供遊戲折扣活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 2026 年限時免費或折扣遊戲",
-    "summary": "PinoGamer 皮諾電玩網站整理了 2026 年 Steam 每日限時免費或折扣的遊戲，提醒玩家抓緊時間在活動期間內下載或購買。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
-    "summary": "Steam 平台在 2026 年 8 月 25 日提供《Bunny Guys!》和《BROTHER!!! Save him!》兩款遊戲限時免費下載。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Gamescom 2026遊戲展啟動",
-    "summary": "Gamescom 2026遊戲展已正式啟動，Steam平台將同步展示最新的遊戲作品與公告，為玩家帶來遊戲產業的最新趨勢與創新資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/24",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/08/17 至 2026/08/24 期間，針對台灣/華語圈實況主（包含中小型實況主）及相關經紀公司的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，未搜尋到明確的公開報導或社群討論。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
