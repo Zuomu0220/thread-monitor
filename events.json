@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "香港獨立遊戲開發者峰會 IndieSummit Hong Kong 2026 舉辦",
+    "summary": "IndieSummit Hong Kong 2026 於 8 月 29 日在香港數碼港舉行，邀請國際業界專家與香港本地獨立遊戲創作者交流，探討獨立遊戲的商業發展、社群建立及市場推廣策略。活動將設交流環節並展示六款東南亞獨立遊戲作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/28",
     "title": "直播主王三郎平台突遭停權3天損失逾百萬",
@@ -36,6 +44,14 @@
     "date": "2026/08/28",
     "title": "台灣獨立遊戲《心象天儀本線》Steam上市",
     "summary": "由台灣團隊開發的獨立遊戲《心象天儀本線》於Steam平台正式上市。該遊戲以2000年代視覺小說美學為基底，搭配獨特的「選擇車票」機制串聯故事，引領玩家逐步揭開「星織學園」的秘密。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/28",
+    "title": "《心象天儀本線》正式上市",
+    "summary": "以 2000 年代視覺小說美學為基礎的遊戲《心象天儀本線》，搭配獨特的「選擇車票」機制串連故事，於 8 月 28 日正式上市。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -100,6 +116,14 @@
     "date": "2026/08/27",
     "title": "Epic Games Store八月最終免費遊戲發布",
     "summary": "Epic Games Store揭曉了八月份最後一批限時免費遊戲，其中包含《Breathedge》等作品，玩家可在活動期間內領取並永久保留這些遊戲，優惠活動將持續至九月初。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store 公布八月最終免費遊戲",
+    "summary": "Epic Games Store 於 8 月 27 日公布了八月份最終一批免費遊戲，玩家有機會限時領取總價值約 50 美元的免費遊戲，領取期限至 9 月 3 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/08/25",
     "title": "Nexon於東京電玩展2026公開《瑪奇Mobile》與《法雷多利亞》最新資訊",
     "summary": "Nexon宣布將於2026年9月17日至21日舉行的「東京電玩展2026（TGS2026）」展位上，公開並開放試玩《瑪奇Mobile》與《法雷多利亞》兩款遊戲的最新內容。現場將提供限定贈品給試玩或預註冊的玩家。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 限時免費：類寶可夢 RPG《Dokimon Quest》",
-    "summary": "Steam 平台限時免費提供類寶可夢 RPG 遊戲《Dokimon Quest》，重溫懷舊掌機抓寶樂趣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Epic Games Store 限時免費：3D 動作平台跳躍小品《Bolmn》",
-    "summary": "Epic Games Store 限時免費提供 3D 動作平台跳躍遊戲《Bolmn》供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 限免遊戲《Dokimon Quest》復古像素抓寶RPG 免費領取中",
-    "summary": "致敬Game Boy掌機時代風格的復古像素抓寶RPG遊戲《Dokimon Quest》目前在Steam平台限時免費領取，活動至2026年8月27日上午1:00前截止。遊戲不支援中文，發行至今在Steam平台獲得77%好評率，儘管存在一些Bug，但官方積極修復的態度受到肯定。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -6843,6 +6843,24 @@
     "date": "2026/08/10",
     "title": "盲眼龍婆預言：2026年底前俄羅斯領導人出現重大更替",
     "summary": "巴巴萬加（Baba Vanga）對 2026 年的預言還包括「俄羅斯領導人於 2026 年底前出現重大更替」。此項預言目前尚未發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/28",
+    "title": "盲眼龍婆巴巴萬加 2026 年預言：「巨型外星太空船抵達地球」、「第三次世界大戰爆發」、「俄羅斯總統普丁失去政權」",
+    "summary": "根據中天新聞網報導，已故保加利亞預言家「盲眼龍婆」巴巴萬加對 2026 年的預言持續引發關注。其中「全球重大天災」與「AI 取代人類工作」已被追隨者認定應驗。尚未實現的預言包括「巨型外星太空船抵達地球」、「第三次世界大戰爆發」，以及「俄羅斯總統普丁於 2026 年底前失去政權」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/16",
+    "title": "5026 年未來人警告：2026 下半年將爆發更大規模戰爭",
+    "summary": "一名自稱來自 5026 年的未來人，在社群平台發布警告，預言 2026 年下半年將會爆發更大規模的戰爭。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
