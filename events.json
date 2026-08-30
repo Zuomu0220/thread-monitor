@@ -121,6 +121,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/28",
+    "title": "Epic Games 限時免費遊戲領取",
+    "summary": "Epic Games Store 宣布 2026 年 8 月份的限時免費遊戲，其中包含《NoRush!》，玩家可把握時間於 9 月 3 日前領取。此優惠為 8 月底的免費遊戲活動之一。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/27",
     "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
     "summary": "Epic Games Store預告，將於2026年8月27日至9月3日期間，提供《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》兩款遊戲供玩家免費領取。",
@@ -388,14 +396,6 @@
     "date": "2026/08/25",
     "title": "SEGA 八月精選特賣",
     "summary": "《索尼克 未知邊境》全球累積銷售突破 500 萬部，為慶祝此里程碑，「SEGA 八月精選特賣」正在 PlayStation™Store、Nintendo eShop 及 Steam 舉辦中，其中《索尼克 未知邊境》享最高 3.5 折優惠，《索尼克 X 夏德 世代》則有 3 折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 限時免費遊戲：Bunny Guys! 與 BROTHER!!! Save him!",
-    "summary": "Steam 平台目前可免費領取《Bunny Guys!》與《BROTHER!!! Save him!》兩款遊戲，領取後可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -2573,6 +2573,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告：2026年9月26日再次現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，她將於 2026 年 9 月 26 日再次現身，回答人們想知道的問題。她也預言 2028 年全球將爆發新一輪金融危機，導火線是美國國債違約，導致美元全球結算體系動搖。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告 9 月 26 日再度現身",
+    "summary": "自稱來自 2058 年的未來人國分玲曾表示，她會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6870,6 +6879,132 @@
     "date": "2026/08/16",
     "title": "5026 年未來人警告：2026 下半年將爆發更大規模戰爭",
     "summary": "一名自稱來自 5026 年的未來人，在社群平台發布警告，預言 2026 年下半年將會爆發更大規模的戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/04",
+    "title": "盲眼龍婆預言：美伊戰爭引發金融海嘯與核武威脅",
+    "summary": "盲眼龍婆巴巴萬加（Baba Vanga）預言 2026 年世界戰火將從東歐蔓延至中東，美國與以色列於 2 月 28 日聯手對伊朗發動大規模軍事攻擊，將引發全球性金融危機，導致股市崩盤、惡性通膨，數億人恐一夕破產。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/04",
+    "title": "盲眼龍婆預言：毀滅性天災吞噬沿海城市",
+    "summary": "巴巴萬加預言 2026 年地球將面臨毀滅性氣候劇變，約 7% 至 8% 的陸地面積會被強震與火山爆發侵蝕，尤其沿海城市與島嶼國家將面臨被海嘯或地變吞噬的危機，導致大量人口失去家園。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/04",
+    "title": "盲眼龍婆預言：AI 全面反撲人類文明",
+    "summary": "巴巴萬加警告 2026 年人工智能（AI）將全面滲透並主導人類生活各層面，甚至可能脫離掌控，對人類文明發起反撲，成為人類必須正視的生存挑戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/05",
+    "title": "4chan「世界大戰劇本」預言：全球衝突升級與外星入侵",
+    "summary": "一個於 2025 年 6 月發布在 4chan 的匿名貼文再度瘋傳，該貼文詳細描述了 2026 年全球衝突的劇烈升級，包括以色列與伊朗之間緊張關係加劇、美國軍事介入、全球能源路線受擾，甚至提及偽造的外星人入侵事件。該劇本預測全球將逐步走向大規模戰爭、崩潰，最終形成一個世界政府，並在 2027 年前導致數十億人死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "未來人國分玲預言：2026 年是全球重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲表示，2026 年將是日本及全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "未來人國分玲預言：比特幣飆升至天價，僅能賣出",
+    "summary": "國分玲預言比特幣的價值將會飆升到令人咋舌的天價，但屆時流通渠道可能受限，或其性質不再適合頻繁交易，普通人屆時只能賣出，不能買進。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/18",
+    "title": "香港 2048 未來人預言：香港水災、傳染病與外星接觸",
+    "summary": "一名自稱來自 2048 年的香港未來人在 Threads 上發文預告，2026 年香港將面臨水災、傳染病，且社群媒體將充斥震撼新聞，甚至聲稱這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/01",
+    "title": "美國預言家 Paul Begley：台海緊張但不開戰，AI 聖經與通話篡改成真",
+    "summary": "美國預言家 Paul Begley 預言 2026 年台海局勢將持續緊張但不會爆發全面戰爭，同時 AI 聖經和通話篡改技術將成為現實。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/09",
+    "title": "Reddit 預測：2026 年 AI 詐騙與大規模裁員",
+    "summary": "Reddit 論壇上有預測指出，2026 年 AI 工具將更加受限但也更融入日常應用，同時由於企業對 AI 的投入，裁員人數將超過 2025 年。此外，地緣政治動盪加劇，儘管全球不會爆發大規模戰爭，但局部衝突將持續。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/25",
+    "title": "命理師蔡上機預言：2026 年 AI 詐騙全面升級與金融駭客風險",
+    "summary": "命理師蔡上機指出，2026 年將是詐騙手法與科技高度結合的一年，AI 詐騙將全面升級，利用 AI 機器人、無人機等高科技技術進行竊取機密、滲透作戰、侵占利益、詐騙金錢與恐嚇勒索。同時，駭客收受重金駭入金融體系或重大企業資料庫，竊取資料或進行勒索的風險將顯著升高。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "Reddit 預測：2026 年全球暖化恐慌與自然災害加劇",
+    "summary": "Reddit 上的預測指出，2026 年全球將開始對暖化問題感到恐慌，北美地區將經歷嚴重的森林火災季節，且年底前可能發生足以影響未來 5 至 10 年氣候的火山爆發。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "Reddit 預測：2026 年美國政治暴力惡化與地緣政治變動",
+    "summary": "Reddit 預測 2026 年美國政治暴力將日益惡化，並可能出現針對跨性別權益的倒退。同時，以色列與巴勒斯坦的衝突將持續，中國的影響力將增強，而美國則可能全面入侵委內瑞拉。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "Reddit 預測：2026 年全球經濟放緩與冰川崩塌",
+    "summary": "有預測指出 2026 年全球經濟將顯著放緩，可能出現通貨緊縮。南極洲的思韋茨冰川（Thwaites Glacier）可能部分崩塌，導致海平面上升。此外，多國將面臨作物歉收和水資源危機，美國可能陷入經濟衰退。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "Reddit 預測：2026 年新興強權崛起與美國聯盟變化",
+    "summary": "預測指出，中國和俄羅斯作為區域強權將會衰落，而印度和土耳其將崛起成為新的區域強權。美國與日本的聯盟關係可能因日本軍事化加劇和共同敵人消失而減弱。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
