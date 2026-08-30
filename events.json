@@ -129,6 +129,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/28",
+    "title": "Steam 免費遊戲",
+    "summary": "多款遊戲提供限時免費領取，其中《Targeted - 10 Days》可領取至 8 月 31 日、《Microsoft Flight Simulator: Themes Reimagined》可領取至 9 月 1 日，而《Arena of Trophies》則可領取至 10 月 22 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/27",
     "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
     "summary": "Epic Games Store預告，將於2026年8月27日至9月3日期間，提供《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》兩款遊戲供玩家免費領取。",
@@ -228,6 +236,22 @@
     "date": "2026/08/27",
     "title": "《極限競速》系列遊戲限時特惠，《地平線6》首度降價",
     "summary": "《極限競速》系列遊戲展開限時特惠活動，期間從2026年8月26日至9月3日。其中，《極限競速：地平線5》和《Forza Motorsport》均享有四折優惠，而最新推出的《極限競速：地平線6》更是迎來上市後首次折扣，提供85折優惠，三款作品皆創下歷史新低價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store 限時免費",
+    "summary": "太空生存遊戲《Breathedge》與賽馬模擬遊戲《Rival Stars Horse Racing: Desktop Edition》開放限時免費領取，兩款遊戲皆可於 9 月 3 日前永久入庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Steam 特價活動",
+    "summary": "《Discover. Play. Repeat.》活動正式開跑，多款遊戲提供限時折扣，優惠將持續至 9 月 10 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -372,30 +396,6 @@
     "date": "2026/08/25",
     "title": "Steam 其他遊戲折扣",
     "summary": "《Ranch Simulator》、《Flashing Lights》、《Jalopy》等多款遊戲及 DLC 在 Steam 商店同步推出超值折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/25",
-    "title": "無負面與爭議事件報告",
-    "summary": "在 2026/08/18 至 2026/08/25 期間，未搜尋到台灣/華語圈實況主（包含中小型實況主、相關經紀公司）的任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面或爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam 最新限免遊戲",
-    "summary": "截至 2026 年 8 月 25 日，Steam 上有「Bunny Guys!」與「BROTHER!!! Save him!」等遊戲提供限時免費。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "SEGA 八月精選特賣",
-    "summary": "《索尼克 未知邊境》全球累積銷售突破 500 萬部，為慶祝此里程碑，「SEGA 八月精選特賣」正在 PlayStation™Store、Nintendo eShop 及 Steam 舉辦中，其中《索尼克 未知邊境》享最高 3.5 折優惠，《索尼克 X 夏德 世代》則有 3 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
