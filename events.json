@@ -273,6 +273,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Steam 八月最新免費遊戲清單",
+    "summary": "Steam 平台在 2026 年 8 月推出多款新免費遊戲，其中包括多人角色扮演遊戲《Soul's Remnant》、像素風格的恐怖解謎遊戲《Night Guard: The Last Shift》、射擊遊戲《GunZ: The Duel》、以及《Tom Clancy's The Division Resurgence》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
@@ -377,25 +385,17 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/26",
+    "title": "2026 科隆遊戲展開幕，多款國產獨立遊戲釋出 Demo",
+    "summary": "2026 年科隆遊戲展（Gamescom 2026）於德國科隆開幕。國產單機與獨立遊戲「全軍出擊」，包括《湮滅之潮》、《昭和米国物語》、《抵抗者》、《動物朋克》、《古神：風里希》等作品開放試玩 Demo，其中《湮滅之潮》為虛幻 5 引擎打造的騎士幻想動作冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/25",
     "title": "Steam平台夏日遊戲節特惠進入最後階段",
     "summary": "Steam平台上的年度夏日遊戲節（Summer Sale）即將於台灣時間8月26日凌晨結束，許多熱門大作與獨立遊戲仍提供大幅折扣，是玩家入手心儀遊戲的最後機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Epic Games Store 捍衛戰士：航母打擊 限時免費暢玩",
-    "summary": "即日起至 8 月 25 日，玩家可免費暢玩「捍衛戰士：航母打擊」等內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Epic Games Store 《黑神話：悟空》七折優惠",
-    "summary": "史詩級動作角色扮演遊戲《黑神話：悟空》推出七折特價，活動至 8 月 25 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -2447,6 +2447,15 @@
     "date": "2026/05/19",
     "title": "未來人國分玲預告 9 月 26 日再度現身",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，她會在 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "國分玲預告 2026 年 9 月 26 日將再次現身",
+    "summary": "這位自稱來自 2058 年的未來人國分玲，因其過去多項預言的高度準確性而受到關注。他曾表示將於 2026 年 9 月 26 日再次回到網路平台，回答大家想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
