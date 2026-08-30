@@ -144,6 +144,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/28",
+    "title": "百萬實況主StableRonaldo引發爭議：直播主Nitro Camden遭母逐出家門",
+    "summary": "知名Twitch實況主StableRonaldo近日在直播中將1.5萬名觀眾導流至僅有一名觀眾的18歲黑人實況主Nitro Camden頻道，導致Camden情緒激動，遭母親趕出家門。此事件後，StableRonaldo的私訊被大量要求「改變人生」的小型實況主灌爆，他本人對此表示困擾。",
+    "avatar_url": "https://pic.twitter.com/laVUWiNyXU",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/08/27",
     "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
@@ -281,6 +289,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store限時免費：合作恐怖遊戲《暗夜同行》永久領取",
+    "summary": "合作恐怖遊戲《暗夜同行》（Together After Dark）目前正在Epic Games Store開放限時免費永久領取，活動將持續至9月1日。這款2025年推出的偽紀錄片風格作品，主打4人合作逃脫與超自然恐怖體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games Store公布八月免費遊戲總結",
+    "summary": "Epic Games Store於8月27日公布了2026年八月份期間所有免費發布的遊戲，並提醒玩家可以把握時間領取部分即將截止的免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
@@ -374,30 +398,6 @@
     "summary": "SQUARE ENIX宣布舉辦「SQUARE ENIX 9月優惠活動」，多款作品參與優惠，包括《Final Fantasy戰略版：伊瓦利斯編年史Deluxe Edition》以及《Crisis Core -Final Fantasy VII- Reunion》等遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/26",
-    "title": "美實況主CJayride道歉事件",
-    "summary": "美國實況主CJayride因其「探索台灣」系列影片被質疑刻意醜化台灣，在推特上澄清後，又發布一支9分鐘長的影片致歉，並要求媒體撤下不實報導。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/26",
-    "title": "2026 科隆遊戲展開幕，多款國產獨立遊戲釋出 Demo",
-    "summary": "2026 年科隆遊戲展（Gamescom 2026）於德國科隆開幕。國產單機與獨立遊戲「全軍出擊」，包括《湮滅之潮》、《昭和米国物語》、《抵抗者》、《動物朋克》、《古神：風里希》等作品開放試玩 Demo，其中《湮滅之潮》為虛幻 5 引擎打造的騎士幻想動作冒險遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/25",
-    "title": "Steam平台夏日遊戲節特惠進入最後階段",
-    "summary": "Steam平台上的年度夏日遊戲節（Summer Sale）即將於台灣時間8月26日凌晨結束，許多熱門大作與獨立遊戲仍提供大幅折扣，是玩家入手心儀遊戲的最後機會。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -6879,6 +6879,24 @@
     "date": "2026/12/27",
     "title": "Reddit 預測：2026 年新興強權崛起與美國聯盟變化",
     "summary": "預測指出，中國和俄羅斯作為區域強權將會衰落，而印度和土耳其將崛起成為新的區域強權。美國與日本的聯盟關係可能因日本軍事化加劇和共同敵人消失而減弱。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan匿名用戶預言比特幣2026年將達25萬美元",
+    "summary": "一名曾在2025年精準預測比特幣高點的4chan匿名用戶，於2025年12月20日發布預測，指出比特幣在2026年底可能達到25萬美元，以太坊2萬美元，Solana 1,500美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan「比特幣先知」修正2026年預測：比特幣上看100萬美元",
+    "summary": "一名自稱是2019年比特幣「先知」的4chan匿名用戶，於2025年11月發布修正預測（新聞報導於2026年2月27日），稱比特幣與以太坊價格將在2026年底前分別達到100萬美元和10萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
