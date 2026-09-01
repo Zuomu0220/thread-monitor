@@ -88,6 +88,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/08/31",
+    "title": "Steam 2026 玩家合作生存工藝節",
+    "summary": "Steam 平台將於 8 月 31 日至 9 月 7 日舉辦「玩家合作生存工藝節」，屆時將有特定主題遊戲提供特價折扣與內容展示。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/30",
     "title": "女大生姊弟關係緊張社群討論",
@@ -389,14 +397,6 @@
     "title": "美國實況主Adapt戶外直播遇棕熊狂奔驚魂記",
     "summary": "Twitch實況主Adapt在阿拉斯加州的卡特邁國家公園進行戶外直播時，一隻棕熊突然從面前狂奔而過，嚇得他與同伴驚聲尖叫，引發社群熱議。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Steam 新品上市與特惠：《STAR WARS 零號連隊™》、《METAL GEAR SOLID: MASTER COLLECTION Vol.2》",
-    "summary": "Steam 平台於 2026 年 8 月 27 日發售《STAR WARS 零號連隊™》與《METAL GEAR SOLID: MASTER COLLECTION Vol.2》。此外，SEGA 發行商特賣提供高達九折優惠，以及《FRONT MISSION 3: Remake》提供五折特惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
   {
@@ -2447,6 +2447,15 @@
     "date": "2026/05/19",
     "title": "國分玲預告 2026 年 9 月 26 日將再次現身",
     "summary": "這位自稱來自 2058 年的未來人國分玲，因其過去多項預言的高度準確性而受到關注。他曾表示將於 2026 年 9 月 26 日再次回到網路平台，回答大家想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預告 9 月 26 日再度現身",
+    "summary": "自稱來自 2058 年的國分玲，以其驚人的預言準確率而聞名。他曾預言 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系動搖。國分玲表示他將於 2026 年 9 月 26 日再次歸來。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
