@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "VTUBER",
+    "date": "2026/09/01",
+    "title": "VTuber嵐迪因「聲音評鑑」企劃惹議，一次得罪台V與音聲圈",
+    "summary": "VTuber嵐迪推出「聲音評鑑」企劃，讓參加者上麥講話並由他評價聲線、給予等級。排隊免費，斗內可快速通關，評到「極品」甚至能加入其成立的「極之聲」群組。此企劃因其評價標準與收費方式，引發台V及音聲圈不滿，認為其行為不專業且有斂財之嫌，導致炎上。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/31",
     "title": "中國演員黃燦燦直播情緒失控淚崩",
@@ -40,6 +48,22 @@
     "days_left": 6
   },
   {
+    "category": "VTUBER",
+    "date": "2026/08/31",
+    "title": "台灣VTuber圈被集體爆破，實況主集體切割VTuber轉生潛規則",
+    "summary": "台灣實況圈近期爆發多起VTuber「前世」名單外洩事件，導致多位實況主和VTuber之間產生衝突。部分實況主在社群媒體上急於切割，強調不認識某些VTuber的「前世」身份，引發外界對VTuber轉生潛規則與圈內文化的討論。此事件被媒體報導為「集體爆破」，引發廣泛關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/31",
+    "title": "Epic Games手機版限時免費領取《逃出百慕達》",
+    "summary": "Epic Games手機版App推出限時免費領取《逃出百慕達》活動，Android和iOS用戶可領取（iOS僅限歐盟、日本、巴西可用）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/30",
     "title": "女大生姊弟關係緊張社群討論",
@@ -53,6 +77,38 @@
     "title": "hololive兩款遊戲活動撞期引發公關小危機",
     "summary": "知名VTuber團體hololive所屬公司COVER，因內部協調問題導致兩款遊戲活動日期意外撞期，引發粉絲討論。官方隨後發布聲明承認內部失誤，並呼籲粉絲勿將情緒轉嫁至合作廠商或VTuber身上，態度被網友認為尚有誠意。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/30",
+    "title": "YouTuber蔡阿嘎赴日拍攝「超難吃連鎖店」引發台日網友怒火",
+    "summary": "百萬YouTuber蔡阿嘎率團隊赴日拍攝「5家超難吃連鎖店」主題影片，在店內多人共食一碗麵、大聲喧嘩訕笑，甚至在餐點剛上桌時就先入為主嫌棄批評，種種失禮舉動引爆台日網友怒火，事件登上日本富士電視台晨間新聞。蔡阿嘎緊急下架影片，並三度公開鞠躬道歉、全面進行團隊內部檢討。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/30",
+    "title": "台V親簽周邊爭議延燒，芥川組官方聲明反讓粉絲更火大",
+    "summary": "台灣VTuber芥川組的九十九真淵周邊親簽爭議持續延燒。粉絲等待近一年才收到親簽周邊，卻又爆出「40小時補件事件」，質疑補件來源。官方與九十九真淵發表聲明回應，承認會員福利拖欠問題，並解釋「40小時補件」是因為九十九真淵已返台休假，非物流速度。然而，此解釋反而讓部分網友質疑既然人在台灣，為何福利會拖欠近一年。",
+    "avatar_url": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U1",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/30",
+    "title": "台灣Vtuber圈多起爭議引發網民熱議",
+    "summary": "隨著虛擬主播（Vtuber）在台灣日漸普及，近期台V圈頻頻因商業合作細節與社群發言引發關注，例如有知名Vtuber在Threads上的失言風波，嘲諷小台觀眾少又斗內，道歉後反而更引起粉絲不滿。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/30",
+    "title": "Steam夏季特賣開跑，《返校》等遊戲享折扣",
+    "summary": "Steam夏季特賣活動開跑，多款遊戲提供優惠折扣，例如《返校》現省99元。HTC Vive系統及相關VR內容也推出優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -100,6 +156,14 @@
     "date": "2026/08/29",
     "title": "Epic/Steam 限時免費遊戲領取更新",
     "summary": "免費資源網於 8 月 29 日更新了 Epic 和 Steam 的限時免費遊戲領取資訊。Epic 和 Steam 的「限時免費領取」是永久的，只要在期限內加入帳號，之後不會消失。但 Steam 的「免費週末」只是試玩，期限結束後需要購買才能繼續遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "Steam平台多款遊戲於Gamescom期間進行折扣促銷",
+    "summary": "隨著Gamescom的公告，多款Steam遊戲進行折扣促銷，例如《文明帝國VII》售價49.99美元，《浩劫殺陣2：車諾比之心》售價41.99美元等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -208,6 +272,38 @@
     "days_left": 3
   },
   {
+    "category": "STREAMER",
+    "date": "2026/08/28",
+    "title": "葉元之「女童沒被性侵說」全網炎上",
+    "summary": "國民黨立委葉元之在政論節目中談及北市10歲女童長期遭猥褻案時，稱「沒有性侵害」、「怎麼講到那麼的嚴重」，引發全網譁然。當日網路節目直播談到此事時，葉元之本人急Call in澄清，表示相關言論被斷章取義，指他講的是許淑華記者會中關於「長女」的言論，而非當事女童。然而，主播與來賓質疑他在節目中並未明確指出「長女」，且當下脈絡皆在討論女童，認為他是事後硬拗。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 3
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/08/28",
+    "title": "Hololive EN成員Nerissa因直播提及Holostars EN遭激進粉絲施壓",
+    "summary": "Hololive EN VTuber Nerissa Ravencroft在直播中提及Holostars EN成員，引發一名激進粉絲不滿。該粉絲宣稱Nerissa曾承諾「不會與男性創作者合作」，指責她背離粉絲期待，並對公司內部男性VTuber出言批評，試圖藉此干涉其創作決定。 Nerissa當時僅是在分享翻唱曲《Birdbrain》的製作過程，討論是否需要加入男聲和聲，卻因此陷入一場關於承諾的爭議。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/28",
+    "title": "Steam：《Divinum》新品優惠10%折扣",
+    "summary": "動作冒險遊戲《Divinum》於Steam平台發行，新品優惠期間可享10%折扣，活動至9月11日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/28",
+    "title": "Epic Games Store限時免費：《Rival Stars Horse Racing: Desktop Edition》和《Breathedge》",
+    "summary": "Epic Games Store限時免費領取兩款遊戲，分別是賽馬競速與經營模擬遊戲《Rival Stars Horse Racing: Desktop Edition》和黑色幽默太空生存探索遊戲《Breathedge》。兩款遊戲領取時間至9月3日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "GAME",
     "date": "2026/08/27",
     "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
@@ -302,102 +398,6 @@
     "summary": "獨立遊戲《潛意者》的Nintendo Switch 2及PS5下載版已正式推出。為慶祝上市，遊戲提供首發促銷九折優惠，其中PS5版為PS Plus會員限定。遊戲內容涉及扮演「潛意者」滲透女性意識，修復記憶並解決失蹤案。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "《極限競速》系列遊戲限時特惠，《地平線6》首度降價",
-    "summary": "《極限競速》系列遊戲展開限時特惠活動，期間從2026年8月26日至9月3日。其中，《極限競速：地平線5》和《Forza Motorsport》均享有四折優惠，而最新推出的《極限競速：地平線6》更是迎來上市後首次折扣，提供85折優惠，三款作品皆創下歷史新低價。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games Store 限時免費",
-    "summary": "太空生存遊戲《Breathedge》與賽馬模擬遊戲《Rival Stars Horse Racing: Desktop Edition》開放限時免費領取，兩款遊戲皆可於 9 月 3 日前永久入庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Steam 特價活動",
-    "summary": "《Discover. Play. Repeat.》活動正式開跑，多款遊戲提供限時折扣，優惠將持續至 9 月 10 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/27",
-    "title": "退休警網紅直播報案並挑釁",
-    "summary": "一名退休警網紅在直播中處理報案事宜時，對在場人士開嗆挑釁，引發爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Steam 八月最新免費遊戲清單",
-    "summary": "Steam 平台在 2026 年 8 月推出多款新免費遊戲，其中包括多人角色扮演遊戲《Soul's Remnant》、像素風格的恐怖解謎遊戲《Night Guard: The Last Shift》、射擊遊戲《GunZ: The Duel》、以及《Tom Clancy's The Division Resurgence》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games Store限時免費：合作恐怖遊戲《暗夜同行》永久領取",
-    "summary": "合作恐怖遊戲《暗夜同行》（Together After Dark）目前正在Epic Games Store開放限時免費永久領取，活動將持續至9月1日。這款2025年推出的偽紀錄片風格作品，主打4人合作逃脫與超自然恐怖體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games Store公布八月免費遊戲總結",
-    "summary": "Epic Games Store於8月27日公布了2026年八月份期間所有免費發布的遊戲，並提醒玩家可以把握時間領取部分即將截止的免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games Store限時免費：《家族傳奇：馬匹養成競技》與《呼吸邊緣》",
-    "summary": "Epic Games Store本週開放限時免費領取《家族傳奇：馬匹養成競技》及《呼吸邊緣史詩法師禮包》。《家族傳奇》為寫實賽馬模擬遊戲，而《呼吸邊緣》則是深空生存探索遊戲，玩家可在2026年8月27日至9月3日期間免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games 限時免費",
-    "summary": "Epic Games Store 宣布本週免費遊戲包括《Cardpocalypse Standard Edition》和《Albion Online》的「Epic Mage Bundle」DLC。其中，《Cardpocalypse Standard Edition》是一款單人牌組構築遊戲，玩家需構築牌組並與變種生物戰鬥；「Epic Mage Bundle」則是免費 MMORPG 遊戲《Albion Online》的 DLC 擴充包，內含法師冒險者衣櫃、裝甲馬坐騎皮膚及法術書武器皮膚。這些免費內容可於 8 月 20 日至 8 月 27 日期間領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games限時免費領取：Cardpocalypse Standard Edition、Epic Mage Bundle for Albion Online",
-    "summary": "Epic Games Store於8月20日至8月27日期間提供《Cardpocalypse Standard Edition》及《Albion Online》的「Epic Mage Bundle」DLC限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games限時免費領取：Breathedge、Rival Stars Horse Racing: Desktop Edition",
-    "summary": "Epic Games Store宣布《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》限時免費領取活動，領取期限至9月3日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/26",
-    "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
-    "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
