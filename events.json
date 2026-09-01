@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/09/01",
+    "title": "Steam Humble Choice八月精選組合包：包含《人中之龍 薪火相傳》等8款遊戲",
+    "summary": "Steam Humble Choice八月精選組合包提供8款熱門遊戲，其中包括廣受好評的JRPG《人中之龍 薪火相傳》，該組合包優惠截止至9月1日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/31",
     "title": "中國演員黃燦燦直播情緒失控淚崩",
@@ -12,6 +20,22 @@
     "date": "2026/08/31",
     "title": "Epic 限免",
     "summary": "EPIC 平台於 8 月 31 日整理了 2026 年每日限時免費或折扣的遊戲資訊，提醒玩家必須抓緊時間在活動期間內下載或購買，錯過就等下次。其中包含《NoRush!》等限免遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/08/31",
+    "title": "旺仔小喬抖音解封後未道歉引發持續抵制",
+    "summary": "曾擁有2344萬粉絲的中國翻唱歌手兼主播旺仔小喬，其抖音帳號在被限制一年多後於8月下旬悄然解封，但因未發布任何正式聲明或公開道歉，引發廣大網友持續抵制。此前，旺仔小喬因蒙面演唱會高票價、直播中否認汪蘇瀧《年輪》創作身份導致版權被收回，以及道歉信被指為AI生成等一系列爭議，導致粉絲數暴跌超過900萬。此次解封後的沉默加劇了公眾的不滿，許多網友質疑其未解決版權糾紛和訴訟便重新復出的誠意，導致輿論持續反彈。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/31",
+    "title": "Epic Games限時免費領取：NoRush!",
+    "summary": "Epic Games Store於8月31日推出遊戲《NoRush!》的限時免費領取活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -353,49 +377,25 @@
   },
   {
     "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games限時免費領取：Cardpocalypse Standard Edition、Epic Mage Bundle for Albion Online",
+    "summary": "Epic Games Store於8月20日至8月27日期間提供《Cardpocalypse Standard Edition》及《Albion Online》的「Epic Mage Bundle」DLC限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/27",
+    "title": "Epic Games限時免費領取：Breathedge、Rival Stars Horse Racing: Desktop Edition",
+    "summary": "Epic Games Store宣布《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》限時免費領取活動，領取期限至9月3日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
     "date": "2026/08/26",
     "title": "2026 年 8 月發售的 Steam/PS5/XBOXSX 遊戲：Once Human",
     "summary": "遊戲新作發行表顯示，PS5、XBOXSX 平台遊戲《Once Human》於 2026 年 8 月 26 日發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/26",
-    "title": "2026 年 8 月發售的 PC 遊戲：Fatal Claw",
-    "summary": "遊戲新作發行表顯示，PC 平台遊戲《Fatal Claw》於 2026 年 8 月 26 日發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/26",
-    "title": "無相關事件",
-    "summary": "在 2026/08/19 至 2026/08/26 期間，未發現符合「實況主與 VTuber 全網負面與爭議事件」標準的台灣/華語圈實況主相關爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/26",
-    "title": "日本",
-    "summary": "女優河北彩花遭爆假面甜心與雙標合約爭議：日本人氣AV女優河北彩花近日遭爆料檯面下言行與螢幕形象不符，包括在更換經紀公司與工作夥伴時常不歡而散，曾要求提前解約並刪除既有素材。此外，她即將在台北舉辦的粉絲見面會VVIP票價高達新台幣23,800元，遠高於日本巡迴票價，引發台灣粉絲質疑「雙標」與「把粉絲當冤大頭」。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U9",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/26",
-    "title": "無最新負面與爭議事件報告",
-    "summary": "在2026年8月19日至8月26日期間，未發現台灣/華語圈實況主與VTuber相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面事件報告",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/26",
-    "title": "PSN 遊戲特價",
-    "summary": "PlayStation Store 推出特價活動，期間為 2026/08/12 至 2026/08/26，多款遊戲提供優惠折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
