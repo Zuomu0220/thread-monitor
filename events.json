@@ -49,6 +49,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/09/01",
+    "title": "泥泥汝《英雄聯盟》Faker名字拼錯引發社群炎上",
+    "summary": "知名實況主泥泥汝因受邀觀看《英雄聯盟》賽事時，不僅穿著T1隊服卻坐在Gen.G的區域，還將T1選手Faker的名字拼成「FAFER」，此舉在社群上引發大量爭議，她隨後在Threads發布道歉聲明。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/08/31",
     "title": "中國演員黃燦燦直播情緒失控淚崩",
     "summary": "黃燦燦於直播中觀看綜藝節目《我家那閨女》回顧其母親講述她因長期合約糾紛與經濟低谷，最困難時卡裡僅剩2000元卻仍借錢給母親生活費的過往，觸動其情緒失控落淚。同時，她在回顧《乘風2026》四公舞台時，因臨時頂替隊長、遭遇道具傘失誤及輿論質疑，再次情緒爆發。",
@@ -256,6 +264,30 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "Steam特價：刺客教條系列最高折扣80%",
+    "summary": "Steam平台本週推出「刺客教條」系列遊戲特價，其中《刺客教條：奧德賽》與《刺客教條：起源》皆享有70%以上的折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "Steam特價：《夏日狂想曲：鄉間的難忘回憶》骨折特惠",
+    "summary": "廣受好評的遊戲《夏日狂想曲：鄉間的難忘回憶》在Steam平台推出超值折扣，價格低至「骨折」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "GOG特價：《巫師3：狂獵- 完整版》僅售$9.99並將獲免費次世代升級",
+    "summary": "GOG平台販售《巫師3：狂獵- 完整版》僅需9.99美元（約80%折扣），包含基礎遊戲及《石之心》與《血與酒》擴展包。所有現有玩家將在2026年9月29日免費獲得重製版升級。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/28",
     "title": "直播主王三郎平台突遭停權3天損失逾百萬",
@@ -365,38 +397,6 @@
     "title": "葉元之「女童沒被性侵說」全網炎上",
     "summary": "國民黨立委葉元之在政論節目中談及北市10歲女童長期遭猥褻案時，稱「沒有性侵害」、「怎麼講到那麼的嚴重」，引發全網譁然。當日網路節目直播談到此事時，葉元之本人急Call in澄清，表示相關言論被斷章取義，指他講的是許淑華記者會中關於「長女」的言論，而非當事女童。然而，主播與來賓質疑他在節目中並未明確指出「長女」，且當下脈絡皆在討論女童，認為他是事後硬拗。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/28",
-    "title": "Hololive EN成員Nerissa因直播提及Holostars EN遭激進粉絲施壓",
-    "summary": "Hololive EN VTuber Nerissa Ravencroft在直播中提及Holostars EN成員，引發一名激進粉絲不滿。該粉絲宣稱Nerissa曾承諾「不會與男性創作者合作」，指責她背離粉絲期待，並對公司內部男性VTuber出言批評，試圖藉此干涉其創作決定。 Nerissa當時僅是在分享翻唱曲《Birdbrain》的製作過程，討論是否需要加入男聲和聲，卻因此陷入一場關於承諾的爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam：《Divinum》新品優惠10%折扣",
-    "summary": "動作冒險遊戲《Divinum》於Steam平台發行，新品優惠期間可享10%折扣，活動至9月11日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Epic Games Store限時免費：《Rival Stars Horse Racing: Desktop Edition》和《Breathedge》",
-    "summary": "Epic Games Store限時免費領取兩款遊戲，分別是賽馬競速與經營模擬遊戲《Rival Stars Horse Racing: Desktop Edition》和黑色幽默太空生存探索遊戲《Breathedge》。兩款遊戲領取時間至9月3日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/28",
-    "title": "個人勢VTuber「星野莉莉」因合約糾紛宣布無限期停播",
-    "summary": "「星野莉莉」在X/Twitter上發文表示，因與原經紀人產生嚴重合約糾紛，導致無法繼續活動，宣布無限期停播，其粉絲對此表達不捨與憤怒。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
   {
@@ -3372,6 +3372,15 @@
     "date": "2026/08/14",
     "title": "來自 2671 年的時空旅人 Eno Alaric 警告：外星人將於 12 月 8 日到來",
     "summary": "自稱來自 2671 年的時空旅人 Eno Alaric 透過 TikTok 發布警告，預言外星人將在 12 月 8 日搭乘巨大隕石撞擊地球，人類將與之互動。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/08",
+    "expiry_date": "2026/12/09"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/15",
+    "title": "自稱2345年時空旅人預言外星人將降臨地球",
+    "summary": "一位自稱來自2345年的時空旅人Eno Alaric透過TikTok發布警告，預言在12月8日將有大型流星撞擊地球，隨後外星人將會抵達。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/08",
     "expiry_date": "2026/12/09"
