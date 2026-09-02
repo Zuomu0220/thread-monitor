@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/09/02",
+    "title": "Steam",
+    "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/01",
     "title": "Steam Humble Choice八月精選組合包：包含《人中之龍 薪火相傳》等8款遊戲",
     "summary": "Steam Humble Choice八月精選組合包提供8款熱門遊戲，其中包括廣受好評的JRPG《人中之龍 薪火相傳》，該組合包優惠截止至9月1日。",
@@ -240,6 +248,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "Steam/Humble Store",
+    "summary": "週末PC遊戲特惠與多款大作折扣：Reddit 論壇 r/pcgaming 整理了多款 PC 遊戲優惠，包含《文明帝國 VII》、《浩劫殺陣 2：車諾比之心》、《第一狂戰士：卡贊》、《黑手黨：舊鄉》、《龍族教義 2》、《極限競速》、《武裝行動：重構》、《莊園領主》、《DayZ》、《ERA ONE》、《Eriksholm: The Stolen Dream》、《天國：拯救 II》、《極限競速：地平線 5》、《幻獸帕魯》、《微軟模擬飛行 (2020)》及《Atomfall》等遊戲在 Steam 平台進行折扣。此外，Humble Bundle 也推出「超越銀河惡魔城捆綁包」與「Pax West 2026 捆綁包」等多款遊戲合集優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/28",
     "title": "直播主王三郎平台突遭停權3天損失逾百萬",
@@ -382,22 +398,6 @@
     "summary": "「星野莉莉」在X/Twitter上發文表示，因與原經紀人產生嚴重合約糾紛，導致無法繼續活動，宣布無限期停播，其粉絲對此表達不捨與憤怒。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games Store即將免費：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
-    "summary": "Epic Games Store預告，將於2026年8月27日至9月3日期間，提供《Breathedge》和《Rival Stars Horse Racing: Desktop Edition》兩款遊戲供玩家免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/27",
-    "title": "Epic Games 下週免費遊戲預告：《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》",
-    "summary": "Epic Games Store 預計從 8 月 27 日至 9 月 3 日提供《Breathedge》與《Rival Stars Horse Racing: Desktop Edition》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
