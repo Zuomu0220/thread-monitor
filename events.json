@@ -168,6 +168,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/08/30",
+    "title": "Steam 免費遊戲序號領取",
+    "summary": "Steam 平台上新增了多款免費序號領取的遊戲，包括《Sad Virus Tokyo》、Humble PAX West 2026 Bundle、《Crash Forts》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/29",
     "title": "目前沒有符合 2026/08/22 至 2026/08/29 期間的最新負面與爭議事件資訊",
@@ -288,6 +296,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "Epic Games Store 限時免費：《NoRush!》Tower Edition",
+    "summary": "Epic Games Store 於 2026 年 8 月 29 日限時免費領取《NoRush!》Tower Edition。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/28",
     "title": "直播主王三郎平台突遭停權3天損失逾百萬",
@@ -381,22 +397,6 @@
     "title": "Steam 免費遊戲",
     "summary": "多款遊戲提供限時免費領取，其中《Targeted - 10 Days》可領取至 8 月 31 日、《Microsoft Flight Simulator: Themes Reimagined》可領取至 9 月 1 日，而《Arena of Trophies》則可領取至 10 月 22 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/28",
-    "title": "百萬實況主StableRonaldo引發爭議：直播主Nitro Camden遭母逐出家門",
-    "summary": "知名Twitch實況主StableRonaldo近日在直播中將1.5萬名觀眾導流至僅有一名觀眾的18歲黑人實況主Nitro Camden頻道，導致Camden情緒激動，遭母親趕出家門。此事件後，StableRonaldo的私訊被大量要求「改變人生」的小型實況主灌爆，他本人對此表示困擾。",
-    "avatar_url": "https://pic.twitter.com/laVUWiNyXU",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/28",
-    "title": "葉元之「女童沒被性侵說」全網炎上",
-    "summary": "國民黨立委葉元之在政論節目中談及北市10歲女童長期遭猥褻案時，稱「沒有性侵害」、「怎麼講到那麼的嚴重」，引發全網譁然。當日網路節目直播談到此事時，葉元之本人急Call in澄清，表示相關言論被斷章取義，指他講的是許淑華記者會中關於「長女」的言論，而非當事女童。然而，主播與來賓質疑他在節目中並未明確指出「長女」，且當下脈絡皆在討論女童，認為他是事後硬拗。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 1
   },
   {
@@ -2462,6 +2462,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的國分玲預言 2026 年 9 月 26 日將再次出現",
+    "summary": "自稱來自 2058 年的未來人國分玲，其過往預言曾引起廣泛關注。根據網路討論，他曾表示將於 2026 年 9 月 26 日再次現身。他更預測 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，這將從根本上動搖美元的全球結算體系。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -3184,6 +3193,15 @@
     "date": "2026/08/24",
     "title": "馮·福斯特人口預言",
     "summary": "物理學家 Heinz von Foerster 於 1960 年發表數學預測，指出人類人口增長將在 2026 年 11 月 13 日達到一個臨界點，若不加以控制，可能因資源耗盡、環境崩潰或社會衝突而導致文明瓦解。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/27",
+    "title": "數學家預測 2026 年 11 月 13 日將因人口過剩迎來末日",
+    "summary": "一份由 Heinz von Foerster、Patricia M. Mora 和 Lawrence W. Amiot 等三位學者於 1960 年發表的研究報告，透過分析西方文明的人口模式，預測全球可能因人口過剩而在 2026 年 11 月 13 日星期五面臨末日情境。其中一位共同作者 Heinz von Foerster 也曾準確預警人工智慧的危險。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
