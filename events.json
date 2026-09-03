@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/09/03",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/08/27 至 2026/09/03 期間，Google Search 未搜捕到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
@@ -21,14 +29,6 @@
     "title": "VTuber嵐迪因「聲音評鑑」企劃惹議，一次得罪台V與音聲圈",
     "summary": "VTuber嵐迪推出「聲音評鑑」企劃，讓參加者上麥講話並由他評價聲線、給予等級。排隊免費，斗內可快速通關，評到「極品」甚至能加入其成立的「極之聲」群組。此企劃因其評價標準與收費方式，引發台V及音聲圈不滿，認為其行為不專業且有斂財之嫌，導致炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/01",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/08/25 至 2026/09/01 期間，未發現台灣/華語圈實況主與 VTuber 相關的重大負面與爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -304,6 +304,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/08/29",
+    "title": "科隆遊戲展 Gamescom 2026 參展設備失竊案",
+    "summary": "在德國科隆舉辦的 Gamescom 2026 期間，多個獨立工作室的展位電腦發生失竊案，導致參展設備頻繁失竊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/28",
     "title": "直播主王三郎平台突遭停權3天損失逾百萬",
@@ -388,14 +396,6 @@
     "date": "2026/08/28",
     "title": "Epic Games 限時免費遊戲領取",
     "summary": "Epic Games Store 宣布 2026 年 8 月份的限時免費遊戲，其中包含《NoRush!》，玩家可把握時間於 9 月 3 日前領取。此優惠為 8 月底的免費遊戲活動之一。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam 免費遊戲",
-    "summary": "多款遊戲提供限時免費領取，其中《Targeted - 10 Days》可領取至 8 月 31 日、《Microsoft Flight Simulator: Themes Reimagined》可領取至 9 月 1 日，而《Arena of Trophies》則可領取至 10 月 22 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -2465,6 +2465,15 @@
     "date": "2026/04/08",
     "title": "來自 2058 年的國分玲預言 2026 年 9 月 26 日將再次出現",
     "summary": "自稱來自 2058 年的未來人國分玲，其過往預言曾引起廣泛關注。根據網路討論，他曾表示將於 2026 年 9 月 26 日再次現身。他更預測 2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，這將從根本上動搖美元的全球結算體系。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/03",
+    "title": "國分玲/2062 年未來人：2026 年 9 月 26 日將再次歸來",
+    "summary": "自稱來自 2058 年的未來人國分玲（亦有說法為日本 2ch 上的「2062 年未來人」）表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
