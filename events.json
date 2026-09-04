@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Epic Games Store 限時免費：《Alone With You》",
+    "summary": "這款科幻冒險遊戲於 2026 年 9 月 3 日至 9 月 10 日在 Epic Games Store 開放限時免費領取。玩家需在期限內登入帳號領取，即可永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -280,6 +288,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/08/30",
+    "title": "Epic Games Store 限時免費：《NoRush! - Tower Edition》",
+    "summary": "平台跳躍遊戲《NoRush! - Tower Edition》於 2026 年 8 月 30 日起在 Epic Games Store 限時免費開放領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/08/29",
     "title": "目前沒有符合 2026/08/22 至 2026/08/29 期間的最新負面與爭議事件資訊",
@@ -380,22 +396,6 @@
     "date": "2026/08/29",
     "title": "Steam特價：刺客教條系列最高折扣80%",
     "summary": "Steam平台本週推出「刺客教條」系列遊戲特價，其中《刺客教條：奧德賽》與《刺客教條：起源》皆享有70%以上的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "Steam特價：《夏日狂想曲：鄉間的難忘回憶》骨折特惠",
-    "summary": "廣受好評的遊戲《夏日狂想曲：鄉間的難忘回憶》在Steam平台推出超值折扣，價格低至「骨折」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "GOG特價：《巫師3：狂獵- 完整版》僅售$9.99並將獲免費次世代升級",
-    "summary": "GOG平台販售《巫師3：狂獵- 完整版》僅需9.99美元（約80%折扣），包含基礎遊戲及《石之心》與《血與酒》擴展包。所有現有玩家將在2026年9月29日免費獲得重製版升級。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
