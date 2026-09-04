@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Epic Games Store公布本週免費遊戲",
+    "summary": "Epic Games Store於9月3日更新本週免費遊戲，供PC玩家限時領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -37,6 +45,14 @@
     "title": "Steam 免費遊戲《微軟模擬飛行》主題新詮釋結束領取",
     "summary": "Steam 平台限時免費遊戲《Microsoft Flight Simulator Suite: Themes Reimagined》（《微軟模擬飛行》主題新詮釋）已於 2026 年 9 月 2 日 01:00 結束領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/09/02",
+    "title": "宸瑞因轉播內容與態度爭議遭Threads網友炎上",
+    "summary": "知名主播宸瑞在Threads上針對其英雄聯盟轉播內容與工作態度受到的批評發文回應。他表示虛心接受對工作表現的檢視，但強調「批評工作表現」與「影射工作態度」是兩回事，懇請網友停止不實的造謠言論。此事件起因於另一位主播ZOD遭受攻擊後，戰火延燒至其他賽評主播。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -140,6 +156,14 @@
     "date": "2026/08/31",
     "title": "Steam 2026 玩家合作生存工藝節",
     "summary": "Steam 平台將於 8 月 31 日至 9 月 7 日舉辦「玩家合作生存工藝節」，屆時將有特定主題遊戲提供特價折扣與內容展示。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/31",
+    "title": "Epic Games Store限時免費遊戲：《NoRush!》",
+    "summary": "Epic Games Store於本週提供策略解謎遊戲《NoRush!》限時免費領取。玩家需在活動期間內前往平台領取，以免錯過。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -372,30 +396,6 @@
     "date": "2026/08/28",
     "title": "《心象天儀本線》正式上市",
     "summary": "以 2000 年代視覺小說美學為基礎的遊戲《心象天儀本線》，搭配獨特的「選擇車票」機制串連故事，於 8 月 28 日正式上市。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam《RPG Maker Special Sale 2026》開啟",
-    "summary": "角川集團旗下 Gotcha Gotcha Games 宣布，「RPG Maker Special Sale 2026」將於 8 月 28 日至 9 月 10 日在 Steam 平台開啟，包含 RPG MAKER MZ 在內的多款系列產品、插件與 DLC 最高可享九折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam 科隆展帶動多款3A遊戲史低價",
-    "summary": "受科隆遊戲展影響，Steam 上有多款 3A 遊戲出現「秋促級」史低價格，包括《極限競速：地平線5》新史低 79.2 元、約四折；《荒野大鏢客2》史低 69.75 元；《控制》史低 13.8 元等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam《微軟模擬飛行》音樂集與《雷霆一號》免費領取",
-    "summary": "《微軟模擬飛行》音樂集限時免費領取至 9 月 2 日；《雷霆一號》已轉為免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
