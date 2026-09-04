@@ -24,6 +24,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games Store 2026 夏末特賣",
+    "summary": "Epic遊戲商城於2026年9月4日開啟夏末特賣活動，多款遊戲提供低至2.5折的優惠，活動將持續至2026年9月17日。其中包含《賽博朋克2077》（70%折扣）、《潛水員戴夫》（50%折扣）、《007初露鋒芒》（首次折扣20%）及《生化危機：安魂曲》（30%折扣）等作品。部分指定遊戲購買後可獲得《Fortnite》或《Rocket League》的限定道具。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/03",
     "title": "無最新負面與爭議事件",
@@ -61,6 +69,14 @@
     "title": "Epic Games Store 限時免費：《Alone With You》",
     "summary": "這款科幻冒險遊戲於 2026 年 9 月 3 日至 9 月 10 日在 Epic Games Store 開放限時免費領取。玩家需在期限內登入帳號領取，即可永久收藏。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/09/03",
+    "title": "VTuber 社群對「中配六改四」議題的討論浮上 Threads",
+    "summary": "Threads 上突然出現許多 VTuber 帳號，針對「中配六改四」議題表達反對意見，引發社群質疑是否有公關公司介入操作，意圖透過切換人設來帶動風向。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/08/29",
     "title": "Steam 免費遊戲領取",
     "summary": "Steam 免費遊戲情報站於 2026 年 8 月 29 日提供了《Star Merchant》和《A Game of Changes》的免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "Steam/Humble Store",
-    "summary": "週末PC遊戲特惠與多款大作折扣：Reddit 論壇 r/pcgaming 整理了多款 PC 遊戲優惠，包含《文明帝國 VII》、《浩劫殺陣 2：車諾比之心》、《第一狂戰士：卡贊》、《黑手黨：舊鄉》、《龍族教義 2》、《極限競速》、《武裝行動：重構》、《莊園領主》、《DayZ》、《ERA ONE》、《Eriksholm: The Stolen Dream》、《天國：拯救 II》、《極限競速：地平線 5》、《幻獸帕魯》、《微軟模擬飛行 (2020)》及《Atomfall》等遊戲在 Steam 平台進行折扣。此外，Humble Bundle 也推出「超越銀河惡魔城捆綁包」與「Pax West 2026 捆綁包」等多款遊戲合集優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "Steam特價：刺客教條系列最高折扣80%",
-    "summary": "Steam平台本週推出「刺客教條」系列遊戲特價，其中《刺客教條：奧德賽》與《刺客教條：起源》皆享有70%以上的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
