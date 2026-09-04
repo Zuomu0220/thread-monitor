@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games限時免費遊戲",
+    "summary": "Epic Games Store釋出最新限時免費遊戲，包含《Alone With You》（優惠期限：2026年9月10日）與《NoRush!》（優惠期限：2026年9月9日）供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games《鬼武者：劍之道》預購獎勵釋出",
+    "summary": "Capcom的《鬼武者：劍之道》（Onimusha: Way of the Sword）於9月4日在Epic Games平台推出，預購玩家可獲得遊戲內「獅犬護符」和「封印咒縛劍」外觀獎勵。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/03",
     "title": "無最新負面與爭議事件",
@@ -33,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Steam每日限時免費遊戲更新",
+    "summary": "Steam平台於9月3日更新多款限時免費遊戲供玩家領取，包含《Bunny Guys!》和《BROTHER!!! Save him!》等作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -53,6 +77,22 @@
     "title": "宸瑞因轉播內容與態度爭議遭Threads網友炎上",
     "summary": "知名主播宸瑞在Threads上針對其英雄聯盟轉播內容與工作態度受到的批評發文回應。他表示虛心接受對工作表現的檢視，但強調「批評工作表現」與「影射工作態度」是兩回事，懇請網友停止不實的造謠言論。此事件起因於另一位主播ZOD遭受攻擊後，戰火延燒至其他賽評主播。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/02",
+    "title": "微軟模擬飛行主題新詮釋 DLC 免費活動結束",
+    "summary": "Steam上的《微軟模擬飛行》主題新詮釋（Microsoft Flight Simulator Suite: Themes Reimagined）DLC限時免費贈送活動於9月2日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/02",
+    "title": "心理恐怖點擊冒險新作《THE GUTTER》發售",
+    "summary": "獨立遊戲《THE GUTTER》於9月2日正式登上Steam。故事設定在1801年清朝廣州，玩家將扮演鴉片成癮者阿水，探索一艘燒毀的花船，從遺留物件與扭曲記憶中拼湊出一段黑暗往事。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -164,6 +204,14 @@
     "date": "2026/08/31",
     "title": "Epic Games Store限時免費遊戲：《NoRush!》",
     "summary": "Epic Games Store於本週提供策略解謎遊戲《NoRush!》限時免費領取。玩家需在活動期間內前往平台領取，以免錯過。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/08/31",
+    "title": "Steam玩家合作生存工藝節",
+    "summary": "Steam平台正舉辦「玩家合作生存工藝節」，活動持續至9月7日，提供多款合作生存與工藝類型遊戲的折扣與體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -350,54 +398,6 @@
     "summary": "GOG平台販售《巫師3：狂獵- 完整版》僅需9.99美元（約80%折扣），包含基礎遊戲及《石之心》與《血與酒》擴展包。所有現有玩家將在2026年9月29日免費獲得重製版升級。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "Epic Games Store 限時免費：《NoRush!》Tower Edition",
-    "summary": "Epic Games Store 於 2026 年 8 月 29 日限時免費領取《NoRush!》Tower Edition。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/29",
-    "title": "科隆遊戲展 Gamescom 2026 參展設備失竊案",
-    "summary": "在德國科隆舉辦的 Gamescom 2026 期間，多個獨立工作室的展位電腦發生失竊案，導致參展設備頻繁失竊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/28",
-    "title": "直播主王三郎平台突遭停權3天損失逾百萬",
-    "summary": "台灣直播主「王三郎嚴選」粉絲專頁近日突然遭平台停權3天，起因為疑似有印度帳號冒充星巴克公司檢舉其涉及著作權侵權。雖然粉絲頁已於8月27日恢復，但王三郎表示3天無法直播的損失超過百萬元，且無法求償，懷疑是同業競爭惡意檢舉。",
-    "avatar_url": "https://s.newtalk.tw/album/news/418/5ed0a1f4967a1.jpg",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "Steam《拳皇XV》終極版等遊戲史低特價",
-    "summary": "Steam平台於8月21日至9月10日期間，推出多款遊戲的史低特價活動，其中《拳皇XV》終極版降價至2.5折。其他優惠遊戲包含《武裝行動：重鑄者》、《DayZ》、《男孩與鹿》、《汽車經銷商模擬器》、《歸家異途2》、《魂寵獵人》、《最後四件事》等多款高評價作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "台灣獨立遊戲《心象天儀本線》Steam上市",
-    "summary": "由台灣團隊開發的獨立遊戲《心象天儀本線》於Steam平台正式上市。該遊戲以2000年代視覺小說美學為基底，搭配獨特的「選擇車票」機制串聯故事，引領玩家逐步揭開「星織學園」的秘密。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/28",
-    "title": "《心象天儀本線》正式上市",
-    "summary": "以 2000 年代視覺小說美學為基礎的遊戲《心象天儀本線》，搭配獨特的「選擇車票」機制串連故事，於 8 月 28 日正式上市。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
