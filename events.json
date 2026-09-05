@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/05",
+    "title": "Epic 免費遊戲",
+    "summary": "Epic Games Store 推出限時免費遊戲《Beach Invasion 1944》，這是一款二戰諾曼第碉堡防禦遊戲，玩家需架起 MG42 阻擋盟軍登陸，領取時間僅限三天。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/04",
     "title": "Epic Games Store 新作《鬼武者：刀之道》預購開放",
     "summary": "動作遊戲《鬼武者：刀之道》在 Epic Games Store 開放預購，預計於 2026 年 9 月 4 日推出，預購獎勵包含可在遊戲內使用的「獅犬護符」和「封印咒縛劍」外觀。",
@@ -225,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Epic 夏末特賣",
+    "summary": "Epic Games Store 舉辦夏末特賣，多款精彩遊戲享有最低 2.5 折（即 75% 折扣）優惠，活動將持續至北京時間 2026 年 9 月 17 日晚上 11 點。本次特賣的重點遊戲包括《007 First Light》、《Resident Evil Requiem》、《Cyberpunk 2077》以及《潛水員戴夫》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -313,6 +329,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/02",
+    "title": "Steam 優惠",
+    "summary": "《霍格華茲的傳承》天文學家帽 DLC 限時免費領取，同時為慶祝「重返霍格華茲」活動，遊戲本體提供 1 折特價優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/01",
     "title": "Steam Humble Choice八月精選組合包：包含《人中之龍 薪火相傳》等8款遊戲",
     "summary": "Steam Humble Choice八月精選組合包提供8款熱門遊戲，其中包括廣受好評的JRPG《人中之龍 薪火相傳》，該組合包優惠截止至9月1日。",
@@ -373,30 +397,6 @@
     "title": "Epic 限免",
     "summary": "EPIC 平台於 8 月 31 日整理了 2026 年每日限時免費或折扣的遊戲資訊，提醒玩家必須抓緊時間在活動期間內下載或購買，錯過就等下次。其中包含《NoRush!》等限免遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/08/31",
-    "title": "旺仔小喬抖音解封後未道歉引發持續抵制",
-    "summary": "曾擁有2344萬粉絲的中國翻唱歌手兼主播旺仔小喬，其抖音帳號在被限制一年多後於8月下旬悄然解封，但因未發布任何正式聲明或公開道歉，引發廣大網友持續抵制。此前，旺仔小喬因蒙面演唱會高票價、直播中否認汪蘇瀧《年輪》創作身份導致版權被收回，以及道歉信被指為AI生成等一系列爭議，導致粉絲數暴跌超過900萬。此次解封後的沉默加劇了公眾的不滿，許多網友質疑其未解決版權糾紛和訴訟便重新復出的誠意，導致輿論持續反彈。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/31",
-    "title": "Epic Games限時免費領取：NoRush!",
-    "summary": "Epic Games Store於8月31日推出遊戲《NoRush!》的限時免費領取活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/31",
-    "title": "台灣VTuber圈被集體爆破，實況主集體切割VTuber轉生潛規則",
-    "summary": "台灣實況圈近期爆發多起VTuber「前世」名單外洩事件，導致多位實況主和VTuber之間產生衝突。部分實況主在社群媒體上急於切割，強調不認識某些VTuber的「前世」身份，引發外界對VTuber轉生潛規則與圈內文化的討論。此事件被媒體報導為「集體爆破」，引發廣泛關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -2474,6 +2474,15 @@
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預告 9 月 26 日再次歸來",
     "summary": "自稱來自 2058 年的未來人國分玲曾表示，她將在 2026 年 9 月 26 日再次回到這個時空，回答人們想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "未來人國分玲預告：2026年9月26日再次歸來",
+    "summary": "自稱來自 2058 年的「未來人」國分玲曾表示，她將於 2026 年 9 月 26 日再次歸來，回答大家想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
