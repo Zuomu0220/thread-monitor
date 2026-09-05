@@ -185,6 +185,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Steam 限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 平台於 2026 年 9 月 3 日起提供《Bunny Guys!》與《BROTHER!!! Save him!》兩款遊戲限時免費領取。玩家可在活動期間內下載並永久保留這些遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Epic Games 夏末特賣開跑：多款遊戲超值折扣",
+    "summary": "Epic Games Store 於 2026 年 9 月 3 日宣布「夏末特賣」活動正式啟動，多款遊戲提供低至 2.5 折的優惠，活動將持續至 9 月 17 日。特賣遊戲包括《生化危機：安魂曲》（七折，約 243.6 元）、《007初露鋒芒》（八折，約 238.4 元）、《賽博朋克2077》（2.5 折，約 89.4 元）以及《潛水員戴夫》（五折，約 40 元）等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -381,22 +397,6 @@
     "title": "Epic Games Store限時免費遊戲：《NoRush!》",
     "summary": "Epic Games Store於本週提供策略解謎遊戲《NoRush!》限時免費領取。玩家需在活動期間內前往平台領取，以免錯過。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/31",
-    "title": "Steam玩家合作生存工藝節",
-    "summary": "Steam平台正舉辦「玩家合作生存工藝節」，活動持續至9月7日，提供多款合作生存與工藝類型遊戲的折扣與體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/08/31",
-    "title": "VTuber嵐迪舉辦「聲音評鑑」企劃引發與配音圈爭議",
-    "summary": "VTuber嵐迪舉辦一場「聲音評鑑」企劃，允許參與者付費快速通關以獲得「極品」聲線評價並加入專屬群組，此舉動引發了台灣VTuber圈和配音圈的廣泛爭議與批評。",
-    "avatar_url": "https://img.league-funny.com/vtuber/article/20260831165242-H2r7R.jpg",
     "days_left": 2
   },
   {
