@@ -89,6 +89,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Steam",
+    "summary": "PAX West 2026 活動：遊戲文化與社群的慶典，於 2026/09/04 至 2026/09/07 舉行，包含多項活動與遊戲試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/03",
     "title": "Epic Games Store 夏季特賣持續中",
     "summary": "Epic Games Store 夏季特賣活動火熱進行中，多款精彩遊戲享有低至 2.5 折的優惠，活動將持續至台北時間 2026 年 9 月 17 日晚上 11 點。其中，《007 初露鋒芒》首次參與折扣活動，售價為 238.40 元人民幣（20% 折扣）；《生化危機：安魂曲》提供 30% 的折扣，售價為 243.60 元人民幣；《賽博朋克 2077》和《潛水員戴夫》也有大幅折扣。",
@@ -265,11 +273,11 @@
   },
   {
     "category": "GAME",
-    "date": "2026/09/02",
-    "title": "Steam",
-    "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
+    "date": "2026/09/03",
+    "title": "Epic Games",
+    "summary": "限時免費領取《Alone With You》：這款科幻冒險遊戲融合了探索、懸疑和視覺小說敘事，玩家扮演末日殖民地的最後倖存者，與全息夥伴建立關係。活動至 2026/09/10 截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -389,14 +397,6 @@
     "title": "VTuber嵐迪因「聲音評鑑」企劃惹議，一次得罪台V與音聲圈",
     "summary": "VTuber嵐迪推出「聲音評鑑」企劃，讓參加者上麥講話並由他評價聲線、給予等級。排隊免費，斗內可快速通關，評到「極品」甚至能加入其成立的「極之聲」群組。此企劃因其評價標準與收費方式，引發台V及音聲圈不滿，認為其行為不專業且有斂財之嫌，導致炎上。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/01",
-    "title": "中型實況主「小宅」遭觀眾指控台下行為不檢",
-    "summary": "實況主「小宅」被多名觀眾在Dcard論壇發文指控，私下互動時有逾矩行為，引發網友熱議，目前「小宅」已暫停直播並表示會對相關指控進行調查。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
