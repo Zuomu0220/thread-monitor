@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games Store「夏日終止特賣」登場",
+    "summary": "Epic Games Store 於 9 月 4 日至 9 月 17 日期間舉辦「夏日終止特賣」，多款人氣遊戲最高享 75% 折扣，包含《007 First Light》、《Dave the Diver》、《Grand Theft Auto V Enhanced》、《Resident Evil Requiem》和《Cyberpunk 2077》等作品均有優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/03",
     "title": "Epic Games Store 夏季特賣持續中",
     "summary": "Epic Games Store 夏季特賣活動火熱進行中，多款精彩遊戲享有低至 2.5 折的優惠，活動將持續至台北時間 2026 年 9 月 17 日晚上 11 點。其中，《007 初露鋒芒》首次參與折扣活動，售價為 238.40 元人民幣（20% 折扣）；《生化危機：安魂曲》提供 30% 的折扣，售價為 243.60 元人民幣；《賽博朋克 2077》和《潛水員戴夫》也有大幅折扣。",
@@ -204,6 +212,14 @@
     "date": "2026/09/03",
     "title": "Steam 最新限時免費遊戲更新",
     "summary": "Steam 平台於 2026 年 9 月 3 日更新了限時免費遊戲，包括《Bunny Guys!》和《BROTHER!!! Save him!》等作品。玩家需把握活動期間下載或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Steam 限時免費：《Bunny Guys!》、《BROTHER!!! Save him!》",
+    "summary": "Steam 平台目前提供《Bunny Guys!》和《BROTHER!!! Save him!》等遊戲限時免費領取或折扣，玩家須在活動期間內下載或購買。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -381,22 +397,6 @@
     "title": "台灣VTuber圈被集體爆破，實況主集體切割VTuber轉生潛規則",
     "summary": "台灣實況圈近期爆發多起VTuber「前世」名單外洩事件，導致多位實況主和VTuber之間產生衝突。部分實況主在社群媒體上急於切割，強調不認識某些VTuber的「前世」身份，引發外界對VTuber轉生潛規則與圈內文化的討論。此事件被媒體報導為「集體爆破」，引發廣泛關注。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/31",
-    "title": "Epic Games手機版限時免費領取《逃出百慕達》",
-    "summary": "Epic Games手機版App推出限時免費領取《逃出百慕達》活動，Android和iOS用戶可領取（iOS僅限歐盟、日本、巴西可用）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/31",
-    "title": "Steam 2026 玩家合作生存工藝節",
-    "summary": "Steam 平台將於 8 月 31 日至 9 月 7 日舉辦「玩家合作生存工藝節」，屆時將有特定主題遊戲提供特價折扣與內容展示。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -2465,6 +2465,15 @@
     "date": "2026/09/03",
     "title": "國分玲/2062 年未來人：2026 年 9 月 26 日將再次歸來",
     "summary": "自稱來自 2058 年的未來人國分玲（亦有說法為日本 2ch 上的「2062 年未來人」）表示，他將在 2026 年 9 月 26 日再次歸來，回答大眾想知道的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058 年未來人國分玲預告 9 月 26 日再次歸來",
+    "summary": "自稱來自 2058 年的未來人國分玲曾表示，她將在 2026 年 9 月 26 日再次回到這個時空，回答人們想知道的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -7446,6 +7455,15 @@
     "date": "2026/03/19",
     "title": "4chan 神秘貼文預測第三次世界大戰與外星人入侵",
     "summary": "一張在 4chan 論壇流傳的舊貼文，其內容預測了第三次世界大戰及外星人入侵。預言指出，以色列將打破停火協議攻擊伊朗，導致中東局勢升級，隨後俄羅斯將入侵波蘭和波羅的海國家，引發全球衝突。此外，預言更提及至 2027 年，全球將有 50 億人死亡，並將伴隨一場「假外星人入侵」事件，屆時 MJ12 將釋放合成外星人士兵。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/03",
+    "title": "馬斯克 G20 峰會預言 AI 爆發與全球經濟增長",
+    "summary": "馬斯克在 G20 財長與央行峰會上透過視訊發表演說，預測 AI 將使全球經濟增長 20% 至 30%，並預言在 2027 年底前，AI 將能完成所有數位領域的工作。此外，他還預計未來十年內，全球人形機器人的數量將達到 10 億台。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
