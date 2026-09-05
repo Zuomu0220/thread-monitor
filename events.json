@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/03",
+    "title": "Steam 最新限時免費遊戲更新",
+    "summary": "Steam 平台於 2026 年 9 月 3 日更新了限時免費遊戲，包括《Bunny Guys!》和《BROTHER!!! Save him!》等作品。玩家需把握活動期間下載或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/02",
     "title": "Steam",
     "summary": "《血腥地牢 (Blood Dungeon)》Demo 釋出：由《Nidhogg》創作者開發的平台射擊遊戲，玩家需在 2D 平台中躲避怪物群並進行殺戮。",
@@ -388,14 +396,6 @@
     "date": "2026/08/31",
     "title": "Steam 2026 玩家合作生存工藝節",
     "summary": "Steam 平台將於 8 月 31 日至 9 月 7 日舉辦「玩家合作生存工藝節」，屆時將有特定主題遊戲提供特價折扣與內容展示。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/08/31",
-    "title": "Epic Games Store限時免費遊戲：《NoRush!》",
-    "summary": "Epic Games Store於本週提供策略解謎遊戲《NoRush!》限時免費領取。玩家需在活動期間內前往平台領取，以免錯過。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
