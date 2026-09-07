@@ -41,9 +41,25 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/07",
+    "title": "Steam 2026 年 8 月 18 款免費獨立遊戲推薦",
+    "summary": "Steam 更新推薦 2026 年 8 月發行的 18 款免費獨立遊戲，包括《Airport Contraband：Prologue》、《捉迷藏– Hide and Seek》和《Flats Full of Cats》等，下載即可永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/06",
     "title": "Humble Narrative Masterpieces Bundle",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/06",
+    "title": "Humble Narrative Masterpieces Bundle 上線",
+    "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，包含 10 款遊戲，售價 13.65 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -92,6 +108,14 @@
     "date": "2026/09/05",
     "title": "Dead District: Survival 免費序號",
     "summary": "Steam 平台限時免費領取《Dead District: Survival》遊戲序號。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/05",
+    "title": "Steam 免費序號領取《Dead District: Survival》",
+    "summary": "Steam 平台開放限時免費序號領取遊戲《Dead District: Survival》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -281,6 +305,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games Store 限時免費遊戲《Beach Invasion 1944》",
+    "summary": "Epic Games Store 於本週限時免費提供遊戲《Beach Invasion 1944》領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/03",
     "title": "Epic Games Store 夏季特賣持續中",
     "summary": "Epic Games Store 夏季特賣活動火熱進行中，多款精彩遊戲享有低至 2.5 折的優惠，活動將持續至台北時間 2026 年 9 月 17 日晚上 11 點。其中，《007 初露鋒芒》首次參與折扣活動，售價為 238.40 元人民幣（20% 折扣）；《生化危機：安魂曲》提供 30% 的折扣，售價為 243.60 元人民幣；《賽博朋克 2077》和《潛水員戴夫》也有大幅折扣。",
@@ -365,38 +397,6 @@
     "title": "VSPO旗下VTuber千燈ゆうひ、小森めと結束停播懲罰並公開澄清",
     "summary": "VSPO所屬VTuber千燈ゆうひ與小森めと在因違反公司內部規章及合約條款而停播兩個月後，於今日恢復活動並進行直播。兩位VTuber澄清違規原因並非犯罪或不倫，並對造成的爭議表達歉意。",
     "avatar_url": "https://img.league-funny.com/vtuber/article/20260903102450-g0zR9.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam《霍格華茲的傳承》DLC「天文學家帽」限時免費下載",
-    "summary": "Steam平台提供《霍格華茲的傳承》的DLC「天文學家帽」限時免費下載，活動至9月30日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Epic Games Store 2026夏末特賣開跑",
-    "summary": "Epic Games Store 宣布夏末特賣活動火熱進行中，多款遊戲享低至2.5折優惠，活動將持續至台北時間2026年9月17日晚上11點。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam 限時免費遊戲釋出",
-    "summary": "Steam平台釋出「Bunny Guys!」和「BROTHER!!! Save him!」等限時免費遊戲供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam 限時免費：《Bunny Guys!》與《BROTHER!!! Save him!》",
-    "summary": "Steam 平台於 2026 年 9 月 3 日起提供《Bunny Guys!》與《BROTHER!!! Save him!》兩款遊戲限時免費領取。玩家可在活動期間內下載並永久保留這些遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -2510,6 +2510,15 @@
     "date": "2026/09/08",
     "title": "2058 年未來人國分玲：預計於 2026 年 9 月 26 日再次現身",
     "summary": "預言精準度極高的未來人國分玲曾表示，她會在 2026 年 9 月 26 日再次歸來，回答大眾的問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058未來人國分玲預計於9月26日再次現身",
+    "summary": "自稱來自2058年的國分玲，曾精準預言東京奧運金牌數、股市暴跌、安倍辭職等事件。她曾表示將於2026年9月26日再次現身，回答大眾想知道的事情。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
