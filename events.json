@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/09/06",
+    "title": "Humble Narrative Masterpieces Bundle",
+    "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/05",
     "title": "無最新負面與爭議事件",
@@ -36,6 +44,14 @@
     "date": "2026/09/05",
     "title": "Steam《行屍走肉》第一季限時免費",
     "summary": "Telltale 開發的《The Walking Dead》第一季將於 2026 年 9 月 9 日中午 12 時，透過 Lenovo Gaming Community 的 Key Drop 活動限時免費派發 Steam 序號，名額有限，採先到先得制。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/05",
+    "title": "Dead District: Survival 免費序號",
+    "summary": "Steam 平台限時免費領取《Dead District: Survival》遊戲序號。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -209,6 +225,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games Store 限時免費《Beach Invasion 1944》",
+    "summary": "Epic Games Store 開放限時免費領取《Beach Invasion 1944》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/03",
     "title": "Epic Games Store 夏季特賣持續中",
     "summary": "Epic Games Store 夏季特賣活動火熱進行中，多款精彩遊戲享有低至 2.5 折的優惠，活動將持續至台北時間 2026 年 9 月 17 日晚上 11 點。其中，《007 初露鋒芒》首次參與折扣活動，售價為 238.40 元人民幣（20% 折扣）；《生化危機：安魂曲》提供 30% 的折扣，售價為 243.60 元人民幣；《賽博朋克 2077》和《潛水員戴夫》也有大幅折扣。",
@@ -372,30 +396,6 @@
     "date": "2026/09/03",
     "title": "Epic Games Store 免費領取《Alone With You》",
     "summary": "Epic Games Store 本週推出科幻冒險遊戲《Alone With You》限時免費領取，活動期間為 9 月 3 日至 9 月 10 日。這款遊戲由《Home》的開發者製作，玩家將扮演太空殖民地的最後倖存者，探索並解開謎題。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam 限時免費遊戲更新",
-    "summary": "PinoGamer 皮諾電玩整理 2026 年 Steam 每日限時免費或折扣遊戲，提醒玩家務必在活動期間內下載或購買，以免錯過。本週提及《Bunny Guys!》和《BROTHER!!! Save him!》等限免遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Epic Games",
-    "summary": "限時免費領取《Alone With You》：這款科幻冒險遊戲融合了探索、懸疑和視覺小說敘事，玩家扮演末日殖民地的最後倖存者，與全息夥伴建立關係。活動至 2026/09/10 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam 限時免費：《Bunny Guys!》",
-    "summary": "Steam 平台開放限時免費領取遊戲《Bunny Guys!》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
