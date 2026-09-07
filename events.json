@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/05",
+    "title": "Steam《行屍走肉》第一季限時免費",
+    "summary": "Telltale 開發的《The Walking Dead》第一季將於 2026 年 9 月 9 日中午 12 時，透過 Lenovo Gaming Community 的 Key Drop 活動限時免費派發 Steam 序號，名額有限，採先到先得制。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/04",
     "title": "Epic Games Store 新作《鬼武者：刀之道》預購開放",
     "summary": "動作遊戲《鬼武者：刀之道》在 Epic Games Store 開放預購，預計於 2026 年 9 月 4 日推出，預購獎勵包含可在遊戲內使用的「獅犬護符」和「封印咒縛劍」外觀。",
@@ -188,6 +196,14 @@
     "date": "2026/09/04",
     "title": "Epic Games 手機版限時免費領取《尋找埃文》",
     "summary": "Epic Games 手機版 App 推出限時免費領取活動，動作冒險遊戲《尋找埃文》可免費入庫。請注意，此福利資訊在部分地區（如韓國）無效，且 iOS 僅限於歐盟、日本、巴西地區用戶可用。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/04",
+    "title": "PAX West 2026 遊戲展",
+    "summary": "PAX West 2026 遊戲文化與社群慶典活動於 2026 年 9 月 4 日至 9 月 7 日舉行，為期四天。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -380,22 +396,6 @@
     "date": "2026/09/03",
     "title": "Steam 限時免費：《Bunny Guys!》",
     "summary": "Steam 平台開放限時免費領取遊戲《Bunny Guys!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Steam 限時免費：《BROTHER!!! Save him!》",
-    "summary": "Steam 平台開放限時免費領取遊戲《BROTHER!!! Save him!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "免費序號領取：《Book of Spells》",
-    "summary": "提供免費序號領取遊戲《Book of Spells》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -7401,6 +7401,15 @@
     "date": "2026/06/12",
     "title": "國分玲洩漏預言草案：2027年3月俄烏戰爭停火",
     "summary": "據稱是國分玲帳號洩漏的預言草案指出，2027 年 3 月 17 日俄烏戰爭將簽署正式停火協議，以實際控制線劃界，小規模衝突持續至 2034 年，全面和平協議於 2035 年 6 月簽署。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/17",
+    "expiry_date": "2027/03/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "未來人國分玲預言俄烏戰爭停戰時間",
+    "summary": "自稱來自 2058 年的日本未來人國分玲曾預言，俄羅斯與烏克蘭將於 2027 年 3 月 17 日簽署停戰協議。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/03/17",
     "expiry_date": "2027/03/18"
