@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/08",
+    "title": "目前無重大負面與爭議事件報告",
+    "summary": "在 2026/09/01 至 2026/09/08 期間，透過 Google Search 搜尋台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件，目前沒有發現具體且廣泛報導的事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/08",
+    "title": "Epic Games Store 持續提供每週免費遊戲",
+    "summary": "Epic Games Store 持續提供玩家每週免費遊戲，鼓勵玩家定期造訪以享受獨家優惠，並確認是否仍在活動期間內。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/07",
     "title": "Steam 免費試玩版：《堅持人生地下城》",
@@ -353,6 +369,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/04",
+    "title": "Epic Games Store 八月免費遊戲優惠結束預告",
+    "summary": "Epic Games Store 宣布其八月份的免費遊戲優惠將於 2026/10/09 下午 4:00 結束，玩家需在此前領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/03",
     "title": "Epic Games Store 夏季特賣持續中",
     "summary": "Epic Games Store 夏季特賣活動火熱進行中，多款精彩遊戲享有低至 2.5 折的優惠，活動將持續至台北時間 2026 年 9 月 17 日晚上 11 點。其中，《007 初露鋒芒》首次參與折扣活動，售價為 238.40 元人民幣（20% 折扣）；《生化危機：安魂曲》提供 30% 的折扣，售價為 243.60 元人民幣；《賽博朋克 2077》和《潛水員戴夫》也有大幅折扣。",
@@ -372,30 +396,6 @@
     "date": "2026/09/03",
     "title": "Steam每日限時免費遊戲更新",
     "summary": "Steam平台於9月3日更新多款限時免費遊戲供玩家領取，包含《Bunny Guys!》和《BROTHER!!! Save him!》等作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Epic Games Store 限時免費：《Alone With You》",
-    "summary": "這款科幻冒險遊戲於 2026 年 9 月 3 日至 9 月 10 日在 Epic Games Store 開放限時免費領取。玩家需在期限內登入帳號領取，即可永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/03",
-    "title": "VTuber 社群對「中配六改四」議題的討論浮上 Threads",
-    "summary": "Threads 上突然出現許多 VTuber 帳號，針對「中配六改四」議題表達反對意見，引發社群質疑是否有公關公司介入操作，意圖透過切換人設來帶動風向。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/03",
-    "title": "Epic Games 2026 夏末特賣",
-    "summary": "Epic Games Store 宣布夏末特賣熱烈進行中，多款遊戲享有低至2.5折優惠，活動將持續至北京時間 2026 年 9 月 17 日晚上 11 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -2519,6 +2519,15 @@
     "date": "2026/05/19",
     "title": "2058未來人國分玲預計於9月26日再次現身",
     "summary": "自稱來自2058年的國分玲，曾精準預言東京奧運金牌數、股市暴跌、安倍辭職等事件。她曾表示將於2026年9月26日再次現身，回答大眾想知道的事情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "來自 2058 年的國分玲預告 2026 年 9 月再次歸來",
+    "summary": "據報導，來自 2058 年的未來人國分玲曾表示，他將在 2026 年 9 月 26 日再次現身，並回答網友的問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
