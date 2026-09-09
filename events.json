@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
+    "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/08",
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
@@ -108,6 +116,14 @@
     "date": "2026/09/07",
     "title": "Epic Games 限時免費領取《State of Mind》",
     "summary": "科幻驚悚敘事冒險遊戲《State of Mind》在 GOG 平台（4Gamers 報導為 GOG，但原 Epic Games 列表也可能包含）開放限時三天免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/07",
+    "title": "Steam推薦八月獨立遊戲多款可永久保留",
+    "summary": "Steam新聞發布了2026年8月發行的18款獨立遊戲推薦，這些遊戲下載後可永久保留，其中包括《Airport Contraband：Prologue》、《捉迷藏 – Hide and Seek》、《b 2》、《ASTRAL COURT DX》、《Blasterbug: Last Bug Standing》、《Kritzel Krieg》和《Blue Sign》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/09/04",
     "title": "Epic Games Store 限時免費《Beach Invasion 1944》",
     "summary": "Epic Games Store 開放限時免費領取《Beach Invasion 1944》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "經典動作遊戲《新鬼武者：劍之道》重啟發售",
-    "summary": "Capcom 重啟經典動作 IP《新鬼武者：劍之道（Onimusha: Way of the Sword）》，原訂 9 月 25 日發售，現已提前至 9 月 4 日上市，支援 PC、PS5、Xbox Series X|S 與 Switch 2 平台。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games Store 限時免費遊戲《Beach Invasion 1944》",
-    "summary": "Epic Games Store 於本週限時免費提供遊戲《Beach Invasion 1944》領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
