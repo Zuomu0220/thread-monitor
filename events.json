@@ -1,11 +1,19 @@
 [
   {
     "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Epic Games 預告限時免費",
+    "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
     "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "Epic Games Store 九月折扣活動",
     "summary": "Epic Games Store 舉辦九月折扣活動，提供多項遊戲折扣、優惠及免費贈品，活動時間從 9 月 9 日至 9 月 23 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "Epic Games Store《邊緣禁地 4》購買特典",
     "summary": "即日起至 9 月 12 日，在 Epic Games Store 購買《邊緣禁地 4》可獲得《Fortnite》的「瘋狂莫西組合包」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -29,7 +37,7 @@
     "title": "Epic Games Store《文明帝國》35 週年紀念特賣",
     "summary": "為慶祝《文明帝國》系列 35 週年，遊戲全系列推出大幅折扣，《文明帝國 VII》享 5 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "Epic Games Store《John Carpenter's Toxic Commando》購買特典",
     "summary": "在 Epic Games Store 購買《John Carpenter's Toxic Commando》可獲得《Fortnite》的「華特·艾恩斯」服裝作為購買特典。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -45,7 +53,7 @@
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -53,7 +61,7 @@
     "title": "目前無重大負面與爭議事件報告",
     "summary": "在 2026/09/01 至 2026/09/08 期間，透過 Google Search 搜尋台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件，目前沒有發現具體且廣泛報導的事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +69,7 @@
     "title": "Epic Games Store 持續提供每週免費遊戲",
     "summary": "Epic Games Store 持續提供玩家每週免費遊戲，鼓勵玩家定期造訪以享受獨家優惠，並確認是否仍在活動期間內。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +77,7 @@
     "title": "動作角色扮演遊戲《蒼穹戰記》釋出免費Demo",
     "summary": "動作角色扮演遊戲《蒼穹戰記》已釋出免費Demo，讓玩家能搶先體驗遊戲內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -77,7 +85,7 @@
     "title": "Steam 免費試玩版：《堅持人生地下城》",
     "summary": "由 Anonymous Works 開發的 Roguelite RPG 新作《堅持人生地下城（Life Is a Dungeon: Lean into It.）》於 9 月 7 日在 Steam 平台推出免費試玩版。玩家可在試玩版中體驗 5 小時的探索冒險，進度可繼承至正式版。本作預計參加 2026 年 10 月 19 日至 26 日的「Steam 新品節：2026 年 10 月版」，正式版預計於 10 月 27 日發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -85,7 +93,7 @@
     "title": "Steam 免費試玩版：《阿雷塔 YARETA》",
     "summary": "台灣三人獨立遊戲團隊「海溝遊戲」開發的無戰鬥開放世界冒險遊戲《阿雷塔 YARETA》榮獲 2026 東京電玩展「SELECTED INDIE 80」金獎。本作已於 Steam 平台開放全球免費測試，玩家無須序號即可體驗約兩小時的遊戲內容。該作將於 9 月 17 日至 21 日在 TGS 展出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -93,7 +101,7 @@
     "title": "東京電玩展 2026 遊戲情報：《Estella》將推出試玩",
     "summary": "台灣開發團隊 Imanity 製作的 3D 音樂節奏遊戲《Estella》確定由松竹遊戲發行，PC（Steam）版搶先體驗版預計冬季推出。遊戲將於 2026 年 9 月 17 日至 21 日舉辦的「東京電玩展 2026」展出限定 Demo 版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -101,7 +109,7 @@
     "title": "動作角色扮演遊戲《Dadzoned》發售",
     "summary": "科幻回合制角色扮演遊戲《Dadzoned》於 2026 年 9 月 7 日發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -109,7 +117,7 @@
     "title": "PlayStation Store Gamescom 優惠活動",
     "summary": "PlayStation Store 推出 Gamescom 優惠活動，持續至 2026 年 9 月 9 日，包括《007 First Light》等遊戲提供折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -117,7 +125,7 @@
     "title": "Steam 2026 年 8 月 18 款免費獨立遊戲推薦",
     "summary": "Steam 更新推薦 2026 年 8 月發行的 18 款免費獨立遊戲，包括《Airport Contraband：Prologue》、《捉迷藏– Hide and Seek》和《Flats Full of Cats》等，下載即可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -125,7 +133,7 @@
     "title": "room6 預告《狐與蛙之旅》、《甜甜圈的洞》、《致命柔情》東京電玩展現場亮相",
     "summary": "獨立遊戲開發公司 room6 將參展東京電玩展 2026，並將於現場開放《狐與蛙之旅》和《甜甜圈的洞》試玩。此外，《致命柔情》、《異想天開短篇故事集》、《暗淵幽魂》、《微醺審問》、《鼬鼠遷巢》等多款遊戲也將亮相。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -133,7 +141,7 @@
     "title": "《阿雷塔YARETA》獲 TGS 獨立遊戲金獎 9 月東京電玩展現場開放試玩",
     "summary": "《阿雷塔YARETA》獲得 TGS 獨立遊戲金獎，將於 9 月 17 日至 21 日的東京電玩展現場開放試玩，目前 Steam Playtest 也已免費開放。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +149,7 @@
     "title": "Steam 8 月獨立遊戲推薦仍可下載",
     "summary": "Steam 於 2026 年 9 月 7 日推薦 18 款 8 月份發行的獨立遊戲，其中包含《Airport Contraband：Prologue》、《捉迷藏 – Hide and Seek》等多款支援繁體中文的遊戲，下載即可永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -149,7 +157,7 @@
     "title": "Steam 2026 年 8 月獨立遊戲免費推薦",
     "summary": "Steam 於 2026 年 8 月釋出了多達 18 款獨立遊戲供玩家免費下載並永久保留，這些遊戲在 9 月初仍可領取。其中包括 8 月 4 日發行的《Flats Full of Cats》、8 月 26 日發行的《b 2》、8 月 14 日發行的《Blue Sign》和 8 月 25 日發行的《ASTRAL COURT DX》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -157,7 +165,7 @@
     "title": "Epic Games 限時免費領取《State of Mind》",
     "summary": "科幻驚悚敘事冒險遊戲《State of Mind》在 GOG 平台（4Gamers 報導為 GOG，但原 Epic Games 列表也可能包含）開放限時三天免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +173,7 @@
     "title": "Steam推薦八月獨立遊戲多款可永久保留",
     "summary": "Steam新聞發布了2026年8月發行的18款獨立遊戲推薦，這些遊戲下載後可永久保留，其中包括《Airport Contraband：Prologue》、《捉迷藏 – Hide and Seek》、《b 2》、《ASTRAL COURT DX》、《Blasterbug: Last Bug Standing》、《Kritzel Krieg》和《Blue Sign》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -173,7 +181,7 @@
     "title": "個人勢VTuber「星野夢境」因社群發文引戰發出道歉聲明",
     "summary": "個人勢VTuber「星野夢境」在社群平台發文，引發與其他VTuber粉絲群的激烈爭吵，最終發布道歉聲明。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -181,7 +189,7 @@
     "title": "Epic Games 本週免費遊戲《失落的符文》",
     "summary": "Epic Games 本週提供獨立冒險遊戲《失落的符文》限時免費領取，活動至9月14日結束。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -189,7 +197,7 @@
     "title": "Humble Narrative Masterpieces Bundle",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -197,7 +205,7 @@
     "title": "Humble Narrative Masterpieces Bundle 上線",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，包含 10 款遊戲，售價 13.65 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -205,7 +213,7 @@
     "title": "Steam 新增 Humble Narrative Masterpieces Bundle",
     "summary": "Steam 免費遊戲情報站於 2026 年 9 月 6 日提到 Humble Narrative Masterpieces Bundle，內含 10 款遊戲，售價 13.65 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -213,7 +221,15 @@
     "title": "Steam 限時免費領取《Stones Keeper: King Aurelius》",
     "summary": "Steam 平台本週限時免費領取回合制策略RPG遊戲《Stones Keeper: King Aurelius》，此遊戲將於9月14日從Steam商店永久下架，玩家需在此日期前領取，下架後仍可繼續遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/06",
+    "title": "Humble Bundle 特惠",
+    "summary": "Humble Narrative Masterpieces Bundle 上架：此套裝包含 10 款敘事型遊戲，特價 13.65 美金。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -221,7 +237,7 @@
     "title": "無最新負面與爭議事件",
     "summary": "在2026/08/29至2026/09/05期間，未搜捕到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -229,7 +245,7 @@
     "title": "Epic 免費遊戲",
     "summary": "Epic Games Store 推出限時免費遊戲《Beach Invasion 1944》，這是一款二戰諾曼第碉堡防禦遊戲，玩家需架起 MG42 阻擋盟軍登陸，領取時間僅限三天。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -237,7 +253,7 @@
     "title": "Epic Games 限時免費領取《Beach Invasion 1944》",
     "summary": "由 AIx2 Games 開發的二戰題材射擊遊戲《Beach Invasion 1944》目前正在 Epic 平台開啟限時免費領取活動，領取截止時間為 9 月 7 日。本作以第二次世界大戰為背景，玩家扮演軸心國士兵保衛歐洲大西洋海岸防線，抵禦盟軍的登陸進攻。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -245,7 +261,7 @@
     "title": "2026 東京電玩展（TGS 2026）資訊公布",
     "summary": "東京電玩展 TGS 2026 將於 2026 年 9 月 17 日至 21 日在幕張展覽館舉行。主辦方日本電腦娛樂供應商協會（CESA）已於近期公布展期規劃、亮點活動與交通資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -253,7 +269,7 @@
     "title": "Steam《行屍走肉》第一季限時免費",
     "summary": "Telltale 開發的《The Walking Dead》第一季將於 2026 年 9 月 9 日中午 12 時，透過 Lenovo Gaming Community 的 Key Drop 活動限時免費派發 Steam 序號，名額有限，採先到先得制。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -261,7 +277,7 @@
     "title": "Dead District: Survival 免費序號",
     "summary": "Steam 平台限時免費領取《Dead District: Survival》遊戲序號。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -269,7 +285,7 @@
     "title": "Steam 免費序號領取《Dead District: Survival》",
     "summary": "Steam 平台開放限時免費序號領取遊戲《Dead District: Survival》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -277,7 +293,7 @@
     "title": "Epic Games Store 限時免費遊戲領取資訊",
     "summary": "根據資訊，Epic Games Store 提供限時免費遊戲，本週（9 月 5 日更新）可領取，具體遊戲名稱需點擊前往領取頁面確認。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -285,7 +301,7 @@
     "title": "Steam 免費序號領取：Dead District: Survival",
     "summary": "根據 Steam 免費遊戲情報站消息，於 2026 年 9 月 5 日開放《Dead District: Survival》免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
   },
   {
     "category": "STREAMER",
@@ -293,7 +309,15 @@
     "title": "知名實況主「遊戲阿哲」深夜直播失言引發公關危機",
     "summary": "知名實況主「遊戲阿哲」在深夜直播中嘲諷觀眾斗內金額太少，此舉立即引發PTT網友的強烈不滿，批評其「吃相難看」，導致一場公關危機。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/05",
+    "title": "Steam 免費序號領取",
+    "summary": "《Dead District: Survival》開放免費序號領取：Steam 平台提供《Dead District: Survival》遊戲序號限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
   },
   {
     "category": "GAME",
@@ -301,7 +325,7 @@
     "title": "Epic Games Store 新作《鬼武者：刀之道》預購開放",
     "summary": "動作遊戲《鬼武者：刀之道》在 Epic Games Store 開放預購，預計於 2026 年 9 月 4 日推出，預購獎勵包含可在遊戲內使用的「獅犬護符」和「封印咒縛劍」外觀。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -309,7 +333,7 @@
     "title": "Epic Games限時免費遊戲",
     "summary": "Epic Games Store釋出最新限時免費遊戲，包含《Alone With You》（優惠期限：2026年9月10日）與《NoRush!》（優惠期限：2026年9月9日）供玩家領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -317,7 +341,7 @@
     "title": "Epic Games《鬼武者：劍之道》預購獎勵釋出",
     "summary": "Capcom的《鬼武者：劍之道》（Onimusha: Way of the Sword）於9月4日在Epic Games平台推出，預購玩家可獲得遊戲內「獅犬護符」和「封印咒縛劍」外觀獎勵。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -325,7 +349,7 @@
     "title": "Epic Games Store 2026 夏末特賣",
     "summary": "Epic遊戲商城於2026年9月4日開啟夏末特賣活動，多款遊戲提供低至2.5折的優惠，活動將持續至2026年9月17日。其中包含《賽博朋克2077》（70%折扣）、《潛水員戴夫》（50%折扣）、《007初露鋒芒》（首次折扣20%）及《生化危機：安魂曲》（30%折扣）等作品。部分指定遊戲購買後可獲得《Fortnite》或《Rocket League》的限定道具。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -333,7 +357,7 @@
     "title": "Epic Games Store《與你獨處》（Alone With You）限時免費領取",
     "summary": "《與你獨處》這款苦樂參半的科幻冒險遊戲可在Epic Games Store免費領取，活動持續至9月10日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -341,7 +365,7 @@
     "title": "Steam周末免費遊玩：《文明7》、《頭等艙危機》",
     "summary": "Steam平台提供《文明7》和《頭等艙危機》兩款遊戲的免費週末暢玩活動，活動至少持續至9月8日凌晨1點（北京時間）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -349,7 +373,7 @@
     "title": "Steam平台《喪屍防災訓練》上市特惠六折",
     "summary": "遊戲開發商MAGES.宣布，旗下防災模擬遊戲《ZOMBIE防災訓練》已登陸Steam平台，為響應9月防災週，推出限時首發優惠，玩家即日起至9月15日可以六折優惠價購入遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -357,7 +381,7 @@
     "title": "Amazon Prime Gaming限時免費領取《模擬老大爺》、《戰地醫院》Epic Games Store序號",
     "summary": "Amazon Prime會員可透過Luna服務免費領取《模擬老大爺》和《戰地醫院》的Epic Games Store序號，活動持續至2026年10月8日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -365,7 +389,7 @@
     "title": "Epic Games Store「夏日終止特賣」登場",
     "summary": "Epic Games Store 於 9 月 4 日至 9 月 17 日期間舉辦「夏日終止特賣」，多款人氣遊戲最高享 75% 折扣，包含《007 First Light》、《Dave the Diver》、《Grand Theft Auto V Enhanced》、《Resident Evil Requiem》和《Cyberpunk 2077》等作品均有優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "GAME",
@@ -373,31 +397,7 @@
     "title": "Steam",
     "summary": "PAX West 2026 活動：遊戲文化與社群的慶典，於 2026/09/04 至 2026/09/07 舉行，包含多項活動與遊戲試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Steam 限時免費領取：《Stones Keeper: King Aurelius》",
-    "summary": "該遊戲廠商將推出新版，舊版將從 Steam 移除，但領取後即使下架仍可遊玩，建議先領取。活動至 2026 年 9 月 14 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Steam 獨立遊戲 Demo 釋出：《Will O Wing》",
-    "summary": "Studio Null Games 的首款平台遊戲《Will O Wing》試玩版現已在 Steam 上免費推出，玩家可探索世界的序章，完整版遊戲也已上線 Steam 頁面。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games 即將免費遊戲：《Astral Ascent》與《Luftrausers》",
-    "summary": "Epic Games Store 宣布將於 2026 年 9 月 10 日起免費贈送 2D 平台 Roguelite 遊戲《Astral Ascent》以及快節奏街機射擊遊戲《Luftrausers》，活動持續至 9 月 17 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 1
   },
   {
     "category": "PROPHECY",
