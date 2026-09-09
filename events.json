@@ -9,6 +9,38 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Epic Games Store 九月折扣活動",
+    "summary": "Epic Games Store 舉辦九月折扣活動，提供多項遊戲折扣、優惠及免費贈品，活動時間從 9 月 9 日至 9 月 23 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Epic Games Store《邊緣禁地 4》購買特典",
+    "summary": "即日起至 9 月 12 日，在 Epic Games Store 購買《邊緣禁地 4》可獲得《Fortnite》的「瘋狂莫西組合包」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Epic Games Store《文明帝國》35 週年紀念特賣",
+    "summary": "為慶祝《文明帝國》系列 35 週年，遊戲全系列推出大幅折扣，《文明帝國 VII》享 5 折優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Epic Games Store《John Carpenter's Toxic Commando》購買特典",
+    "summary": "在 Epic Games Store 購買《John Carpenter's Toxic Commando》可獲得《Fortnite》的「華特·艾恩斯」服裝作為購買特典。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/08",
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
@@ -364,38 +396,6 @@
     "date": "2026/09/04",
     "title": "Epic Games 即將免費遊戲：《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 宣布將於 2026 年 9 月 10 日起免費贈送 2D 平台 Roguelite 遊戲《Astral Ascent》以及快節奏街機射擊遊戲《Luftrausers》，活動持續至 9 月 17 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games 免費遊戲：Beach Invasion 1944",
-    "summary": "目前可在 Epic Games 免費領取，活動至 2026 年 9 月 7 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Amazon Prime Gaming 免費遊戲：《模擬老大爺》(Goat Simulator) Epic Games Store 版",
-    "summary": "作為 Amazon Prime 訂閱福利的一部分，目前可在 Amazon Luna 免費領取，活動至 2026 年 10 月 8 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Amazon Prime Gaming 免費遊戲：《戰地醫院》(War Hospital) Epic Games Store 版",
-    "summary": "作為 Amazon Prime 訂閱福利的一部分，目前可在 Amazon Luna 免費領取，活動至 2026 年 10 月 8 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Xbox 免費遊玩日：《島嶼生存者》(The Survivalists)",
-    "summary": "Xbox Game Pass Ultimate、Premium 和 Essential 會員可在 2026 年 9 月 4 日 (週五) 至 9 月 6 日 (週日) 免費遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -2543,6 +2543,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的國分玲預言 2026 年為日本及全球轉折點",
+    "summary": "自稱來自 2058 年的國分玲曾表示 2026 年是日本及全球的重大轉折點。他還預言 2028 年將發生全球金融危機，導火線是美國國債違約，動搖美元全球結算體系，並預告將於 2026 年 9 月 26 日再次回歸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/03/18",
     "title": "潔西卡·亞當斯預測2026年夏季數位分身技術顛覆社群媒體",
     "summary": "潔西卡·亞當斯預測，2026年夏季將出現「數位分身」（Digital Twin）技術，徹底改變社群媒體格局。",
@@ -3292,6 +3301,15 @@
     "date": "2026/02/04",
     "title": "物理學家預言 2026 年 11 月 13 日全球滅絕",
     "summary": "物理學家馮．佛斯特（Heinz von Foerster）在 1960 年預測，世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特對 2026 年世界末日的預言",
+    "summary": "已故物理學家馮．佛斯特在 1960 年預測，世界可能在 2020 年代走向終結，特別指出 2026 年 11 月 13 日將是人類因人口過剩而「被擠死」的末日日期。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
