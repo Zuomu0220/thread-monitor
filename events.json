@@ -40,6 +40,30 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/10",
+    "title": "目前無重大負面或爭議事件",
+    "summary": "在 2026 年 9 月 3 日至 9 月 10 日期間，Google 搜尋結果中未發現台灣/華語圈實況主或 VTuber 發生廣泛報導的重大負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Epic Games Store 限時免費：《Luftrausers》",
+    "summary": "Epic Games Store 於 9 月 10 日至 9 月 17 日期間，限時免費提供遊戲《Luftrausers》供玩家領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Steam 白舟開學季特賣",
+    "summary": "知名美少女遊戲發行商 Shiravune 自 9 月 10 日起至 9 月 24 日在 Steam 平台展開「開學季特賣」，多款遊戲最低二折起，包含首發折扣的《冬旅，方冥冥》及歷史新低價的《永不枯萎的世界與終焉之花》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
@@ -89,6 +113,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam 試玩版：《一落春 The First Spring》",
+    "summary": "台灣獨立 BL 視覺小說《一落春 The First Spring》於 9 月 9 日在 Steam 上線免費 Demo，收錄第一章及第二章前半段。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/08",
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
@@ -124,6 +156,22 @@
     "date": "2026/09/08",
     "title": "Steam《星際爭霸戰》60 週年特賣",
     "summary": "《Star Trek - 60th Anniversary Franchise Sale》於 Steam 平台開始特價活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/08",
+    "title": "Steam 遊戲特價：《星際爭霸戰》60 週年系列",
+    "summary": "Steam 平台於 9 月 8 日啟動《星際爭霸戰》60 週年系列遊戲特價活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/08",
+    "title": "獨立遊戲《MONOPHOBIA》東京電玩展 Demo",
+    "summary": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》宣布將參展 2026 年東京電玩展，並提供最新試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -249,6 +297,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/07",
+    "title": "Steam 試玩版：《BLACKOUT: Fatal Exposure》",
+    "summary": "日本獨立遊戲團隊 UMINEKOwalKing 開發的像素風心理恐怖冒險遊戲《BLACKOUT: Fatal Exposure》於 9 月 7 日在 Steam 推出免費試玩版，以靈異照片為主題，營造心理恐怖氛圍。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/07",
+    "title": "Steam 試玩版：《堅持人生地下城》",
+    "summary": "由 Anonymous Works 開發的 Roguelite RPG《堅持人生地下城（Life Is a Dungeon: Lean into It.）》於 9 月 7 日在 Steam 平台推出免費試玩版，玩家可體驗不同角色探索地下城。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/06",
     "title": "Humble Narrative Masterpieces Bundle",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
@@ -334,70 +398,6 @@
     "summary": "Steam 平台開放限時免費序號領取遊戲《Dead District: Survival》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Epic Games Store 限時免費遊戲領取資訊",
-    "summary": "根據資訊，Epic Games Store 提供限時免費遊戲，本週（9 月 5 日更新）可領取，具體遊戲名稱需點擊前往領取頁面確認。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Steam 免費序號領取：Dead District: Survival",
-    "summary": "根據 Steam 免費遊戲情報站消息，於 2026 年 9 月 5 日開放《Dead District: Survival》免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/05",
-    "title": "知名實況主「遊戲阿哲」深夜直播失言引發公關危機",
-    "summary": "知名實況主「遊戲阿哲」在深夜直播中嘲諷觀眾斗內金額太少，此舉立即引發PTT網友的強烈不滿，批評其「吃相難看」，導致一場公關危機。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Steam 免費序號領取",
-    "summary": "《Dead District: Survival》開放免費序號領取：Steam 平台提供《Dead District: Survival》遊戲序號限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Steam 免費序號領取：《Dead District: Survival》",
-    "summary": "Steam 平台有《Dead District: Survival》免費序號可領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games Store 新作《鬼武者：刀之道》預購開放",
-    "summary": "動作遊戲《鬼武者：刀之道》在 Epic Games Store 開放預購，預計於 2026 年 9 月 4 日推出，預購獎勵包含可在遊戲內使用的「獅犬護符」和「封印咒縛劍」外觀。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games限時免費遊戲",
-    "summary": "Epic Games Store釋出最新限時免費遊戲，包含《Alone With You》（優惠期限：2026年9月10日）與《NoRush!》（優惠期限：2026年9月9日）供玩家領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/04",
-    "title": "Epic Games《鬼武者：劍之道》預購獎勵釋出",
-    "summary": "Capcom的《鬼武者：劍之道》（Onimusha: Way of the Sword）於9月4日在Epic Games平台推出，預購玩家可獲得遊戲內「獅犬護符」和「封印咒縛劍」外觀獎勵。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -3310,6 +3310,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特對 2026 年世界末日的預言",
     "summary": "已故物理學家馮．佛斯特在 1960 年預測，世界可能在 2020 年代走向終結，特別指出 2026 年 11 月 13 日將是人類因人口過剩而「被擠死」的末日日期。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/10",
+    "title": "海因茨·馮·福斯特：2026年11月13日因人口過剩導致末日",
+    "summary": "由海因茨·馮·福斯特等科學家在 1960 年發表的研究預測，由於地球人口過剩，可能在 2026 年 11 月 13 日發生末日事件，導致糧食短缺、大規模饑荒、資源匱乏及環境問題。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
