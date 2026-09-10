@@ -201,6 +201,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/08",
+    "title": "Epic Games 限時免費遊戲領取",
+    "summary": "根據報導，Epic Games Store 在 2026 年 9 月 10 日結束了 8 月份的免費遊戲限時領取活動，並預計在每週四更新免費遊戲內容。使用者可透過 Epic Games 平台領取限時免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/07",
     "title": "Steam 免費試玩版：《堅持人生地下城》",
     "summary": "由 Anonymous Works 開發的 Roguelite RPG 新作《堅持人生地下城（Life Is a Dungeon: Lean into It.）》於 9 月 7 日在 Steam 平台推出免費試玩版。玩家可在試玩版中體驗 5 小時的探索冒險，進度可繼承至正式版。本作預計參加 2026 年 10 月 19 日至 26 日的「Steam 新品節：2026 年 10 月版」，正式版預計於 10 月 27 日發售。",
@@ -337,6 +345,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/07",
+    "title": "Steam Anime Game Festival 2026 遊戲折扣",
+    "summary": "Steam 平台於 2026 年 9 月 7 日舉辦了 Anime Game Festival 2026，期間提供多款動漫風格遊戲折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/06",
     "title": "Humble Narrative Masterpieces Bundle",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
@@ -380,22 +396,6 @@
     "date": "2026/09/05",
     "title": "Epic 免費遊戲",
     "summary": "Epic Games Store 推出限時免費遊戲《Beach Invasion 1944》，這是一款二戰諾曼第碉堡防禦遊戲，玩家需架起 MG42 阻擋盟軍登陸，領取時間僅限三天。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Epic Games 限時免費領取《Beach Invasion 1944》",
-    "summary": "由 AIx2 Games 開發的二戰題材射擊遊戲《Beach Invasion 1944》目前正在 Epic 平台開啟限時免費領取活動，領取截止時間為 9 月 7 日。本作以第二次世界大戰為背景，玩家扮演軸心國士兵保衛歐洲大西洋海岸防線，抵禦盟軍的登陸進攻。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "2026 東京電玩展（TGS 2026）資訊公布",
-    "summary": "東京電玩展 TGS 2026 將於 2026 年 9 月 17 日至 21 日在幕張展覽館舉行。主辦方日本電腦娛樂供應商協會（CESA）已於近期公布展期規劃、亮點活動與交通資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
