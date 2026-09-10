@@ -64,6 +64,30 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/10",
+    "title": "本週無台灣/華語圈實況主負面與爭議事件",
+    "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈實況主有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/09/10",
+    "title": "本週無台灣/華語圈 VTuber 負面與爭議事件",
+    "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈 VTuber 有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Epic Games Store 下週免費遊戲：《Luftrausers》與《Astral Ascent》",
+    "summary": "自 2026 年 9 月 10 日起，Epic Games Store 將提供 2D 街機射擊遊戲《Luftrausers》和 roguelite 平台遊戲《Astral Ascent》限時免費領取，持續至 9 月 17 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
@@ -372,30 +396,6 @@
     "date": "2026/09/05",
     "title": "2026 東京電玩展（TGS 2026）資訊公布",
     "summary": "東京電玩展 TGS 2026 將於 2026 年 9 月 17 日至 21 日在幕張展覽館舉行。主辦方日本電腦娛樂供應商協會（CESA）已於近期公布展期規劃、亮點活動與交通資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Steam《行屍走肉》第一季限時免費",
-    "summary": "Telltale 開發的《The Walking Dead》第一季將於 2026 年 9 月 9 日中午 12 時，透過 Lenovo Gaming Community 的 Key Drop 活動限時免費派發 Steam 序號，名額有限，採先到先得制。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Dead District: Survival 免費序號",
-    "summary": "Steam 平台限時免費領取《Dead District: Survival》遊戲序號。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/05",
-    "title": "Steam 免費序號領取《Dead District: Survival》",
-    "summary": "Steam 平台開放限時免費序號領取遊戲《Dead District: Survival》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -3319,6 +3319,15 @@
     "date": "2026/09/10",
     "title": "海因茨·馮·福斯特：2026年11月13日因人口過剩導致末日",
     "summary": "由海因茨·馮·福斯特等科學家在 1960 年發表的研究預測，由於地球人口過剩，可能在 2026 年 11 月 13 日發生末日事件，導致糧食短缺、大規模饑荒、資源匱乏及環境問題。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言2026年11月13日因人口過剩導致世界末日",
+    "summary": "已故物理學家馮．佛斯特在1960年代曾預測「世界恐在2020年代走向終結」，並具體指出世界末日日期為2026年11月13日，原因為人口過剩。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -7221,6 +7230,15 @@
     "date": "2026/12/26",
     "title": "4chan匿名用戶SBC7HL的2026年加密貨幣預測",
     "summary": "一名在 4chan 上被稱為 SBC7HL 的匿名用戶於 2025 年 12 月 20 日發布預測，比特幣 (BTC) 有望在 2026 年達到 250,000 美元，以太坊 (ETH) 達到 20,000 美元，以及 Solana (SOL) 達到 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/08",
+    "title": "盲眼龍婆巴巴萬加預言2026年底前普欽將失去權力",
+    "summary": "追隨者稱，盲眼龍婆預言俄羅斯總統普欽將在 2026 年底前失去權力，並由新領導人取代。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
