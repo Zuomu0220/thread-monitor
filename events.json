@@ -1,11 +1,19 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/09/12",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/09/05 至 2026/09/12 期間，未搜尋到台灣/華語區實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/11",
     "title": "DIGIAGE 全球獨立遊戲峰會",
     "summary": "DIGIAGE 全球獨立遊戲峰會於 2026 年 9 月 11 日至 12 日在伊茲密爾舉行，此為免費活動，旨在連結遊戲工作室、發行商與投資者。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "Epic Games Store 兩款遊戲限時免費",
     "summary": "《Luftrausers》和《Astral Ascent》現已可在 Epic Games Store 免費領取，活動將持續至 9 月 17 日。其中《Luftrausers》是一款像素風格的空戰遊戲，而《Astral Ascent》則是一款獲獎的 Roguelike 動作遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "Steam 2026 程式設計遊戲節",
     "summary": "Steam 平台「程式設計遊戲節」已於即日起開跑，將持續至北京時間 2026 年 9 月 15 日凌晨 1 點。玩家可以在此期間享受程式設計相關遊戲的特價優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -29,7 +37,7 @@
     "title": "Steam 5 款遊戲限時免費試玩",
     "summary": "Steam 平台於本週末推出 5 款遊戲的限時免費試玩，包括《Borderlands 4》、《Mordhau》、《Surviving Mars: Relaunched》、《F1 25 2026 Season Edition》以及《Crime Boss Rockay City》，免費遊玩時間至太平洋時間 9 月 14 日上午 10 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "PLAYISM GAME SHOW: TGS 2026 Preview 線上發表會",
     "summary": "獨立遊戲發行商 PLAYISM 於 9 月 10 日舉辦線上發表會，公開即將於東京電玩展（TGS 2026）展出的 10 款遊戲最新資訊。其中包括《偶像經紀人：虛擬星途》和《鐵棘》等作品，並有 Steam 和 Nintendo eShop 的發行商特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -45,7 +53,15 @@
     "title": "Steam 新品上市",
     "summary": "多款遊戲於 2026 年 9 月 11 日在 Steam 平台上市，包含《Tentacle Locker 2》、《心象天儀本線~Per aspera ad astra~》、《深度求財：挖打撤》以及多款免費 Demo，例如《Zili Diary escape against witch Demo》、《Feastfall Demo》、《農場與盛宴試玩版/ Farm & Feast Demo》、《The Heir: Steampunk Escape Room Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 限時免費試玩",
+    "summary": "《F1 25》、《邊緣禁地4》、《火星求生：重製版》、《雷擊劍鬥》與《法外梟雄：滾石城》等五款遊戲於 Steam 平台開放週末限時免費試玩，活動將持續至 9 月 15 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -53,15 +69,7 @@
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/10",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026 年 9 月 3 日至 9 月 10 日期間，華語圈內未發現有廣泛報導的實況主或 VTuber 重大負面事件、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等情況。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +77,7 @@
     "title": "Epic Games Store 限時免費《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 本週起限時免費送出《Astral Ascent》及《Luftrausers》，活動時間至 9 月 17 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -77,7 +85,7 @@
     "title": "Steam 程式設計節",
     "summary": "Steam 平台將於 9 月 10 日至 9 月 14 日舉辦「程式設計節」，活動主要針對與程式設計或邏輯解謎相關的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -85,7 +93,7 @@
     "title": "Epic Games Store 免費遊戲預告：《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 宣布自 9 月 10 日至 9 月 17 日，將提供《Astral Ascent》和《Luftrausers》作為限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -93,7 +101,7 @@
     "title": "目前無重大負面或爭議事件",
     "summary": "在 2026 年 9 月 3 日至 9 月 10 日期間，Google 搜尋結果中未發現台灣/華語圈實況主或 VTuber 發生廣泛報導的重大負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -101,7 +109,7 @@
     "title": "Epic Games Store 限時免費：《Luftrausers》",
     "summary": "Epic Games Store 於 9 月 10 日至 9 月 17 日期間，限時免費提供遊戲《Luftrausers》供玩家領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -109,7 +117,7 @@
     "title": "Steam 白舟開學季特賣",
     "summary": "知名美少女遊戲發行商 Shiravune 自 9 月 10 日起至 9 月 24 日在 Steam 平台展開「開學季特賣」，多款遊戲最低二折起，包含首發折扣的《冬旅，方冥冥》及歷史新低價的《永不枯萎的世界與終焉之花》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -117,7 +125,7 @@
     "title": "本週無台灣/華語圈實況主負面與爭議事件",
     "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈實況主有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "VTUBER",
@@ -125,7 +133,7 @@
     "title": "本週無台灣/華語圈 VTuber 負面與爭議事件",
     "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈 VTuber 有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -133,7 +141,7 @@
     "title": "Epic Games Store 下週免費遊戲：《Luftrausers》與《Astral Ascent》",
     "summary": "自 2026 年 9 月 10 日起，Epic Games Store 將提供 2D 街機射擊遊戲《Luftrausers》和 roguelite 平台遊戲《Astral Ascent》限時免費領取，持續至 9 月 17 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -141,7 +149,7 @@
     "title": "Epic Games Store 將推出限時免費遊戲：《Mindcop》與《Shogun Showdown》",
     "summary": "Epic Games Store 宣布將於 2026 年 9 月 17 日起提供兩款遊戲《Mindcop》和《Shogun Showdown》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -149,7 +157,7 @@
     "title": "Epic Games Store《與你獨處》限時免費結束",
     "summary": "科幻冒險探索遊戲《與你獨處 (Alone With You)》的限時免費領取活動已於 2026 年 9 月 10 日晚間 11 點截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -157,7 +165,7 @@
     "title": "Orc Incremental 登陸 Steam",
     "summary": "結合放置成長、自動戰鬥、RPG 元素和卡牌構築的獨立遊戲《Orc Incremental》於 9 月 8 日正式登陸 Steam 平台，並提供 15% 的首發折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -165,7 +173,7 @@
     "title": "Steam PLAYISM 發行商特賣",
     "summary": "為慶祝 PLAYISM GAME SHOW: TGS 2026 Preview，PLAYISM 發行商特賣已於 Steam 平台展開，多款遊戲限時優惠，最高享 2 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -173,7 +181,7 @@
     "title": "Steam 505 Games 20 週年特賣",
     "summary": "為慶祝成立 20 週年，505 Games 在 Steam 舉行特賣活動，提供多款遊戲的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -181,7 +189,7 @@
     "title": "Steam Sniper Elite 系列特賣",
     "summary": "《狙擊精英》系列遊戲在 Steam 平台進行特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -189,7 +197,7 @@
     "title": "Steam Access Granted 慈善特賣",
     "summary": "作為 One Special Day 2026 活動的一部分，Steam 舉行 Access Granted 特賣，提供遊戲折扣同時支持慈善事業。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -197,7 +205,7 @@
     "title": "Steam Blizzard 發行商特賣",
     "summary": "暴雪娛樂（Blizzard）在 Steam 進行發行商特賣，提供《暗黑破壞神》和《鬥陣特攻》系列遊戲的優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -205,7 +213,15 @@
     "title": "Epic Games Store 限時免費：《Mindcop》與《Shogun Showdown》",
     "summary": "Epic Games Store 於本週（9月10日起）推出兩款限時免費遊戲：《Mindcop》與《Shogun Showdown》，玩家可在 9月17日前免費領取。這兩款遊戲均為 2024 年發行的好評作品，《Mindcop》是一款融合解謎與三消元素的偵探遊戲，而《Shogun Showdown》則以其獨特的戰鬥機制受到玩家喜愛。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Steam Demo釋出",
+    "summary": "《Outcast Tales Demo》已於 Steam 平台釋出免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -213,7 +229,7 @@
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
     "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -221,7 +237,7 @@
     "title": "Epic Games Store 九月折扣活動",
     "summary": "Epic Games Store 舉辦九月折扣活動，提供多項遊戲折扣、優惠及免費贈品，活動時間從 9 月 9 日至 9 月 23 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -229,7 +245,7 @@
     "title": "Epic Games Store《邊緣禁地 4》購買特典",
     "summary": "即日起至 9 月 12 日，在 Epic Games Store 購買《邊緣禁地 4》可獲得《Fortnite》的「瘋狂莫西組合包」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -237,7 +253,7 @@
     "title": "Epic Games Store《文明帝國》35 週年紀念特賣",
     "summary": "為慶祝《文明帝國》系列 35 週年，遊戲全系列推出大幅折扣，《文明帝國 VII》享 5 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -245,7 +261,7 @@
     "title": "Epic Games Store《John Carpenter's Toxic Commando》購買特典",
     "summary": "在 Epic Games Store 購買《John Carpenter's Toxic Commando》可獲得《Fortnite》的「華特·艾恩斯」服裝作為購買特典。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -253,7 +269,7 @@
     "title": "Steam 卡普空限時特賣《惡靈古堡9》新史低",
     "summary": "卡普空（Capcom）於 Steam 平台開啟限時特賣，旗下多款大作包含《惡靈古堡9》創下歷史新低價。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -261,7 +277,7 @@
     "title": "Steam 試玩版：《一落春 The First Spring》",
     "summary": "台灣獨立 BL 視覺小說《一落春 The First Spring》於 9 月 9 日在 Steam 上線免費 Demo，收錄第一章及第二章前半段。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -269,7 +285,7 @@
     "title": "Steam 免費遊戲序號領取：《Worm In Village》",
     "summary": "Steam 平台於 2026 年 9 月 9 日提供《Worm In Village》免費遊戲序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -277,7 +293,7 @@
     "title": "Chile Game Showcase 遊戲展示會",
     "summary": "Chile Game Showcase 於 Steam 舉行，展示智利獨立遊戲開發成果，活動內容包含開發者直播與可玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -285,7 +301,7 @@
     "title": "Steam 免費序號領取",
     "summary": "遊戲《Worm In Village》提供免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -293,7 +309,7 @@
     "title": "Chile Game Showcase 線上活動",
     "summary": "Chile Game Showcase 是一個慶祝智利遊戲開發的活動，展示獨立遊戲並有開發者直播和試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -301,7 +317,7 @@
     "title": "E.CIGS (Chicago Indie Game Showcase Online) 線上活動",
     "summary": "E.CIGS 舉辦芝加哥獨立遊戲展覽的線上版本，展示當地獨立遊戲社群的作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -309,7 +325,15 @@
     "title": "Hello GameDev Conference 2026 Games Showcase 線下活動",
     "summary": "Hello GameDev Conference 2026 舉辦遊戲展示活動，探索來自各展區和贊助商的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam 獨立遊戲 Demo",
+    "summary": "《朝露：境界旅程》這款類銀河惡魔城搭配回合制玩法的橫向平台跳躍遊戲，目前於 Steam 平台提供 Demo 免費試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -317,7 +341,7 @@
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -325,7 +349,7 @@
     "title": "目前無重大負面與爭議事件報告",
     "summary": "在 2026/09/01 至 2026/09/08 期間，透過 Google Search 搜尋台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件，目前沒有發現具體且廣泛報導的事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -333,7 +357,7 @@
     "title": "Epic Games Store 持續提供每週免費遊戲",
     "summary": "Epic Games Store 持續提供玩家每週免費遊戲，鼓勵玩家定期造訪以享受獨家優惠，並確認是否仍在活動期間內。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -341,7 +365,7 @@
     "title": "動作角色扮演遊戲《蒼穹戰記》釋出免費Demo",
     "summary": "動作角色扮演遊戲《蒼穹戰記》已釋出免費Demo，讓玩家能搶先體驗遊戲內容。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -349,7 +373,7 @@
     "title": "Steam《星際爭霸戰》60 週年特賣",
     "summary": "《Star Trek - 60th Anniversary Franchise Sale》於 Steam 平台開始特價活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -357,7 +381,7 @@
     "title": "Steam 遊戲特價：《星際爭霸戰》60 週年系列",
     "summary": "Steam 平台於 9 月 8 日啟動《星際爭霸戰》60 週年系列遊戲特價活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -365,7 +389,7 @@
     "title": "獨立遊戲《MONOPHOBIA》東京電玩展 Demo",
     "summary": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》宣布將參展 2026 年東京電玩展，並提供最新試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -373,40 +397,7 @@
     "title": "Epic Games 限時免費遊戲領取",
     "summary": "根據報導，Epic Games Store 在 2026 年 9 月 10 日結束了 8 月份的免費遊戲限時領取活動，並預計在每週四更新免費遊戲內容。使用者可透過 Epic Games 平台領取限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/08",
-    "title": "音樂製作人MOTOHARU因「缺乏考慮的發言」遭炎上",
-    "summary": "曾讓VTuber「みけねこ」登上演出的音樂製作人MOTOHARU，因對VTuber發表不當言論而引發公關危機。事件被網友認為不只是失言，更牽涉到報酬未付、權力霸凌與恐嚇等結構性問題。MOTOHARU本人雖已道歉表示會改善用詞，但網路上出現大量批評聲浪，質疑這並非單純道歉就能解決的問題，並呼籲其退出VTuber圈。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/08",
-    "title": "日V花凪まな承認抹黑觀眾並洩漏個資後宣布畢業",
-    "summary": "日本VTuber花凪まな突然宣布結束活動，原因竟是本人發出道歉文，承認她散佈假消息、將觀眾等相關人士抹黑成跟蹤狂、強O犯等犯罪者，並外流私人資訊。她坦承將事實與編造的內容混淆，告知業務對象、合作夥伴及其他觀眾。網友認為這已超出一般炎上等級，且道歉文語氣不像反省，更像是「全部被抓到了」的無奈陳述。許多人諷刺VTuber界換個皮就能重來的現象。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
-    "days_left": 4
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/08",
-    "title": "音樂製作人 MOTOHARU 遭指控報酬不付與權力霸凌",
-    "summary": "曾與知名 VTuber 合作的音樂製作人 MOTOHARU，因對 VTuber 發表「缺乏考慮的言論」而引發炎上。網友進一步挖出其過往黑歷史，主要指控內容包含報酬不付、權力霸凌與恐嚇等結構性問題。MOTOHARU 本人已道歉並表示會改善用詞，但輿論認為這並非單純失言，而是更深層次的金錢與權力糾紛，網路評論多數要求其退出 VTuber 圈。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/14",
-    "title": "未來人預言關於 8/14 的格鬥技事件",
-    "summary": "根據「バンダナ刑事の柔術24時」部落格的報導，一位「バンダナ刑事」的未來預言，提到了「8/14 的格鬥技的男」。內容提及 K-1 WORLD MAX 2026 -70kg 世界最強決定淘汰賽開幕戰的組合已公布，日本代表松本和樹將與柬埔寨的 Kun Khmer 選手 Lon Panha 對決。預言在 8 月 13 日公布，比賽則在 9 月 12 日舉行。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/09/12",
-    "expiry_date": "2026/09/13"
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
