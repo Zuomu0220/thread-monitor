@@ -233,6 +233,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Arc System Works Asia 秋季特別促銷活動",
+    "summary": "亞克系統亞洲於 PlayStation Store、Nintendo Shop 及 Steam 平台推出「2026 秋季特別促銷活動」，折扣最高可達 88%，活動將持續至 9 月 23 日。促銷遊戲包含《小歌與林中的妖怪之家》、《彩京精選Vol.1》、《彩京精選Vol.2》及《雷納提斯》等多款作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
     "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
@@ -345,6 +353,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam Chile Game Showcase 智利遊戲展",
+    "summary": "Steam 於 9 月 9 日舉辦「Chile Game Showcase」，此活動旨在慶祝智利遊戲開發，玩家可探索獨特的獨立遊戲、觀看開發者直播並試玩新的遊戲 Demo。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam 免費序號領取：Worm In Village",
+    "summary": "Steam 平台提供《Worm In Village》免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/08",
     "title": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》確定參展 2026 年東京電玩展",
     "summary": "松竹遊戲宣布將發行獨立遊戲開發團隊 Dendrobium 打造的 2.5D 都市傳說冒險遊戲《MONOPHOBIA》，並將在 2026 年 9 月 17 日至 21 日的東京電玩展上提供試玩 Demo，未來也將實裝角色配音。",
@@ -372,30 +396,6 @@
     "date": "2026/09/08",
     "title": "動作角色扮演遊戲《蒼穹戰記》釋出免費Demo",
     "summary": "動作角色扮演遊戲《蒼穹戰記》已釋出免費Demo，讓玩家能搶先體驗遊戲內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/08",
-    "title": "Steam《星際爭霸戰》60 週年特賣",
-    "summary": "《Star Trek - 60th Anniversary Franchise Sale》於 Steam 平台開始特價活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/08",
-    "title": "Steam 遊戲特價：《星際爭霸戰》60 週年系列",
-    "summary": "Steam 平台於 9 月 8 日啟動《星際爭霸戰》60 週年系列遊戲特價活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/08",
-    "title": "獨立遊戲《MONOPHOBIA》東京電玩展 Demo",
-    "summary": "2.5D 都市傳說冒險遊戲《MONOPHOBIA》宣布將參展 2026 年東京電玩展，並提供最新試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
