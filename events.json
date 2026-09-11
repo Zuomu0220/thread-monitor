@@ -89,6 +89,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Epic Games Store 將推出限時免費遊戲：《Mindcop》與《Shogun Showdown》",
+    "summary": "Epic Games Store 宣布將於 2026 年 9 月 17 日起提供兩款遊戲《Mindcop》和《Shogun Showdown》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
     "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
@@ -140,6 +148,14 @@
     "date": "2026/09/09",
     "title": "Steam 試玩版：《一落春 The First Spring》",
     "summary": "台灣獨立 BL 視覺小說《一落春 The First Spring》於 9 月 9 日在 Steam 上線免費 Demo，收錄第一章及第二章前半段。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/09",
+    "title": "Steam 免費遊戲序號領取：《Worm In Village》",
+    "summary": "Steam 平台於 2026 年 9 月 9 日提供《Worm In Village》免費遊戲序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -221,6 +237,14 @@
     "title": "日V花凪まな承認抹黑觀眾並洩漏個資後宣布畢業",
     "summary": "日本VTuber花凪まな突然宣布結束活動，原因竟是本人發出道歉文，承認她散佈假消息、將觀眾等相關人士抹黑成跟蹤狂、強O犯等犯罪者，並外流私人資訊。她坦承將事實與編造的內容混淆，告知業務對象、合作夥伴及其他觀眾。網友認為這已超出一般炎上等級，且道歉文語氣不像反省，更像是「全部被抓到了」的無奈陳述。許多人諷刺VTuber界換個皮就能重來的現象。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/09/08",
+    "title": "音樂製作人 MOTOHARU 遭指控報酬不付與權力霸凌",
+    "summary": "曾與知名 VTuber 合作的音樂製作人 MOTOHARU，因對 VTuber 發表「缺乏考慮的言論」而引發炎上。網友進一步挖出其過往黑歷史，主要指控內容包含報酬不付、權力霸凌與恐嚇等結構性問題。MOTOHARU 本人已道歉並表示會改善用詞，但輿論認為這並非單純失言，而是更深層次的金錢與權力糾紛，網路評論多數要求其退出 VTuber 圈。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 4
   },
   {
@@ -372,30 +396,6 @@
     "date": "2026/09/06",
     "title": "Humble Narrative Masterpieces Bundle",
     "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，內含 10 款遊戲，售價 13.65 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/06",
-    "title": "Humble Narrative Masterpieces Bundle 上線",
-    "summary": "Humble Bundle 推出「Narrative Masterpieces Bundle」，包含 10 款遊戲，售價 13.65 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/06",
-    "title": "Steam 新增 Humble Narrative Masterpieces Bundle",
-    "summary": "Steam 免費遊戲情報站於 2026 年 9 月 6 日提到 Humble Narrative Masterpieces Bundle，內含 10 款遊戲，售價 13.65 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/06",
-    "title": "Steam 限時免費領取《Stones Keeper: King Aurelius》",
-    "summary": "Steam 平台本週限時免費領取回合制策略RPG遊戲《Stones Keeper: King Aurelius》，此遊戲將於9月14日從Steam商店永久下架，玩家需在此日期前領取，下架後仍可繼續遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -2510,6 +2510,15 @@
     "date": "2026/04/08",
     "title": "來自 2058 年的國分玲預言 2026 年為日本及全球轉折點",
     "summary": "自稱來自 2058 年的國分玲曾表示 2026 年是日本及全球的重大轉折點。他還預言 2028 年將發生全球金融危機，導火線是美國國債違約，動搖美元全球結算體系，並預告將於 2026 年 9 月 26 日再次回歸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/01",
+    "title": "國分玲預言 2026 年將是日本及全球的重大轉折點，並將於 9 月 26 日重返此時空",
+    "summary": "來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點。他預告下一次能穩定穿越到此時空的節點是 2026 年 9 月 26 日。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -7203,6 +7212,15 @@
     "date": "2026/09/08",
     "title": "盲眼龍婆巴巴萬加預言2026年底前普欽將失去權力",
     "summary": "追隨者稱，盲眼龍婆預言俄羅斯總統普欽將在 2026 年底前失去權力，並由新領導人取代。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/01",
+    "title": "來自 2058 年的未來人國分玲警告：2026 年底將有全新傳染病肆虐全球",
+    "summary": "自稱來自 2058 年的日本未來人國分玲曾透過網路社群發布預言，警告 2026 年底將有全新的傳染病肆虐全球，導致全人類免疫力崩塌。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
