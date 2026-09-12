@@ -1,11 +1,19 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/09/13",
+    "title": "查無近期負面與爭議事件",
+    "summary": "在 2026 年 9 月 6 日至 9 月 13 日期間，未發現台灣/華語圈實況主、VTuber 或相關經紀公司有明確的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面或爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/09/12",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/09/05 至 2026/09/12 期間，未搜尋到台灣/華語區實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "STREAMER",
@@ -13,7 +21,7 @@
     "title": "無最新情報",
     "summary": "在 2026 年 9 月 5 日至 9 月 12 日期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "DIGIAGE 全球獨立遊戲峰會",
     "summary": "DIGIAGE 全球獨立遊戲峰會於 2026 年 9 月 11 日至 12 日在伊茲密爾舉行，此為免費活動，旨在連結遊戲工作室、發行商與投資者。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -29,7 +37,7 @@
     "title": "Epic Games Store 兩款遊戲限時免費",
     "summary": "《Luftrausers》和《Astral Ascent》現已可在 Epic Games Store 免費領取，活動將持續至 9 月 17 日。其中《Luftrausers》是一款像素風格的空戰遊戲，而《Astral Ascent》則是一款獲獎的 Roguelike 動作遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "Steam 2026 程式設計遊戲節",
     "summary": "Steam 平台「程式設計遊戲節」已於即日起開跑，將持續至北京時間 2026 年 9 月 15 日凌晨 1 點。玩家可以在此期間享受程式設計相關遊戲的特價優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -45,7 +53,7 @@
     "title": "Steam 5 款遊戲限時免費試玩",
     "summary": "Steam 平台於本週末推出 5 款遊戲的限時免費試玩，包括《Borderlands 4》、《Mordhau》、《Surviving Mars: Relaunched》、《F1 25 2026 Season Edition》以及《Crime Boss Rockay City》，免費遊玩時間至太平洋時間 9 月 14 日上午 10 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -53,7 +61,7 @@
     "title": "PLAYISM GAME SHOW: TGS 2026 Preview 線上發表會",
     "summary": "獨立遊戲發行商 PLAYISM 於 9 月 10 日舉辦線上發表會，公開即將於東京電玩展（TGS 2026）展出的 10 款遊戲最新資訊。其中包括《偶像經紀人：虛擬星途》和《鐵棘》等作品，並有 Steam 和 Nintendo eShop 的發行商特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -61,7 +69,7 @@
     "title": "Steam 新品上市",
     "summary": "多款遊戲於 2026 年 9 月 11 日在 Steam 平台上市，包含《Tentacle Locker 2》、《心象天儀本線~Per aspera ad astra~》、《深度求財：挖打撤》以及多款免費 Demo，例如《Zili Diary escape against witch Demo》、《Feastfall Demo》、《農場與盛宴試玩版/ Farm & Feast Demo》、《The Heir: Steampunk Escape Room Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -69,7 +77,7 @@
     "title": "Steam 限時免費試玩",
     "summary": "《F1 25》、《邊緣禁地4》、《火星求生：重製版》、《雷擊劍鬥》與《法外梟雄：滾石城》等五款遊戲於 Steam 平台開放週末限時免費試玩，活動將持續至 9 月 15 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -77,7 +85,7 @@
     "title": "Steam週末限時免費：《F1 25》、《邊緣禁地4》、《火星求生重製版》等5款遊戲",
     "summary": "Steam平台於9月11日啟動週末限時免費遊玩活動，共提供包含《F1 25》、《邊緣禁地4》及《火星求生重製版》在內的5款遊戲供玩家免費體驗，活動將持續至2026年9月15日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -85,7 +93,7 @@
     "title": "Steam 限時免費遊戲開放",
     "summary": "Steam 平台開放《F1 25》、《邊緣禁地4》、《火星求生：重製版》以及《雷擊劍鬥》等遊戲限時免費遊玩，活動至 9 月 15 日截止。此外，《F1 25：2026 賽季版》也推出三折特價至 9 月 18 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -93,7 +101,7 @@
     "title": "Epic Games Store 雙遊戲限時免費",
     "summary": "Epic Games Store 本週推出「喜加二」活動，玩家可限時免費領取《星界戰士》（Astral Ascent）與《天空奇兵》（Luftrausers），活動截止時間為 9 月 17 日晚間 11 點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -101,7 +109,7 @@
     "title": "巴哈姆特補助台灣獨立遊戲團隊參展 TGS 2026",
     "summary": "巴哈姆特持續補助台灣獨立遊戲開發團隊參與東京電玩展 2026，今年支持 9 組團隊，展示多元題材與玩法的遊戲作品。申請期限延長至 9 月 16 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -109,7 +117,47 @@
     "title": "Steam 免費序號領取：Felix Jumpman",
     "summary": "2026 年 9 月 11 日，Steam 平台開放免費領取遊戲序號《Felix Jumpman》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 限時免費暢玩《F1 25》等 5 款遊戲",
+    "summary": "Steam 平台推出週末限時免費暢玩活動，包含《F1 25》、《邊緣禁地4》、《火星求生重製版》、《雷擊劍鬥》以及《法外梟雄：滾石城》等 5 款遊戲，活動至 2026 年 9 月 15 日凌晨 01:00 截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 折扣區《文明VII DLC》低至 1.5 折",
+    "summary": "Steam 平台折扣區推出多款遊戲優惠，其中《文明VII DLC》特價 2 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "恐怖漫畫風格種田 RPG《歡迎來到古原鎮》Steam 上市",
+    "summary": "《歡迎來到古原鎮》於 Steam 平台正式問世，這是一款受到恐怖漫畫風格啟發的 RPG，充滿克蘇魯風格的怪異居民和敵人，玩家可體驗獨特的農場生活，並有免費 Demo 可供體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Epic Games Store 免費領取《星界戰士》與《天空奇兵》",
+    "summary": "Epic Games Store 本週開放限時免費領取《星界戰士（Astral Ascent）》和《天空奇兵（Luftrausers）》，領取截止時間為 2026 年 9 月 17 日 23:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Valve 與 Epic Games 為澳洲商店新增年齡驗證機制",
+    "summary": "因應澳洲未成年者網路內容限制政策，Valve 和 Epic Games 近日針對澳洲地區商店新增年齡驗證機制，Steam 目前僅限信用卡驗證，引發部分澳洲玩家不滿。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -117,7 +165,7 @@
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -125,7 +173,7 @@
     "title": "Epic Games Store 限時免費《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 本週起限時免費送出《Astral Ascent》及《Luftrausers》，活動時間至 9 月 17 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -133,7 +181,7 @@
     "title": "Steam 程式設計節",
     "summary": "Steam 平台將於 9 月 10 日至 9 月 14 日舉辦「程式設計節」，活動主要針對與程式設計或邏輯解謎相關的遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +189,7 @@
     "title": "Epic Games Store 免費遊戲預告：《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 宣布自 9 月 10 日至 9 月 17 日，將提供《Astral Ascent》和《Luftrausers》作為限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -149,7 +197,7 @@
     "title": "目前無重大負面或爭議事件",
     "summary": "在 2026 年 9 月 3 日至 9 月 10 日期間，Google 搜尋結果中未發現台灣/華語圈實況主或 VTuber 發生廣泛報導的重大負面或爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -157,7 +205,7 @@
     "title": "Epic Games Store 限時免費：《Luftrausers》",
     "summary": "Epic Games Store 於 9 月 10 日至 9 月 17 日期間，限時免費提供遊戲《Luftrausers》供玩家領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +213,7 @@
     "title": "Steam 白舟開學季特賣",
     "summary": "知名美少女遊戲發行商 Shiravune 自 9 月 10 日起至 9 月 24 日在 Steam 平台展開「開學季特賣」，多款遊戲最低二折起，包含首發折扣的《冬旅，方冥冥》及歷史新低價的《永不枯萎的世界與終焉之花》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -173,7 +221,7 @@
     "title": "本週無台灣/華語圈實況主負面與爭議事件",
     "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈實況主有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -181,7 +229,7 @@
     "title": "本週無台灣/華語圈 VTuber 負面與爭議事件",
     "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈 VTuber 有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -189,7 +237,7 @@
     "title": "Epic Games Store 下週免費遊戲：《Luftrausers》與《Astral Ascent》",
     "summary": "自 2026 年 9 月 10 日起，Epic Games Store 將提供 2D 街機射擊遊戲《Luftrausers》和 roguelite 平台遊戲《Astral Ascent》限時免費領取，持續至 9 月 17 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -197,7 +245,7 @@
     "title": "Epic Games Store 將推出限時免費遊戲：《Mindcop》與《Shogun Showdown》",
     "summary": "Epic Games Store 宣布將於 2026 年 9 月 17 日起提供兩款遊戲《Mindcop》和《Shogun Showdown》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -205,7 +253,7 @@
     "title": "Epic Games Store《與你獨處》限時免費結束",
     "summary": "科幻冒險探索遊戲《與你獨處 (Alone With You)》的限時免費領取活動已於 2026 年 9 月 10 日晚間 11 點截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -213,7 +261,7 @@
     "title": "Orc Incremental 登陸 Steam",
     "summary": "結合放置成長、自動戰鬥、RPG 元素和卡牌構築的獨立遊戲《Orc Incremental》於 9 月 8 日正式登陸 Steam 平台，並提供 15% 的首發折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -221,7 +269,7 @@
     "title": "Steam PLAYISM 發行商特賣",
     "summary": "為慶祝 PLAYISM GAME SHOW: TGS 2026 Preview，PLAYISM 發行商特賣已於 Steam 平台展開，多款遊戲限時優惠，最高享 2 折優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -229,7 +277,7 @@
     "title": "Steam 505 Games 20 週年特賣",
     "summary": "為慶祝成立 20 週年，505 Games 在 Steam 舉行特賣活動，提供多款遊戲的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -237,7 +285,7 @@
     "title": "Steam Sniper Elite 系列特賣",
     "summary": "《狙擊精英》系列遊戲在 Steam 平台進行特賣活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -245,7 +293,7 @@
     "title": "Steam Access Granted 慈善特賣",
     "summary": "作為 One Special Day 2026 活動的一部分，Steam 舉行 Access Granted 特賣，提供遊戲折扣同時支持慈善事業。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -253,7 +301,7 @@
     "title": "Steam Blizzard 發行商特賣",
     "summary": "暴雪娛樂（Blizzard）在 Steam 進行發行商特賣，提供《暗黑破壞神》和《鬥陣特攻》系列遊戲的優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -261,7 +309,7 @@
     "title": "Epic Games Store 限時免費：《Mindcop》與《Shogun Showdown》",
     "summary": "Epic Games Store 於本週（9月10日起）推出兩款限時免費遊戲：《Mindcop》與《Shogun Showdown》，玩家可在 9月17日前免費領取。這兩款遊戲均為 2024 年發行的好評作品，《Mindcop》是一款融合解謎與三消元素的偵探遊戲，而《Shogun Showdown》則以其獨特的戰鬥機制受到玩家喜愛。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -269,7 +317,7 @@
     "title": "Steam Demo釋出",
     "summary": "《Outcast Tales Demo》已於 Steam 平台釋出免費試玩版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -277,7 +325,7 @@
     "title": "Arc System Works Asia 秋季特別促銷活動",
     "summary": "亞克系統亞洲於 PlayStation Store、Nintendo Shop 及 Steam 平台推出「2026 秋季特別促銷活動」，折扣最高可達 88%，活動將持續至 9 月 23 日。促銷遊戲包含《小歌與林中的妖怪之家》、《彩京精選Vol.1》、《彩京精選Vol.2》及《雷納提斯》等多款作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -285,7 +333,7 @@
     "title": "Epic Games Store限時免費領取：《星界戰士》與《天空奇兵》",
     "summary": "Epic Games Store宣布自9月10日起至9月17日，玩家可限時免費領取好評Roguelite動作遊戲《星界戰士（Astral Ascent）》以及街機空戰射擊遊戲《天空奇兵（Luftrausers）》，領取後可永久保存至個人收藏庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -293,7 +341,7 @@
     "title": "Steam限免遊戲下架倒數：《Witchcraft: Candy Hunt》",
     "summary": "Steam平台發布公告，獨立像素彈幕射擊遊戲《Witchcraft: Candy Hunt》即將從商店下架，開發者鼓勵玩家於9月10日前把握機會免費領取並永久收藏。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -301,7 +349,7 @@
     "title": "PLAYISM GAME SHOW: TGS 2026 Preview 公布東京電玩展參展陣容",
     "summary": "獨立遊戲發行商PLAYISM於9月10日舉辦線上發表會「PLAYISM GAME SHOW: TGS 2026 Preview」，搶先公布了將於2026年東京電玩展（TGS 2026，9月17日至21日舉行）展出的10款最新獨立遊戲作品資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -309,7 +357,7 @@
     "title": "Epic Games Store《Alone With You》限時免費",
     "summary": "星際求生解謎冒險遊戲《Alone With You》於 Epic Games 平台提供限時免費領取，截止時間為 9 月 17 日 23:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -317,7 +365,7 @@
     "title": "東京電玩展 2026 PLAYISM GAME SHOW 預覽",
     "summary": "獨立遊戲發行商 PLAYISM 於 9 月 10 日舉辦線上發表會，公開了包含《偶像經紀人：虛擬星途》、《鐵棘》、《午夜列車：新月》、《寂夜孤行》及《惡魔連結》等 10 款即將在東京電玩展 2026（9 月 17 日至 21 日）展出的遊戲最新資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -325,7 +373,7 @@
     "title": "《Necro Pop》於 TGS 2026 公開 Steam Demo",
     "summary": "獨立開發商 Naula Studio 於 TGS 2026 公開 16 位元動作平台新作《Necro Pop》，並將在東京電玩展提供試玩及 Steam 免費 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -333,7 +381,7 @@
     "title": "Steam 程式設計節與團隊制角色扮演節",
     "summary": "Steam 於 9 月 10 日至 14 日舉辦「程式設計節」，並將於 9 月 14 日至 21 日舉辦「團隊制角色扮演節」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -341,61 +389,13 @@
     "title": "Epic Games 免費領取《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 於 2026 年 9 月 10 日起提供動作肉鴿遊戲《Astral Ascent》與街機空戰射擊遊戲《Luftrausers》限時免費領取，兩款遊戲在 Steam 上均獲得好評。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
     "date": "2026/09/10",
     "title": "亞克系統亞洲 2026 秋季特別促銷活動",
     "summary": "亞克系統亞洲於 2026 年 9 月 10 日起在 PlayStation Store、Nintendo eShop 及 Steam 平台展開秋季特別促銷活動，多款遊戲最高可享 88% OFF 優惠，活動持續至 9 月 23 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
-    "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Epic Games Store 九月折扣活動",
-    "summary": "Epic Games Store 舉辦九月折扣活動，提供多項遊戲折扣、優惠及免費贈品，活動時間從 9 月 9 日至 9 月 23 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Epic Games Store《邊緣禁地 4》購買特典",
-    "summary": "即日起至 9 月 12 日，在 Epic Games Store 購買《邊緣禁地 4》可獲得《Fortnite》的「瘋狂莫西組合包」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Epic Games Store《文明帝國》35 週年紀念特賣",
-    "summary": "為慶祝《文明帝國》系列 35 週年，遊戲全系列推出大幅折扣，《文明帝國 VII》享 5 折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Epic Games Store《John Carpenter's Toxic Commando》購買特典",
-    "summary": "在 Epic Games Store 購買《John Carpenter's Toxic Commando》可獲得《Fortnite》的「華特·艾恩斯」服裝作為購買特典。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Steam 卡普空限時特賣《惡靈古堡9》新史低",
-    "summary": "卡普空（Capcom）於 Steam 平台開啟限時特賣，旗下多款大作包含《惡靈古堡9》創下歷史新低價。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -7227,6 +7227,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2058 年未來人國分玲預言：2026 年日本及全球重大轉折",
+    "summary": "自稱來自 2058 年的國分玲曾預言 2026 年是日本及全球的重大轉折點，日本 GDP 將被德國和印度超越，人口降至 8600 萬，汽車產業衰退，僅豐田和本田的電動車存續。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "5026 年未來人警告：2026 下半年將有更大戰",
+    "summary": "一位自稱來自 5026 年的未來人發出警告，預言 2026 年下半年將會發生更大的戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7803,6 +7821,51 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "匿名未來人預言：2025-2027 年間將出現極端天氣",
+    "summary": "多位自稱未來人或匿名論壇預言者指出，在 2025 年至 2027 年之間，全球將面臨前所未有的極端天氣事件，天氣模式將發生根本性改變。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "匿名未來人預言：約 2027 年空中計程車將普及",
+    "summary": "有預言指出，大約在 2027 年，電動垂直起降飛行器（eVTOLs），即空中計程車，將開始在城市中出現並投入使用。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "匿名未來人預言：腦機介面將公開化，實現意念控制",
+    "summary": "預言提到，在本十年內（約 2027 年左右），腦機介面技術將公開化，使人們能夠僅憑意念控制機器設備，無需鍵盤、螢幕或語音指令。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "匿名未來人預言：AI 深度偽造影片將真假難辨",
+    "summary": "預言指出，未來人工智慧生成的深度偽造（deepfake）影片將達到與真實影像難以區分的程度，導致真相變得模糊不清。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "匿名未來人預言：無現金社會與人形機器人普及",
+    "summary": "預言提及，未來將逐步走向無現金社會，同時人形機器人也將變得普遍。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/19",
     "title": "2058 年未來人國分玲預言 2028 年金融危機",
     "summary": "來自 2058 年的未來人國分玲預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，美元的全球結算體系將出現根本性動搖。她也曾表示將於 2026 年 9 月 26 日再次現身。",
@@ -8121,6 +8184,15 @@
     "date": "2026/07/27",
     "title": "來自 2045 年的時空旅行者 Adam Archon 預言 2028 年外星人將降臨",
     "summary": "自稱來自 2045 年的 Adam Archon 預言，外星人將於 2028 年 8 月降臨地球，屆時外星人存在的真相將公諸於世，同時時間旅行技術也將對大眾公開。他還提到，美國民權領袖馬丁·路德·金的孫女 Yolanda Renee King 將在 2030 年當選美國總統，且是美國最後一任總統，因為到 2030 年美國將併入一個由 2033 年啟動的 AI「The Light」統治的全球統一政府。此外，「The One」微晶片將於 2029 年 2 月開始植入人體右手中。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/08/31",
+    "expiry_date": "2028/09/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2045 年時間旅行者 Adam Archon 預言：2028 年外星人公開現身",
+    "summary": "自稱來自 2045 年的時間旅行者 Adam Archon 預言，在 2028 年 8 月，外星人將公開現身地球，但他們並不來自太空。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/08/31",
     "expiry_date": "2028/09/01"
@@ -8622,6 +8694,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2045 年時間旅行者 Adam Archon 預言：2030 年美國不再獨立，由 AI 治理",
+    "summary": "Adam Archon 預言，美國將在 2030 年之前不再是獨立國家，而是成為一個全球政府的一部分，該政府將被劃分為各大洲的區域，並最終由名為「The Light」的人工智慧所治理。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2030/12/31",
+    "expiry_date": "2031/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/16",
     "title": "Threads 未來人「jjjkf.j」預言：2031 年《遊戲人生》將有第二季",
     "summary": "Threads 爆紅的未來人「jjjkf.j」（自稱來自 2245 年）預言，動畫《遊戲人生》將在 2031 年推出第二季。",
@@ -8733,6 +8814,15 @@
     "date": "2026/06/12",
     "title": "2026-2035年全球疫情與中國變革預言",
     "summary": "一份據稱是未來人國分玲的神秘草稿預言，2026年至2035年間全球疫情將捲土重來，中國可能改名為「華國」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2035/12/31",
+    "expiry_date": "2036/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2058 年未來人國分玲預言：2030 年代中期新型傳染病 COVID-32 將出現",
+    "summary": "國分玲預言在 2030 年代中期，將確認以豬為中間宿主的 SARS-CoV-3（COVID-32）新型傳染病，但相較於 COVID-19，將會得到即時處理。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2035/12/31",
     "expiry_date": "2036/01/01"
@@ -8865,6 +8955,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2058 年未來人國分玲預言：2037 年沖繩將遭遇大地震與颱風",
+    "summary": "來自 2058 年的國分玲預言，2037 年 1 月沖繩地區將發生「直下型地震」，同年 8 月除了餘震，更將同時受到颱風侵襲，導致嚴重災情。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/08/31",
+    "expiry_date": "2037/09/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2038 年外星文明將被正式接觸",
     "summary": "來自 2058 年的國分玲預言，到了 2038 年，太陽系將不再是地球文明的孤島，外星文明會被人類正式接觸，並指出這些外星文明可能藏匿在木星或土星的衛星上。",
@@ -8901,12 +9000,30 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2058 年未來人國分玲預言：2038 年太陽系外星文明將正式接觸",
+    "summary": "國分玲表示，到 2038 年，太陽系將不再是地球文明的孤島，外星文明將被正式接觸，他們存在於木星或土星的衛星上，擁有遠超地球的科技水平。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2038/12/31",
+    "expiry_date": "2039/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/02/10",
     "title": "國分玲預言中國將於2039年崩潰",
     "summary": "來自2058年的未來人國分玲預言，中國將在2039年發生體制崩潰。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2039/01/01",
     "expiry_date": "2039/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2058 年未來人國分玲預言：台灣將成為新的國家，中國變為「華國」",
+    "summary": "國分玲預言歐洲的加泰羅尼亞、蘇格蘭以及亞洲的台灣將出現新的國家。她還預言中國在 2039 年 11 月政變後將被稱為「華國」，並長期處於多政府狀態，意識形態將從「共產黨領導的世界霸權」轉變為「中國企業的世界霸權」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2039/11/30",
+    "expiry_date": "2039/12/01"
   },
   {
     "category": "PROPHECY",
@@ -8955,6 +9072,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/11",
+    "title": "2198 年 TikTok 時間旅行者預言：海洋深處發現神話生物",
+    "summary": "一位自稱來自 2198 年的 TikTok 時間旅行者預言，2044 年人類將發現更深層的海洋，2047 年一種曾被認為是兒童神話的生物將成為現實，並在 2054 年被發現多個標本後遭人類消滅。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2044/12/31",
+    "expiry_date": "2045/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/01/15",
     "title": "Adam Laccone 預言：2045年人類與電腦全面融合，心智上傳實現永生",
     "summary": "自稱來自 2045 年的時空旅人亞當·拉康預言，到 2045 年人類與電腦的融合將全面發生，人們可以將自己的心智完全上傳到機器人或模擬世界中，並在那裡永遠生活。",
@@ -8967,6 +9093,15 @@
     "date": "2026/07/27",
     "title": "自稱來自2045年的亞當·阿爾瓊預言2045年將出現真實版「侏羅紀公園」",
     "summary": "亞當·阿爾瓊聲稱，到 2045 年，科學進步將使恐龍複製成為可能，並創造一個向公眾開放的真實版「侏羅紀公園」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2045/12/31",
+    "expiry_date": "2046/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2045 年時間旅行者 Adam Archon 預言：2045 年科學家複製恐龍",
+    "summary": "Adam Archon 預言，到 2045 年科學家將能夠成功複製恐龍，並創建主題公園，遊客可以在其中觀察史前生物。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2045/12/31",
     "expiry_date": "2046/01/01"
@@ -8988,6 +9123,24 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2048/01/01",
     "expiry_date": "2048/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2060 年未來人 KFK 預言：2048 年前無全球性戰爭，但局部戰爭不斷",
+    "summary": "自稱來自 2060 年的 KFK 曾預言，在 2048 年以前不會發生全球性大規模戰爭，但局部地區的衝突與戰爭將持續不斷。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2048/12/31",
+    "expiry_date": "2049/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2060 年未來人 KFK 預言：2049 年時間存在的意義被解決",
+    "summary": "KFK 預言，到 2049 年，「觀察者問題」將被解決，同時時間存在的意義也將被釐清。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2049/12/31",
+    "expiry_date": "2050/01/01"
   },
   {
     "category": "PROPHECY",
@@ -9105,6 +9258,24 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2058/12/31",
     "expiry_date": "2059/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2060 年未來人 KFK 預言：2060 年房屋不再是貴重物質",
+    "summary": "KFK 預言，在 2060 年，房屋將不再被視為貴重物質。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2060/12/31",
+    "expiry_date": "2061/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/12",
+    "title": "2060 年未來人 KFK 預言：2060 年人類更注重內在探索與宇宙關係",
+    "summary": "KFK 預言，到 2060 年，人們將變得充滿敬畏，更加注重對內在的探索以及人與宇宙的關係，物質的價值將會被輕視。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2060/12/31",
+    "expiry_date": "2061/01/01"
   },
   {
     "category": "PROPHECY",
