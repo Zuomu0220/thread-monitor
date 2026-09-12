@@ -169,6 +169,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 獨立遊戲《AGameAboutBeingAParrot》Demo 釋出",
+    "summary": "《每日遊戲新聞GameNewsDaily》報導 Steam 平台釋出了獨立遊戲《AGameAboutBeingAParrot》（鸚鵡）的試玩版，其中包含多樣隱藏道具與秘密要素，等待玩家探索。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -388,14 +396,6 @@
     "date": "2026/09/10",
     "title": "Steam 程式設計節與團隊制角色扮演節",
     "summary": "Steam 於 9 月 10 日至 14 日舉辦「程式設計節」，並將於 9 月 14 日至 21 日舉辦「團隊制角色扮演節」。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games 免費領取《Astral Ascent》與《Luftrausers》",
-    "summary": "Epic Games Store 於 2026 年 9 月 10 日起提供動作肉鴿遊戲《Astral Ascent》與街機空戰射擊遊戲《Luftrausers》限時免費領取，兩款遊戲在 Steam 上均獲得好評。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -7590,6 +7590,15 @@
     "date": "2026/08/17",
     "title": "2058未來人國分玲預言：俄烏戰爭將於2027年3月17日簽署停戰協議",
     "summary": "2058年的未來人國分玲預言，俄羅斯與烏克蘭的衝突將於2027年3月17日簽署停戰協議。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/17",
+    "expiry_date": "2027/03/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "來自2058年的未來人國分玲預言：俄烏簽署停戰協議",
+    "summary": "國分玲預言俄羅斯與烏克蘭將於 2027 年 3 月 17 日簽署停戰協議。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/03/17",
     "expiry_date": "2027/03/18"
