@@ -105,6 +105,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 免費序號領取：Felix Jumpman",
+    "summary": "2026 年 9 月 11 日，Steam 平台開放免費領取遊戲序號《Felix Jumpman》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -329,6 +337,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/10",
+    "title": "Epic Games 免費領取《Astral Ascent》與《Luftrausers》",
+    "summary": "Epic Games Store 於 2026 年 9 月 10 日起提供動作肉鴿遊戲《Astral Ascent》與街機空戰射擊遊戲《Luftrausers》限時免費領取，兩款遊戲在 Steam 上均獲得好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/10",
+    "title": "亞克系統亞洲 2026 秋季特別促銷活動",
+    "summary": "亞克系統亞洲於 2026 年 9 月 10 日起在 PlayStation Store、Nintendo eShop 及 Steam 平台展開秋季特別促銷活動，多款遊戲最高可享 88% OFF 優惠，活動持續至 9 月 23 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/09",
     "title": "Steam China Showcase 2026 獨立遊戲Demo現正試玩",
     "summary": "Steam China Showcase 2026活動已上線，推出多款免費獨立遊戲Demo試玩版，提供玩家探索各式新穎遊戲體驗。",
@@ -372,30 +396,6 @@
     "date": "2026/09/09",
     "title": "Steam 卡普空限時特賣《惡靈古堡9》新史低",
     "summary": "卡普空（Capcom）於 Steam 平台開啟限時特賣，旗下多款大作包含《惡靈古堡9》創下歷史新低價。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Steam 試玩版：《一落春 The First Spring》",
-    "summary": "台灣獨立 BL 視覺小說《一落春 The First Spring》於 9 月 9 日在 Steam 上線免費 Demo，收錄第一章及第二章前半段。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Steam 免費遊戲序號領取：《Worm In Village》",
-    "summary": "Steam 平台於 2026 年 9 月 9 日提供《Worm In Village》免費遊戲序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/09",
-    "title": "Chile Game Showcase 遊戲展示會",
-    "summary": "Chile Game Showcase 於 Steam 舉行，展示智利獨立遊戲開發成果，活動內容包含開發者直播與可玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
