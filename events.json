@@ -161,6 +161,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 免費遊戲序號領取：Felix Jumpman",
+    "summary": "遊戲《Felix Jumpman》可在 Steam 免費領取序號。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -388,14 +396,6 @@
     "date": "2026/09/10",
     "title": "Epic Games 免費領取《Astral Ascent》與《Luftrausers》",
     "summary": "Epic Games Store 於 2026 年 9 月 10 日起提供動作肉鴿遊戲《Astral Ascent》與街機空戰射擊遊戲《Luftrausers》限時免費領取，兩款遊戲在 Steam 上均獲得好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "亞克系統亞洲 2026 秋季特別促銷活動",
-    "summary": "亞克系統亞洲於 2026 年 9 月 10 日起在 PlayStation Store、Nintendo eShop 及 Steam 平台展開秋季特別促銷活動，多款遊戲最高可享 88% OFF 優惠，活動持續至 9 月 23 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -2510,6 +2510,15 @@
     "date": "2026/06/01",
     "title": "國分玲預言 2026 年將是日本及全球的重大轉折點，並將於 9 月 26 日重返此時空",
     "summary": "來自 2058 年的未來人國分玲表示，2026 年是日本及全球的重大轉折點。他預告下一次能穩定穿越到此時空的節點是 2026 年 9 月 26 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/19",
+    "title": "2058未來人國分玲預告回歸",
+    "summary": "自稱來自 2058 年的日本「未來人」國分玲，因其準確的預言而受到關注。她曾預告將於 2026 年 9 月 26 日回歸，以回答眾人對未來的疑問。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
