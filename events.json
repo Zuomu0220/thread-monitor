@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/09/13",
+    "title": "無相關事件",
+    "summary": "在 2026 年 9 月 6 日至 9 月 13 日期間，未發現台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/09/12",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/09/05 至 2026/09/12 期間，未搜尋到台灣/華語區實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
@@ -172,6 +180,14 @@
     "date": "2026/09/11",
     "title": "Steam 獨立遊戲《AGameAboutBeingAParrot》Demo 釋出",
     "summary": "《每日遊戲新聞GameNewsDaily》報導 Steam 平台釋出了獨立遊戲《AGameAboutBeingAParrot》（鸚鵡）的試玩版，其中包含多樣隱藏道具與秘密要素，等待玩家探索。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 限時免費試玩《F1 25》、《邊緣禁地4》等五款遊戲",
+    "summary": "Steam 平台於本週推出限時免費週末試玩活動，玩家可在太平洋時間 9 月 14 日上午 10 點前，免費體驗《F1 25》、《邊緣禁地4》、《火星求生：重製版》、《雷擊劍鬥》及《法外梟雄：滾石城》等五款遊戲的完整內容。若之後購買，還可享專屬折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/09/10",
     "title": "東京電玩展 2026 PLAYISM GAME SHOW 預覽",
     "summary": "獨立遊戲發行商 PLAYISM 於 9 月 10 日舉辦線上發表會，公開了包含《偶像經紀人：虛擬星途》、《鐵棘》、《午夜列車：新月》、《寂夜孤行》及《惡魔連結》等 10 款即將在東京電玩展 2026（9 月 17 日至 21 日）展出的遊戲最新資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "《Necro Pop》於 TGS 2026 公開 Steam Demo",
-    "summary": "獨立開發商 Naula Studio 於 TGS 2026 公開 16 位元動作平台新作《Necro Pop》，並將在東京電玩展提供試玩及 Steam 免費 Demo。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Steam 程式設計節與團隊制角色扮演節",
-    "summary": "Steam 於 9 月 10 日至 14 日舉辦「程式設計節」，並將於 9 月 14 日至 21 日舉辦「團隊制角色扮演節」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -7248,6 +7248,15 @@
     "date": "2026/09/12",
     "title": "5026 年未來人警告：2026 下半年將有更大戰",
     "summary": "一位自稱來自 5026 年的未來人發出警告，預言 2026 年下半年將會發生更大的戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/26",
+    "title": "4chan 匿名預言者預測比特幣與以太坊在2026年末達天價",
+    "summary": "據稱是來自 2019 年的 4chan 匿名比特幣預言者，在 2025 年 11 月發布（於 2026 年 2 月重新浮出水面）的預測指出，比特幣將在 2026 年底達到 100 萬美元，以太坊將達到 10 萬美元。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
