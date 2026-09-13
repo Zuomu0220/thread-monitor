@@ -305,6 +305,30 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 限時免費",
+    "summary": "Steam 平台正在進行為期五款遊戲的限時免費週末活動，包含中世紀奇幻遊戲《Mordhau》以及開放世界射擊遊戲《Borderlands 4》等，活動將持續至 9 月 14 日。玩家可在活動期間免費遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games Store 目前正提供《Luftrausers》和《Astral Ascent》兩款遊戲限時免費領取，活動將持續至 9 月 17 日。這些遊戲在 Steam 平台上均獲得高度評價。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Epic Games 免費遊戲預告",
+    "summary": "Epic Games Store 宣布將於 9 月 17 日提供《Mindcop》和《Shogun Showdown》作為新的免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -373,30 +397,6 @@
     "title": "本週無台灣/華語圈 VTuber 負面與爭議事件",
     "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈 VTuber 有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store 下週免費遊戲：《Luftrausers》與《Astral Ascent》",
-    "summary": "自 2026 年 9 月 10 日起，Epic Games Store 將提供 2D 街機射擊遊戲《Luftrausers》和 roguelite 平台遊戲《Astral Ascent》限時免費領取，持續至 9 月 17 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store 將推出限時免費遊戲：《Mindcop》與《Shogun Showdown》",
-    "summary": "Epic Games Store 宣布將於 2026 年 9 月 17 日起提供兩款遊戲《Mindcop》和《Shogun Showdown》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store《與你獨處》限時免費結束",
-    "summary": "科幻冒險探索遊戲《與你獨處 (Alone With You)》的限時免費領取活動已於 2026 年 9 月 10 日晚間 11 點截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -5853,15 +5853,6 @@
     "date": "2026/05/24",
     "title": "未來人國分玲預言：2026年底全新傳染病肆虐全球",
     "summary": "來自 2058 年的未來人國分玲，發出最新預言警告，預計在 2026 年底將有全新傳染病肆虐全球，且俄烏戰爭的停火時間也已確定。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/10",
-    "title": "盲眼龍婆 2026 年預言更新",
-    "summary": "已故的「盲眼龍婆」巴巴萬加針對 2026 年的預言再度引起熱議。據追隨者稱，其「全球重大天災」與「AI 取代人類工作」兩項預言已被認定應驗。而尚有三項預言未實現，包括「巨型外星太空船抵達地球」、「第三次世界大戰爆發」以及「俄羅斯領導人於 2026 年底前出現重大更替」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
