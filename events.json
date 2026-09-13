@@ -57,6 +57,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/12",
+    "title": "Steam VR 每周新內容",
+    "summary": "映維網匯總 2026 年 9 月 13 日當周 Steam VR 新內容，涵蓋射擊、解謎、節奏動作等類型，重點作品包括動作電影風格射擊遊戲《Gunman Contracts - Stand Alone》、犯罪調查解謎遊戲《Detective VR》、以北歐神話為背景的《Tales Of Glory 4: Ragnarok》、節奏 Roguelite 滑雪遊戲《Fresh Tracks VR》，以及免費遊玩的《Squingle Arcade》和虛擬現實主題公園《Dark Ride》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/12",
+    "title": "《東京彈珠物語》及《黑暗骨牢》發售",
+    "summary": "遊戲《東京彈珠物語》預計於 2026 年 9 月 17 日發行，並已釋出 Demo 供玩家體驗。另一款冒險遊戲《黑暗骨牢》則於 2026 年 9 月 8 日發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/11",
     "title": "DIGIAGE 全球獨立遊戲峰會",
     "summary": "DIGIAGE 全球獨立遊戲峰會於 2026 年 9 月 11 日至 12 日在伊茲密爾舉行，此為免費活動，旨在連結遊戲工作室、發行商與投資者。",
@@ -380,22 +396,6 @@
     "date": "2026/09/10",
     "title": "Steam Blizzard 發行商特賣",
     "summary": "暴雪娛樂（Blizzard）在 Steam 進行發行商特賣，提供《暗黑破壞神》和《鬥陣特攻》系列遊戲的優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store 限時免費：《Mindcop》與《Shogun Showdown》",
-    "summary": "Epic Games Store 於本週（9月10日起）推出兩款限時免費遊戲：《Mindcop》與《Shogun Showdown》，玩家可在 9月17日前免費領取。這兩款遊戲均為 2024 年發行的好評作品，《Mindcop》是一款融合解謎與三消元素的偵探遊戲，而《Shogun Showdown》則以其獨特的戰鬥機制受到玩家喜愛。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Steam Demo釋出",
-    "summary": "《Outcast Tales Demo》已於 Steam 平台釋出免費試玩版。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -3325,6 +3325,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預言 2026 年世界末日",
+    "summary": "已故物理學家馮．佛斯特曾在 1960 年預言，世界將在 2026 年 11 月 13 日因「無限」人口過剩而終結，人類將「被擠壓致死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/19",
     "title": "印度神童阿南德 2026 年預言",
     "summary": "印度神童阿南德預測 2026 年有三個高危時間點，其中四月下旬和七月下旬的地震及極端天氣事件（如日本 7.7 級地震、墨西哥 7.3 級地震、日本熊本 7.1 級地震及西安暴雨冰雹）已被追隨者認為應驗。目前，第三個關鍵期「11 月中旬左右」仍需留意，可能迎來重大轉折。",
@@ -3462,6 +3471,15 @@
     "date": "2026/09/08",
     "title": "盲眼龍婆巴巴萬加 2026-2027 年預言更新",
     "summary": "保加利亞預言家「盲眼龍婆」巴巴萬加的 2026 年五大預言中，信徒稱已有兩項應驗，包括「頻繁的天災」和「機器大規模取代人類工作」。她對 2026 年其餘三項預言包括：「人類將在巨大太空船進入地球大氣層後與外星生命接觸（可能在 11 月）」、「第三次世界大戰爆發（中國攻台、俄美衝突升溫）」、「俄羅斯總統普丁失權並由新領導人取代」。針對 2027 年，她則預言可能因神秘疾病或基因實驗，導致部分人類出現「超人類」特徵。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/30",
+    "expiry_date": "2026/12/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/01",
+    "title": "盲眼龍婆 2026 年預言",
+    "summary": "已故預言家盲眼龍婆巴巴萬加的 2026 年預言再掀熱議，其中包括外星太空船現身、第三次世界大戰，以及俄羅斯總統普丁失去政權。部分流傳版本更將外星接觸指向 2026 年 11 月。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/30",
     "expiry_date": "2026/12/01"
@@ -7266,6 +7284,78 @@
     "date": "2026/02/26",
     "title": "4chan 匿名預言者預測比特幣與以太坊在2026年末達天價",
     "summary": "據稱是來自 2019 年的 4chan 匿名比特幣預言者，在 2025 年 11 月發布（於 2026 年 2 月重新浮出水面）的預測指出，比特幣將在 2026 年底達到 100 萬美元，以太坊將達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan 匿名用戶預測比特幣 2026 年達 25 萬美元",
+    "summary": "一名曾在 2025 年精準預測比特幣高點的 4chan 匿名用戶，於 2025 年 12 月 20 日發布預測，比特幣 (BTC) 可能在 2026 年底達到 250,000 美元，以太坊 (ETH) 達到 20,000 美元，Solana (SOL) 達到 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan 匿名用戶預測比特幣 2026 年達 100 萬美元",
+    "summary": "據稱是 2019 年傳奇比特幣先知的一名 4chan 匿名用戶，於 2025 年 11 月發布預測，比特幣在 2026 年底前將達到 100 萬美元，以太坊達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/03",
+    "title": "諾查丹瑪斯 2026 年四大危機預警",
+    "summary": "諾查丹瑪斯的支持者根據其編號 26 的四行詩推演出 2026 年的四大警訊，包括知名男性人物遭暗殺、提契諾被鮮血淹沒、台海地區可能出現高風險衝突以及極權主義進一步擴張。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "來自 2058 年的未來人國分玲：比特幣將飆升至天價，普通人只能賣不能買",
+    "summary": "來自 2058 年的未來人國分玲堅定表示，比特幣價值將飆升至令人咋舌的高度，但她警告普通人屆時只能賣，不能買，因為其流通渠道可能受限或性質已不適合頻繁交易。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/27",
+    "title": "「未來士兵」警告 2026 年是 AI 戰爭的開端",
+    "summary": "一篇關於「未來士兵」的報導提及，該人士警告 2026 年只是開始，並提及 AI 戰爭與人類命運。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/07",
+    "title": "2062 未來人：第三次世界大戰將早於 2030 年發生，中國消失",
+    "summary": "2ch 上的「2062 未來人」曾預言第三次世界大戰不會在 2030 年，而是會「更早」發生，並提到中國將會消失。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/12",
+    "title": "自稱 2264 年時空旅人：2026 年人類科技仍初級，社會問題持續",
+    "summary": "一名自稱來自 2264 年的 Reddit 用戶於 2026 年 1 月 12 日發文，描述 2026 年的人類科技仍顯初級，社會問題持續存在，且生活節奏緩慢，儘管正處於突破的邊緣，卻被瑣事分散注意力。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/16",
+    "title": "來自 5026 年的未來人：2026 下半年將爆發更大規模戰爭",
+    "summary": "一名自稱來自 5026 年的未來人警告，2026 年下半年將爆發更大規模的戰爭。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
