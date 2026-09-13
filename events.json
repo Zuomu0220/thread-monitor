@@ -16,6 +16,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/09/13",
+    "title": "Steam《REANIMAL》釋出免費Demo",
+    "summary": "由Tarsier Studios開發的恐怖冒險遊戲《REANIMAL》在Steam上提供免費試玩Demo。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/13",
+    "title": "Steam《No Man's Sky》六折特惠",
+    "summary": "太空探索遊戲《No Man's Sky》目前在Steam平台推出六折折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/12",
     "title": "無最新負面與爭議事件",
@@ -29,6 +45,14 @@
     "title": "無最新情報",
     "summary": "在 2026 年 9 月 5 日至 9 月 12 日期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/12",
+    "title": "Steam/Epic Games Store《The Alighieri Circle: Dante's Bloodline》合作恐怖遊戲Demo釋出",
+    "summary": "一款94%好評的合作恐怖遊戲《The Alighieri Circle: Dante's Bloodline》在Steam、Epic Games Store、PlayStation Store及Xbox Marketplace推出免費Demo試玩版，並有10%的早期發行折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -208,6 +232,14 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/09/11",
+    "title": "HOLOSTARS EN成員Banzoin Hakka發言引發「Covernment無底薪」爭議",
+    "summary": "HOLOSTARS EN成員Banzoin Hakka在直播中表示其收入完全仰賴粉絲的Super Chat（SC），引發社群對於Cover旗下藝人是否有底薪的熱烈討論。隨後，其他HOLOSTARS EN成員如Crimzon Ruze也證實公司並無發放固定薪水，強調VTuber的收入主要來自粉絲支持，並提醒粉絲無需傾家蕩產支持。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
@@ -364,38 +396,6 @@
     "date": "2026/09/10",
     "title": "Steam Demo釋出",
     "summary": "《Outcast Tales Demo》已於 Steam 平台釋出免費試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Arc System Works Asia 秋季特別促銷活動",
-    "summary": "亞克系統亞洲於 PlayStation Store、Nintendo Shop 及 Steam 平台推出「2026 秋季特別促銷活動」，折扣最高可達 88%，活動將持續至 9 月 23 日。促銷遊戲包含《小歌與林中的妖怪之家》、《彩京精選Vol.1》、《彩京精選Vol.2》及《雷納提斯》等多款作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store限時免費領取：《星界戰士》與《天空奇兵》",
-    "summary": "Epic Games Store宣布自9月10日起至9月17日，玩家可限時免費領取好評Roguelite動作遊戲《星界戰士（Astral Ascent）》以及街機空戰射擊遊戲《天空奇兵（Luftrausers）》，領取後可永久保存至個人收藏庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Steam限免遊戲下架倒數：《Witchcraft: Candy Hunt》",
-    "summary": "Steam平台發布公告，獨立像素彈幕射擊遊戲《Witchcraft: Candy Hunt》即將從商店下架，開發者鼓勵玩家於9月10日前把握機會免費領取並永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "PLAYISM GAME SHOW: TGS 2026 Preview 公布東京電玩展參展陣容",
-    "summary": "獨立遊戲發行商PLAYISM於9月10日舉辦線上發表會「PLAYISM GAME SHOW: TGS 2026 Preview」，搶先公布了將於2026年東京電玩展（TGS 2026，9月17日至21日舉行）展出的10款最新獨立遊戲作品資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
