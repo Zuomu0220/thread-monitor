@@ -193,6 +193,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 限時免費暢玩：《F1 25》、《邊緣禁地4》等五款遊戲",
+    "summary": "Steam 平台於本週推出多款遊戲限時免費暢玩活動，包括賽車遊戲《F1 25》、射擊遊戲《邊緣禁地4》、策略生存《火星求生：重製版》、平台動作《雷擊劍鬥》以及多人戰鬥《法外梟雄：滾石城》，活動至 2026/09/15 止。此外，《Mordhau》、《Astral Ascent》、《Luftrausers》、《Alone With You》等遊戲也提供限時免費遊玩至 9/14 或 9/17。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "情感冒險遊戲《LUNADUN: LUNATIC DUNGEON》預計 12 月展開搶先體驗",
+    "summary": "由兩人獨立團隊 Team BONA 開發的情感冒險遊戲《LUNADUN: LUNATIC DUNGEON》於 2026 年 9 月 11 日公開預計於 12 月在 Steam 展開搶先體驗，目前免費試玩版已開放。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -380,22 +396,6 @@
     "date": "2026/09/10",
     "title": "PLAYISM GAME SHOW: TGS 2026 Preview 公布東京電玩展參展陣容",
     "summary": "獨立遊戲發行商PLAYISM於9月10日舉辦線上發表會「PLAYISM GAME SHOW: TGS 2026 Preview」，搶先公布了將於2026年東京電玩展（TGS 2026，9月17日至21日舉行）展出的10款最新獨立遊戲作品資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store《Alone With You》限時免費",
-    "summary": "星際求生解謎冒險遊戲《Alone With You》於 Epic Games 平台提供限時免費領取，截止時間為 9 月 17 日 23:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "東京電玩展 2026 PLAYISM GAME SHOW 預覽",
-    "summary": "獨立遊戲發行商 PLAYISM 於 9 月 10 日舉辦線上發表會，公開了包含《偶像經紀人：虛擬星途》、《鐵棘》、《午夜列車：新月》、《寂夜孤行》及《惡魔連結》等 10 款即將在東京電玩展 2026（9 月 17 日至 21 日）展出的遊戲最新資訊。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -3310,6 +3310,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮．佛斯特預言2026年11月13日因人口過剩導致世界末日",
     "summary": "已故物理學家馮．佛斯特在1960年代曾預測「世界恐在2020年代走向終結」，並具體指出世界末日日期為2026年11月13日，原因為人口過剩。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/04",
+    "title": "物理學家馮·佛斯特預言 2026 年 11 月 13 日人類滅絕",
+    "summary": "1960 年物理學家馮·佛斯特（Heinz von Foerster）在《科學》期刊發表預測，認為世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日，原因為人口過度增長而非核戰。此預言在 2026 年 2 月 4 日再次被媒體報導引用。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
