@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/09/15",
+    "title": "目前無重大負面或爭議事件",
+    "summary": "在 2026 年 09 月 08 日至 2026 年 09 月 15 日期間，華語圈內未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
@@ -12,6 +20,14 @@
     "date": "2026/09/14",
     "title": "Steam 免費遊戲轉收費：《Legends of Starkadia》",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》可於 2026 年 9 月 14 日前免費加入收藏庫，之後將改為付費作品，售價 1.99 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/14",
+    "title": "Steam Next Fest 2026 十月版媒體預覽活動",
+    "summary": "Steam Next Fest 十月 2026 版的媒體預覽活動將於 9 月 14 日開始，開發者需在此日期前提交遊戲試玩版和商店頁面供審核。 這項為期多日的活動將展示數百款即將推出的遊戲試玩版、開發者直播和聊天，讓玩家有機會在遊戲發行前試玩新遊戲，開發者也能收集玩家回饋。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -361,42 +377,26 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Epic Games Store 限時免費：《Luftrausers》與《Astral Ascent》",
+    "summary": "Epic Games Store 於 2026 年 9 月 11 日起提供《Luftrausers》和《Astral Ascent》兩款遊戲限時免費領取。這兩款遊戲在 Steam 平台上均獲得高度評價，總價值約 34.98 美元，玩家可在活動期間免費獲取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 週末免費玩：《邊緣禁地 4》等五款遊戲",
+    "summary": "Steam 於 2026 年 9 月 11 日推出週末免費體驗活動，包括《邊緣禁地 4》在內的五款遊戲可供玩家 100% 免費遊玩，活動持續至 9 月 14 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store 限時免費《Astral Ascent》與《Luftrausers》",
-    "summary": "Epic Games Store 本週起限時免費送出《Astral Ascent》及《Luftrausers》，活動時間至 9 月 17 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Steam 程式設計節",
-    "summary": "Steam 平台將於 9 月 10 日至 9 月 14 日舉辦「程式設計節」，活動主要針對與程式設計或邏輯解謎相關的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/10",
-    "title": "Epic Games Store 免費遊戲預告：《Astral Ascent》與《Luftrausers》",
-    "summary": "Epic Games Store 宣布自 9 月 10 日至 9 月 17 日，將提供《Astral Ascent》和《Luftrausers》作為限時免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/10",
-    "title": "目前無重大負面或爭議事件",
-    "summary": "在 2026 年 9 月 3 日至 9 月 10 日期間，Google 搜尋結果中未發現台灣/華語圈實況主或 VTuber 發生廣泛報導的重大負面或爭議事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
