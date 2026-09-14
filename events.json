@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/09/14",
+    "title": "Steam 免費遊戲轉收費：《Legends of Starkadia》",
+    "summary": "回合制角色扮演遊戲《Legends of Starkadia》可於 2026 年 9 月 14 日前免費加入收藏庫，之後將改為付費作品，售價 1.99 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/13",
     "title": "查無近期負面與爭議事件",
@@ -329,6 +337,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/11",
+    "title": "Steam 免費週末：《Mordhau》、《Borderlands 4》等五款遊戲",
+    "summary": "Steam 平台推出限時免費週末活動，包括中世紀砍殺遊戲《Mordhau》及《Borderlands 4》等五款遊戲，玩家可在 2026 年 9 月 14 日前免費遊玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/10",
     "title": "Epic Games 預告限時免費",
     "summary": "《Astral Ascent》與《Luftrausers》將於 9 月 10 日至 9 月 17 日開放限時免費領取：Epic Games Store 預告下週將提供這兩款遊戲作為限時免費福利。",
@@ -381,22 +397,6 @@
     "title": "Steam 白舟開學季特賣",
     "summary": "知名美少女遊戲發行商 Shiravune 自 9 月 10 日起至 9 月 24 日在 Steam 平台展開「開學季特賣」，多款遊戲最低二折起，包含首發折扣的《冬旅，方冥冥》及歷史新低價的《永不枯萎的世界與終焉之花》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/10",
-    "title": "本週無台灣/華語圈實況主負面與爭議事件",
-    "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈實況主有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/10",
-    "title": "本週無台灣/華語圈 VTuber 負面與爭議事件",
-    "summary": "在 2026 年 09 月 03 日至 09 月 10 日期間，未發現台灣或華語圈 VTuber 有任何炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面情況。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -3328,6 +3328,15 @@
     "date": "2026/01/02",
     "title": "物理學家預言 2026 年世界末日",
     "summary": "已故物理學家馮．佛斯特曾在 1960 年預言，世界將在 2026 年 11 月 13 日因「無限」人口過剩而終結，人類將「被擠壓致死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/14",
+    "title": "物理學家馮．佛斯特的 2026 年人口崩潰預言",
+    "summary": "物理學家 Heinz von Foerster 在 1960 年發表的一項數學預測指出，人類人口成長將在 2026 年 11 月 13 日達到極限並可能崩潰，他象徵性地警告，若不加以控制，人口將超出地球承載能力而導致環境災難或自我毀滅。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
