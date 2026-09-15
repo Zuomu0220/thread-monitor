@@ -9,6 +9,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 限時免費《Crystal Crisis》可永久保留",
+    "summary": "方塊消除益智對戰遊戲《Crystal Crisis》於 Steam 平台開放限時免費下載，活動至 9 月 22 日下午 2 點 59 分止，玩家可在期限內領取遊戲並永久保存。遊戲包含多位知名動漫、遊戲角色，支援本機及線上多人對戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Epic Games Store 免費領取文字冒險遊戲《Vanakan》",
+    "summary": "由獨立開發者製作的文字冒險遊戲《Vanakan》在 Epic Games Store 推出限時免費活動，玩家可在 9 月 29 日前免費領取。遊戲背景設定在公元 500 年代的亞美尼亞，玩家將扮演神父 Tadevos 踏上朝聖之旅，其選擇將影響國家與人民的未來發展。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -380,22 +396,6 @@
     "date": "2026/09/11",
     "title": "Epic Games",
     "summary": "限時免費遊戲：Epic Games Store 更新了限免遊戲，其中包含《NoRush!》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "Epic Games Store 限時免費：《Luftrausers》與《Astral Ascent》",
-    "summary": "Epic Games Store 於 2026 年 9 月 11 日起提供《Luftrausers》和《Astral Ascent》兩款遊戲限時免費領取。這兩款遊戲在 Steam 平台上均獲得高度評價，總價值約 34.98 美元，玩家可在活動期間免費獲取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "Steam 週末免費玩：《邊緣禁地 4》等五款遊戲",
-    "summary": "Steam 於 2026 年 9 月 11 日推出週末免費體驗活動，包括《邊緣禁地 4》在內的五款遊戲可供玩家 100% 免費遊玩，活動持續至 9 月 14 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -2510,6 +2510,15 @@
     "date": "2026/05/19",
     "title": "2058未來人國分玲預告回歸",
     "summary": "自稱來自 2058 年的日本「未來人」國分玲，因其準確的預言而受到關注。她曾預告將於 2026 年 9 月 26 日回歸，以回答眾人對未來的疑問。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/29",
+    "title": "未來人國分玲約定 2026 年 9 月回歸，預言精準度再被複盤",
+    "summary": "自稱來自 2058 年的日本未來人國分玲，曾於 2019 至 2021 年間發表多項預言，包括股市、奧運、政壇等，其中多條短期預判已被證實。隨著其約定的 2026 年 9 月 26 日回歸時間臨近，其預言的完整複盤與相關分析再度引發網路討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
