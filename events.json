@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/09/16",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/09/09 至 2026/09/16 期間，未發現台灣/華語圈實況主與 VTuber 的相關負面與爭議事件報導。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/09/15",
     "title": "目前無重大負面或爭議事件",
     "summary": "在 2026 年 09 月 08 日至 2026 年 09 月 15 日期間，華語圈內未發現有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主負面事件。",
@@ -68,6 +76,14 @@
     "date": "2026/09/15",
     "title": "Steam 限免遊戲：《Bunny Guys!》與《BROTHER!!! Save him!》",
     "summary": "Steam 平台推出限免遊戲《Bunny Guys!》和《BROTHER!!! Save him!》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 限時免費：《Crystal Crisis》",
+    "summary": "《Crystal Crisis》這款方塊消除益智對戰遊戲目前在 Steam 上開放限時免費領取，玩家可在 9 月 22 日前登入 Steam 帳號領取，即可永久保存至收藏庫。遊戲集結《原子小金剛》、《怪醫黑傑克》、《洞窟物語》等多部知名作品角色。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -198,14 +214,6 @@
     "summary": "Steam 平台提供免費遊戲序號領取《Rimi Kaikkonen Racing 60 Seconds》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/12",
-    "title": "無最新負面與爭議事件",
-    "summary": "在 2026/09/05 至 2026/09/12 期間，未搜尋到台灣/華語區實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面與爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -388,14 +396,6 @@
     "date": "2026/09/11",
     "title": "Epic Games Store 免費領取《星界戰士》與《天空奇兵》",
     "summary": "Epic Games Store 本週開放限時免費領取《星界戰士（Astral Ascent）》和《天空奇兵（Luftrausers）》，領取截止時間為 2026 年 9 月 17 日 23:00。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "Valve 與 Epic Games 為澳洲商店新增年齡驗證機制",
-    "summary": "因應澳洲未成年者網路內容限制政策，Valve 和 Epic Games 近日針對澳洲地區商店新增年齡驗證機制，Steam 目前僅限信用卡驗證，引發部分澳洲玩家不滿。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
