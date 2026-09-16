@@ -89,6 +89,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 免費 DLC：《霍格華茲的傳承》：天文學家帽",
+    "summary": "《霍格華茲的傳承》天文學家帽 DLC 在 Steam 上限時免費領取，活動至 9 月 30 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -160,6 +168,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/09/14",
+    "title": "Steam 2026 團隊角色扮演節",
+    "summary": "Steam 平台舉辦「團隊角色扮演節」活動，日期從 9 月 14 日至 9 月 21 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/13",
     "title": "查無近期負面與爭議事件",
@@ -212,6 +228,14 @@
     "date": "2026/09/13",
     "title": "Steam 免費序號領取：Rimi Kaikkonen Racing 60 Seconds",
     "summary": "Steam 平台提供免費遊戲序號領取《Rimi Kaikkonen Racing 60 Seconds》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/13",
+    "title": "Steam 限時免費領取：《水晶危機》（Crystal Crisis）",
+    "summary": "Steam 平台開放限時免費領取《水晶危機》，活動期間為 9 月 14 日 15:00 至 9 月 22 日 14:59。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -372,30 +396,6 @@
     "date": "2026/09/11",
     "title": "Steam 限時免費暢玩《F1 25》等 5 款遊戲",
     "summary": "Steam 平台推出週末限時免費暢玩活動，包含《F1 25》、《邊緣禁地4》、《火星求生重製版》、《雷擊劍鬥》以及《法外梟雄：滾石城》等 5 款遊戲，活動至 2026 年 9 月 15 日凌晨 01:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "Steam 折扣區《文明VII DLC》低至 1.5 折",
-    "summary": "Steam 平台折扣區推出多款遊戲優惠，其中《文明VII DLC》特價 2 美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "恐怖漫畫風格種田 RPG《歡迎來到古原鎮》Steam 上市",
-    "summary": "《歡迎來到古原鎮》於 Steam 平台正式問世，這是一款受到恐怖漫畫風格啟發的 RPG，充滿克蘇魯風格的怪異居民和敵人，玩家可體驗獨特的農場生活，並有免費 Demo 可供體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/11",
-    "title": "Epic Games Store 免費領取《星界戰士》與《天空奇兵》",
-    "summary": "Epic Games Store 本週開放限時免費領取《星界戰士（Astral Ascent）》和《天空奇兵（Luftrausers）》，領取截止時間為 2026 年 9 月 17 日 23:00。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
