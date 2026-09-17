@@ -233,6 +233,38 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam限時免費",
+    "summary": "方塊消除益智對戰遊戲《Crystal Crisis》於9月22日前開放限時免費下載，玩家可在期限內領取並永久保存遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 新品試玩",
+    "summary": "不道德墓場物語《守墓人2》（Graveyard Keeper 2）釋出免費試玩版，存檔可繼承至9月22日發售的正式版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 節慶特賣",
+    "summary": "Steam 2026 團隊制角色扮演遊戲節已開啟，活動將持續至9月22日凌晨1點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/15",
+    "title": "TGS 2026 台灣參展",
+    "summary": "台灣遊戲發行商芒果派對將在東京電玩展2026（9月17日至21日）展出五款遊戲Demo試玩，包含《怪獸公主：集結！超超超生存大戰略》、《夏日推送》、《捕捉契約波奇夢》、《極癒忍傳》及《帶我去地下城吧！！》Switch版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -366,38 +398,6 @@
     "summary": "TapTap於9月14日首次舉辦遊戲展「玩聚節」，現場設有「嗒噗網吧」提供30款獨立遊戲試玩，讓玩家有機會與開發者面對面交流。展覽期間人流與時間控制得宜，提供舒適的逛展體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/13",
-    "title": "查無近期負面與爭議事件",
-    "summary": "在 2026 年 9 月 6 日至 9 月 13 日期間，未發現台灣/華語圈實況主、VTuber 或相關經紀公司有明確的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面或爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/13",
-    "title": "無相關事件",
-    "summary": "在 2026 年 9 月 6 日至 9 月 13 日期間，未發現台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/13",
-    "title": "Steam《REANIMAL》釋出免費Demo",
-    "summary": "由Tarsier Studios開發的恐怖冒險遊戲《REANIMAL》在Steam上提供免費試玩Demo。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/13",
-    "title": "Steam《No Man's Sky》六折特惠",
-    "summary": "太空探索遊戲《No Man's Sky》目前在Steam平台推出六折折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
   },
   {
     "category": "PROPHECY",
