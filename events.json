@@ -80,6 +80,22 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/09/17",
+    "title": "VTuber 時雨羽衣與女童服飾聯名企劃炎上中止",
+    "summary": "日本知名插畫家兼個人勢 VTuber 時雨羽衣原定與女童服飾品牌 mezzo piano 合作推出聯名商品，但企劃公開僅兩天後，主辦方 coly 便於 9 月 17 日宣布全面中止。時雨羽衣本人表示，合作期間收到針對她與相關人士的暴力威脅，基於安全考量決定取消合作。部分批評者認為時雨羽衣的代表作〈肅聖!! 蘿莉神鎮魂曲☆〉中涉及「9 歲」角色設定及相關元素，與以女童為主要客群的服飾品牌合作容易產生不當聯想，但也有支持者認為這是過度連結虛構作品與現實議題。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games Store 免費遊戲：Shogun Showdown 與 Mindcop",
+    "summary": "Epic Games Store 於 9 月 17 日起提供《Shogun Showdown》（將軍對決）和《Mindcop》（心靈警察）兩款遊戲限時免費領取，活動將持續至 9 月 24 日。前者是一款結合 Roguelike 和牌組構築元素的日式像素風格回合制遊戲，後者則是一款非線性「誰是兇手」的冒險遊戲，融合故事劇情與即時三消解謎玩法。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/09/16",
     "title": "Epic Games 2026 夏季特賣尾聲",
@@ -384,22 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "STREAMER",
-    "date": "2026/09/14",
-    "title": "藝人阿本直播遭酸「過氣才做直播」，高EQ回應引網友稱讚",
-    "summary": "藝人阿本（翁瑞迪）日前在直播中被網友留言酸「過氣才跑去做直播，只會上節目/拍業配」，他事後在社群平台坦言當下有看到留言，但並未生氣，反而覺得趣味，並高EQ回應自己身為一人公司，每天忙於工作與身材管理，是否過氣並不重要，重要的是照顧好自己和身邊的人。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/14",
-    "title": "女星彭小苒直播服裝不當「洩春光」引爭議，工作室緊急道歉",
-    "summary": "中國女星彭小苒在直播中因服裝設計與直播角度問題，導致大片肉色外洩，類似「處男殺手毛衣」的穿搭被網友批評為「災難級」並質疑其博取眼球。彭小苒工作室隨後於凌晨緊急發布道歉聲明，解釋是團隊未預判直播角度導致藝人隱私防護不足，並承諾未來將加強彩排與機位規劃。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/04/06",
     "title": "Chris Bledsoe 預言 2026 新知識降臨與天狼星對齊",
@@ -419,9 +419,27 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/06/27",
+    "title": "Chris Bledsoe 2026年預言：軒轅十四星與獅身人面像對齊將帶來精神覺醒",
+    "summary": "Chris Bledsoe 的 2026 年預言指出，軒轅十四星（Regulus）與吉薩大獅身人面像對齊，預計將在 9 月 21 日至 24 日期間發生，這被解讀為一種精神覺醒或「面紗被揭開」的象徵。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/21",
+    "expiry_date": "2026/09/22"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/26",
     "title": "預言家布蘭登·比格斯預言習近平訪美談判 AI 競賽",
     "summary": "布蘭登·比格斯預言中國領導人習近平將於 2026 年 9 月 24 日訪問美國，此次會面的核心焦點在於 AI 競賽。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/24",
+    "expiry_date": "2026/09/25"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/04",
+    "title": "日本占卜師Love Me Do 9月預言：9月24-26日需注意逮捕新聞",
+    "summary": "日本知名占卜師 Love Me Do 預言 2026 年 9 月將是一個變革之月，會出現大地異變、政變、復甦、事故等事件，並特別提醒在 9 月 24 日至 26 日期間需留意逮捕相關的新聞。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/24",
     "expiry_date": "2026/09/25"
@@ -2537,6 +2555,15 @@
     "date": "2026/09/06",
     "title": "國分玲舊預言重提：2026年9月底國際峰會成果不如預期",
     "summary": "日本5ch上有使用者轉貼「國分玲（來自2058年）」的舊預言，再次提及2026年9月底將有重要國際峰會成果不如預期。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/30",
+    "expiry_date": "2026/10/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/02",
+    "title": "Joseph Tittel 2026年9月預言：政治與好萊塢名人領域將出現大規模崩潰",
+    "summary": "數秘術與占星學家 Joseph Tittel 預測，2026 年 9 月將意味著新的開始、領導力、方向轉變，以及大規模的崩潰，尤其是在政治和好萊塢名人領域。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/30",
     "expiry_date": "2026/10/01"
@@ -7362,6 +7389,123 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/01",
+    "title": "盲眼龍婆巴巴萬加2026年預言：巨型外星太空船將抵達地球",
+    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加的追隨者整理了她對2026年的預言，其中尚未實現的一項是「巨型外星太空船將抵達地球」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/01",
+    "title": "盲眼龍婆巴巴萬加2026年預言：第三次世界大戰爆發",
+    "summary": "盲眼龍婆巴巴萬加的追隨者預言，2026年將爆發「第三次世界大戰」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/01",
+    "title": "盲眼龍婆巴巴萬加2026年預言：俄羅斯領導人將於2026年底前出現重大更替",
+    "summary": "盲眼龍婆巴巴萬加的追隨者預言，俄羅斯領導人將在2026年底前出現重大更替。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/02",
+    "title": "泰國神算Plai師傅2026年預言：全球網絡崩潰及虛擬資產歸零",
+    "summary": "泰國神算 Plai 師傅預言，2026 年下半年將發生世紀級駭客襲擊，導致全球網絡全面癱瘓，所有儲存在雲端或虛擬資產將價值暴跌至接近歸零。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/02",
+    "title": "泰國神算Plai師傅2026年預言：毀滅性戰爭爆發",
+    "summary": "泰國神算 Plai 師傅預言，2026 年下半年將爆發一場毀滅性戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/06/02",
+    "title": "泰國神算Plai師傅2026年預言：外星人將出現在公眾面前",
+    "summary": "泰國神算 Plai 師傅預言，2026 年下半年外星人將出現在公眾面前。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/18",
+    "title": "Reddit用戶預言：2026年底前將發生全球數據洩露事件",
+    "summary": "Reddit論壇上有用戶預測，在2026年底之前，AI領域將因人為錯誤導致一場全球性的數據洩露事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/18",
+    "title": "Reddit用戶預言：2026年底前某些政治領導人將不復存在",
+    "summary": "Reddit論壇上有用戶預測，在2026年底之前，一些政治領導人將不復存在，這可能導致全球動盪加劇或局勢穩定。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/18",
+    "title": "Reddit用戶預言：2026年底前能源危機影響將衝擊大多數美國家庭",
+    "summary": "Reddit論壇上有用戶預測，在2026年底之前，能源危機的影響將開始深入大多數美國家庭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/18",
+    "title": "Reddit用戶預言：2026年底前全球糧食成本、藥品供應鏈與電網將受嚴重衝擊",
+    "summary": "Reddit論壇上有用戶預測，在2026年底之前，全球糧食成本、藥品供應鏈和電網可能會受到嚴重衝擊，可能導致大規模停電和供應短缺。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "Brandon Biggs 2026年預言：新瘟疫導致皮膚出現白色圓形斑點",
+    "summary": "Brandon Biggs 預言，2026年將出現一種新的瘟疫，導致皮膚上出現白色圓形斑點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "Abhigya Anand 2026年預言：業力修正年，人類面臨環境破壞帶來的後果",
+    "summary": "印度神童Abhigya Anand 預言，2026年是「業力修正年」，人類將面臨瘋狂擴張和環境破壞帶來的後果，世界將被迫放慢腳步。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "Craig Hamilton-Parker 2026年預言：權力黃昏，舊物質系統崩潰，迎來精神黃金時代",
+    "summary": "Craig Hamilton-Parker 預言，2026年是「權力黃昏」的時期，舊有的物質系統將崩潰，迎來「精神黃金時代」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -9312,6 +9456,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2050/12/31",
     "expiry_date": "2051/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/16",
+    "title": "3036年時空旅人警告全球將爆發五年大停電",
+    "summary": "一名自稱來自3036年的「時空旅人」在社群平台發布影片警告，預言地球將在 2052 年 12 月起陷入長達五年的全球性大停電，連帶網路也將全面中斷，並指出人類生活秩序約需 20 年才能逐步恢復，全球人口也將銳減。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2052/12/01",
+    "expiry_date": "2052/12/02"
   },
   {
     "category": "PROPHECY",
