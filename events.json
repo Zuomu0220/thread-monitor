@@ -33,6 +33,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games 限時免費",
+    "summary": "《將軍對決》與《心靈警探》：Epic Games 商店已開放限時免費領取《Shogun Showdown》（將軍對決）及《MIND COP》（心靈警探），領取時間從 9 月 17 日起至 9 月 24 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "遊戲展會",
+    "summary": "東京電玩展 2026 正式開幕：為期五天的「東京電玩展 2026」（TGS 2026）已於 9 月 17 日在日本幕張展覽館（Makuhari Messe）正式揭開序幕，本屆展覽適逢其成立 30 週年。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/16",
     "title": "Epic Games 2026 夏季特賣尾聲",
     "summary": "Epic Games Store 2026年夏季特賣活動提供超值折扣，最低可享二五折優惠，活動將持續至2026年9月17日。這是玩家趕在夏季優惠結束前，購入心儀遊戲的最後機會。",
@@ -281,6 +297,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam 遊戲節",
+    "summary": "Steam 2026 團隊制角色扮演遊戲節開啟：根據 Valve 公布的 2026 年 Steam 平台官方日程，「團隊制角色扮演遊戲節」已於 9 月 14 日開啟，並將持續至北京時間 9 月 22 日凌晨 1 點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -372,30 +396,6 @@
     "date": "2026/09/14",
     "title": "Steam搶先體驗免費：《Legends of Starkadia》",
     "summary": "科幻RPG遊戲《Legends of Starkadia》在Steam開放搶先體驗免費入庫，原定於2026年9月14日後轉為收費1.99美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Steam限時免費：《Crystal Crisis》",
-    "summary": "由Nicalis開發的方塊消除益智對戰遊戲《Crystal Crisis》於9月14日起在Steam開放限時免費下載，玩家可在9月22日前領取並永久保存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/14",
-    "title": "台灣Vtuber 哲（Haivender·D·Jaschta）被罵慘",
-    "summary": "台灣Vtuber Haivender·D·Jaschta 於 2026/09/14 上傳一部名為「【台灣Vtuber】2026-09-09 絕區零 新版本!!!話說怎麼哲被罵得很慘？」的影片。影片標題暗示其在社群上引發爭議並遭到許多批評，詳細原因需進一步了解。",
-    "avatar_url": "https://i.ytimg.com/vi/DqG7JgY4m_U/hqdefault.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Steam 商店限時免費：《Crystal Crisis》",
-    "summary": "2026年9月14日，Steam 商店開放《Crystal Crisis》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
