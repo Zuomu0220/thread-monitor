@@ -97,6 +97,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games",
+    "summary": "2026 夏末特賣結束：Epic Games Store 舉辦的 2026 夏末特賣活動已於 9 月 17 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/16",
     "title": "Epic Games 2026 夏季特賣尾聲",
     "summary": "Epic Games Store 2026年夏季特賣活動提供超值折扣，最低可享二五折優惠，活動將持續至2026年9月17日。這是玩家趕在夏季優惠結束前，購入心儀遊戲的最後機會。",
@@ -369,6 +377,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Steam",
+    "summary": "限時免費：《Crystal Crisis》：Nicalis 開發的方塊消除益智對戰遊戲《Crystal Crisis》於 Steam 平台開放限時免費下載，領取期限至 9 月 22 日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -381,22 +397,6 @@
     "title": "Steam 免費遊戲轉收費：《Legends of Starkadia》",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》可於 2026 年 9 月 14 日前免費加入收藏庫，之後將改為付費作品，售價 1.99 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Steam Next Fest 2026 十月版媒體預覽活動",
-    "summary": "Steam Next Fest 十月 2026 版的媒體預覽活動將於 9 月 14 日開始，開發者需在此日期前提交遊戲試玩版和商店頁面供審核。 這項為期多日的活動將展示數百款即將推出的遊戲試玩版、開發者直播和聊天，讓玩家有機會在遊戲發行前試玩新遊戲，開發者也能收集玩家回饋。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/14",
-    "title": "日本星二代坂口杏里與直播主男友屢爆衝突",
-    "summary": "35歲日本星二代坂口杏里上月高調認愛體重約170公斤的直播主「ぱるぱる（Paruparu）」。短短25天內，兩人戀情接連上演激烈衝突、肢體暴力，甚至牽涉警方拘留。ぱるぱる於9月9日晚間宣布分手，但隔天透露坂口杏里曾以「分手就去死」相逼，兩人最終又復合。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
