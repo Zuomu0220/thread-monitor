@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam秋季特賣會預告：多款大作折扣即將登場",
+    "summary": "Steam官方透過社群平台預告，年度秋季特賣會將於下週正式展開，屆時將有上千款遊戲祭出超值折扣，包含多款AAA級大作與備受期待的獨立遊戲。玩家已開始在論壇上分享願望清單，期待折扣詳情公布。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -93,6 +101,14 @@
     "title": "Roguelike動作遊戲《未失之靈》首部遊玩展示影片與Steam頁面公開",
     "summary": "獨立遊戲開發團隊Team Trifold正式發表新作《未失之靈（Nothing Lost）》，並公開首部遊戲展示影片與Steam頁面。這是一款Roguelike動作遊戲，強調每次死亡都能強化下一位英雄，玩家可吸收殞落英雄的力量並結合能力來征服「靈魂之塔」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/09/16",
+    "title": "未成年實況主合約糾紛判決出爐",
+    "summary": "一名曾於17歲簽訂直播合約的孫姓實況主，因單方面停播遭經紀公司提告索賠。法院於9月16日作出終審判決，認定孫某構成根本違約，需賠償公司損失約7萬元人民幣（約30萬台幣）。此案引發社群對於未成年簽約主播的權益保障與直播產業合約規範的討論，尤其針對「以勞動收入為主要生活來源的未成年人視同完全民事行為能力人」的法律適用進行了探討。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -305,6 +321,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/15",
+    "title": "Epic Games Store限時免費：《宇宙模擬器》與《戰術策略大師》",
+    "summary": "Epic Games Store本週（9月15日至9月22日）推出兩款免費遊戲：《宇宙模擬器》（Universe Simulator）及回合制策略遊戲《戰術策略大師》（Tactical Master）。玩家可在期限內登入Epic帳號免費領取，永久保存至遊戲庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/14",
     "title": "Steam 回合制RPG《Legends of Starkadia》限時免費轉為收費",
     "summary": "回合制角色扮演遊戲《Legends of Starkadia》在Steam平台於2026年9月14日起正式從免費遊戲改為付費作品，售價1.99美元。玩家可在14日前免費領取並永久保留。",
@@ -372,30 +396,6 @@
     "date": "2026/09/14",
     "title": "Steam 神樂遊戲2026發行商特賣",
     "summary": "神樂遊戲於2026年9月14日至9月28日在Steam平台舉辦發行商特賣活動，旗下作品最高可享八折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Steam 2026 團隊角色扮演節",
-    "summary": "Steam 平台舉辦「團隊角色扮演節」活動，日期從 9 月 14 日至 9 月 21 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Epic Games Store限時免費：《Vanakan》",
-    "summary": "Epic Games Store於9月14日開放遊戲《Vanakan》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/14",
-    "title": "Steam搶先體驗免費：《Legends of Starkadia》",
-    "summary": "科幻RPG遊戲《Legends of Starkadia》在Steam開放搶先體驗免費入庫，原定於2026年9月14日後轉為收費1.99美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -2624,6 +2624,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/09/11",
+    "title": "Reddit未來人預言：全球金融市場將迎來「黑色星期五」",
+    "summary": "一位自稱來自2077年的Reddit用戶「TimeVoyager77」在WallStreetBets板塊發文警告，預測全球主要股市將在近期面臨一次「黑色星期五」般的崩盤，科技股將首當其衝。他暗示特定經濟數據發布將是導火線。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/03",
+    "expiry_date": "2026/10/04"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/08/09",
     "title": "Reddit 論壇出現自稱「2077 年時間旅行者」警告極端天氣事件",
     "summary": "在 Reddit 的 r/conspiracy 版面，一位自稱來自 2077 年的匿名用戶發文，警告地球將在未來數月內經歷一系列前所未有的極端天氣事件，特別點名中歐地區將面臨歷史性洪災。該用戶提供了幾個模糊的日期和地點，引發社群熱議。",
@@ -3403,6 +3412,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/19",
     "expiry_date": "2026/11/20"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/17",
+    "title": "X（Twitter）未來人警告：某國將發生大規模網路攻擊",
+    "summary": "一名在X平台上擁有大量追隨者的「預言帳號@Future_Insight」發出警告，預計在2026年第四季度，某個西方大國將遭受一次前所未有的大規模網路基礎設施攻擊，導致部分城市陷入混亂。他呼籲大眾提高資安意識。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/20",
+    "expiry_date": "2026/11/21"
   },
   {
     "category": "PROPHECY",
@@ -7548,6 +7566,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/13",
+    "title": "日本5ch神秘預言：某東亞國家將發現新型能源",
+    "summary": "日本5ch匿名論壇上，一名自稱「來自未來觀察者」的用戶發布簡短預言，指出在2027年初，一個東亞國家將宣布發現劃時代的新型潔淨能源技術，徹底改變全球能源格局。他僅用「辰龍之國」暗示國家身份。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/15",
+    "expiry_date": "2027/01/16"
   },
   {
     "category": "PROPHECY",
