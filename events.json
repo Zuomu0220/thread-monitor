@@ -24,6 +24,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "《第七史詩》參加 2026 Steam 新品節",
+    "summary": "手機回合制戰略RPG《第七史詩》宣布將參與2026年10月19日至26日（太平洋標準時間）舉辦的「Steam 新品節」，屆時將提供遊戲Demo試玩，並推出與《卡厄思夢境》的合作內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -140,6 +148,22 @@
     "date": "2026/09/17",
     "title": "Steam Demo 釋出：《StellarDrive Demo》",
     "summary": "模擬遊戲《StellarDrive》的試玩版《StellarDrive Demo》於 9 月 17 日在 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Steam 限時免費《Space Menace》",
+    "summary": "俯視角科幻即時戰略遊戲《Space Menace》開放限時免費領取，活動至2026年9月24日上午1點截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Ubisoft 限時免費《榮耀戰魂》",
+    "summary": "Ubisoft 為慶祝40週年，推出熱門多人砍殺遊戲《榮耀戰魂》標準版限時免費領取活動，玩家可透過Ubisoft Connect永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -372,30 +396,6 @@
     "date": "2026/09/15",
     "title": "芒果派對東京電玩展2026帶來5款遊戲Demo試玩",
     "summary": "台灣遊戲發行商芒果派對將在東京電玩展2026展出5款遊戲的Demo試玩，包含《怪獸公主：集結！超超超生存大戰略》、《夏日推送》、《捕捉契約波奇夢》、《極癒忍傳》及Switch版《帶我去地下城吧！！》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/15",
-    "title": "Steam限時免費",
-    "summary": "方塊消除益智對戰遊戲《Crystal Crisis》於9月22日前開放限時免費下載，玩家可在期限內領取並永久保存遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/15",
-    "title": "Steam 新品試玩",
-    "summary": "不道德墓場物語《守墓人2》（Graveyard Keeper 2）釋出免費試玩版，存檔可繼承至9月22日發售的正式版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/15",
-    "title": "Steam 節慶特賣",
-    "summary": "Steam 2026 團隊制角色扮演遊戲節已開啟，活動將持續至9月22日凌晨1點。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
