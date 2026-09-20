@@ -200,6 +200,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam 限時免費領取：《Deadshot》",
+    "summary": "Steam 商店於 9 月 18 日開放限時免費領取遊戲《Deadshot》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "Epic Games Store限時免費",
     "summary": "Mindcop 與 Shogun Showdown 開放領取：Epic Games Store 本週推出兩款限時免費遊戲。Mindcop 是一款非線性懸疑偵探遊戲，結合了故事導向的冒險和即時解謎元素。Shogun Showdown 則是一款回合制戰鬥遊戲，融合了 Rogue-like 和牌組構築要素。兩款遊戲可免費領取至 9 月 24 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/17",
-    "title": "VTuber時雨羽衣與女童服飾聯名遭炎上，本人稱受暴力威脅後緊急中止",
-    "summary": "日本知名插畫家兼個人勢VTuber時雨羽衣原訂與女童服飾品牌mezzo piano推出聯名商品，但在企劃公開兩天後，主辦方coly於9月17日宣布全面中止。時雨羽衣表示，企劃公開期間，她與相關人士收到暴力威脅，基於安全考量決定取消合作。批評者認為，時雨羽衣代表作〈肅聖!! 蘿莉神鎮魂曲☆〉的角色設定與以女童為主要客群的服飾品牌合作，容易產生不恰當聯想。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -2501,6 +2501,15 @@
     "date": "2026/06/29",
     "title": "未來人國分玲約定 2026 年 9 月回歸，預言精準度再被複盤",
     "summary": "自稱來自 2058 年的日本未來人國分玲，曾於 2019 至 2021 年間發表多項預言，包括股市、奧運、政壇等，其中多條短期預判已被證實。隨著其約定的 2026 年 9 月 26 日回歸時間臨近，其預言的完整複盤與相關分析再度引發網路討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/09/26",
+    "expiry_date": "2026/09/27"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/21",
+    "title": "2058 年未來人國分玲預告回歸",
+    "summary": "自稱來自 2058 年的未來人國分玲，曾表示下一次能夠穩定穿越回這個時空的節點是 2026 年 9 月 26 日，屆時她將補上關於未來十年的所有答案。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6552,15 +6561,6 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/04/08",
-    "title": "2058 年未來人國分玲：2026 年是日本及全球重大轉折點",
-    "summary": "來自 2058 年的未來人國分玲表示，2026 年將是日本及全球的重大轉折點。她還提到，在她的時代，人們學習的都是中文，而這個轉變與一位後來「毀了一切」的女首相有關，這位女首相將帶來一系列非常糟糕的事件。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
     "date": "2026/01/21",
     "title": "馬斯克 AI 預言：2026 年通用人工智慧 (AGI) 降臨",
     "summary": "根據焦點時報報導，特斯拉執行長馬斯克預言 2026 年將是通用人工智慧（AGI）的轉折點，AI 的智慧將超越最聰明的人類，並帶來一個貧窮絕跡、工作如樂趣的烏托邦。xAI 的 Grok 5 將於今年推出，擁有 6 兆參數，成為 AGI 的領航者。",
@@ -9462,6 +9462,15 @@
     "date": "2026/09/16",
     "title": "3036年時空旅人警告全球將爆發五年大停電",
     "summary": "一名自稱來自3036年的「時空旅人」在社群平台發布影片警告，預言地球將在 2052 年 12 月起陷入長達五年的全球性大停電，連帶網路也將全面中斷，並指出人類生活秩序約需 20 年才能逐步恢復，全球人口也將銳減。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2052/12/01",
+    "expiry_date": "2052/12/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/16",
+    "title": "3036 年時空旅人預言全球將停電五年",
+    "summary": "一名自稱來自 3036 年的時空旅人預言，全球將從 2052 年 12 月起陷入長達五年的停電，網路也將全面中斷，人類需付出二十年才能走出電力危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2052/12/01",
     "expiry_date": "2052/12/02"
