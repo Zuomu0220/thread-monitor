@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/09/20",
+    "title": "Steam 新品試玩版：《Dreamfend Demo》動作類 Rogue 彈幕射擊",
+    "summary": "《Dreamfend Demo》於 Steam 平台釋出免費試玩版，這是一款結合動作類 Rogue-like 與彈幕射擊元素的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/19",
     "title": "蕭伊狠評網紅圈「有點臭錢都一樣」並點名Joeman直播對質",
@@ -92,6 +100,14 @@
     "date": "2026/09/18",
     "title": "Steam免費週末開放四款遊戲，包含《暗黑破壞神4》",
     "summary": "Steam 新一期免費週末現已開啟，開放《暗黑破壞神4》、《盜賊之海》、《最後的旗幟》和《Jump Space》四款合作或多人遊戲限時免費遊玩，活動至9月21日結束。《暗黑破壞神4》和《盜賊之海》同期有折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam 限時免費暢玩週末：《暗黑破壞神 4》、《盜賊之海》等四款遊戲",
+    "summary": "Steam 推出限時免費暢玩週末活動，玩家可於 9 月 18 日至 9 月 21 日期間免費體驗《暗黑破壞神 4 (Diablo 4)》、《盜賊之海 (Sea of Thieves)》、《Last Flag》以及《Jump Space》等四款遊戲。活動期間內購買這些遊戲亦享有折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -297,6 +313,38 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games 免費遊戲：好評策略肉鴿《將軍對決》與懸疑偵探《心靈警探》",
+    "summary": "Epic Games Store 宣布限時免費領取《將軍對決 (Shogun Showdown)》與《心靈警探 (Mindcop)》，活動至 9 月 24 日截止。兩款遊戲原價均為 14.99 美元，玩家可在期限內登入 Epic Games Store 領取並永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games 預告下週免費遊戲：《Astrea: Six Sided Oracles》與《Mechabellum》",
+    "summary": "Epic Games Store 預告將於 9 月 24 日至 10 月 1 日提供《Astrea: Six Sided Oracles》與《Mechabellum》兩款遊戲免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Epic Games 限時免費遊戲：動作肉鴿《Astral Ascent》與街機空戰射擊《Luftrausers》（已結束）",
+    "summary": "Epic Games Store 於 9 月 10 日至 9 月 17 日提供《Astral Ascent》與《Luftrausers》兩款遊戲限時免費領取。此優惠已於 9 月 17 日結束，但其活動期間涵蓋了本次搜捕範圍。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/17",
+    "title": "Steam 限時免費：太空即時戰略小品《Space Menace》",
+    "summary": "Steam 平台限時免費領取太空即時戰略遊戲《Space Menace》，活動至 9 月 24 日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/16",
     "title": "Epic Games 2026 夏季特賣尾聲",
     "summary": "Epic Games Store 2026年夏季特賣活動提供超值折扣，最低可享二五折優惠，活動將持續至2026年9月17日。這是玩家趕在夏季優惠結束前，購入心儀遊戲的最後機會。",
@@ -349,54 +397,6 @@
     "title": "未成年實況主合約糾紛判決出爐",
     "summary": "一名曾於17歲簽訂直播合約的孫姓實況主，因單方面停播遭經紀公司提告索賠。法院於9月16日作出終審判決，認定孫某構成根本違約，需賠償公司損失約7萬元人民幣（約30萬台幣）。此案引發社群對於未成年簽約主播的權益保障與直播產業合約規範的討論，尤其針對「以勞動收入為主要生活來源的未成年人視同完全民事行為能力人」的法律適用進行了探討。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/16",
-    "title": "Steam Demo 擴展：《永恆：不朽傳說》免費 Demo",
-    "summary": "獨立遊戲《Everlast: Undying Tale》（暫譯：永恆：不朽傳說）將於 10 月 28 日在 Steam 展開搶先體驗，其免費 Demo 已擴展至 2 小時。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/16",
-    "title": "2026東京電玩展：台灣獨立遊戲團隊參展陣容公布",
-    "summary": "台北市電腦公會於2026年9月16日宣布，將再度攜手六組台灣原創遊戲團隊進軍「2026東京電玩展」（Tokyo Game Show 2026），於獨立遊戲區展現台灣獨立遊戲的多元創作能量。參展作品包括點平方《逐墨Seeker Tactics》、慢走遊戲《異獸髮廊Beastfolk Barber》、千禧猿數位《詭寓The Immolation Apartment》、來森給木《炎上棉HOT糖Hot Stuff》、麥尾遊戲《走走小日Moments》以及QPZM《Mixevivor》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/16",
-    "title": "前LPL選手Wayward因不當言論遭無限期禁播二路解說資格",
-    "summary": "前LPL選手Wayward（黃任行）因在直播中屢次口無遮攔，包含暗示LGD打假賽、揚言帶「糯米黑狗血」線下看比賽等不當言論，遭iG俱樂部正式投訴。LPL官方於9月16日開出重罰，即日起無限期暫停其二路解說資格並處以罰款，認定其行為已踩踏紅線。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/16",
-    "title": "《街頭霸王6》印度警官阿俊（Arjun）宣布10月13日參戰",
-    "summary": "Capcom宣布旗下格鬥遊戲《街頭霸王6》的第四年第二位新角色印度警官阿俊（Arjun）將於2026年10月13日正式參戰，他將以獨特的「裸拳瑜伽」格鬥技為遊戲帶來新體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/16",
-    "title": "獨立團隊《活俠傳》交響音樂會將於11月14日開演",
-    "summary": "台灣獨立遊戲團隊「原始鳥熊」宣布，旗下武俠遊戲《活俠傳》將於2026年11月14日在新北市三重體育館演藝廳舉辦「君所願兮江湖行」交響音樂會。售票將於9月22日中午12點在KKTIX平台開跑。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/16",
-    "title": "TGS 26 合作恐怖遊戲《我們之中》首次開放試玩與Steam封測預告",
-    "summary": "獨立遊戲團隊engawa games 旗下合作恐怖遊戲《我們之中》將於東京電玩展2026現場首次開放試玩，並預計在展後於Steam平台進行封閉測試。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
