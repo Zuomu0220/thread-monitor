@@ -208,6 +208,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam",
+    "summary": "四款遊戲限時免費試玩與特價：《暗黑破壞神4》（Diablo 4）、《盜賊之海》（Sea of Thieves）、《最終旗幟》（Last Flag）和《躍遷空間》（Jump Space）於 Steam 平台開放限時免費遊玩至 9 月 21 日。其中《暗黑破壞神4》、《盜賊之海》和《躍遷空間》也提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/09/17",
     "title": "Steam限時免費",
     "summary": "Space Menace：《太空威脅》開放限時免費領取：這款遊戲提供玩家探索太空、進行戰鬥與管理的體驗。限時免費領取活動將持續至台灣時間 9 月 24 日 01:00 截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store限時免費",
-    "summary": "Mindcop 與 Shogun Showdown 開放領取：Epic Games Store 本週推出兩款限時免費遊戲。Mindcop 是一款非線性懸疑偵探遊戲，結合了故事導向的冒險和即時解謎元素。Shogun Showdown 則是一款回合制戰鬥遊戲，融合了 Rogue-like 和牌組構築要素。兩款遊戲可免費領取至 9 月 24 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -2183,9 +2183,9 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/05/19",
+    "date": "2026/05/31",
     "title": "2058 年未來人國分玲",
-    "summary": "預言 2028 年金融危機與回歸日期：自稱來自 2058 年的國分玲曾預言，2028 年全球將爆發新一輪金融危機，導火線是美國的國債違約，導致美元全球結算體系動搖。他還表示將於 2026 年 9 月 26 日再次歸來，回答大家想知道的問題。",
+    "summary": "預告 2026 年 9 月 26 日再次穿越：日本自稱來自 2058 年的未來人國分玲，曾留下多個預言，並表示她將於 2026 年 9 月 26 日再次穩定穿越到這個時空。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/09/26",
     "expiry_date": "2026/09/27"
@@ -6753,15 +6753,6 @@
     "date": "2026/08/23",
     "title": "英國靈媒帕克",
     "summary": "預言中國政治巨變與台灣局勢：英國知名通靈人士克雷格·漢密爾頓-帕克 (Craig Hamilton-Parker) 預言，未來兩年內習近平將被推翻，中共政權恐「自行崩解」，並稱 2026 年為「清算之年」。同時，他推測中共對台灣施加的壓力可能在 2027 年進一步升高，而 2028 年台灣問題可能惡化成「台灣危機的開端」，但他相信台灣最終會受到保護。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/10",
-    "title": "盲眼龍婆巴巴·萬加",
-    "summary": "預言外星飛船與第三次世界大戰：保加利亞盲人靈媒巴巴·萬加 (Baba Vanga) 流傳的預言稱，一艘「巨型太空船」將在 2026 年 11 月進入地球大氣層，人類可能因此與外星生命接觸。她也預言第三次世界大戰可能爆發，以及俄羅斯總統普丁可能在 2026 年底前失去權力。這些預言的真實性仍存疑，多為後人解讀。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
