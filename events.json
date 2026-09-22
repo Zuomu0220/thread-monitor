@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/09/21",
+    "title": "實況主Ray私密影片外流疑手機遭駭",
+    "summary": "活躍於歐美直播圈的實況主Ray近日捲入私密影片外流風波，網路上流傳一段約57秒的影片。Ray在直播中承認影片中的男性確實是自己，並猜測可能因點擊不明連結，導致手機遭駭、私密影像外流。曾與Ray合作過的正妹直播主Shaz也已發聲明，要求外界「別再編造謠言」。",
+    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/09/20",
     "title": "Steam 新品試玩版：《Dreamfend Demo》動作類 Rogue 彈幕射擊",
@@ -120,6 +128,22 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/19",
+    "title": "實況主蛋捲宣布與叉燒離婚",
+    "summary": "知名實況主蛋捲（黃詩涵）日前在直播中證實，已與前《英雄聯盟》職業教練叉燒（史益豪）正式離婚，結束五年婚姻關係。蛋捲透露，兩人感情在近一年半出現裂痕，不僅日常互動減少，育兒壓力與溝通隔閡更成為雙方關係惡化的主因，並親口承認「已無身體接觸」。儘管曾嘗試磨合與改善，最終仍選擇分開，目前兩人將維持共同育兒模式。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/19",
+    "title": "Steam限時免費：《Deadshot》復古末日FPS",
+    "summary": "Steam平台自2026年9月19日起至9月24日凌晨1:00（香港時間），提供復古風格第一人稱射擊遊戲《Deadshot》限時免費領取。遊戲由獨立開發者v0lt製作，靈感來自《Half-Life》、《DOOM》等經典FPS。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/09/18",
     "title": "Steam秋季特賣會預告：多款大作折扣即將登場",
@@ -212,6 +236,22 @@
     "date": "2026/09/18",
     "title": "Steam",
     "summary": "四款遊戲限時免費試玩與特價：《暗黑破壞神4》（Diablo 4）、《盜賊之海》（Sea of Thieves）、《最終旗幟》（Last Flag）和《躍遷空間》（Jump Space）於 Steam 平台開放限時免費遊玩至 9 月 21 日。其中《暗黑破壞神4》、《盜賊之海》和《躍遷空間》也提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam免費遊戲：《The Miki Komori Project》",
+    "summary": "Steam平台目前可免費領取遊戲《The Miki Komori Project》，玩家將在虛擬世界中探索虛擬主播「TheMikiKomori」背後的奇異事件，揭開隱藏的秘密與故事。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam免費恐怖遊戲：《Lumina Veil》",
+    "summary": "Steam平台目前可免費領取恐怖遊戲《Lumina Veil》。故事講述玩家扮演一名實況主，在測試一款新遊戲時意外捲入不明事件。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -356,46 +396,6 @@
     "date": "2026/09/17",
     "title": "Epic Games Store免費遊戲：《Mindcop》與《Shogun Showdown》",
     "summary": "Epic Games Store於2026年9月17日釋出最新免費遊戲《Mindcop》和《Shogun Showdown》。玩家可限時免費領取，並已預告9月24日的免費遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store夏季特賣尾聲優惠",
-    "summary": "Epic Games Store的夏季特賣活動進入尾聲，多款3A大作、AA級作品及獨立遊戲提供最低可享二五折的折扣優惠，活動持續至2026年9月17日止。特賣焦點包含《007 First Light》、《Resident Evil Requiem》、《電馭叛客2077》和《潛水員戴夫》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store 下週免費遊戲《Mechabellum》提早洩露",
-    "summary": "據VGTimes報導，下一個Epic Games Store 免費贈品將是大型自動戰鬥遊戲《Mechabellum》，將於9月24日至10月1日提供。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Steam 限時免費贈送《Space Menace》",
-    "summary": "Only4Gamers 在Steam上開啟《Space Menace》限時免費領取活動，截止時間為9月24日。續作《Space Menace2》同期四折促銷。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "《愛氏物語》Nintendo Switch版今日發售與TGS 26參展",
-    "summary": "榮獲多項大獎的《愛氏物語》Nintendo Switch實體版及下載版今日正式發售，並將於TOKYO GAME SHOW 2026獨立遊戲展區參展，提供試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Steam限時免費",
-    "summary": "Space Menace：《太空威脅》開放限時免費領取：這款遊戲提供玩家探索太空、進行戰鬥與管理的體驗。限時免費領取活動將持續至台灣時間 9 月 24 日 01:00 截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
