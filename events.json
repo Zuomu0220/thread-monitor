@@ -1,5 +1,21 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 限時免費",
+    "summary": "射擊遊戲《Deadshot》為慶祝遊戲上市兩週年，即日起至 2026/09/24 凌晨 1 點前開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 新作發布",
+    "summary": "個人開發者老奉毊宣布，其國產惡女擲骰解謎 RPG《和平締造者：命數已定》已公開 Steam 頁面與預告影片，預計發行日期待公告。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/21",
     "title": "實況主Ray私密影片外流疑手機遭駭",
@@ -380,22 +396,6 @@
     "date": "2026/09/17",
     "title": "Steam 限時免費《Space Menace》",
     "summary": "俯視角科幻即時戰略遊戲《Space Menace》開放限時免費領取，活動至2026年9月24日上午1點截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Ubisoft 限時免費《榮耀戰魂》",
-    "summary": "Ubisoft 為慶祝40週年，推出熱門多人砍殺遊戲《榮耀戰魂》標準版限時免費領取活動，玩家可透過Ubisoft Connect永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store免費遊戲：《Mindcop》與《Shogun Showdown》",
-    "summary": "Epic Games Store於2026年9月17日釋出最新免費遊戲《Mindcop》和《Shogun Showdown》。玩家可限時免費領取，並已預告9月24日的免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
