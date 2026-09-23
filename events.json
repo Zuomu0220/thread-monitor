@@ -33,6 +33,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/21",
+    "title": "Steam 2026 秋季特賣活動預告",
+    "summary": "Steam 預告 2026 年秋季特賣活動將於 10 月 1 日至 10 月 8 日舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/21",
+    "title": "Steam 2026 新品節預告",
+    "summary": "Steam 預告 2026 年 10 月新品節將於 10 月 19 日至 10 月 26 日舉行，屆時將有大量新作試玩版釋出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/20",
     "title": "Steam 新品試玩版：《Dreamfend Demo》動作類 Rogue 彈幕射擊",
     "summary": "《Dreamfend Demo》於 Steam 平台釋出免費試玩版，這是一款結合動作類 Rogue-like 與彈幕射擊元素的遊戲。",
@@ -380,22 +396,6 @@
     "date": "2026/09/17",
     "title": "Epic Games 夏季特賣結束",
     "summary": "Epic Games Store 的夏季特賣活動於 9 月 17 日結束，多款遊戲提供最低 2.5 折的優惠，其中包括《007 First Light》、《Resident Evil Requiem》、《電馭叛客2077》和《潛水員戴夫》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/17",
-    "title": "VTuber 時雨羽衣與女童服飾聯名企劃炎上中止",
-    "summary": "日本知名插畫家兼個人勢 VTuber 時雨羽衣原定與女童服飾品牌 mezzo piano 合作推出聯名商品，但企劃公開僅兩天後，主辦方 coly 便於 9 月 17 日宣布全面中止。時雨羽衣本人表示，合作期間收到針對她與相關人士的暴力威脅，基於安全考量決定取消合作。部分批評者認為時雨羽衣的代表作〈肅聖!! 蘿莉神鎮魂曲☆〉中涉及「9 歲」角色設定及相關元素，與以女童為主要客群的服飾品牌合作容易產生不當聯想，但也有支持者認為這是過度連結虛構作品與現實議題。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store 免費遊戲：Shogun Showdown 與 Mindcop",
-    "summary": "Epic Games Store 於 9 月 17 日起提供《Shogun Showdown》（將軍對決）和《Mindcop》（心靈警察）兩款遊戲限時免費領取，活動將持續至 9 月 24 日。前者是一款結合 Roguelike 和牌組構築元素的日式像素風格回合制遊戲，後者則是一款非線性「誰是兇手」的冒險遊戲，融合故事劇情與即時三消解謎玩法。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -3382,6 +3382,15 @@
     "date": "2026/09/23",
     "title": "物理學家馮．佛斯特預言",
     "summary": "人類滅亡於 2026 年 11 月 13 日：已故物理學家馮．佛斯特（Heinz von Foerster）在 1960 年代預測，地球人口過剩將導致人類在 2026 年 11 月 13 日因「被擠死」而滅亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言世界末日",
+    "summary": "已故物理學家馮．佛斯特 (Heinz von Foerster) 在 1960 年預測，世界將於 2026 年 11 月 13 日因人口過度擁擠而走向終結。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -7506,6 +7515,24 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/02/27",
+    "title": "4chan匿名預言者預測比特幣及以太坊驚人漲幅",
+    "summary": "一位自稱在 2019 年曾精準預測比特幣底部價位的 4chan 匿名預言者，在 2025 年 11 月發布貼文，預言比特幣將在 2026 年底前達到 100 萬美元，以太坊達到 10 萬美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/26",
+    "title": "4chan匿名用戶SBC7HL預測2026加密貨幣目標價",
+    "summary": "一名在 4chan 論壇上被稱為 SBC7HL 的匿名用戶，在 2025 年 12 月 20 日發布預測，比特幣 (BTC) 可能在 2026 年底達到 250,000 美元，以太坊 (ETH) 達到 20,000 美元，Solana (SOL) 達到 1,500 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7869,6 +7896,15 @@
     "date": "2026/08/17",
     "title": "國分玲：2027年3月俄烏簽署停戰協議",
     "summary": "國分玲預言，2027年3月17日俄羅斯與烏克蘭將簽署停戰協議。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/17",
+    "expiry_date": "2027/03/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "2058未來人國分玲預言俄烏停戰日期",
+    "summary": "自稱來自 2058 年的未來人國分玲預言，俄羅斯與烏克蘭將於 2027 年 3 月 17 日簽署停戰協議。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/03/17",
     "expiry_date": "2027/03/18"
