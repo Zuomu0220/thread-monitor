@@ -49,6 +49,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/21",
+    "title": "Steam 2026 秋季特賣情報公布",
+    "summary": "Steam 官方公布了2026年秋季特賣的情報，雖然具體折扣遊戲清單尚未釋出，但此活動將涵蓋大量3A大作與獨立遊戲，預計將提供玩家史低價購入心儀作品的機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/20",
     "title": "Steam 新品試玩版：《Dreamfend Demo》動作類 Rogue 彈幕射擊",
     "summary": "《Dreamfend Demo》於 Steam 平台釋出免費試玩版，這是一款結合動作類 Rogue-like 與彈幕射擊元素的遊戲。",
@@ -328,6 +336,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam 新品發售折扣",
+    "summary": "Steam 平台上多款新作於本週推出並提供首發折扣，包含策略模擬遊戲《花磚公司》、開放世界自動化遊戲《Nightwater》（發行日：9月18日），以及《無盡帝國2 ENDLESS Legend™ 2》、《核桃心》、《餘燼守衛Emberward》（發行日：9月17日）等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/09/17",
     "title": "Epic Games 限時免費遊戲：Shogun Showdown & Mindcop",
     "summary": "Epic Games Store 於 9 月 17 日起提供《Shogun Showdown》和《Mindcop》限時免費領取，活動將持續至 9 月 24 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Steam 限時免費遊戲：Space Menace",
-    "summary": "《Space Menace》於 9 月 17 日起在 Steam 平台提供限時免費領取，活動至 9 月 24 日結束。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games 夏季特賣結束",
-    "summary": "Epic Games Store 的夏季特賣活動於 9 月 17 日結束，多款遊戲提供最低 2.5 折的優惠，其中包括《007 First Light》、《Resident Evil Requiem》、《電馭叛客2077》和《潛水員戴夫》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
