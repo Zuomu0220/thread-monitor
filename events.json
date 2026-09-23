@@ -16,6 +16,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 2026 秋季特賣預告",
+    "summary": "雖然 Steam 2026 秋季特賣預計於 10 月 1 日至 10 月 8 日舉行，但相關預估折扣資訊和攻略已在近期公布，預計包含《黑神話：悟空》和《碧血狂殺 2》等多款大作。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/21",
     "title": "實況主Ray私密影片外流疑手機遭駭",
@@ -360,6 +368,14 @@
     "days_left": 1
   },
   {
+    "category": "GAME",
+    "date": "2026/09/18",
+    "title": "Steam Aerosoft 發行商特賣活動",
+    "summary": "Steam 平台於 2026 年 9 月 18 日至 10 月 1 日期間，舉辦 Aerosoft 發行商特賣，提供模擬與策略遊戲高達 9 折的優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/17",
     "title": "無最新負面與爭議事件",
@@ -380,22 +396,6 @@
     "date": "2026/09/17",
     "title": "Epic Games Store限時免費領取：《Shogun Showdown》與《Mindcop》",
     "summary": "Epic Games Store於2026年9月17日至9月24日提供《Shogun Showdown》和《Mindcop》兩款遊戲的限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games Store限時免費領取：《伊莫》、《RAVEN2》、《Arena Breakout: Infinite》",
-    "summary": "Epic Games Store於2026年9月17日至9月24日提供《伊莫》、MMORPG《RAVEN2》以及《Arena Breakout: Infinite》等遊戲的免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/17",
-    "title": "Epic Games 限時免費",
-    "summary": "《將軍對決》與《心靈警探》：Epic Games 商店已開放限時免費領取《Shogun Showdown》（將軍對決）及《MIND COP》（心靈警探），領取時間從 9 月 17 日起至 9 月 24 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
@@ -7515,6 +7515,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058 年未來人國分玲預言：2026 年是重大轉折點",
+    "summary": "自稱來自 2058 年的未來人國分玲曾預言 2026 年將是日本及全球的重大轉折點。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/05/12",
     "title": "逢甲碟仙預言：民國 116 年兩岸統一",
     "summary": "Dcard 論壇中有提及逢甲碟仙預言民國 116 年（即 2027 年）兩岸將統一。",
@@ -7707,6 +7716,15 @@
     "date": "2026/09/19",
     "title": "2050年時空旅人預言：2027年烏俄戰爭停戰",
     "summary": "一位自稱來自2050年的Dcard時空旅人預言，烏俄戰爭將於2027年停戰，但未透露細節。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/11",
+    "title": "關於台灣、中國與世界經濟的預言",
+    "summary": "預言家帕克預言台灣將不戰而勝，出現「神級結界」守護。針對中國，他預言習近平將面臨大劫，中國即將爆發內戰，人民的錢、房子、財產可能被強制徵收。此外，帕克也預言全球物資短缺和經濟崩潰將在 2027、2028、2029 年發生，中國也將發生裂變。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
@@ -8184,6 +8202,15 @@
     "date": "2026/09/12",
     "title": "匿名未來人預言：無現金社會與人形機器人普及",
     "summary": "預言提及，未來將逐步走向無現金社會，同時人形機器人也將變得普遍。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/12/31",
+    "expiry_date": "2028/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/23",
+    "title": "馬斯克關於 AI 算力與機器人未來的預言",
+    "summary": "特斯拉與 SpaceX 執行長馬斯克於 9 月 23 日接受中國央視財經專訪時表示，中國預計在未來 2-3 年內（約 2028-2029 年）能補齊 AI 算力缺口。他預測，十年內將至少有 10 億台人形機器人，未來 15 年可能達到 100 億台，20 年內甚至可能達到 1,000 億台。馬斯克還預言，人工智慧將在 2027 年底前獨立完成所有數位領域的工作，而 AI 程式設計能力最快在未來 12 至 18 個月內（約 2027 年底至 2028 年初）達到「Stockfish 級」水平，並預測未來將出現大量「一人公司」和全民高收入，金錢的意義也將淡化。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/12/31",
     "expiry_date": "2028/01/01"
@@ -9135,6 +9162,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058 年未來人國分玲預言：新型傳染病 SARS-CoV-3",
+    "summary": "國分玲預言以豬為中間宿主的 SARS-CoV-3（COVID-32）將在 2030 年代中期被確認。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2035/07/01",
+    "expiry_date": "2035/07/02"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/06/12",
     "title": "2026-2035年全球疫情與中國變革預言",
     "summary": "一份據稱是未來人國分玲的神秘草稿預言，2026年至2035年間全球疫情將捲土重來，中國可能改名為「華國」。",
@@ -9279,6 +9315,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/07/21",
+    "title": "2058 年未來人國分玲預言：沖繩將受天災影響",
+    "summary": "國分玲預言 2037 年 1 月沖繩地區將發生「直下型地震」，同年 8 月除了餘震，更將同時受到颱風侵襲，使災情更加嚴重。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2037/01/31",
+    "expiry_date": "2037/02/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/09/12",
     "title": "2058 年未來人國分玲預言：2037 年沖繩將遭遇大地震與颱風",
     "summary": "來自 2058 年的國分玲預言，2037 年 1 月沖繩地區將發生「直下型地震」，同年 8 月除了餘震，更將同時受到颱風侵襲，導致嚴重災情。",
@@ -9351,6 +9396,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058 年未來人國分玲預言：中國未來將變「華國」",
+    "summary": "國分玲預言中國經濟將在 2033 年追上美國，隨後在 2030 年代後期發生內亂，導致現有政府垮台，並於 2039 年 11 月誕生新國家「華國」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2039/11/30",
+    "expiry_date": "2039/12/01"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/12/29",
     "title": "2062年未來人預言：第三次世界大戰將會發生，書籍應妥善保管",
     "summary": "根據2025年12月29日整理的2ch（現5ch）發文，自稱來自2062年的未來人預言第三次世界大戰將會發生，美國和日本將對中國應戰，印度將鎮壓。他也建議應妥善保管書籍，並預言2040年代前半，美日印將在月球建立第一個基地。",
@@ -9375,6 +9429,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2040/01/01",
     "expiry_date": "2040/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/04/08",
+    "title": "2058 年未來人國分玲預言：台灣將發生獨立戰爭",
+    "summary": "國分玲預言台灣將在 2040 年代前半發生獨立戰爭。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2040/07/01",
+    "expiry_date": "2040/07/02"
   },
   {
     "category": "PROPHECY",
@@ -9714,6 +9777,33 @@
     "date": "2026/08/14",
     "title": "2062 年未來人關於第三次世界大戰與中國的預言",
     "summary": "2010 年底現身於日本 2ch 論壇的「2062 年未來人」曾預言第三次世界大戰將會發生，並提及美國與日本將會聯手應戰中國，最終中國將被消滅，亞洲大部分地區將成為印度的勢力範圍。此外，該未來人也曾提及 2062 年時地球上將沒有中國。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "2062 年未來人預言：中國將消失，併入印度或成俄羅斯屬地",
+    "summary": "2062 年未來人預言中國將不再存在，在 2062 年時被稱為「華國」，且曾經併入印度。另有說法指出韓國、北朝鮮將不存在，曾為中國自治區，後歸屬俄羅斯。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "2062 年未來人預言：美國霸權將崩潰，日本領土將擴張",
+    "summary": "2062 年未來人預言美國霸權將崩潰，並產生新的政權。日本領土將擴張至庫頁島、北方四島和台灣（此預言與國分玲關於台灣獨立戰爭的預言存在矛盾）。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2062/01/01",
+    "expiry_date": "2062/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/19",
+    "title": "2062 年未來人預言：醫療技術飛躍與克隆人存在",
+    "summary": "2062 年未來人預言醫療界將有難以置信的飛躍，所有疾病都能治療，並存在控制睡眠的藥物。克隆人也已存在。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2062/01/01",
     "expiry_date": "2062/01/02"
