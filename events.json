@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/09/25",
+    "title": "杭州NGD獨立遊戲參展",
+    "summary": "50 多款獨立遊戲於 2026 年 9 月 25 日至 26 日在杭州 NGD 參展，提供遊戲試玩、新品宣講、製品售賣及桌遊體驗，包含《餓殍：明末千里行》、《蘇丹的遊戲》、《輪迴保險公司》等作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/24",
     "title": "Epic Games 下週限時免費遊戲預告：《阿斯特賴：六面神諭》與《機甲鬥士》",
     "summary": "Epic Games 預告將於 2026 年 9 月 24 日至 10 月 1 日提供《Astrea: Six Sided Oracles》和《Mechabellum》（機甲鬥士）限時免費領取。",
@@ -28,6 +36,30 @@
     "date": "2026/09/24",
     "title": "Epic Games Store最新免費遊戲：《Astrea: Six-Sided Oracles》、《Mechabellum》",
     "summary": "Epic Games Store公布本月最後一批免費遊戲，自今日起至10月1日可免費領取獨特Roguelike骰牌構築遊戲《Astrea: Six-Sided Oracles》及自動戰鬥遊戲《Mechabellum》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store 限時免費：《Astrea: Six Sided Oracles》與《Mechabellum》",
+    "summary": "Epic Games Store 於本週推出兩款限時免費遊戲，玩家可在 2026 年 9 月 24 日至 10 月 1 日期間領取好評策略牌組構築 Roguelike 遊戲《Astrea: Six Sided Oracles》和即時戰術自動戰鬥遊戲《Mechabellum》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store 限時免費：《Warframe》Narin 的冰刃",
+    "summary": "Epic Games Store 同步提供《Warframe》的「Narin 的冰刃」組合包限時免費領取，期間為 2026 年 9 月 24 日至 10 月 1 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "東京電玩展 2026「SELECTED INDIE 80」台灣獨立遊戲亮相",
+    "summary": "在 2026 東京電玩展（TGS 2026）的獨立遊戲企劃「SELECTED INDIE 80」中，從全球超過 1500 件投稿作品中選出 80 件免費參展，其中有三款台灣團隊的遊戲入選，分別是海溝遊戲開發的《阿雷塔（YARETA）》、正直香蕉遊戲工作室的《自拍蟲蟲（Selfie Worm）》以及慢走遊戲製作的《再見的備份（Some Goodbyes We Made）》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -76,6 +108,22 @@
     "date": "2026/09/22",
     "title": "Steam免費序號領取：《Police Stories》",
     "summary": "Steam免費遊戲情報站今日提供《Police Stories》免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 多款遊戲週末免費遊玩與折扣",
+    "summary": "Steam 平台於 9 月 18 日至 9 月 21 日期間推出四款遊戲的免費週末活動，包含《暗黑破壞神 4》、《盜賊之海》、《Last Flag》和《Jump Space》，並提供折扣優惠。其中《暗黑破壞神 4》享 75 折，《盜賊之海》享 65 折，《Jump Space》享 4 折，至 9 月 24 日或 9 月 27 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 免費序號領取與商店限免遊戲",
+    "summary": "Steam 免費遊戲情報站於 9 月 18 日至 9 月 22 日期間陸續提供多款遊戲的免費序號領取，包括《Police Stories》、《Cheese Stack》、《Pirate Guy 2 New Land》、《Control Craft 2》、《Cosmic Distortion》、《Operation swat》，以及商店限時免費領取《Deadshot》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -348,54 +396,6 @@
     "date": "2026/09/18",
     "title": "Steam秋季特賣會預告：多款大作折扣即將登場",
     "summary": "Steam官方透過社群平台預告，年度秋季特賣會將於下週正式展開，屆時將有上千款遊戲祭出超值折扣，包含多款AAA級大作與備受期待的獨立遊戲。玩家已開始在論壇上分享願望清單，期待折扣詳情公布。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Epic Games Store 免費遊戲：《Special Force Remaster》",
-    "summary": "Epic Games Store 於 9 月 18 日開放免費下載多人射擊遊戲《Special Force Remaster》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam 免費週末：《暗黑破壞神4》等四款遊戲",
-    "summary": "Steam 於 9 月 18 日開啟新一期免費週末，開放《暗黑破壞神4》、《盜賊之海》、《最後的旗幟》和《Jump Space》四款遊戲限時免費遊玩至 9 月 21 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "《第七史詩》參加 2026 Steam 新品節",
-    "summary": "手機回合制戰略RPG《第七史詩》宣布將參與2026年10月19日至26日（太平洋標準時間）舉辦的「Steam 新品節」，屆時將提供遊戲Demo試玩，並推出與《卡厄思夢境》的合作內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/18",
-    "title": "前員工蘿拉消失2年後露臉，首度鞠躬向蔡阿嘎、二伯道歉",
-    "summary": "YouTuber蔡阿嘎前資深員工蘿拉（本名林沛蓁）在2024年因AB合約及千萬款項爭議遭公司開除。事隔約2年，她於9月17日罕見接受媒體訪問，首度在鏡頭前正面談及當年的風波，並向蔡阿嘎與二伯鞠躬致歉，坦言犯下非常嚴重且荒唐的錯誤，希望能親自下跪謝罪。目前雙方律師仍持續溝通還款方案。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam免費週末開放四款遊戲，包含《暗黑破壞神4》",
-    "summary": "Steam 新一期免費週末現已開啟，開放《暗黑破壞神4》、《盜賊之海》、《最後的旗幟》和《Jump Space》四款合作或多人遊戲限時免費遊玩，活動至9月21日結束。《暗黑破壞神4》和《盜賊之海》同期有折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam 限時免費暢玩週末：《暗黑破壞神 4》、《盜賊之海》等四款遊戲",
-    "summary": "Steam 推出限時免費暢玩週末活動，玩家可於 9 月 18 日至 9 月 21 日期間免費體驗《暗黑破壞神 4 (Diablo 4)》、《盜賊之海 (Sea of Thieves)》、《Last Flag》以及《Jump Space》等四款遊戲。活動期間內購買這些遊戲亦享有折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
