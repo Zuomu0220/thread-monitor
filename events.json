@@ -40,6 +40,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam 新遊戲特惠：《黯井微光》",
+    "summary": "於 2026 年 9 月 22 日發行的《黯井微光》現正享 15% 折扣，售價 $16.99 美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/21",
     "title": "實況主Ray私密影片外流疑手機遭駭",
@@ -92,6 +100,22 @@
     "date": "2026/09/21",
     "title": "Steam 多人遊戲節 (Multiplayer Games Fest) 開跑",
     "summary": "Steam 於 2026 年 9 月 21 日推出多人遊戲節，活動將持續至 10 月 2 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/21",
+    "title": "Steam 2026 秋季特賣情報",
+    "summary": "Steam 2026 年秋季特賣活動預計於 10 月 1 日至 10 月 8 日舉行，將涵蓋多款 3A 大作與獨立遊戲折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/21",
+    "title": "Steam 新遊戲特惠：《今天都是腿》及《Ved：療癒所》",
+    "summary": "於 2026 年 9 月 21 日發行的《今天都是腿》現正享 10% 折扣，售價 $8.99 美元；同日發行的《Ved：療癒所》享 15% 折扣，售價 $15.29 美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -374,30 +398,6 @@
     "summary": "Steam 平台於 2026 年 9 月 18 日有獨立遊戲《花磚公司》與《Nightwater》發售，兩款遊戲均提供 10% 的發售折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam 新品發售折扣",
-    "summary": "Steam 平台上多款新作於本週推出並提供首發折扣，包含策略模擬遊戲《花磚公司》、開放世界自動化遊戲《Nightwater》（發行日：9月18日），以及《無盡帝國2 ENDLESS Legend™ 2》、《核桃心》、《餘燼守衛Emberward》（發行日：9月17日）等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam Aerosoft 發行商特賣活動",
-    "summary": "Steam 平台於 2026 年 9 月 18 日至 10 月 1 日期間，舉辦 Aerosoft 發行商特賣，提供模擬與策略遊戲高達 9 折的優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/17",
-    "title": "無最新負面與爭議事件",
-    "summary": "根據近7天（2026/09/10 至 2026/09/17）的網路搜尋結果，未發現台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面或爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
