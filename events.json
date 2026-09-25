@@ -64,6 +64,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store 遊戲更新",
+    "summary": "針對《Warframe》推出「Narin 的冰刃」新內容，讓玩家可操控 Warframe Narin 對抗 Entropic Eximus。《明日方舟：終末地》推出「RE-Factor Headhunting」限時招募，提升幹員「伊馮」機率。《原神》則慶祝六週年逐月節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/23",
     "title": "中型VTuber經紀公司「彩虹夢境」爆合約糾紛，多位成員發文抱怨待遇不公",
@@ -390,14 +398,6 @@
     "summary": "剛出道不久的個人勢VTuber星野月，其Discord私人對話紀錄遭不明人士外洩，內容涉及對部分粉絲的不滿言論。事件爆發後，星野月緊急開啟直播解釋並哭泣道歉，但仍有大量粉絲表示失望並取消訂閱。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/18",
-    "title": "Steam秋季特賣會預告：多款大作折扣即將登場",
-    "summary": "Steam官方透過社群平台預告，年度秋季特賣會將於下週正式展開，屆時將有上千款遊戲祭出超值折扣，包含多款AAA級大作與備受期待的獨立遊戲。玩家已開始在論壇上分享願望清單，期待折扣詳情公布。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
@@ -8007,15 +8007,6 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/06/15",
     "expiry_date": "2027/06/16"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/01/02",
-    "title": "Reddit 網友對 2027 年的預測",
-    "summary": "Reddit 網友預測 2027 年 7 月 6 日（星期二）美國股市將崩潰。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2027/07/06",
-    "expiry_date": "2027/07/07"
   },
   {
     "category": "PROPHECY",
