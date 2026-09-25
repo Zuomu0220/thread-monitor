@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/25",
+    "title": "無最新負面與爭議事件",
+    "summary": "在 2026/09/18 至 2026/09/25 期間，未發現華語圈實況主或 VTuber 有任何公開的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/24",
     "title": "Epic Games 下週限時免費遊戲預告：《阿斯特賴：六面神諭》與《機甲鬥士》",
@@ -68,6 +76,14 @@
     "date": "2026/09/24",
     "title": "Epic Games Store 遊戲更新",
     "summary": "針對《Warframe》推出「Narin 的冰刃」新內容，讓玩家可操控 Warframe Narin 對抗 Entropic Eximus。《明日方舟：終末地》推出「RE-Factor Headhunting」限時招募，提升幹員「伊馮」機率。《原神》則慶祝六週年逐月節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store 九月最終免費遊戲",
+    "summary": "Epic Games Store 公布了九月份的最終免費遊戲陣容，包含《Astrea: Six-Sided Oracles》和《Mechabellum》。這兩款遊戲將從 9 月 24 日起限時免費領取，直到 10 月 1 日上午 11 點（ET）。《Astrea: Six-Sided Oracles》是一款獨特的 Roguelike 牌組構築遊戲，玩家收集骰子而非卡牌；《Mechabellum》則是一款自動戰鬥遊戲，玩家需要組裝機甲大軍進行戰鬥。兩款遊戲原價合計約 40 美元，目前皆獲得玩家好評。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -381,22 +397,6 @@
     "title": "Steam限時免費：《Deadshot》復古末日FPS",
     "summary": "Steam平台自2026年9月19日起至9月24日凌晨1:00（香港時間），提供復古風格第一人稱射擊遊戲《Deadshot》限時免費領取。遊戲由獨立開發者v0lt製作，靈感來自《Half-Life》、《DOOM》等經典FPS。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/19",
-    "title": "Steam 免費序號領取：Operation swat",
-    "summary": "Steam 免費遊戲情報站於 2026 年 9 月 19 日發布 Operation swat 的免費序號領取資訊。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/19",
-    "title": "個人勢VTuber「星野月」因Discord私密訊息外洩，粉絲群情激憤",
-    "summary": "剛出道不久的個人勢VTuber星野月，其Discord私人對話紀錄遭不明人士外洩，內容涉及對部分粉絲的不滿言論。事件爆發後，星野月緊急開啟直播解釋並哭泣道歉，但仍有大量粉絲表示失望並取消訂閱。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 1
   },
   {
@@ -9123,6 +9123,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2031/08/06",
     "expiry_date": "2031/08/07"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/25",
+    "title": "AI 技術突破醫學：Anthropic CEO 預言十年內治癒絕大多數疾病",
+    "summary": "美國人工智慧公司 Anthropic 的執行長 Dario Amodei 於 9 月 23 日公開預測，隨著先進技術徹底改變生物學與醫學研究方式，人工智慧（AI）極有可能在未來 5 到 10 年內，幫助人類治癒絕大多數疾病。同時，Anthropic 宣布旗下 AI 模型 Claude 成功自主發現了一種全新的分子機器。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2031/09/23",
+    "expiry_date": "2031/09/24"
   },
   {
     "category": "PROPHECY",
