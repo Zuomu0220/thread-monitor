@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/25",
+    "title": "Epic Games Store免費遊戲更新",
+    "summary": "Epic Games Store 更新本週限時免費遊戲，確認可領取《Astrea: Six-Sided Oracles》和《Mechabellum》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/24",
     "title": "Epic Games 下週限時免費遊戲預告：《阿斯特賴：六面神諭》與《機甲鬥士》",
     "summary": "Epic Games 預告將於 2026 年 9 月 24 日至 10 月 1 日提供《Astrea: Six Sided Oracles》和《Mechabellum》（機甲鬥士）限時免費領取。",
@@ -112,6 +120,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store免費遊戲",
+    "summary": "Epic Games Store 於9月24日開放限時免費領取《Astrea: Six-Sided Oracles》和《Mechabellum》，活動截止至10月1日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/23",
     "title": "中型VTuber經紀公司「彩虹夢境」爆合約糾紛，多位成員發文抱怨待遇不公",
@@ -180,6 +196,14 @@
     "date": "2026/09/22",
     "title": "Steam 免費序號領取與商店限免遊戲",
     "summary": "Steam 免費遊戲情報站於 9 月 18 日至 9 月 22 日期間陸續提供多款遊戲的免費序號領取，包括《Police Stories》、《Cheese Stack》、《Pirate Guy 2 New Land》、《Control Craft 2》、《Cosmic Distortion》、《Operation swat》，以及商店限時免費領取《Deadshot》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/22",
+    "title": "Steam免費序號領取",
+    "summary": "Steam 平台於9月22日提供《Police Stories》、《Cheese Stack》免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -373,30 +397,6 @@
     "title": "統神再談與哥哥國動關係牽扯「一個女人」",
     "summary": "知名實況主統神近日在直播中再次提及與哥哥國動的關係，表示雙方之間仍存在血緣，難以真正憎恨對方。他透露兩人關係問題的關鍵牽涉到一位女性，但未公開其身分，引發網友對這段曾是知名遊戲實況搭檔的兄弟關係再次討論與猜測。",
     "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/19",
-    "title": "多米多羅與芝芝分手風波延燒，直播公開對質吸引逾2萬人圍觀",
-    "summary": "旅日YouTuber多米多羅與前女友芝芝的分手風波持續延燒。多米多羅在9月19日生日當天宣布兩人已於8月分手，隨後芝芝友人爆料多米多羅在芝芝術後兩天電話提分手，並在未正式分手前聯繫其他女性。面對質疑，多米多羅開啟直播邀請芝芝語音對談，吸引超過2.3萬人同時觀看。雙方就分手時間、與其他女性互動界線、以及分手後親密舉動等問題各執一詞，芝芝在直播中一度落淚，最後在情緒低落中祝多米多羅生日快樂後離線。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/19",
-    "title": "網紅多米多羅與女友芝芝分手疑雲，爆發劈腿與冷暴力爭議並公開對質",
-    "summary": "網紅多米多羅證實與女友芝芝於8月分手，但隨後芝芝親友留言及芝芝轉發貼文暗示多米多羅劈腿、冷暴力。多米多羅為此開直播與芝芝公開對質，雙方就分手時間點、是否恢復單身、與其他女性互動等議題各執一詞，引發大量網友關注。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/19",
-    "title": "Steam 限時免費領取《Deadshot》",
-    "summary": "復古第一人稱射擊遊戲《Deadshot》在 Steam 平台提供限時免費，玩家可於 9 月 24 日凌晨 1 點前領取永久保存。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
   {
