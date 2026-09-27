@@ -73,6 +73,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/25",
+    "title": "Epic Games Store九月最後免費遊戲《Astrea: Six-Sided Oracles》與《Mechabellum》",
+    "summary": "Epic Games Store於9月25日起至10月1日上午11點（美東時間）止，免費贈送兩款遊戲：《Astrea: Six-Sided Oracles》與《Mechabellum》，領取後即可永久保存。其中，《Astrea: Six-Sided Oracles》是一款捨棄傳統卡牌構築，改以「骰子」為核心機制的Roguelike遊戲；《Mechabellum》則是一款戰術型自動戰鬥遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/24",
     "title": "Epic Games 下週限時免費遊戲預告：《阿斯特賴：六面神諭》與《機甲鬥士》",
     "summary": "Epic Games 預告將於 2026 年 9 月 24 日至 10 月 1 日提供《Astrea: Six Sided Oracles》和《Mechabellum》（機甲鬥士）限時免費領取。",
@@ -204,6 +212,14 @@
     "date": "2026/09/24",
     "title": "Epic Games 限時免費：Astrea: Six-Sided Oracles & Mechabellum",
     "summary": "Epic Games 商店宣布，於 9 月 24 日起至 10 月 1 日止，玩家可限時免費領取《Astrea: Six-Sided Oracles》和《Mechabellum》兩款遊戲。其中《Astrea: Six-Sided Oracles》是一款獨特的 Roguelike 牌組構築遊戲，以骰子取代卡牌；而《Mechabellum》則是一款即時自動戰鬥遊戲，玩家需組建機甲大軍進行對戰。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Nintendo eShop「假期歡樂優惠」開始",
+    "summary": "任天堂eShop自9月24日（四）起推出「假期歡樂優惠」活動，包含多款第三方廠商遊戲、新增內容及組合商品的折扣優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -380,22 +396,6 @@
     "date": "2026/09/21",
     "title": "Steam 新品試玩節：多款獨立遊戲 Demo 開放",
     "summary": "Steam 在 2026 年 9 月 21 日至 27 日期間，推出多款獨立遊戲 Demo 供玩家免費試玩。其中包括《Idle Mining Manager Demo》（休閒模擬）、《Night Train Simulator: Blackout Demo》（獨立、模擬、心理恐怖）、《The Atrium Demo》（冒險、休閒）等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/21",
-    "title": "Steam 墨西哥娛樂系統展示會",
-    "summary": "Steam 平台於 9 月 21 日至 28 日舉辦「墨西哥娛樂系統」展示會，旨在展示墨西哥開發者的遊戲作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/21",
-    "title": "Steam 2026 秋季特賣檔期公布",
-    "summary": "Valve 公布 Steam 2026 年秋季特賣將於 10 月 1 日至 10 月 8 日舉行，預計將有《絕地戰兵2》、《柏德之門3》、《黑帝斯II》、《幻獸帕魯》等熱門大作參與折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
