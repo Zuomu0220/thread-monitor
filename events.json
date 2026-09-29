@@ -48,6 +48,14 @@
     "days_left": 5
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/28",
+    "title": "實況主中指通Wirforce活動態度爭議並下跪道歉",
+    "summary": "實況主中指通（通哥）在2026年的Wirforce活動中，因與不同性別觀眾合照時表情差異大，遭聊天室質疑「變臉」。他在9月28日凌晨開台直播，當眾下跪道歉，解釋是首次直播此類活動過於緊張，且是順著觀眾玩笑，無意傷害任何人，並希望未來男性觀眾仍能多找他聊天拍照。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/09/27",
     "title": "Steam 新品發行與免費 Demo",
@@ -356,6 +364,14 @@
     "date": "2026/09/24",
     "title": "Epic Games Store 限時免費遊戲",
     "summary": "Epic Games Store 宣布本週限時免費遊戲為《Astrea: Six-Sided Oracles》和《Mechabellum》，玩家可於 10 月 1 日前免費領取並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store限時免費：《Astrea: Six-Sided Oracles》與《Mechabellum》",
+    "summary": "Epic Games Store於9月24日宣布，限時免費提供《Astrea: Six-Sided Oracles》與《Mechabellum》供玩家領取，活動將持續至10月1日。前者是一款骰子牌組建構的Roguelike遊戲，後者則是機甲自動戰棋遊戲，兩款遊戲原價合計40美元，目前可免費入手。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
