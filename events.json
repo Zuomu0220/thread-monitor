@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/09/29",
+    "title": "無相關事件",
+    "summary": "在 2026/09/22 至 2026/09/29 期間，未搜尋到台灣/華語圈實況主或 VTuber 發生炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/29",
+    "title": "Steam 新遊戲發行",
+    "summary": "遊戲《Minecraft Dungeons II》與《Transport Fever 3》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/28",
     "title": "Steam 預告發售",
@@ -304,6 +320,22 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Steam 限時免費",
+    "summary": "多人遊戲《Squad》和單人模擬遊戲《加油站模擬器》（Gas Station Simulator）在 Steam 平台開放限時免費遊玩，活動於 9 月 28 日結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/24",
+    "title": "Epic Games Store 限時免費",
+    "summary": "策略骰子牌組構築肉鴿遊戲《Astrea: Six-Sided Oracles》和機甲自走棋遊戲《Mechabellum》可在 Epic Games Store 免費領取，活動持續至 10 月 1 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/09/23",
     "title": "中型VTuber經紀公司「彩虹夢境」爆合約糾紛，多位成員發文抱怨待遇不公",
@@ -318,14 +350,6 @@
     "summary": "東京電玩展揭示遊戲業AI真實進度，有高達 85.8% 的遊戲開發者已使用 AI，如台灣金展創意展出的《Face Punch》允許玩家上傳照片生成格鬥角色。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/22",
-    "title": "Steam 限時免費",
-    "summary": "射擊遊戲《Deadshot》為慶祝遊戲上市兩週年，即日起至 2026/09/24 凌晨 1 點前開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "GAME",
@@ -373,30 +397,6 @@
     "title": "Steam 免費序號領取與商店限免遊戲",
     "summary": "Steam 免費遊戲情報站於 9 月 18 日至 9 月 22 日期間陸續提供多款遊戲的免費序號領取，包括《Police Stories》、《Cheese Stack》、《Pirate Guy 2 New Land》、《Control Craft 2》、《Cosmic Distortion》、《Operation swat》，以及商店限時免費領取《Deadshot》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/22",
-    "title": "Steam免費序號領取",
-    "summary": "Steam 平台於9月22日提供《Police Stories》、《Cheese Stack》免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/22",
-    "title": "PUBG亞洲明星賽直播狙擊爭議",
-    "summary": "在PUBG亞洲明星比賽中，越南選手Himass和Tanvuu被韓國直播主SOOPI揭發進行「直播狙擊」，儘管比賽性質輕鬆且可能存在規則誤解，但Krafton已確認直播干擾情況。此事件引發了雙方粉絲的激烈爭論與民族攻擊，Krafton因此出面為其混亂的溝通和操作失誤道歉，並將對涉事玩家進行懲罰。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/22",
-    "title": "VTuber 時雨羽衣聯名爭議後續：批評論壇出現誹謗者道歉聲明",
-    "summary": "此前因與女童服飾品牌合作引發爭議的 VTuber 時雨羽衣事件，其衍生的誹謗問題在9月22日有了新進展。一名53歲男性因在網絡上發布言論，被指控對批評該聯名活動的女性進行虛假指控及誹謗，現已公開發表道歉聲明，顯示該爭議的法律層面告一段落。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 0
   },
   {
