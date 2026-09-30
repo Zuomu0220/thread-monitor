@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/30",
+    "title": "《9.8》Demo 釋出",
+    "summary": "遊戲《9.8》的 Demo 版於 9 月 30 日推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/29",
     "title": "Epic Games",
     "summary": "《Vanakan》限時免費領取：此遊戲在 Epic Games Store 限時免費，活動於 9 月 29 日結束。",
@@ -84,6 +92,14 @@
     "date": "2026/09/28",
     "title": "Steam 獨立遊戲 Demo",
     "summary": "多款好評 Demo 釋出：《Coin Maker Simulator Demo》、《MR. RECORDS Demo》、《Handshakes: Hands On Demo》、《Don't Pick Up Demo》及《Terrible Lizards Demo》等高評價獨立遊戲 Demo 於 2026 年 9 月 21 日至 27 日期間在 Steam 平台釋出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/28",
+    "title": "Steam 多款高評價 Demo 釋出",
+    "summary": "Steam 平台於上週（9 月 21 日至 27 日）推出多款高評價遊戲試玩版，包含獲得 100% 好評的節奏平台遊戲《MR. RECORDS Demo》、動作恐怖遊戲《Greedy Demo》、模擬經營遊戲《Coin Maker Simulator Demo》、休閒解謎遊戲《Handshakes: Hands On Demo》、心理恐怖遊戲《Don't Pick Up Demo》以及動作冒險遊戲《Terrible Lizards Demo》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -380,22 +396,6 @@
     "date": "2026/09/24",
     "title": "Epic Games Store 限時免費",
     "summary": "策略骰子牌組構築肉鴿遊戲《Astrea: Six-Sided Oracles》和機甲自走棋遊戲《Mechabellum》可在 Epic Games Store 免費領取，活動持續至 10 月 1 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Epic Games 限時免費",
-    "summary": "策略型骰子組牌 Roguelike 遊戲《Astrea: Six-Sided Oracles》與機甲自動戰鬥遊戲《Mechabellum》開放限時免費領取，活動將持續至 10 月 1 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "Epic Games Store 宣布本週限時免費遊戲為《Astrea: Six-Sided Oracles》和《Mechabellum》，玩家可於 10 月 1 日前免費領取並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -5439,6 +5439,15 @@
     "date": "2026/09/26",
     "title": "印度神童預言太平洋板塊異動",
     "summary": "印度神童阿南德在 2025 年 12 月發布影片預言，2026 年太平洋板塊的「巨龍」將會徹底活躍，可能導致天災異象。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/01",
+    "title": "盲眼龍婆其他 2026 預言：第三次世界大戰與俄羅斯領導人變更",
+    "summary": "除了前述預言，盲眼龍婆的追隨者也指出，尚未發生的 2026 年預言還包括「巨型外星太空船抵達地球」、「第三次世界大戰爆發」，以及「俄羅斯領導人於 2026 年底前出現重大更替」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
