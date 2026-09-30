@@ -9,6 +9,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Steam 2026 秋季特賣活動開跑",
+    "summary": "Steam 2026 秋季特賣活動於10月1日正式開始，預計將持續至10月8日。期間全站遊戲將提供折扣優惠，同時也歡迎免費遊戲、即將推出作品及試玩版遊戲參與本次活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/30",
     "title": "Steam 獨立遊戲 Demo 釋出",
     "summary": "合作遊戲《Split Happens》的 Demo 將於 2026 年 9 月 30 日上線。這是一款 1-6 人合作遊戲，玩家需要合作維持核反應爐運作，修復洩漏管道、蒸汽洩漏和火災等危險。",
@@ -77,6 +85,14 @@
     "title": "Steam 2026 秋季特賣活動預告",
     "summary": "Steam 官方已預告 2026 年秋季特賣將於 10 月 1 日至 10 月 8 日舉行，為期一週。此次特賣預計將涵蓋多款 3A 大作與人氣獨立遊戲，並同步舉辦 Steam 大獎提名投票活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/09/29",
+    "title": "某實況主涉消遣「北車事件」遭炎上",
+    "summary": "Threads上熱議指出，一名Twitch實況主因在開台時以「北車事件」為題材而遭到大量網友抨擊。相關VOD及Instagram發文隨後被刪除，該實況主亦迅速發布道歉聲明。網友討論聚焦於公眾人物言論的敏感性與失言應變。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 5
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/09/24",
     "title": "Nintendo eShop「假期歡樂優惠」開始",
     "summary": "任天堂eShop自9月24日（四）起推出「假期歡樂優惠」活動，包含多款第三方廠商遊戲、新增內容及組合商品的折扣優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Steam 遊戲特惠",
-    "summary": "Steam 平台有多款遊戲進行週末特價或每日特惠，包括《Squad》免費週末並享 50% 折扣、Atlus 開發者特賣最高 80% 折扣、Nier 系列作特賣最高 60% 折扣等。其他特惠遊戲包括《Spellcaster University》70% 折扣、《Kingdom Rush - Tower Defense》90% 折扣、《Warhammer 40,000: Rogue Trader》70% 折扣、《CODE VEIN》90% 折扣、《Terra Nil》75% 折扣、《Cthulhu: The Cosmic Abyss》50% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Epic Games Store 釋出九月最後兩款免費遊戲",
-    "summary": "Epic Games Store於9月24日宣布，本月最後兩款限時免費遊戲為《Astrea: Six-Sided Oracles》與《Mechabellum》。這兩款遊戲將開放免費領取至10月1日，為玩家提供獨特的骰子構築Roguelike遊戲和科幻機甲自動戰鬥體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
