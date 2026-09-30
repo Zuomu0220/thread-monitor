@@ -9,6 +9,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/30",
+    "title": "Steam Demo",
+    "summary": "《9.8's Demo》推出：遊戲《9.8's》的 Demo 版本於 2026 年 9 月 30 日推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/30",
+    "title": "Steam 今日特惠",
+    "summary": "多款遊戲折扣中：Steam 平台於今日提供多款遊戲限時特惠，包含《Ori and the Will of the Wisps》90%折扣、《Terminator: Dark Fate - Defiance》40%折扣、《PAC-MAN MEGA TUNNEL BATTLE: CHOMP CHAMPS》45%折扣、《Shantae and the Pirate's Curse》50%折扣、《Warhammer 40,000: Mechanicus II》20%折扣及《Fetish Locator: S&M Studio》40%折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/29",
     "title": "Epic Games",
     "summary": "《Vanakan》限時免費領取：此遊戲在 Epic Games Store 限時免費，活動於 9 月 29 日結束。",
@@ -28,6 +44,14 @@
     "date": "2026/09/29",
     "title": "Steam 新遊戲發行",
     "summary": "遊戲《Minecraft Dungeons II》與《Transport Fever 3》於 Steam 平台發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/29",
+    "title": "Steam 新品發行",
+    "summary": "《Minecraft Dungeons II》與《Transport Fever 3》上市：兩款新作《Minecraft Dungeons II》和《Transport Fever 3》於 2026 年 9 月 29 日在 Steam 平台發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -53,6 +77,14 @@
     "title": "實況主中指通Wirforce活動態度爭議並下跪道歉",
     "summary": "實況主中指通（通哥）在2026年的Wirforce活動中，因與不同性別觀眾合照時表情差異大，遭聊天室質疑「變臉」。他在9月28日凌晨開台直播，當眾下跪道歉，解釋是首次直播此類活動過於緊張，且是順著觀眾玩笑，無意傷害任何人，並希望未來男性觀眾仍能多找他聊天拍照。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/28",
+    "title": "Steam 獨立遊戲 Demo",
+    "summary": "多款好評 Demo 釋出：《Coin Maker Simulator Demo》、《MR. RECORDS Demo》、《Handshakes: Hands On Demo》、《Don't Pick Up Demo》及《Terrible Lizards Demo》等高評價獨立遊戲 Demo 於 2026 年 9 月 21 日至 27 日期間在 Steam 平台釋出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -366,38 +398,6 @@
     "summary": "Epic Games Store 宣布本週限時免費遊戲為《Astrea: Six-Sided Oracles》和《Mechabellum》，玩家可於 10 月 1 日前免費領取並永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Epic Games Store限時免費：《Astrea: Six-Sided Oracles》與《Mechabellum》",
-    "summary": "Epic Games Store於9月24日宣布，限時免費提供《Astrea: Six-Sided Oracles》與《Mechabellum》供玩家領取，活動將持續至10月1日。前者是一款骰子牌組建構的Roguelike遊戲，後者則是機甲自動戰棋遊戲，兩款遊戲原價合計40美元，目前可免費入手。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/23",
-    "title": "中型VTuber經紀公司「彩虹夢境」爆合約糾紛，多位成員發文抱怨待遇不公",
-    "summary": "多名「彩虹夢境」旗下VTuber於社群平台Threads上接連發文，暗示公司抽成過高、資源分配不均，甚至有成員提及被限制直播內容與時間。公司目前尚未正面回應，但已引起VTuber圈內外熱議，粉絲擔憂偶像未來發展。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/23",
-    "title": "東京電玩展AI應用",
-    "summary": "東京電玩展揭示遊戲業AI真實進度，有高達 85.8% 的遊戲開發者已使用 AI，如台灣金展創意展出的《Face Punch》允許玩家上傳照片生成格鬥角色。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/23",
-    "title": "Steam 免費遊戲上線與活動結束",
-    "summary": "由 v0lt 團隊開發的復古免費第一人稱射擊遊戲《死神》於 Steam 正式上線，玩家無需付費即可下載體驗。同日，Steam 平台上其他多款免費遊戲的限時領取活動也已截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
@@ -1503,6 +1503,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/15",
     "expiry_date": "2026/12/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/30",
+    "title": "新宿神秘呼喚預言",
+    "summary": "某社群貼文提及「新宿 ``蓮・鳳凰・虎を呼び出す預言°° 冬至 2026」，內容極其隱晦，暗示新宿在 2026 年冬至時將會發生與蓮、鳳凰、虎相關的神秘召喚或事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/21",
+    "expiry_date": "2026/12/22"
   },
   {
     "category": "PROPHECY",
