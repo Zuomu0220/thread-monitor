@@ -16,6 +16,30 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/01",
+    "title": "無最新事件",
+    "summary": "在指定期間（2026/09/24 至 2026/10/01）內，未發現台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面與爭議事件的最新公開報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Epic Games Store 新一波免費遊戲",
+    "summary": "Epic Games Store 於2026年10月1日起至10月8日止，將陸續推出《EA SPORTS FC™ 27 Lite》、《崩壞：星穹鐵道》4.6版本（包含新角色「真珠」）及《Delta Force》二週年活動等免費內容，供玩家下載體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Steam 2026 秋季特賣登場",
+    "summary": "Steam 2026年度秋季特賣活動於10月1日正式開跑，預計持續至10月8日，期間將有大量遊戲提供折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/09/30",
     "title": "Steam 獨立遊戲 Demo 釋出",
@@ -372,30 +396,6 @@
     "date": "2026/09/24",
     "title": "Epic Games Store 九月最終免費遊戲",
     "summary": "Epic Games Store 公布了九月份的最終免費遊戲陣容，包含《Astrea: Six-Sided Oracles》和《Mechabellum》。這兩款遊戲將從 9 月 24 日起限時免費領取，直到 10 月 1 日上午 11 點（ET）。《Astrea: Six-Sided Oracles》是一款獨特的 Roguelike 牌組構築遊戲，玩家收集骰子而非卡牌；《Mechabellum》則是一款自動戰鬥遊戲，玩家需要組裝機甲大軍進行戰鬥。兩款遊戲原價合計約 40 美元，目前皆獲得玩家好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Steam限時免費",
-    "summary": "《Chill Fishing》桌面釣魚遊戲在 Steam 平台提供免費下載，支援繁體中文及自動掛機功能。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "遊戲新聞",
-    "summary": "《SILENT HILL: Townfall》正式推出，遊戲舞台設定在蘇格蘭荒涼小島。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/24",
-    "title": "Epic Games Store免費遊戲",
-    "summary": "Epic Games Store 於9月24日開放限時免費領取《Astrea: Six-Sided Oracles》和《Mechabellum》，活動截止至10月1日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
