@@ -48,6 +48,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam 2026 年度秋季特賣活動開啟",
+    "summary": "Valve 宣布 Steam 秋季特賣活動已於北京時間 10 月 2 日凌晨 1 點開啟，預計持續至 10 月 9 日凌晨 1 點。這是 Steam 每年四次季節性特賣之一，涵蓋大量遊戲折扣，包括今年 5 月底發售的《挖掘者米娜》和 6 月發售的《冒險家艾略特的千年奇譚》可能再次降價。目前，《女神異聞錄 3：Reload》在 Steam 平台正進行 3 折優惠，折扣截至 10 月 2 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -388,14 +396,6 @@
     "date": "2026/09/28",
     "title": "網紅訓狗師潘宏終審敗訴拍片鞠躬道歉",
     "summary": "內地網紅訓狗師潘宏因其西摩犬「小寶」在訓狗基地被咬死，以及其後在直播與微信群發表的言論導致狗主李女士遭到網路霸凌，終審判決潘宏需公開道歉並賠償。潘宏已於9月27日晚間發布道歉影片並鞠躬致歉。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/28",
-    "title": "「紅頭男」VTuber被指控使用AI創作素材並已道歉",
-    "summary": "一名Threads用戶發文指出「紅頭男」VTuber涉嫌使用AI素材進行商業合作。隨後「紅頭男」VTuber已針對此事發布道歉聲明，原發文者也表示接受道歉。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 2
   },
@@ -1177,6 +1177,15 @@
     "date": "2026/01/02",
     "title": "物理學家馮·佛斯特預言 2026 年人類將因過度人口被「擠死」",
     "summary": "已故物理學家馮·佛斯特 (Heinz von Foerster) 在 1960 年代預測，世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日，原因將是地球人口過度增長導致人類被「擠死」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預言 2026 年世界末日：人類將被擠死",
+    "summary": "已於 2002 年病逝的物理學家馮·佛斯特在 1960 年的《科學》期刊中預測「世界恐在 2020 年代走向終結」，其中預言的末日日期正是 2026 年 11 月 13 日。他認為這將是因為人口過剩導致人類被「擠死」。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -5610,6 +5619,15 @@
     "date": "2026/09/11",
     "title": "關於台灣、中國與世界經濟的預言",
     "summary": "預言家帕克預言台灣將不戰而勝，出現「神級結界」守護。針對中國，他預言習近平將面臨大劫，中國即將爆發內戰，人民的錢、房子、財產可能被強制徵收。此外，帕克也預言全球物資短缺和經濟崩潰將在 2027、2028、2029 年發生，中國也將發生裂變。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/25",
+    "title": "2027 年台海危機預言：四套預言體系指向巨變",
+    "summary": "報導指出，四套來自不同國家、文化及方法的預言體系，都共同指向 2027 年至 2029 年中國將發生巨變，且台海將是導火索。英國靈媒克雷格·漢密爾頓·帕克預測 2027 年台海壓力升高，2028 年危機爆發，2029 年戰火可能反噬北京內部。占星研究者歸元則觀察到 2027 年 7 月 19 日附近將出現半影月食，北京和台北同時落入凶象線。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
