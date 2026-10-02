@@ -249,6 +249,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/09/27",
+    "title": "Humble Bundle 特惠",
+    "summary": "Humble Gear & Glory Action RPGs Bundle，包含 9 款動作 RPG 遊戲，特價 $12.6 美金（優惠至 2026/09/27）",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/26",
     "title": "Steam",
     "summary": "《Explosive Odds - Supporter Pack》限時免費領取：此支援者包在 Steam 平台限時免費，活動從 9 月 26 日 06:00 UTC 開始，至 9 月 30 日 06:00 UTC 結束。",
@@ -260,6 +268,14 @@
     "date": "2026/09/26",
     "title": "Steam 限時免費",
     "summary": "《Explosive Odds - Supporter Pack》：Steam 平台於 09/26 至 09/30 限時免費贈送《Explosive Odds - Supporter Pack》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/26",
+    "title": "Steam 免費領取",
+    "summary": "Steam 商店限時免費領取《Explosive Odds》Supporter Pack DLC（活動已於 2026/09/26 結束）",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -364,6 +380,14 @@
     "date": "2026/09/25",
     "title": "Steam 遊戲折扣",
     "summary": "《On Duty Sale》與《Game Devs of Color Expo》：Steam 推出「On Duty Sale」，模擬類遊戲最高享八折優惠；同時「Game Devs of Color Expo」活動提供多樣文化視角的遊戲折扣、可玩試玩版與新發布資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 0
+  },
+  {
+    "category": "GAME",
+    "date": "2026/09/25",
+    "title": "Steam 免費序號",
+    "summary": "StellarHub 免費序號領取（活動已於 2026/09/25 結束）",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
