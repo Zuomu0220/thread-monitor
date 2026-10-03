@@ -56,6 +56,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam 限時免費",
+    "summary": "休閒冒險遊戲《Bunny Guys!》在 Steam 平台開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -389,14 +397,6 @@
     "title": "Steam 2026 秋季特賣",
     "summary": "Valve 宣布 Steam 2026 秋季特賣將於香港時間 10 月 2 日凌晨 1 時正式展開，活動預計持續一星期，至 10 月 9 日凌晨 1 時結束，屆時將有大量遊戲參與優惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/28",
-    "title": "網紅訓狗師潘宏終審敗訴拍片鞠躬道歉",
-    "summary": "內地網紅訓狗師潘宏因其西摩犬「小寶」在訓狗基地被咬死，以及其後在直播與微信群發表的言論導致狗主李女士遭到網路霸凌，終審判決潘宏需公開道歉並賠償。潘宏已於9月27日晚間發布道歉影片並鞠躬致歉。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 2
   },
   {
