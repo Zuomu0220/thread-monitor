@@ -241,6 +241,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Steam 限時免費遊戲與 DLC",
+    "summary": "Steam 於 10 月推出多項限時免費遊戲及 DLC，包含《MXGP 26 - Scrubdesignz Liveries》、《Rotwood: Drakin Armoury Pack》、《Gear.Club Unlimited 3》、《Hunting Simulator 3 - Classic American Hunter Pack》、《Fireside Feelings》、《Squad Weapon Skins - Recon Team Pack》、《Voidtrain - Big Catch》以及《Pony Island》、《Bunny Guys!》、《BROTHER!!! Save him!》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Epic Games Store 十月免費遊戲",
+    "summary": "Epic Games Store 官方揭露 2026 年 10 月的首批免費遊戲，每週四將會釋出新的免費遊戲。預計包含《Forza Horizon 6》、《Subnautica 2》、《Saros》、《Neverness to Everness》、《Diablo 4》、《Pragmata》、《Slay the Spire 2》及《Monster Hunter Stories 3》等作品。 此外，多款遊戲如《熊視眈眈》、《願景之城》、《深埋之星》、《網路奇兵2：25 週年紀念重製版》、《鋼鐵指揮官》、《阿斯特賴亞》、《將軍對決》、《心靈警探》、《星界戰士》、《天空奇兵》及《與你獨處》等也開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/30",
     "title": "Steam 獨立遊戲 Demo 釋出",
     "summary": "合作遊戲《Split Happens》的 Demo 將於 2026 年 9 月 30 日上線。這是一款 1-6 人合作遊戲，玩家需要合作維持核反應爐運作，修復洩漏管道、蒸汽洩漏和火災等危險。",
@@ -380,22 +396,6 @@
     "date": "2026/09/29",
     "title": "Steam 預計發售《夜城狂想》Nivalis Nights",
     "summary": "電馭叛客風格的生活模擬遊戲《夜城狂想》Nivalis Nights 預計於 2026 年 9 月 29 日在 Steam 發行，並提供 10% 的折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/29",
-    "title": "PS5 九月遊戲發售：《巫師3：狂獵 重製版》",
-    "summary": "《巫師3：狂獵 重製版》在 2026 年 9 月 29 日於 PS5 平台上市，帶來全方位的升級與優化，讓玩家扮演獵魔人傑洛特踏上史詩之旅。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/29",
-    "title": "《青嵐物語》團隊新作《搖搖晃晃去旅行》開放首次Steam Playtest",
-    "summary": "曾打造《青嵐物語》的ACE Entertainment團隊公開多人合作露營車公路旅行新作《搖搖晃晃去旅行》，並同步開放首次Steam Playtest測試。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
