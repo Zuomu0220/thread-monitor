@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/03",
+    "title": "Epic Games Store 與 Steam 等平台限時免費遊戲更新",
+    "summary": "各大遊戲平台如 Epic Games Store、Steam、GOG 等於 10 月 3 日更新了限時免費遊戲情報，提供玩家領取或購買特價遊戲的資訊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/02",
     "title": "Steam秋季特賣開跑：《魔物獵人崛起》等遊戲史低特價",
     "summary": "Steam 2026秋季特賣已於10月2日凌晨展開，將持續至10月9日凌晨。多款遊戲推出歷史最低價，包括《魔物獵人崛起》一折優惠、《女神異聞錄３ Reload》等遊戲。",
@@ -321,6 +329,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Steam 2026 年度秋季特賣正式開啟",
+    "summary": "Valve 宣布 Steam 秋季特賣活動於 2026 年 10 月 1 日正式啟動，全平台遊戲提供折扣優惠，活動將持續至 10 月 9 日凌晨。本次特賣涵蓋各類大小、不同題材的遊戲，方便玩家在國慶長假期間選購心儀的折扣遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/30",
     "title": "Steam 獨立遊戲 Demo 釋出",
     "summary": "合作遊戲《Split Happens》的 Demo 將於 2026 年 9 月 30 日上線。這是一款 1-6 人合作遊戲，玩家需要合作維持核反應爐運作，修復洩漏管道、蒸汽洩漏和火災等危險。",
@@ -381,22 +397,6 @@
     "title": "前主播張宇離婚後爆私照風波，新戀情穩定獲前夫祝福",
     "summary": "前「最正主播」張宇與前夫劉彥谷離婚後，日前因私密影像與家務事風波再度浮上檯面。儘管曾引起爭議，張宇與從事科技業的男友感情依然穩定，近期被週刊直擊男友開特斯拉前往機場接機，一路護送張宇返家，顯示感情未受波及。前夫劉彥谷大方給予「祝福她，穩定就好」的回應，並呼籲外界減少對家務事的關注，強調目前正透過律師談和解，主要考量是為保護孩子成長，盼能回歸平靜生活。",
     "avatar_url": "https://attach.setn.com/newsimages/2026/09/30/4845561-PH.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/30",
-    "title": "《8 號出口》風格步行模擬恐怖新作《迷走水族館》公開",
-    "summary": "獨立遊戲團隊 Suzuchina Games 公開新作《迷走水族館》，這是一款受《8 號出口》啟發的步行模擬恐怖遊戲。玩家將在日本淡水魚水族館中漫步，透過觀察環境找出隱藏其中的 40 種「異常」並朝出口前進。遊戲支援繁體中文，發售日期未定。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/09/30",
-    "title": "櫻巫女正面回應長達五年誹謗事件",
-    "summary": "Hololive所屬VTuber櫻巫女（Sakura Miko）於2026年9月30日正面回應長達五年的誹謗，呼籲停止傷害他人。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -5946,6 +5946,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/06/15",
     "expiry_date": "2027/06/16"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/25",
+    "title": "占星研究者歸元預言台海與北京天象",
+    "summary": "占星研究者歸元透過「月食吉凶線」方法推演，指出 2027 年 7 月 19 日附近將出現半影月食，屆時北京和台北同時落入凶象線，台海兩岸政治中心將進入凶象。他還觀察到，2028 年一顆象徵共產主義的「孤星」將退位，而 2029 年 1 月 1 日的月全食將在北京上空形成罕見的「八大凶相」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/07/19",
+    "expiry_date": "2027/07/20"
   },
   {
     "category": "PROPHECY",
