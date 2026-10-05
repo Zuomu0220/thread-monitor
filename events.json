@@ -160,6 +160,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam 限時免費：《Bunny Guys!》、《BROTHER!!! Save him!》",
+    "summary": "Steam 平台於 10 月 2 日提供遊戲《Bunny Guys!》和《BROTHER!!! Save him!》限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -337,6 +345,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/01",
+    "title": "Steam 限時免費 DLC：《熔爐密林》爪克龍劍甲包、《MXGP 26》Scrubdesignz Liveries DLC",
+    "summary": "Steam 平台於 10 月 1 日提供《熔爐密林》爪克龍劍甲包 DLC 及《MXGP 26》Scrubdesignz Liveries DLC 限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/09/30",
     "title": "Steam 獨立遊戲 Demo 釋出",
     "summary": "合作遊戲《Split Happens》的 Demo 將於 2026 年 9 月 30 日上線。這是一款 1-6 人合作遊戲，玩家需要合作維持核反應爐運作，修復洩漏管道、蒸汽洩漏和火災等危險。",
@@ -381,22 +397,6 @@
     "title": "獨立遊戲 Demo 釋出",
     "summary": "《Of Dice and Minions》Demo 預計 10 月 6 日在 Steam 推出：一款擲骰子迷你兵團動作遊戲《Of Dice and Minions》的 Steam 試玩版預計於 10 月 6 日上線。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/09/30",
-    "title": "《8號出口》風格步行模擬恐怖新作《迷走水族館》公開",
-    "summary": "獨立遊戲團隊Suzuchina Games宣布推出新作《迷走水族館》，這是一款《8號出口》風格的步行模擬恐怖遊戲，玩家將在日本淡水魚水族館中尋找異常並前進，遊戲支援繁體中文。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/09/30",
-    "title": "前主播張宇離婚後爆私照風波，新戀情穩定獲前夫祝福",
-    "summary": "前「最正主播」張宇與前夫劉彥谷離婚後，日前因私密影像與家務事風波再度浮上檯面。儘管曾引起爭議，張宇與從事科技業的男友感情依然穩定，近期被週刊直擊男友開特斯拉前往機場接機，一路護送張宇返家，顯示感情未受波及。前夫劉彥谷大方給予「祝福她，穩定就好」的回應，並呼籲外界減少對家務事的關注，強調目前正透過律師談和解，主要考量是為保護孩子成長，盼能回歸平靜生活。",
-    "avatar_url": "https://attach.setn.com/newsimages/2026/09/30/4845561-PH.jpg",
     "days_left": 2
   },
   {
