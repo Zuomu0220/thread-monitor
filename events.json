@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/10/06",
+    "title": "Steam 新品節 2026 年 10 月版資訊更新",
+    "summary": "Steam 新品節 2026 年 10 月版即將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行。這是一場為即將推出的遊戲舉辦的慶典，屆時將提供試玩版、開發者實況直播與交流等豐富內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/05",
     "title": "Steam 限時免費序號",
     "summary": "Steam 商店提供《Dice of Fate》限時免費序號領取。",
@@ -388,14 +396,6 @@
     "date": "2026/10/01",
     "title": "Epic Games Store 十月免費遊戲",
     "summary": "Epic Games Store 官方揭露 2026 年 10 月的首批免費遊戲，每週四將會釋出新的免費遊戲。預計包含《Forza Horizon 6》、《Subnautica 2》、《Saros》、《Neverness to Everness》、《Diablo 4》、《Pragmata》、《Slay the Spire 2》及《Monster Hunter Stories 3》等作品。 此外，多款遊戲如《熊視眈眈》、《願景之城》、《深埋之星》、《網路奇兵2：25 週年紀念重製版》、《鋼鐵指揮官》、《阿斯特賴亞》、《將軍對決》、《心靈警探》、《星界戰士》、《天空奇兵》及《與你獨處》等也開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Steam 遊戲《Endor Awakens》轉為付費",
-    "summary": "復古肉鴿 RPG 遊戲《Endor Awakens》將於 10 月 8 日從免費遊玩轉為付費遊戲，玩家可在此日期前免費領取並永久保留。遊戲同步推出 2.0 大型更新，加入新種族「鼠人」與自動戰鬥等功能。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
