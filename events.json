@@ -280,6 +280,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam 秋季特賣：《魔物獵人崛起》、《煮過頭2》等遊戲最低1折起",
+    "summary": "Steam 2026 秋季特賣從10月2日持續至10月9日凌晨，多款遊戲下殺1折起，包含《Steep》、《Mirror's Edge Catalyst》、《魔物獵人崛起》等。其他如《煮過頭2》、《褻瀆神明2》、《女神異聞錄》、《黑暗靈魂》系列、《鐵拳8》、《數碼寶貝物語時空異客》等也有不同程度的折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -388,14 +396,6 @@
     "date": "2026/10/01",
     "title": "2D 動作遊戲《靠近太陽》開放免費試玩",
     "summary": "Phoenixx 宣布將發行由 Nonlinear 開發的動作遊戲《靠近太陽》，其試玩版已於 10 月 1 日同步上線，玩家可體驗新手教學及 1 個關卡。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Epic Games Store 2026年10月首批免費遊戲公布",
-    "summary": "Epic Games Store 已公布2026年10月的第一批限時免費遊戲，玩家可於10月8日前領取。據報導，本月首批免費遊戲陣容包含《極限競速：地平線6》、《Subnautica 2》、《Saros》、《Neverness to Everness》、《暗黑破壞神4》、《Pragmata》、《殺戮尖塔2》與《魔物獵人物語3》等多款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -5448,6 +5448,24 @@
     "date": "2026/01/03",
     "title": "末日預言家諾查丹瑪斯 2026 年四大警訊：台海列高風險",
     "summary": "16 世紀占星師諾查丹瑪斯的支持者，根據其留下的詩句推演出 2026 年要注意的四大警訊，包括知名男性人物恐遭暗殺、提契諾被鮮血淹沒、台海出現高風險衝突以及極權主義恐在 2026 年進一步擴張。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/28",
+    "title": "2026年未來人國分玲的「未來十年五大預言草稿」流出",
+    "summary": "來自2058年的未來人國分玲，其於2026年2月28日意外流出了一份「未來十年五大預言草稿」。預言內容包括俄烏戰爭的停火與和平協議時間、2026年底新一輪呼吸道傳染病的爆發、黃石公園超級火山的活動、火星探測發現遠古微生物化石，以及2028年的金融危機與結算體系變革。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/09/06",
+    "title": "2026年某未來人對地震的預言修正與12月預測",
+    "summary": "一名自稱未來人的預言者於2026年9月6日發布影片，修正了之前關於2026年地震的預言，並表示原先預測的三個地震中只有一個在錄製後發生。同時，該預言者也提前公布了對2026年12月事件的判定基準，聲稱將在116天後進行檢驗。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
