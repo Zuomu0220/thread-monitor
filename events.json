@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/10/05",
+    "title": "Steam 限時免費序號",
+    "summary": "Steam 商店提供《Dice of Fate》限時免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/03",
     "title": "無最新負面與爭議事件",
@@ -76,6 +84,14 @@
     "date": "2026/10/03",
     "title": "IAM Gaming Expo 2026 實體活動",
     "summary": "蘇格蘭北部首個獨立遊戲實體活動 IAM Gaming Expo 於 2026 年 10 月 3 日在埃爾金舉行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/03",
+    "title": "獨立遊戲展覽",
+    "summary": "蘇格蘭北部將舉辦 IAM Gaming Expo，展示獨立遊戲作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -380,22 +396,6 @@
     "date": "2026/10/01",
     "title": "Steam 遊戲《Endor Awakens》轉為付費",
     "summary": "復古肉鴿 RPG 遊戲《Endor Awakens》將於 10 月 8 日從免費遊玩轉為付費遊戲，玩家可在此日期前免費領取並永久保留。遊戲同步推出 2.0 大型更新，加入新種族「鼠人」與自動戰鬥等功能。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Epic Games Store 免費遊戲：BURIED STARS 與 System Shock 2: 25th Anniversary Remaster",
-    "summary": "Epic Games Store 宣布本週免費遊戲為《BURIED STARS》與《System Shock 2: 25th Anniversary Remaster》，可於 10 月 8 日前領取。其中《BURIED STARS》是一款設定在生存選秀節目崩潰現場的神秘冒險遊戲，而《System Shock 2: 25th Anniversary Remaster》則是一款定義了 FPS 和 RPG 遊戲類型的經典作品。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Epic Games Store 免費遊戲：Out of Sight 與 TerraScape",
-    "summary": "Epic Games Store 也預告了 10 月第二週的免費遊戲將是《Out of Sight》和《TerraScape》。《Out of Sight》是一款類似《小小夢魘》的解謎恐怖遊戲，而《TerraScape》則是一款城市建造遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
