@@ -121,6 +121,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/03",
+    "title": "Steam 限時免費遊戲資訊更新",
+    "summary": "多個消息來源指出，Steam 平台於 2026 年 10 月 3 日更新了限時免費與折扣遊戲列表，玩家可在指定時間內領取或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/02",
     "title": "Steam秋季特賣開跑：《魔物獵人崛起》等遊戲史低特價",
     "summary": "Steam 2026秋季特賣已於10月2日凌晨展開，將持續至10月9日凌晨。多款遊戲推出歷史最低價，包括《魔物獵人崛起》一折優惠、《女神異聞錄３ Reload》等遊戲。",
@@ -388,14 +396,6 @@
     "date": "2026/10/01",
     "title": "派對競速遊戲《飆速滑水道》免費體驗版公開",
     "summary": "Tatsumaki Games 宣布，新款派對競速遊戲《飆速滑水道》的體驗版已於 10 月 1 日在 Steam 平台登場，並將參展 10 月 Steam 新品節。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "2D 動作遊戲《靠近太陽》開放免費試玩",
-    "summary": "Phoenixx 宣布將發行由 Nonlinear 開發的動作遊戲《靠近太陽》，其試玩版已於 10 月 1 日同步上線，玩家可體驗新手教學及 1 個關卡。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
