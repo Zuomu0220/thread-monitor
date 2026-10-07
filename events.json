@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/06",
+    "title": "OFFMOON 攜三款新 Demo 參加 Steam Next Fest (十月版)",
+    "summary": "韓國 IP 文化科技公司 SUPERFAST 旗下的 Steam 發行品牌 OFFMOON 宣布，將於 2026 年 10 月 19 日至 26 日的 Steam Next Fest 上展示三款即將推出的遊戲試玩版，包括《Heroll: IF》、《Beastopia: Raiders》和《The Cardian - Light the Shrines》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/05",
     "title": "Steam 限時免費序號",
     "summary": "Steam 商店提供《Dice of Fate》限時免費序號領取。",
@@ -124,6 +132,14 @@
     "date": "2026/10/03",
     "title": "Steam 限時免費遊戲資訊更新",
     "summary": "多個消息來源指出，Steam 平台於 2026 年 10 月 3 日更新了限時免費與折扣遊戲列表，玩家可在指定時間內領取或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/03",
+    "title": "Epic Games Store 限時免費遊戲更新",
+    "summary": "GOG 平台上的《Bounty Train (賞金列車)》提供限時免費領取至 10 月 5 日。Epic Games Store 則提供《BURIED STARS (深埋之星)》和《System Shock 2: 25th Anniversary Remaster》限時免費領取至 10 月 8 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -296,6 +312,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam Next Fest 2026 (十月版) 預告",
+    "summary": "Steam Next Fest (十月版) 將於 2026 年 10 月 19 日至 10 月 26 日舉行，屆時將有數百款遊戲提供試玩 Demo、開發者直播和問答環節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -372,30 +396,6 @@
     "date": "2026/10/01",
     "title": "Epic Games Store 九月最終免費遊戲：《Astrea: Six-Sided Oracles》、《Mechabellum》",
     "summary": "Epic Games Store 在 2026 年 9 月份的最後一批免費遊戲為《Astrea: Six-Sided Oracles》和《Mechabellum》，兩款遊戲開放領取至 10 月 1 日美國東部時間上午 11 點。其中《Astrea: Six-Sided Oracles》是一款 Roguelike 牌組構築遊戲，以骰子取代卡牌進行獨特遊玩體驗；《Mechabellum》則是一款自動戰棋遊戲，玩家需組建機甲大軍進行戰鬥。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Steam 2026 秋季特賣會啟動",
-    "summary": "Steam 平台於 2026 年 10 月 1 日至 10 月 8 日期間舉辦秋季特賣會，提供多款遊戲深度折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "日式恐怖新作《越界》開放免費試玩",
-    "summary": "日本獨立遊戲工作室 Lunamarine Studio 宣布，旗下日式恐怖遊戲《越界》的免費試玩版已於 10 月 1 日上線 Steam 平台，玩家可體驗以昭和風格廢棄醫院為舞台的內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "派對競速遊戲《飆速滑水道》免費體驗版公開",
-    "summary": "Tatsumaki Games 宣布，新款派對競速遊戲《飆速滑水道》的體驗版已於 10 月 1 日在 Steam 平台登場，並將參展 10 月 Steam 新品節。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
