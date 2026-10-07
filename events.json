@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 新品發售與特惠",
+    "summary": "多款遊戲於 2026 年 10 月 8 日在 Steam 平台發售，其中包括恐怖探索遊戲《Silver Pines》享有 9 折優惠，以及冒險獨立遊戲《Forever Ago》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/07",
     "title": "Epic Games",
     "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
@@ -320,6 +328,14 @@
     "days_left": 1
   },
   {
+    "category": "GAME",
+    "date": "2026/10/02",
+    "title": "Steam 限時免費遊戲",
+    "summary": "Steam 於 2026 年 10 月 2 日提供限時免費遊戲《Bunny Guys!》和《BROTHER!!! Save him!》供玩家下載。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 1
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/01",
     "title": "暫無",
@@ -380,22 +396,6 @@
     "date": "2026/10/01",
     "title": "Steam免費領取復古Roguelite RPG《Endor Awakens》倒數7日轉為付費遊戲",
     "summary": "獨立開發者Javier Hernández Torres宣布，Steam平台上的Roguelite地城RPG《Endor Awakens: Roguelite DRPG》將於10月8日起停止免費遊玩，改為買斷制付費遊戲。玩家可在10月8日前免費領取入庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Epic Games Store 限時免費：《深埋之星》、《網路奇兵2：25週年紀念版》",
-    "summary": "Epic Games Store 於 2026 年 10 月 1 日至 10 月 8 日期間，提供視覺小說《深埋之星》（Buried Stars）及《網路奇兵2：25週年紀念版》（System Shock 2: 25th Anniversary Remaster）限時免費領取，兩款遊戲合計價值近 70 美元。其中，《深埋之星》是一款設定在坍塌電視工作室內的敘事導向懸疑遊戲，而《網路奇兵2：25週年紀念版》則保留經典沉浸式模擬核心體驗，並升級了視覺、動畫、過場動畫和控制。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/01",
-    "title": "Epic Games Store 九月最終免費遊戲：《Astrea: Six-Sided Oracles》、《Mechabellum》",
-    "summary": "Epic Games Store 在 2026 年 9 月份的最後一批免費遊戲為《Astrea: Six-Sided Oracles》和《Mechabellum》，兩款遊戲開放領取至 10 月 1 日美國東部時間上午 11 點。其中《Astrea: Six-Sided Oracles》是一款 Roguelike 牌組構築遊戲，以骰子取代卡牌進行獨特遊玩體驗；《Mechabellum》則是一款自動戰棋遊戲，玩家需組建機甲大軍進行戰鬥。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
