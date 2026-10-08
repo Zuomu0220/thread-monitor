@@ -358,13 +358,13 @@
         <header>
             <h1>🔥 網路輿情炎上觀測站</h1>
             <p>🕒 自動化監控 · 僅保留 7 天內最新事件 · 屆滿自動淘汰清空</p>
-            <div class="time-badge">當前觀測時間：2026/10/09 00:02 ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
+            <div class="time-badge">當前觀測時間：2026/10/09 05:43 ｜ 現實時間：<span id="live-clock">讀取中...</span></div>
         </header>
 
         <div class="stats-bar">
             <div class="stat-card">
                 <span class="stat-label">🎮 實況主事件</span>
-                <span class="stat-val stat-streamer" id="stats-streamer">3</span>
+                <span class="stat-val stat-streamer" id="stats-streamer">4</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">🔮 VTuber 事件</span>
@@ -372,7 +372,7 @@
             </div>
             <div class="stat-card">
                 <span class="stat-label">🕹️ 遊戲情報</span>
-                <span class="stat-val stat-game" id="stats-game">47</span>
+                <span class="stat-val stat-game" id="stats-game">46</span>
             </div>
             <div class="stat-card">
                 <span class="stat-label">👁️ 預言事件</span>
@@ -389,6 +389,24 @@
         </div>
 
         <div class="events-list" id="events-container">
+
+            <div class="event-card streamer" data-category="STREAMER">
+                
+                <div class="avatar-container">
+                    <img class="event-avatar" src="https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128" alt="頭像" loading="lazy" referrerpolicy="no-referrer">
+                </div>
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-streamer">🎮 實況主</span>
+                        <div class="card-meta">
+                            <span class="event-date">10月9日</span>
+                            <span class="badge badge-info">⏰ 剩餘 7 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">無最新負面與爭議事件報告</h3>
+                    <p class="event-summary">在 2026 年 10 月 2 日至 2026 年 10 月 9 日期間，未搜捕到台灣/華語圈實況主或 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件。</p>
+                </div>
+            </div>
 
             <div class="event-card game" data-category="GAME">
                 
@@ -432,6 +450,51 @@
                     </div>
                     <h3 class="event-title">Steam 商店限時免費領取《Eco inc. Save the Earth》</h3>
                     <p class="event-summary">Steam 商店於 2026 年 10 月 8 日提供遊戲《Eco inc. Save the Earth》限時免費領取。</p>
+                </div>
+            </div>
+
+            <div class="event-card game" data-category="GAME">
+                
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                        <div class="card-meta">
+                            <span class="event-date">10月8日</span>
+                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">Steam 新品節：2026 年 10 月版媒體試玩會啟動</h3>
+                    <p class="event-summary">Steam 新品節於 2026 年 10 月 19 日正式展開前，已於 10 月 8 日上午 10 點開始提供媒體試玩會，讓玩家可搶先體驗未發行遊戲的免費試玩版。</p>
+                </div>
+            </div>
+
+            <div class="event-card game" data-category="GAME">
+                
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                        <div class="card-meta">
+                            <span class="event-date">10月8日</span>
+                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">Steam 限時免費遊戲：ECHOES</h3>
+                    <p class="event-summary">末日後的敘事解謎遊戲《ECHOES》於 10 月 8 日在 Steam 平台開放限時免費領取，玩家將在陌生廢墟中，循著破損機器人女孩的聲音展開五天冒險。</p>
+                </div>
+            </div>
+
+            <div class="event-card game" data-category="GAME">
+                
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
+                        <div class="card-meta">
+                            <span class="event-date">10月8日</span>
+                            <span class="badge badge-info">⏰ 剩餘 6 天下架</span>
+                        </div>
+                    </div>
+                    <h3 class="event-title">Steam 遊戲《小馬島》預計限時免費入庫</h3>
+                    <p class="event-summary">根據第三方資料庫 SteamDB 監測，解謎遊戲《小馬島（Pony Island）》的限時免費活動包已錄入 Steam 後台，預計近期將開放免費領取並永久保存至遊戲庫。</p>
                 </div>
             </div>
 
@@ -1086,66 +1149,6 @@
                     </div>
                     <h3 class="event-title">《空戰奇兵8 希孚之翼》發售</h3>
                     <p class="event-summary">Bandai Namco 的空戰模擬遊戲《空戰奇兵8 希孚之翼》於 2026 年 10 月 2 日在 PS5 上發售。</p>
-                </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">10月2日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">《戰爭機器：事變日》獲玩家好評</h3>
-                    <p class="event-summary">據 Eurogamer 報導，搶先體驗的《戰爭機器：事變日》獲得玩家好評，特別是戰鬥手感方面。製作組針對老玩家對系列傳統暴力表現麻木的情況，投入大量資源提升血腥效果的寫實感。</p>
-                </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">10月2日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">GOG</h3>
-                    <p class="event-summary">限時免費：《賞金列車》：GOG 平台於 2026 年 10 月 2 日起提供 Roguelike 經營遊戲《賞金列車》3 日限時免費領取，玩家可改造列車穿越 19 世紀的大西部。</p>
-                </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">10月2日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">Steam 秋季特賣：《魔物獵人崛起》、《煮過頭2》等遊戲最低1折起</h3>
-                    <p class="event-summary">Steam 2026 秋季特賣從10月2日持續至10月9日凌晨，多款遊戲下殺1折起，包含《Steep》、《Mirror's Edge Catalyst》、《魔物獵人崛起》等。其他如《煮過頭2》、《褻瀆神明2》、《女神異聞錄》、《黑暗靈魂》系列、《鐵拳8》、《數碼寶貝物語時空異客》等也有不同程度的折扣。</p>
-                </div>
-            </div>
-
-            <div class="event-card game" data-category="GAME">
-                
-                <div class="card-content">
-                    <div class="card-header">
-                        <span class="cat-label cat-game">🕹️ 遊戲區</span>
-                        <div class="card-meta">
-                            <span class="event-date">10月2日</span>
-                            <span class="badge badge-info">⏰ 最後一天上架</span>
-                        </div>
-                    </div>
-                    <h3 class="event-title">Steam Next Fest 2026 (十月版) 預告</h3>
-                    <p class="event-summary">Steam Next Fest (十月版) 將於 2026 年 10 月 19 日至 10 月 26 日舉行，屆時將有數百款遊戲提供試玩 Demo、開發者直播和問答環節。</p>
                 </div>
             </div>
 
