@@ -57,6 +57,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "Epic Games Store 於 10 月 8 日至 10 月 15 日提供《Out of Sight》與《TerraScape》兩款遊戲限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/07",
     "title": "Epic Games",
     "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
@@ -105,6 +113,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/07",
+    "title": "Fanatical 限時免費遊戲",
+    "summary": "Fanatical 商店於 10 月 7 日限時免費領取《Spooky Cats》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/07",
+    "title": "Humble Choice 2026 十月包",
+    "summary": "Humble Choice 2026 十月包推出，內含《人中之龍８外傳Pirates in Hawaii》及另外 7 款遊戲可供選擇。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/06",
     "title": "Steam 新品節 2026 年 10 月版資訊更新",
     "summary": "Steam 新品節 2026 年 10 月版即將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行。這是一場為即將推出的遊戲舉辦的慶典，屆時將提供試玩版、開發者實況直播與交流等豐富內容。",
@@ -140,6 +164,14 @@
     "date": "2026/10/05",
     "title": "Steam 免費序號領取：Dice of Fate",
     "summary": "Steam 免費遊戲情報站於 2026 年 10 月 5 日提供《Dice of Fate》的免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/05",
+    "title": "Steam 免費序號",
+    "summary": "《Scallywags (Playtest)》及《Dice of Fate》免費序號可領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -364,38 +396,6 @@
     "date": "2026/10/02",
     "title": "GOG 限時免費",
     "summary": "Roguelike 經營遊戲《Bounty Train》（賞金列車）開放限時免費領取，活動至 2026 年 10 月 5 日截止。這是一款讓玩家自訂火車、經營貿易的西部鐵道模擬遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/02",
-    "title": "Epic Games Store 預告免費遊戲",
-    "summary": "Epic Games Store 宣布，接續本週免費遊戲，將於 2026 年 10 月 8 日至 10 月 15 日開放恐怖解謎冒險遊戲《虎視眈眈》和中世紀城市建設解謎遊戲《泰拉景觀》限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/02",
-    "title": "Steam 2026 秋季特賣",
-    "summary": "Steam 平台於 2026 年 10 月 2 日凌晨起展開秋季特賣活動，將持續至 10 月 9 日凌晨。多款 3A 大作與獨立遊戲祭出歷史新低價，包含《魔物獵人崛起》享一折優惠，《FINAL FANTASY VII REBIRTH》、《女神異聞錄３ Reload》、《ARC Raiders》、《Dune: Awakening》等多款遊戲也同步特價。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/02",
-    "title": "Steam 限時免費 DLC",
-    "summary": "賽車遊戲《MXGP 26：世界越野摩托車錦標賽》的 Scrubdesignz Liveries 賽車彩貼 DLC，以及肉鴿遊戲《熔爐密林》的爪克龍劍甲包 DLC，皆在 2026 年 10 月 1 日至 10 月 16 日期間開放限時免費領取，但需擁有主程式方可使用。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/02",
-    "title": "《空戰奇兵8 希孚之翼》發售",
-    "summary": "Bandai Namco 的空戰模擬遊戲《空戰奇兵8 希孚之翼》於 2026 年 10 月 2 日在 PS5 上發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 0
   },
