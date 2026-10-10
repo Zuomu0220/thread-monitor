@@ -9,6 +9,14 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/10/10",
+    "title": "目前無相關負面與爭議事件報導",
+    "summary": "在 2026/10/03 至 2026/10/10 期間，未搜尋到台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件的最新報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
     "summary": "在 2026 年 10 月 2 日至 2026 年 10 月 9 日期間，未搜捕到台灣/華語圈實況主或 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件。",
@@ -156,6 +164,22 @@
     "date": "2026/10/08",
     "title": "Steam 免費遊戲：《Arena of Trophies》將下架",
     "summary": "開發者宣布由於無法再投入資源維護與更新，《Arena of Trophies》將於 2026 年 10 月 22 日從 Steam 商店下架。在此日期前，玩家可以限時免費領取該遊戲並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games Store 限時免費遊戲：Out of Sight & TerraScape",
+    "summary": "Epic Games Store 於 2026 年 10 月 8 日至 10 月 15 日推出兩款免費遊戲：《Out of Sight》和《TerraScape》。《Out of Sight》是一款恐怖解謎冒險遊戲，玩家扮演一名透過泰迪熊眼睛看世界的盲女，試圖逃離被囚禁的豪宅。而《TerraScape》則是一款中世紀城市建造解謎遊戲，玩家需策略性地擺放建築物以發展王國。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games Store 預告下週免費遊戲：Agent A: A Puzzle in Disguise & Bad Cheese",
+    "summary": "Epic Games Store 預計在 2026 年 10 月 15 日至 10 月 22 日期間，提供《Agent A: A Puzzle in Disguise》與《Bad Cheese》作為限時免費遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -374,30 +398,6 @@
     "summary": "Steam 免費遊戲情報站於 2026 年 10 月 4 日提供《Assassin Of Werewolf》的免費序號領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/04",
-    "title": "2026 Steam 秋季特賣精選遊戲推薦",
-    "summary": "YouTube 頻道「平凡人傳奇」於 2026 年 10 月 4 日發布影片，介紹了 15 款在 Steam 秋季特賣中價格低於新台幣 600 元的遊戲，其中多款遊戲折扣高達 1 折，最低僅需 32 元。影片詳細介紹了動作冒險、解謎、劇情冒險、經營、生存建造、多人合作及策略等類型遊戲的玩法特色、Steam 玩家評價、特價資訊及中文支援情況。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/03",
-    "title": "Epic Games 商店免費遊戲：《BURIED STARS》與《System Shock 2: 25th Anniversary Remaster》",
-    "summary": "Epic Games 商店本週提供《BURIED STARS》與《System Shock 2: 25th Anniversary Remaster》兩款遊戲限時免費領取，活動將持續至 10 月 8 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 0
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/03",
-    "title": "PewDiePie 自製 AI 模型遭 OpenAI 兩度封鎖爭議",
-    "summary": "知名YouTube創作者PewDiePie（Felix Kjellberg）近日發布影片，展示其個人AI語言模型「Ajax」。他因使用OpenAI的Sol模型（GPT-5.6代號）產出的內容來訓練自己的Ajax系統，兩度遭到OpenAI封鎖帳號。OpenAI的服務條款明確禁止以程式化方式擷取其模型的輸出，用於建立競爭模型。PewDiePie對此表示不想道歉，諷刺OpenAI「辛苦偷走我們全部的資料，才做出他們的AI機器」，引起大量YouTube、X網友熱議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 0
   },
   {
     "category": "PROPHECY",
