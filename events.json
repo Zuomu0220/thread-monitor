@@ -32,6 +32,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Steam《Squad 44》限時免費遊玩及特價",
+    "summary": "第一人稱射擊模擬遊戲《Squad 44》開放限時免費遊玩至 2026 年 10 月 14 日上午 1 點，並享有特價 98 元至 10 月 16 日止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
@@ -52,6 +60,22 @@
     "date": "2026/10/09",
     "title": "Steam 像素沙盒遊戲《Core Keeper》週末免費玩",
     "summary": "累計 600 萬人玩過的像素採礦沙盒冒險遊戲《核心守護者》（Core Keeper）於台灣時間 10 月 9 日凌晨 1 點至 10 月 13 日凌晨 1 點開放限時免費體驗完整版遊戲，包含最新大型更新「Riders of the Underground」內容，玩家的遊戲存檔可繼承至購買後的正式版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/09",
+    "title": "Steam《核心守護者》限時免費遊玩",
+    "summary": "沙盒採掘遊戲《核心守護者（Core Keeper）》於 10 月 9 日起開放免費遊玩 4 天，至 10 月 13 日或 14 日截止，並包含新內容體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/09",
+    "title": "SAGA Barcelona Game Festival 舉辦",
+    "summary": "SAGA Barcelona Game Festival 於 2026 年 10 月 9 日至 11 日在巴塞隆納 Fira de Barcelona Montjuïc 場地舉行，匯集獨立開發者、提供試玩遊戲及社群展示。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -201,6 +225,46 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games 限時免費領取《TerraScape》與《Out of Sight》",
+    "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《TerraScape》與《Out of Sight》（熊視眈眈），領取期限至台灣時間 2026 年 10 月 15 日晚上 11 點。其中，《TerraScape》是一款城市建造拼圖遊戲，而《Out of Sight》則是第二人稱恐怖解謎冒險遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 免費體驗版《桌面煙火大會》釋出",
+    "summary": "獨立遊戲團隊「ごらんのすぽんさー」宣布，旗下新作《桌面煙火大會（Desktop Fireworks Festival）》於 10 月 8 日在 Steam 平台釋出免費體驗版。這款經營模擬遊戲將在 10 月的 Steam Next Fest 2026 中展出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 限時免費領取《Pony Island》",
+    "summary": "心理驚悚解謎遊戲《Pony Island》在 Steam 平台開放限時免費領取，活動截止至 2026 年 10 月 13 日上午 1 點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 限時免費領取《Fireside Feelings》",
+    "summary": "溫馨療癒的休閒對話遊戲《Fireside Feelings》在 Steam 平台開放限時免費領取，活動截止至 2026 年 10 月 13 日上午 1 點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games 限時免費《Buried Stars》及《System Shock 2: 25th Anniversary Remaster》結束",
+    "summary": "Epic Games Store 於 10 月 1 日至 10 月 8 日提供免費領取懸疑偵探遊戲《Buried Stars》及《System Shock 2: 25th Anniversary Remaster》，目前活動已結束。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/07",
     "title": "Epic Games",
     "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
@@ -334,70 +398,6 @@
     "summary": "韓國 IP 文化科技公司 SUPERFAST 旗下的 Steam 發行品牌 OFFMOON 宣布，將於 2026 年 10 月 19 日至 26 日的 Steam Next Fest 上展示三款即將推出的遊戲試玩版，包括《Heroll: IF》、《Beastopia: Raiders》和《The Cardian - Light the Shrines》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/06",
-    "title": "PS Plus 2026 十月免費遊戲公佈",
-    "summary": "PlayStation Plus 會員於 10 月 6 日至 11 月 2 日期間可領取三款免費遊戲，包含 PS5 遊戲《F1 25》、PS5 遊戲《獵殺：對決1896》以及 PS5/PS4 遊戲《數碼方塊地球防衛軍2》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/06",
-    "title": "日本社群熱議Vtuber中之人身份與顏出資訊",
-    "summary": "日本網路社群正熱烈討論並整理Vtuber前世（中之人身份）及顏出（真實面貌曝光）資訊。此類資訊涵蓋個人勢到企業勢Vtuber，常在粉絲間引發高度關注，但也伴隨著隱私權和潛在的炎上爭議。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/05",
-    "title": "Steam 限時免費序號",
-    "summary": "Steam 商店提供《Dice of Fate》限時免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/05",
-    "title": "Steam 免費序號領取：Dice of Fate",
-    "summary": "Steam 免費遊戲情報站於 2026 年 10 月 5 日提供《Dice of Fate》的免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/05",
-    "title": "Steam 免費序號",
-    "summary": "《Scallywags (Playtest)》及《Dice of Fate》免費序號可領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/05",
-    "title": "Steam 免費序號領取",
-    "summary": "可領取遊戲《Scallywags (Playtest)》的免費序號。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/05",
-    "title": "《寶島冒險王》阿北楊萬連直播中猝逝",
-    "summary": "知名網紅節目《寶島冒險王》的大家長「阿北」楊萬連於10月2日晚間驟逝。經法醫相驗證實死因為心肌梗塞。據團隊成員透露，阿北在被發現時仍緊握手機，最後對話紀錄停留在當晚11時16分。團隊表示阿北自去年喪子之痛後身體狀況大不如前。",
-    "avatar_url": "https://i.imgur.com/abei.jpg",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/05",
-    "title": "台灣個人勢VTuber神倉千紗宣布部分活動暫停",
-    "summary": "台灣個人勢VTuber「神倉千紗」發布影片，標題為「我只是被凍一半！不是完全被凍起來！！」，並附帶「休息」等標籤。儘管影片內容已不可用，但其標題和相關標籤暗示其直播活動可能面臨暫停或減少的情況，屬於負面或停播情況。",
-    "avatar_url": "https://i.imgur.com/kamisatochisa.jpg",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
