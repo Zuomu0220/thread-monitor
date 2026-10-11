@@ -64,6 +64,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Epic Games Store 本週免費遊戲",
+    "summary": "Epic Games Store 本週提供限時免費遊戲領取，活動將持續至 10 月 15 日。雖然未明確列出本週所有遊戲名稱，但提到 2026 年 Epic 贈送的遊戲中包含《Clone Drone in the Danger Zone》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
@@ -289,6 +297,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 限時免費領取：Arena of Trophies",
+    "summary": "遊戲開發者宣布因無法再投入資源維護與更新，《Arena of Trophies》將於 2026 年 10 月 22 日下架 Steam，在此之前玩家可限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Steam 限時免費領取：Fireside Feelings",
+    "summary": "劇情導向的溫馨遊戲《Fireside Feelings》於 2026 年 10 月份開放免費領取，玩家可在 10 月 13 日上午 1:00 前將其加入 Steam 收藏庫永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/07",
     "title": "Epic Games",
     "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
@@ -373,30 +397,6 @@
     "title": "實況主放火影片未授權爭議",
     "summary": "知名YouTuber放火（Louis）因在Threads上傳宣傳影片時，未經授權使用其他創作者的片段且未註明出處，引發社群炎上。放火隨後私訊對方致歉並補上連結，但因對方不願在影片中出現，即使放火已打馬賽克並刪除片段，爭議仍持續延燒。他解釋其初衷為普及法律知識，並認為符合「合理使用」範疇，呼籲外界理性討論。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/07",
-    "title": "《魔獸世界：永恆》實況主鼓勵RMT行為遭懲處",
-    "summary": "《魔獸世界：永恆》遊戲中，多名實況主因公開鼓勵觀眾進行RMT（現金交易）行為，遭到暴雪官方BAN帳號停權制裁。此前已有實況主因收受大量遊戲金幣而遭回收。暴雪重申將收緊執法力道，對RMT行為將加入交易警告並嚴懲。",
-    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/07",
-    "title": "網紅「慧慧飽飽」遭抖音封號作品清空",
-    "summary": "擁有逾400萬粉絲的中國網紅「慧慧飽飽」因違反社區規範，其抖音大號遭到封禁，主頁所有作品被清空。據悉，慧慧飽飽在一年內多次捲入嚴重爭議，包括鏡頭霸凌、公益擺拍和荒島遺留垃圾等。此次封號的直接導火線是10月3日晚的一場直播被封禁，輿論普遍認為是其多次觸碰底線所致。",
-    "avatar_url": "https://i.imgur.com/huihuibaobao.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/07",
-    "title": "台V心可可因「鱷魔盃後遺症」宣布暫時休息",
-    "summary": "台灣VTuber「心可可」發文宣布將暫時休息，以調整身心，並提及是因「鱷魔盃後遺症」所致。她在聲明中進行了自我反省，並表示在休息期間將關閉留言功能。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 3
   },
   {
@@ -5952,6 +5952,15 @@
     "date": "2026/04/08",
     "title": "未來人國分玲預言：2027 年俄烏停戰與 AI 奇點",
     "summary": "來自 2058 年的國分玲預言，俄烏戰爭將於 2027 年 3 月 17 日簽署停戰協議，並在 2027 年見證 AI 技術達到奇點，人類社會分工重構。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/03/17",
+    "expiry_date": "2027/03/18"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/04",
+    "title": "來自 2058 年的國分玲預言 2027 年俄烏戰爭停火",
+    "summary": "未來人國分玲預言，俄烏戰爭的正式停火協議將於 2027 年 3 月 17 日簽署，雙方以當前實際控制線為基礎劃定停火邊界，邊境小規模衝突將持續到 2034 年，最終全面和平協議於 2035 年 6 月簽署。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/03/17",
     "expiry_date": "2027/03/18"
