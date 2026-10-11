@@ -41,6 +41,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/10/10",
+    "title": "知名球星波爾辛吉斯因傷無限期缺陣，勇士高層補強不力遭批",
+    "summary": "金州勇士當家球星柯瑞（Stephen Curry）近日簽下延長合約，並為球隊降薪約2000萬美元以換取更靈活的補強空間。然而，外界對於勇士高層的補強動作多有質疑，尤其明星長人波爾辛吉斯（Kristaps Porzingis）以2年4000萬美元續留後，目前因健康問題面臨無限期缺陣，讓球隊前景蒙上陰影。柯瑞坦言球隊在2022年奪冠後確實有機會變得更好，但部分決策未盡理想。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Epic Games Store 限時免費遊戲《Out of Sight》與《TerraScape》開放領取",
+    "summary": "Epic Games Store 宣布，即日起至 10 月 15 日止，玩家可限時免費領取恐怖解謎遊戲《Out of Sight》以及中世紀城市建造益智遊戲《TerraScape》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Epic Games Store 預告下波免費遊戲《Agent A》與《Bad Cheese》",
+    "summary": "Epic Games Store 預告將於 10 月 15 日開放領取下一波免費遊戲，分別為獨立間諜冒險/解謎遊戲《Agent A》以及受 1920 年代卡通風格啟發的心理恐怖遊戲《Bad Cheese》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
     "summary": "在 2026 年 10 月 2 日至 2026 年 10 月 9 日期間，未搜捕到台灣/華語圈實況主或 VTuber 相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面或爭議事件。",
@@ -374,30 +398,6 @@
     "summary": "台灣VTuber「心可可」發文宣布將暫時休息，以調整身心，並提及是因「鱷魔盃後遺症」所致。她在聲明中進行了自我反省，並表示在休息期間將關閉留言功能。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Steam平台《墮落之王》推出限時特惠",
-    "summary": "Steam平台於10月7日開始推出《墮落之王》（Lords of the Fallen）限時特價活動，標準版享6折優惠，豪華版享5折優惠。特惠活動持續至10月14日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/06",
-    "title": "Steam 新品節 2026 年 10 月版資訊更新",
-    "summary": "Steam 新品節 2026 年 10 月版即將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行。這是一場為即將推出的遊戲舉辦的慶典，屆時將提供試玩版、開發者實況直播與交流等豐富內容。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/06",
-    "title": "OFFMOON 攜三款新 Demo 參加 Steam Next Fest (十月版)",
-    "summary": "韓國 IP 文化科技公司 SUPERFAST 旗下的 Steam 發行品牌 OFFMOON 宣布，將於 2026 年 10 月 19 日至 26 日的 Steam Next Fest 上展示三款即將推出的遊戲試玩版，包括《Heroll: IF》、《Beastopia: Raiders》和《The Cardian - Light the Shrines》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
