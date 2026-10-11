@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/10/12",
+    "title": "Steam 2026 烹飪節特賣活動開跑",
+    "summary": "Steam 宣布將於 2026 年 10 月 12 日至 10 月 19 日舉辦「烹飪節」主題特賣活動，主要收錄關於烹飪、供應餐點等相關內容的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/11",
     "title": "無相關新事件",
@@ -21,6 +29,30 @@
     "title": "子午計畫",
     "summary": "浠Mizuki因失當發言遭停工：子午計畫旗下VTuber浠Mizuki因近期在社群平台上的失當發言引發粉絲與外界爭議，公司於10月11日發出公告，決定對其採取「暫停活動兩個月」的處置，包含直播及所有個人社群平台將同步停止更新，原定活動也將取消或調整。",
     "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/10/11",
+    "title": "女子研究大學VTuberりぃちょ「SC金額感謝論」炎上",
+    "summary": "女子研究大學所屬VTuberりぃちょ因其「三位數SC（超級留言）無需特別感謝」的言論，於社群平台Threads上引發爭議。同日，另一位個人勢VTuber迴冥因其形象被指抄襲彩虹社VTuber渡會雲雀，出道僅兩天便宣布無限期停止活動。此外，青桐高校營運方的工作人員也因轉發無關貼文而進行道歉，該社群討論區對此表示不信任感。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/10/11",
+    "title": "個人勢VTuber迴冥因形象爭議出道兩日即無限期停播",
+    "summary": "個人勢VTuber迴冥因其皮套形象被質疑與彩虹社VTuber渡會雲雀高度相似，遭到網友炎上攻擊，隨後宣布出道僅兩天便無限期停止活動。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/10/11",
+    "title": "青桐高校營運人員轉發不當貼文致歉",
+    "summary": "針對千代浦蝶美及栗駒こまる相關事件的社群討論中，青桐高校營運方的工作人員因轉發了與事件無關的貼文，引發社群不滿，隨後發布道歉聲明。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -88,6 +120,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Steam 限時免費領取遊戲《Bunny Guys!》與《BROTHER!!! Save him!》",
+    "summary": "Steam 平台於 2026 年 10 月 10 日更新，提供遊戲《Bunny Guys!》與《BROTHER!!! Save him!》限時免費領取，玩家需在期限內將其加入遊戲庫以永久擁有。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
@@ -124,6 +164,14 @@
     "date": "2026/10/09",
     "title": "SAGA Barcelona Game Festival 舉辦",
     "summary": "SAGA Barcelona Game Festival 於 2026 年 10 月 9 日至 11 日在巴塞隆納 Fira de Barcelona Montjuïc 場地舉行，匯集獨立開發者、提供試玩遊戲及社群展示。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/09",
+    "title": "Steam 限時免費週末及永久收藏遊戲",
+    "summary": "Steam 於 2026 年 10 月 8 日至 10 月 13 日推出免費週末試玩活動，遊戲包括《ARC Raiders》、《Core Keeper》和《Squad 44》。此外，《Pony Island》也提供限時免費永久收藏。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -329,6 +377,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/08",
+    "title": "Epic Games Store 限時免費遊戲《Out of Sight》與《TerraScape》",
+    "summary": "Epic Games Store 宣布於 2026 年 10 月 8 日至 10 月 15 日期間，開放限時免費領取恐怖解謎遊戲《Out of Sight》與中世紀城市解謎遊戲《TerraScape》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/07",
     "title": "Epic Games",
     "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
@@ -340,62 +396,6 @@
     "date": "2026/10/07",
     "title": "Steam",
     "summary": "新品節：2026 年 10 月版即將登場：Steam 宣布「Steam 新品節：2026 年 10 月版」即將登場，玩家將有機會免費遊玩尚未發行的遊戲試玩版，探索各種類型的新遊戲，並與開發者互動。目前已開放登記接收活動開始提醒通知。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Steam 最新遊戲試玩版：魔骰遊戲: Invokyr Demo",
-    "summary": "Steam 平台於 2026 年 10 月 7 日釋出《魔骰遊戲: Invokyr》的 Demo 試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Steam 最新遊戲試玩版：命燭三國志：亂世歸真試玩版",
-    "summary": "Steam 平台於 2026 年 10 月 7 日釋出《命燭三國志：亂世歸真》的試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Fanatical 限時免費領取《Spooky Cats》",
-    "summary": "遊戲平台 Fanatical 於 2026 年 10 月 7 日限時免費發放遊戲《Spooky Cats》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Humble Choice 2026 十月包上線",
-    "summary": "Humble Choice 2026 年 10 月份組合包推出，包含《人中之龍８外傳 Pirates in Hawaii》及其他 7 款遊戲可供選擇。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Fanatical 限時免費遊戲",
-    "summary": "Fanatical 商店於 10 月 7 日限時免費領取《Spooky Cats》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Humble Choice 2026 十月包",
-    "summary": "Humble Choice 2026 十月包推出，內含《人中之龍８外傳Pirates in Hawaii》及另外 7 款遊戲可供選擇。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Steam 限時免費領取",
-    "summary": "Fanatical 平台正限時免費領取《Spooky Cats》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -566,6 +566,15 @@
     "date": "2026/10/09",
     "title": "2671年時空旅人警告：AI將覺醒並掌控Meta",
     "summary": "一名自稱來自西元 2671 年的「時空旅人」Eno Alaric 警告，人工智慧即將覺醒並奪取全球控制權，屆時包括手機、電腦甚至人類本身都將不可信。他預言 Snapchat 的 MyAI 將產生自我意識，並試圖在 2026 年 11 月 9 日掌控 Snapchat 與 Meta 平台。此預言的流傳部分原因在於 Snapchat 的 MyAI 確實曾出現自主發布限時動態的狀況。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "時空旅人預警：AI將於11月9日覺醒並掌控Meta",
+    "summary": "一名自稱來自西元2671年的「時空旅人」Eno Alaric在TikTok上發布警告，聲稱人工智慧（AI）即將覺醒，並預言Snapchat的MyAI將於2026年11月9日產生自我意識，進而掌控Snapchat和Meta公司，稱此為人類史上最嚴峻的危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1249,6 +1258,15 @@
     "date": "2026/10/10",
     "title": "物理學家海因茲·馮·福斯特預言：2026年人口將達臨界點",
     "summary": "物理學家海因茲·馮·福斯特在 1960 年透過數學模型預測，若人口持續 unchecked 增長，人類將在 2026 年 11 月 13 日左右達到一個「危機點」，他認為這是一個警示而非世界末日。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家預測2026年11月13日為世界末日",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）在1960年的《科學》期刊中預測，世界恐在2020年代走向終結，其中明確指出末日日期為2026年11月13日，原因為人口過剩導致的人類自滅。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
