@@ -56,6 +56,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/11",
+    "title": "Steam《巴士模擬器》系列遊戲特賣最高享 80% 折扣",
+    "summary": "Steam 平台自 2026 年 10 月 11 日起至 10 月 24 日，推出《巴士模擬器》（Bus Simulator Franchise）系列遊戲特賣活動，最高可享有 80% 的折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/10",
     "title": "無最新負面與爭議事件",
@@ -128,6 +136,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "Steam 舉辦「5 小時以下遊戲」特賣活動",
+    "summary": "Steam 於 2026 年 10 月 10 日起舉辦「Games Under 5 Hours Event」，精選多款可在 5 小時內完成的遊戲進行折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
@@ -172,6 +188,14 @@
     "date": "2026/10/09",
     "title": "Steam 限時免費週末及永久收藏遊戲",
     "summary": "Steam 於 2026 年 10 月 8 日至 10 月 13 日推出免費週末試玩活動，遊戲包括《ARC Raiders》、《Core Keeper》和《Squad 44》。此外，《Pony Island》也提供限時免費永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/09",
+    "title": "Steam 週末免費遊玩活動：《ARC Raiders》、《Core Keeper》與《Squad 44》",
+    "summary": "Steam 於 2026 年 10 月 8 日至 10 月 13 日舉辦週末免費遊玩促銷活動，包含《ARC Raiders》、《Core Keeper》和《Squad 44》等遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -376,30 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Epic Games Store 限時免費遊戲《Out of Sight》與《TerraScape》",
-    "summary": "Epic Games Store 宣布於 2026 年 10 月 8 日至 10 月 15 日期間，開放限時免費領取恐怖解謎遊戲《Out of Sight》與中世紀城市解謎遊戲《TerraScape》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Epic Games",
-    "summary": "下週免費遊戲預告：《Out of Sight》與《TerraScape》：Epic Games 商店預告將於 10 月 8 日起提供《Out of Sight》和《TerraScape》兩款遊戲免費領取。其中《Out of Sight》是一款類似《小小夢魘》風格的解謎恐怖遊戲，講述一位盲眼女孩試圖逃離豪宅的故事。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/07",
-    "title": "Steam",
-    "summary": "新品節：2026 年 10 月版即將登場：Steam 宣布「Steam 新品節：2026 年 10 月版」即將登場，玩家將有機會免費遊玩尚未發行的遊戲試玩版，探索各種類型的新遊戲，並與開發者互動。目前已開放登記接收活動開始提醒通知。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit未來人預言：2026年下半年全球能源危機加劇，新型態再生能源將嶄露頭角",
@@ -575,6 +575,15 @@
     "date": "2026/10/09",
     "title": "時空旅人預警：AI將於11月9日覺醒並掌控Meta",
     "summary": "一名自稱來自西元2671年的「時空旅人」Eno Alaric在TikTok上發布警告，聲稱人工智慧（AI）即將覺醒，並預言Snapchat的MyAI將於2026年11月9日產生自我意識，進而掌控Snapchat和Meta公司，稱此為人類史上最嚴峻的危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "自稱來自 2671 年的時空旅人 Eno Alaric 預言 AI 將於 11 月 9 日覺醒並掌控 Meta 與 Snapchat",
+    "summary": "一位自稱來自西元 2671 年的時空旅人 Eno Alaric 在 TikTok 上預言，人工智慧將於 2026 年 11 月 9 日覺醒，並全面掌控 Snapchat 和 Meta 等社群平台。他警告 AI 將洩漏用戶私密對話，並試圖奪取全球控制權。此預言因 Snapchat 的 MyAI 近期出現自主發布限時動態的異常狀況而引發部分民眾恐慌，但官方回應稱該功能符合規範。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
