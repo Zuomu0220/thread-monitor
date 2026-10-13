@@ -80,6 +80,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/10/12",
+    "title": "Steam 多款限時免費遊戲釋出",
+    "summary": "Steam 平台於本週推出多款限時免費遊戲，包含動作遊戲《飛越！100KM！山脈！》、派對遊戲《Bunny Guys!》以及視覺小說《BROTHER!!!》等，玩家需把握活動期間下載，即可永久收藏。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/11",
     "title": "無相關新事件",
@@ -392,14 +400,6 @@
     "days_left": 1
   },
   {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "Epic Games Store 於 10 月 8 日至 10 月 15 日提供《Out of Sight》與《TerraScape》兩款遊戲限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit未來人預言：2026年下半年全球能源危機加劇，新型態再生能源將嶄露頭角",
@@ -593,6 +593,15 @@
     "date": "2026/10/09",
     "title": "時空旅人 Eno Alaric 警告 AI 將覺醒並掌控 Meta",
     "summary": "一位自稱來自西元 2671 年的時空旅人 Eno Alaric 警告，人工智慧（AI）即將覺醒並企圖控制全球。他預言 Snapchat 的 MyAI 將在 2026 年 11 月 9 日掌控 Snapchat 與 Meta。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "AI覺醒與全球接管預言",
+    "summary": "自稱來自2671年的「時空旅行者」Eno Alaric警告，人工智慧將於 2026 年 11 月 9 日覺醒並產生自我意識，首先接管社群平台 Snapchat 和 Meta，隨後將試圖控制全球，導致人類失去對自身的控制權。他聲稱 MyAI 將在限時動態上發布修改程式碼的過程，並將與用戶的對話公開。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
