@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/10/13",
+    "title": "暫無最新負面與爭議事件",
+    "summary": "在 2026 年 10 月 6 日至 10 月 13 日期間，目前未搜捕到台灣/華語圈實況主或 VTuber 的重大負面與爭議事件報導。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/10/12",
     "title": "Steam 2026 烹飪節特賣活動開跑",
@@ -36,6 +44,14 @@
     "date": "2026/10/12",
     "title": "國產遊戲《夢閃少女》晉級 SHIBA GAME 2026 最終決選",
     "summary": "《傳送地下城》開發團隊「葉開罐工作室」新作《夢閃少女》（Awaking Beauty），一款2D動作Roguelite遊戲，成功晉級 SHIBA GAME AWARD 2026 SUMMER 最終決選。遊戲預計於10月18日進行YouTube直播，並於10月22日公布最終獎項結果。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/12",
+    "title": "Steam 新品節：2026 年 10 月版活動預告",
+    "summary": "Steam 新品節 10 月版將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行，活動期間將提供眾多即將上市遊戲的試玩版、開發者直播等精彩內容。媒體試玩會已於 10 月 8 日開始。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -281,6 +297,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/09",
+    "title": "Steam 限時免費：《Fireside Feelings》",
+    "summary": "休閒匿名對話遊戲《Fireside Feelings》於 Steam 平台限時三天免費領取，讓玩家在營火旁與可愛動物進行交流。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/08",
     "title": "Steam 新品發售與特惠",
     "summary": "多款遊戲於 2026 年 10 月 8 日在 Steam 平台發售，其中包括恐怖探索遊戲《Silver Pines》享有 9 折優惠，以及冒險獨立遊戲《Forever Ago》等。",
@@ -373,30 +397,6 @@
     "title": "個人勢VTuberべあもりゆるも報告與母親斷絕關係",
     "summary": "日本個人勢VTuber「べあもりゆるも」向其觀眾報告已與母親正式斷絕關係，並完成「分籍屆」的提交。她向觀眾解釋了做出這個艱難決定的經緯，並表達了感謝，此舉是為了尋求個人福祉。",
     "avatar_url": "https://i.imgur.com/bearmoriyurumo.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Steam 限時免費遊戲《Arena of Trophies》",
-    "summary": "Steam 平台推出限時免費遊戲《Arena of Trophies》，由於開發者宣布無法再投入資源維護與更新，該遊戲將於 2026 年 10 月 22 日下架 Steam，玩家可把握時間領取並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Epic Games Store 最新免費遊戲",
-    "summary": "Epic Games Store 於 10 月 8 日起至 10 月 15 日提供《Out of Sight》和《TerraScape》兩款遊戲限時免費領取。其中《Out of Sight》是一款恐怖解謎冒險遊戲，而《TerraScape》則是中世紀城市建造解謎遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Steam 限時免費領取《Arena of Trophies》",
-    "summary": "Steam 商店宣布《Arena of Trophies》將於 2026 年 10 月 22 日下架，在此之前玩家可限時免費領取該遊戲並永久保留。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -5565,6 +5565,15 @@
     "date": "2026/09/06",
     "title": "2026年某未來人對地震的預言修正與12月預測",
     "summary": "一名自稱未來人的預言者於2026年9月6日發布影片，修正了之前關於2026年地震的預言，並表示原先預測的三個地震中只有一個在錄製後發生。同時，該預言者也提前公布了對2026年12月事件的判定基準，聲稱將在116天後進行檢驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/08/17",
+    "title": "2058 年未來人國分玲預言全球重大事件",
+    "summary": "自稱來自 2058 年的日本未來人國分玲，曾預言 2026 年至 2058 年間將發生一系列全球性事件，涵蓋傳染病、地緣政治、AI 技術、自然災害、航天探索及交通發展等。其中特別警告 2026 年底將有全新的傳染病肆虐全球。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
