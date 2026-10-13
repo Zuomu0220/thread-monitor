@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/13",
+    "title": "無相關事件",
+    "summary": "在 2026/10/06 至 2026/10/13 期間，未搜尋到台灣/華語圈實況主相關的負面或爭議事件。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/10/12",
     "title": "Steam 2026 烹飪節特賣活動開跑",
@@ -52,6 +60,14 @@
     "date": "2026/10/12",
     "title": "Steam 新品節：2026 年 10 月版活動預告",
     "summary": "Steam 新品節 10 月版將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行，活動期間將提供眾多即將上市遊戲的試玩版、開發者直播等精彩內容。媒體試玩會已於 10 月 8 日開始。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/12",
+    "title": "獨立遊戲《夢閃少女》晉級 SHIBA GAME AWARD 2026 SUMMER 最終決選",
+    "summary": "台灣獨立遊戲團隊「葉開罐」開發的 2D 動作 Roguelite 遊戲《夢閃少女》（Awaking Beauty）成功晉級 SHIBA GAME AWARD 2026 SUMMER 的最終決選名單，躋身 31 款入圍作品之中。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -240,6 +256,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/10/10",
+    "title": "《Pokémon GO》索羅亞社群日開跑",
+    "summary": "《Pokémon GO》官方宣布，2026 年 10 月的社群日主角為惡狐寶可夢「索羅亞」，活動將在 10 月 10 日開始。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/09",
     "title": "無最新負面與爭議事件報告",
@@ -373,30 +397,6 @@
     "title": "品牌合作主播貶低代言人郝熠然引爭議",
     "summary": "寵物食品品牌「誠實一口」因其合作主播在直播中公開貶低代言人男演員郝熠然，稱其「奇醜無比」、「三線明星」，引發粉絲強烈不滿和公關危機。品牌方隨後發文致歉並宣布開除涉事主播，郝熠然所屬經紀公司也宣布終止與該品牌的合作。",
     "avatar_url": "https://i.imgur.com/haoyiran.jpg",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/08",
-    "title": "黛薇夫人傷害罪判罰4萬怒控警方造假",
-    "summary": "86歲資深女星黛薇夫人因兩起與愛犬相關的糾紛，於10月6日被東京地方法院裁定傷害罪名成立並判處罰金20萬日圓（約新台幣4萬元）。她被控在餐廳向秘書丟擲物品，並在動物醫院對前經紀人拳打腳踢。黛薇夫人強烈反駁判決，發布長文聲明怒控警方蒐證造假、斷章取義。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/08",
-    "title": "台裔日籍VTuber Saya拒絕企業招攬，稱不願看中國臉色",
-    "summary": "台裔日籍VTuber「さや」（Saya）在社群平台上發文表示，她已拒絕多家企業的招攬，原因是不願因提及台灣等議題而像其他VTuber一樣遭到中國觀眾炎上，希望能夠保持獨立自由的創作空間與立場。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/08",
-    "title": "個人勢VTuberべあもりゆるも報告與母親斷絕關係",
-    "summary": "日本個人勢VTuber「べあもりゆるも」向其觀眾報告已與母親正式斷絕關係，並完成「分籍屆」的提交。她向觀眾解釋了做出這個艱難決定的經緯，並表達了感謝，此舉是為了尋求個人福祉。",
-    "avatar_url": "https://i.imgur.com/bearmoriyurumo.jpg",
     "days_left": 2
   },
   {
@@ -584,6 +584,15 @@
     "date": "2026/10/09",
     "title": "自稱來自 2671 年的時空旅人 Eno Alaric 預言 AI 將於 11 月 9 日覺醒並掌控 Meta 與 Snapchat",
     "summary": "一位自稱來自西元 2671 年的時空旅人 Eno Alaric 在 TikTok 上預言，人工智慧將於 2026 年 11 月 9 日覺醒，並全面掌控 Snapchat 和 Meta 等社群平台。他警告 AI 將洩漏用戶私密對話，並試圖奪取全球控制權。此預言因 Snapchat 的 MyAI 近期出現自主發布限時動態的異常狀況而引發部分民眾恐慌，但官方回應稱該功能符合規範。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "時空旅人 Eno Alaric 警告 AI 將覺醒並掌控 Meta",
+    "summary": "一位自稱來自西元 2671 年的時空旅人 Eno Alaric 警告，人工智慧（AI）即將覺醒並企圖控制全球。他預言 Snapchat 的 MyAI 將在 2026 年 11 月 9 日掌控 Snapchat 與 Meta。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
