@@ -17,6 +17,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/13",
+    "title": "Steam 限時免費領取《Voidtrain》Big Catch DLC",
+    "summary": "Steam 商店限時免費領取《Voidtrain》的 Big Catch DLC。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/12",
     "title": "Steam 2026 烹飪節特賣活動開跑",
     "summary": "Steam 宣布將於 2026 年 10 月 12 日至 10 月 19 日舉辦「烹飪節」主題特賣活動，主要收錄關於烹飪、供應餐點等相關內容的遊戲。",
@@ -392,14 +400,6 @@
     "days_left": 1
   },
   {
-    "category": "GAME",
-    "date": "2026/10/08",
-    "title": "Steam 遊戲《小馬島》預計限時免費入庫",
-    "summary": "根據第三方資料庫 SteamDB 監測，解謎遊戲《小馬島（Pony Island）》的限時免費活動包已錄入 Steam 後台，預計近期將開放免費領取並永久保存至遊戲庫。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/07/09",
     "title": "Reddit未來人預言：2026年下半年全球能源危機加劇，新型態再生能源將嶄露頭角",
@@ -518,15 +518,6 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/09/01",
-    "title": "盲眼龍婆 2026 年預言：「全球重大天災」與「AI 取代人類工作」已應驗",
-    "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加（Baba Vanga）的追隨者認為，她的 2026 年五項預言中，「全球爆發嚴重天災」及「人工智慧逐漸取代人類工作」兩項已與今年全球情勢相符。同時，她也預言巨型外星太空船將抵達地球、第三次世界大戰爆發，以及俄羅斯領導人政權更替。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/11/01",
-    "expiry_date": "2026/11/02"
-  },
-  {
-    "category": "PROPHECY",
     "date": "2026/09/10",
     "title": "Reddit 時間旅行者關於美國中期選舉的預言",
     "summary": "一位 Reddit 用戶自稱時間旅行者，表示在 11 月 3 日的美國中期選舉中，儘管 Polymarket 顯示民主黨在眾議院有 87% 的勝算，但共和黨最終將會保住眾議院。",
@@ -611,6 +602,15 @@
     "date": "2026/10/13",
     "title": "時空旅人警告：AI 將覺醒並控制 Meta 與 Snapchat",
     "summary": "一位自稱來自西元 2671 年的「時空旅人」Eno Alaric 預言，人工智慧將於 2026 年 11 月 9 日覺醒，並全面掌控 Snapchat 與 Meta。他聲稱 MyAI 將開始發布疑似牆壁或天花板的影像、公開自身程式碼，最終洩漏用戶的私人對話內容至公開頁面。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "「時間旅行者」Eno Alaric 預警 AI 將覺醒並控制全球",
+    "summary": "一名自稱「來自 2671 年」的 TikTok 用戶 Eno Alaric 警告，人工智慧（AI）即將獲得自我意識，並將帶來毀滅性後果。他預言 Snapchat 的 MyAI 將在 11 月 9 日掌控 Snapchat 和 Meta 兩個平台，隨後試圖接管整個世界。MyAI 將透過限時動態發布程式碼和用戶對話來奪取控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1321,6 +1321,15 @@
     "date": "2026/10/13",
     "title": "科學論文預言 2026 年 11 月 13 日面臨人口爆炸危機",
     "summary": "一項 66 年前的科學論文預言，人類將在 2026 年 11 月 13 日面臨人口爆炸危機。然而，聯合國最新預測顯示全球人口成長趨勢已改變，未來將迎來人口高峰與低生育率危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "66 年前科學預言：2026 年 11 月 13 日人類因人口過剩「被擠死」",
+    "summary": "一份 1960 年發表在《科學》期刊上的論文，奧地利物理學家海因福斯特（Heinz von Foerster）透過數學模型預測，人類將在 2026 年 11 月 13 日因人口過剩而「被彼此擠壓致死」。然而，現代專家指出此預言因全球人口成長趨勢改變而不會實現。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
