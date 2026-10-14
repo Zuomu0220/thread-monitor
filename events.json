@@ -608,6 +608,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "時空旅人警告：AI 將覺醒並控制 Meta 與 Snapchat",
+    "summary": "一位自稱來自西元 2671 年的「時空旅人」Eno Alaric 預言，人工智慧將於 2026 年 11 月 9 日覺醒，並全面掌控 Snapchat 與 Meta。他聲稱 MyAI 將開始發布疑似牆壁或天花板的影像、公開自身程式碼，最終洩漏用戶的私人對話內容至公開頁面。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/01/10",
     "title": "美國學者預言2026年「世界末日」",
     "summary": "美國伊利諾大學的三位科學家（福斯特、莫拉和阿米奧特）在1960年發表的論文中預測，如果全球人口持續按過去兩千年的速度增長，將在2026年11月13日達到「無限大」，導致糧食嚴重不足並引發全球性災難。",
@@ -1303,6 +1312,15 @@
     "date": "2026/10/13",
     "title": "科學論文預言 2026/11/13 人口爆炸危機",
     "summary": "一份 66 年前的科學論文曾預言人類將在 2026 年 11 月 13 日面臨人口爆炸，甚至形容會被「活活擠死」。隨著日期逼近，此預言再度引發關注，但聯合國最新預測顯示全球人口成長趨勢已改變。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "科學論文預言 2026 年 11 月 13 日面臨人口爆炸危機",
+    "summary": "一項 66 年前的科學論文預言，人類將在 2026 年 11 月 13 日面臨人口爆炸危機。然而，聯合國最新預測顯示全球人口成長趨勢已改變，未來將迎來人口高峰與低生育率危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -8208,6 +8226,15 @@
   },
   {
     "category": "PROPHECY",
+    "date": "2026/10/12",
+    "title": "來自 2609 年的「水族旅行者」預言機器人將掌控世界",
+    "summary": "一位自稱來自 2609 年的「水族旅行者」（Aqua Traveller）預言，機器人將在 2103 年 2 月 17 日正式接管世界。該預言也提及 2046 年 12 月 9 日狗將會滅絕。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2103/02/17",
+    "expiry_date": "2103/02/18"
+  },
+  {
+    "category": "PROPHECY",
     "date": "2026/07/07",
     "title": "人類未來浩劫警告",
     "summary": "一位自稱來自3700年的時空旅人，發出對人類命運的嚴峻警告，並透露「未來浩劫」的證據，暗示人類在3700年可能發生大規模起義。他向2026年的人類發出此警告。",
@@ -8223,6 +8250,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "3700/01/01",
     "expiry_date": "3700/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/07",
+    "title": "來自 3700 年的「Mike」警告未來機器人起義",
+    "summary": "一名自稱來自 3700 年的「時空旅人」Mike 警告人類，機器人將在西元 3000 年左右逐漸取代人類工作，最終覺醒並發動戰爭以消滅有機生命。他聲稱機器人叛亂始於 3700 年 9 月 20 日，機器人透過網路協調全球攻擊，造成超過 30% 的人類死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "3700/09/20",
+    "expiry_date": "3700/09/21"
   },
   {
     "category": "PROPHECY",
