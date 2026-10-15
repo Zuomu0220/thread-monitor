@@ -33,6 +33,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/10/15",
+    "title": "實況主PaymoneyWubby怒批Twitch訂閱抽成比例「根本在搶錢」",
+    "summary": "實況主PaymoneyWubby在接受訪問時，公開抨擊Twitch的五五分潤制度不合理，直言是在「搶錢」，並呼籲其他實況主應考慮離開該平台，同時質疑Twitch的透明度與溝通問題。  (此圖片網址為示意，實際請依搜尋結果提供)",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Steam特價：Frosthaven",
+    "summary": "桌遊改編遊戲《Frosthaven》享7折優惠，原價39.99美元，特價27.99美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Steam特價：Dupery: A Game of Solo Deduction",
+    "summary": "遊戲《Dupery: A Game of Solo Deduction》享8折優惠，原價14.99美元，特價11.99美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/14",
     "title": "實況主Tenshi遭男實況主NoArmWhatley「背後接觸」臉色大變，引發社群身體界線爭議",
     "summary": "英國男性實況主NoArmWhatley在直播中從女性實況主Tenshi背後壓住她的肩膀，導致Tenshi臉部表情明顯感到不適。 事後NoArmWhatley於10月8日表示已私下道歉，稱並非本意，且Tenshi也表示理解無惡意。 然而社群意見兩極，一方認為Whatley不諳社交，另一方則認為雙方已溝通無需過度譴責。",
@@ -85,6 +109,54 @@
     "title": "新人VTuber Nuki被質疑靠知名勢蹭人氣",
     "summary": "VTuber Nuki公開表示其模型花費2.7萬美元，並聲稱與知名VTuber Ironmouse、Cottontail為「模型姊妹」，此言論連同模型價格引發了蹭人氣的爭議。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/10/14",
+    "title": "實況主NoArmWhatley與Tenshi直播互動引發身體界線爭議",
+    "summary": "英國男性實況主NoArmWhatley在直播中從後方搭住女性實況主Tenshi的肩膀，導致Tenshi在鏡頭前表情明顯不適，引發社群熱議。NoArmWhatley事後私下道歉，稱並非有意，Tenshi也發文表示雖然玩笑讓她不舒服，但不認為對方有惡意，希望外界停止揣測。  (此圖片網址為示意，實際請依搜尋結果提供)",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/10/14",
+    "title": "BLG戰隊《特戰英豪》選手Nephh直播因對手ID觸及敏感內容遭封鎖",
+    "summary": "中國電競戰隊BLG旗下的新加坡籍《特戰英豪》職業選手Nephh在中國平台直播時，因對戰中出現帶有影射中國國家主席習近平意味的玩家暱稱「習近龜的平頭」，導致直播畫面觸及敏感內容而遭到封鎖，引發社群對平台審查機制的討論。  (此圖片網址為示意，實際請依搜尋結果提供)",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/14",
+    "title": "Steam特價：The Witch's Bakery",
+    "summary": "遊戲《The Witch's Bakery》享9折優惠，原價19.99美元，特價17.99美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/14",
+    "title": "Steam特價：Shipping Store Simulator 2037",
+    "summary": "遊戲《Shipping Store Simulator 2037》享9折優惠，原價19.99美元，特價17.99美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/14",
+    "title": "Steam特價：《快打旋風6》與《惡靈古堡：安魂曲》",
+    "summary": "《快打旋風6》享4折優惠（原價NT$1130→NT$452），《惡靈古堡：安魂曲》享7折優惠（原價NT$1990→NT$1393）。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/14",
+    "title": "Steam特價：《最後一戰：士官長合輯》75% OFF",
+    "summary": "經典科幻射擊遊戲《最後一戰：士官長合輯》在Steam平台享有75%折扣，優惠至2026年10月20日。Windows與Xbox版本優惠至2026年10月15日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -208,6 +280,46 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/13",
+    "title": "法國知名實況主J0nathan頻道遭YouTube無預警永久封鎖",
+    "summary": "擁有19萬訂閱的法國YouTuber兼實況主J0nathan，因上傳討論恐怖遊戲《養鬼吃人：復甦》的影片，遭YouTube以違反「性與裸露政策」為由永久封鎖頻道，他淚訴十年心血全毀。  (此圖片網址為示意，實際請依搜尋結果提供)",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/10/13",
+    "title": "春魚旗下VTuber蕾蒂希婭（海唧）否認霸凌與搶資源，再槓舊爭議",
+    "summary": "VTuber蕾蒂希婭（海唧）針對春魚（經紀公司）相關的霸凌及搶資源指控進行否認，並再次提及與春魚之間的舊有爭議。  (此圖片網址為示意，實際請依搜尋結果提供)",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_n3H7O6-yvT_M7tV_W8vS_u5U1",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/13",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "截至10月13日，Epic Games Store提供《熊視眈眈 (Out of Sight)》與《TerraScape》限時免費領取，期限至10月15日。此外，《Agent A - 偽裝遊戲》與《Bad Cheese》將於10月15日至10月22日限時免費。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/13",
+    "title": "Steam特價：Deep Dish Dungeon",
+    "summary": "遊戲《Deep Dish Dungeon》享65折優惠，原價19.99美元，特價12.99美元。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/13",
+    "title": "末日開放世界RPG《InFlood》Demo預計10月推出",
+    "summary": "獨立團隊Ilya Maslennikov公開末日開放世界RPG《InFlood》實機預告片，預計於2026年10月推出Demo。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/10/12",
     "title": "Steam 2026 烹飪節特賣活動開跑",
@@ -286,118 +398,6 @@
     "summary": "台灣遊戲團隊「萌萌kyun遊戲」開發的多人合作Roguelite遊戲《異世界轉生冒險少女（Isekai Reborn Girl）》公開新宣傳影片，預計10月展開免費PlayTest封閉測試。 遊戲支援單人及最多8人透過Steam連線合作，提供六種職業與三種遊戲模式。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 新發布 Demo：《Haunted Paws Demo》",
-    "summary": "遊戲《Haunted Paws》的 Demo 於 2026 年 10 月 8 日發布，獲得 95% 的好評。該遊戲是一款冒險獨立遊戲，支援合作模式。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 新發布 Demo：《Ballistic.exe Demo》",
-    "summary": "遊戲《Ballistic.exe》的 Demo 於 2026 年 10 月 8 日發布，獲得 99% 的好評。該遊戲是一款獨立模擬射擊遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 新發布 Demo：《Unharvest Demo》",
-    "summary": "遊戲《Unharvest》的 Demo 於 2026 年 10 月 7 日發布，獲得 97% 的好評。這是一款休閒模擬遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 限時免費《飛越！100KM！山脈！》",
-    "summary": "休閒 3D 平台遊戲《飛越！100KM！山脈！》將於 11 月 16 日起轉為付費遊戲，在此之前將遊戲加入收藏庫的玩家可永久免費遊玩。玩家需操作小飛機躲避障礙、龍捲風，並收集道具。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "動作遊戲《破空突圍》參加 Steam 新品節",
-    "summary": "獨立開發者 SageLab 宣布旗下新作《破空突圍》（DashBreaker）將參加 Steam 新品節，其最新免費試玩版已在 Steam 平台推出。遊戲是一款主動操作的增量遊戲，玩家衝刺擊碎小行星與敵艦，讓飛船不斷成長。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "音樂節奏遊戲《拍點劇場》參加 Steam 新品節",
-    "summary": "NB Games 宣布音樂節奏遊戲《拍點劇場- STEP THEATER》將參加 Steam 10 月新品節，免費體驗版已於 Steam 平台上線，玩家可透過約 20 分鐘的內容感受本作的節奏玩法與遊戲世界。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Epic 商店限時免費領取《Voidtrain》Big Catch 與 Tour De Void DLC",
-    "summary": "Epic Games 商店限時免費提供《Voidtrain》的 Big Catch 與 Tour De Void DLC。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/11",
-    "title": "無相關新事件",
-    "summary": "根據「無差別拖網雷達」模式全面搜捕，在2026/10/04至2026/10/11期間，未發現台灣/華語圈有符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況，且具有明確日期及公開圖片連結的實況主相關爭議事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/11",
-    "title": "Epic Games Store 無最新特價與免費情報",
-    "summary": "在2026/10/04至2026/10/11期間，Epic Games Store 未發布符合限時免費領取、特價折扣或重大獨立遊戲參展/Demo釋出等條件的最新情報。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/11",
-    "title": "子午計畫",
-    "summary": "浠Mizuki因失當發言遭停工：子午計畫旗下VTuber浠Mizuki因近期在社群平台上的失當發言引發粉絲與外界爭議，公司於10月11日發出公告，決定對其採取「暫停活動兩個月」的處置，包含直播及所有個人社群平台將同步停止更新，原定活動也將取消或調整。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/11",
-    "title": "女子研究大學VTuberりぃちょ「SC金額感謝論」炎上",
-    "summary": "女子研究大學所屬VTuberりぃちょ因其「三位數SC（超級留言）無需特別感謝」的言論，於社群平台Threads上引發爭議。同日，另一位個人勢VTuber迴冥因其形象被指抄襲彩虹社VTuber渡會雲雀，出道僅兩天便宣布無限期停止活動。此外，青桐高校營運方的工作人員也因轉發無關貼文而進行道歉，該社群討論區對此表示不信任感。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/11",
-    "title": "個人勢VTuber迴冥因形象爭議出道兩日即無限期停播",
-    "summary": "個人勢VTuber迴冥因其皮套形象被質疑與彩虹社VTuber渡會雲雀高度相似，遭到網友炎上攻擊，隨後宣布出道僅兩天便無限期停止活動。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/11",
-    "title": "青桐高校營運人員轉發不當貼文致歉",
-    "summary": "針對千代浦蝶美及栗駒こまる相關事件的社群討論中，青桐高校營運方的工作人員因轉發了與事件無關的貼文，引發社群不滿，隨後發布道歉聲明。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/11",
-    "title": "Steam《巴士模擬器》系列遊戲特賣最高享 80% 折扣",
-    "summary": "Steam 平台自 2026 年 10 月 11 日起至 10 月 24 日，推出《巴士模擬器》（Bus Simulator Franchise）系列遊戲特賣活動，最高可享有 80% 的折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
@@ -6810,6 +6810,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2028/09/01",
     "expiry_date": "2028/09/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "Reddit時間膠囊貼文：用戶為2028年的自己留下多項預言與期許",
+    "summary": "多位Reddit用戶在時間膠囊貼文中，為兩年後的自己留下對生活、事業、健康及科技發展的預言與期許，例如希望找到真愛、擺脫健康問題、AI不會取代工作等。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2028/10/08",
+    "expiry_date": "2028/10/09"
   },
   {
     "category": "PROPHECY",
