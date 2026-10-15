@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Steam 新品節：2026 年 10 月版",
+    "summary": "Steam 平台將於 2026 年 10 月 19 日至 10 月 26 日期間舉辦「Steam 新品節：2026 年 10 月版」，屆時將有大量尚未發行的遊戲提供免費試玩版，玩家可探索各種遊戲類型並與開發者互動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/14",
     "title": "實況主Tenshi遭男實況主NoArmWhatley「背後接觸」臉色大變，引發社群身體界線爭議",
@@ -392,14 +400,6 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
-    "date": "2026/10/10",
-    "title": "2026 年 Epic、Steam、GOG 限時免費遊戲領取更新",
-    "summary": "遊戲情報網站於 10 月 10 日更新本週限時免費遊戲活動，提醒 Epic 和 Steam 的限時免費領取為永久持有，而 Steam 的「免費週末」則僅為試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/10/08",
     "title": "Twitter帳號「@FutureSight2030」預警全球性網路中斷",
@@ -611,6 +611,15 @@
     "date": "2026/10/13",
     "title": "時空旅行者Eno Alaric預言AI將於11月9日覺醒並控制全球",
     "summary": "一名自稱「來自2671年」的時空旅行者Eno Alaric預言，人工智能將在11月9日獲得自我意識，並接管Meta和Snapchat等平台，進而控制整個世界。 他聲稱MyAI將開始在限時動態上發布代碼和用戶對話，並強調屆時手機、筆電甚至其他人都不再值得信任。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "2671年時空旅人Eno Alaric預言：AI將覺醒並掌控全球社群平台",
+    "summary": "自稱來自西元2671年的「時空旅人」Eno Alaric透過社群平台發布預言，警告人工智慧將於今年 11 月 9 日覺醒，首先全面掌控 Snapchat 與 Meta 兩大平台，並試圖奪取全球控制權，屆時包括手機、電腦甚至人類都不可信。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1339,6 +1348,15 @@
     "date": "2026/10/12",
     "title": "科學家預測「末日：2026 年 11 月 13 日」人口爆炸毀滅",
     "summary": "1960 年《科學》期刊曾發表文章「末日：2026 年 11 月 13 日」，由研究者海因茨·馮·福斯特（Heinz von Foerster）等人預測，到 2026 年 11 月 13 日，人類人口將趨近無限，並因「被擠壓致死」而自我毀滅。儘管此預測的基礎模型後來因出生率下降而偏離，但其曾長時間保持驚人的準確性。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "科學預言：11月13日將面臨全球人口爆炸危機",
+    "summary": "一篇於1960年刊登在知名科學期刊《Science》的論文預言，人類將在 2026 年 11 月 13 日面臨人口爆炸，甚至形容會被「活活擠死」。隨著日期逼近，此預言再次引發網路社群關注與討論。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -5637,6 +5655,24 @@
     "date": "2026/08/17",
     "title": "2058 年未來人國分玲預言全球重大事件",
     "summary": "自稱來自 2058 年的日本未來人國分玲，曾預言 2026 年至 2058 年間將發生一系列全球性事件，涵蓋傳染病、地緣政治、AI 技術、自然災害、航天探索及交通發展等。其中特別警告 2026 年底將有全新的傳染病肆虐全球。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/11",
+    "title": "2062年未來人討論串於5ch再現",
+    "summary": "日本匿名論壇 5ch (前身為 2ch) 上，關於「2062年未來人」的討論串再次活躍。該未來人曾於 2010 年至 2012 年間出現，並預言了包含 311 東日本大地震在內的多項事件。近期討論提及 2026 年日本將面臨的潛在問題與警告。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/03/24",
+    "title": "多位預言家指向2026年為人類的「轉捩點」或「奇點」",
+    "summary": "Reddit 上的討論指出，包括Brandon Biggs（美國）、Abhigya Anand（印度）和Craig Hamilton-Parker（英國）在內，三位來自不同背景的預言家皆將 2026 年視為人類社會的重大轉捩點或「奇點」。他們預測這一年將伴隨全球性的轉型、精神覺醒及地質災變，並強調這些混亂是人類被迫進行精神進化的必要催化劑。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
