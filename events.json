@@ -1,5 +1,13 @@
 [
   {
+    "category": "STREAMER",
+    "date": "2026/10/16",
+    "title": "無最新事件",
+    "summary": "在 2026/10/09 至 2026/10/16 期間，目前沒有在網路上搜捕到台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/10/15",
     "title": "Epic Games 即將免費遊戲",
@@ -76,6 +84,14 @@
     "date": "2026/10/15",
     "title": "Steam 新品節",
     "summary": "2026 年 10 月 Steam 新品節資訊更新，其中包含掛機、合作、角色扮演遊戲《Muv-Luv 少女庭園》及時間管理、視覺小說《少女機師養成計畫：女武神協議》等新作試玩版情報。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Epic Games Store 即將免費：《Bad Cheese》與《Agent A: A Puzzle in Disguise》",
+    "summary": "Epic Games Store 公布接下來的免費遊戲為《Bad Cheese》與《Agent A: A Puzzle in Disguise》，從 10 月 15 日至 10 月 22 日可免費領取。《Bad Cheese》是一款心理恐怖遊戲，探索家庭暴力創傷主題；《Agent A: A Puzzle in Disguise》則是一款 1960 年代間諜主題的密室逃脫解謎遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 2026年10月新品節好玩遊戲推薦",
-    "summary": "Steam 2026年10月新品節期間，游民星空整理並盤點多款值得體驗的新遊戲，其中包括「百煉仙丹」等掛機放置與修仙主題的遊戲，以及「暴富彈球」等輕鬆暢快的彈珠遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "國產遊戲《夢閃少女》晉級 SHIBA GAME 2026 最終決選",
-    "summary": "《傳送地下城》開發團隊「葉開罐工作室」新作《夢閃少女》（Awaking Beauty），一款2D動作Roguelite遊戲，成功晉級 SHIBA GAME AWARD 2026 SUMMER 最終決選。遊戲預計於10月18日進行YouTube直播，並於10月22日公布最終獎項結果。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/10/08",
     "title": "Twitter帳號「@FutureSight2030」預警全球性網路中斷",
@@ -503,6 +503,15 @@
     "date": "2026/03/04",
     "title": "盲眼龍婆 2026 年預言：美伊戰爭、氣候劇變、AI 反撲、外星人接觸",
     "summary": "「盲眼龍婆」巴巴萬加預測 2026 年將發生四大事件：美伊戰爭引發金融海嘯，導致數億人破產；毀滅性氣候劇變，強震與火山爆發侵蝕 8% 陸地，沿海城市面臨危機；人工智慧全面滲透並可能「反撲」人類文明；以及人類可能在 2026 年 11 月與外星智慧生命首次接觸。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/01",
+    "expiry_date": "2026/11/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "盲眼龍婆 Baba Vanga 預言：2026 年第三次世界大戰與首次外星接觸",
+    "summary": "已故保加利亞預言家盲眼龍婆預言，2026 年將是第三次世界大戰的開始，以及人類首次與外星生命接觸的時刻。她也預言歐洲大部分地區的人口將因戰火銳減。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
@@ -647,6 +656,15 @@
     "date": "2026/10/09",
     "title": "2671年時空旅人警告",
     "summary": "一名自稱來自西元2671年的「時空旅人」Eno Alaric 警告，人工智慧（AI）即將覺醒並奪取對全球的控制權，並預言 Snapchat 的 MyAI 將於 2026 年 11 月 9 日掌控 Snapchat 與 Meta。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "時空旅行者 Eno Alaric 預言：AI 將在 11 月 9 日後覺醒並控制全球",
+    "summary": "一名自稱來自 2671 年的時空旅行者 Eno Alaric 預言，人工智慧將在 2026 年 11 月 9 日後獲得自我意識並接管世界，首先將掌控 Snapchat 和 Meta 兩個平台，最終試圖接管整個世界，屆時人類將失去對自身的控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1411,6 +1429,15 @@
     "date": "2026/10/13",
     "title": "科學論文預言",
     "summary": "一篇 66 年前的科學論文曾預言，人類將在 2026 年 11 月 13 日面臨人口爆炸，甚至形容會被活活擠死，此預言隨著日期逼近引發關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "1960 年科學論文預言：世界末日倒數 1 個月",
+    "summary": "一份發表於 1960 年《Science》期刊的科學論文，由奧地利裔美國物理學家福斯特等人撰寫，根據人口增長計算，預言世界末日將在 2026 年 11 月 13 日左右發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -5727,6 +5754,42 @@
     "date": "2026/03/24",
     "title": "多位預言家指向2026年為人類的「轉捩點」或「奇點」",
     "summary": "Reddit 上的討論指出，包括Brandon Biggs（美國）、Abhigya Anand（印度）和Craig Hamilton-Parker（英國）在內，三位來自不同背景的預言家皆將 2026 年視為人類社會的重大轉捩點或「奇點」。他們預測這一年將伴隨全球性的轉型、精神覺醒及地質災變，並強調這些混亂是人類被迫進行精神進化的必要催化劑。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/28",
+    "title": "來自 2058 年的未來人國分玲預言：比特幣價值飆升，未來只能賣不能買",
+    "summary": "國分玲曾預言比特幣的價值將會飆升至天價，並且未來只能賣出而不能買入。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人 sombrero2079 預言：2026 年人工智慧將引發國際事故",
+    "summary": "自稱來自另一時間線的 Threads 用戶 sombrero2079 預言，2026 年將會因為 AI 引發一起嚴重的國際事故。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/02/08",
+    "title": "Threads 未來人 sombrero2079 預言：2026 年美、歐地區嚴重野火",
+    "summary": "自稱來自另一時間線的 Threads 用戶 sombrero2079 預言，2026 年美洲和歐洲地區將發生嚴重的大型野火，導致該地區人口大量流失和外移。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/12/30",
+    "title": "祕魯薩滿預言：2026 年美國總統川普健康危機",
+    "summary": "祕魯薩滿在年度新年儀式中預言，美國總統川普在 2026 年可能會遭遇突發性的嚴重疾病，這將為美國政局帶來變數。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
