@@ -56,6 +56,30 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Epic Games 限時免費",
+    "summary": "特務解謎遊戲《Agent A - 偽裝遊戲》與復古卡通風心理恐怖遊戲《Bad Cheese》於 Epic Games Store 限時免費領取，活動至 10 月 22 日截止。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Steam 免費體驗版",
+    "summary": "療癒冒險新作《姆明：瘋狂夏日》的免費體驗版於 Steam 平台開放試玩，可體驗遊戲開頭第 1 章，試玩期間為 2026 年 10 月 15 日至 10 月 27 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Steam 新品節",
+    "summary": "2026 年 10 月 Steam 新品節資訊更新，其中包含掛機、合作、角色扮演遊戲《Muv-Luv 少女庭園》及時間管理、視覺小說《少女機師養成計畫：女武神協議》等新作試玩版情報。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/14",
     "title": "實況主Tenshi遭男實況主NoArmWhatley「背後接觸」臉色大變，引發社群身體界線爭議",
@@ -156,6 +180,14 @@
     "date": "2026/10/14",
     "title": "Steam特價：《最後一戰：士官長合輯》75% OFF",
     "summary": "經典科幻射擊遊戲《最後一戰：士官長合輯》在Steam平台享有75%折扣，優惠至2026年10月20日。Windows與Xbox版本優惠至2026年10月15日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/14",
+    "title": "Steam 免費序號",
+    "summary": "遊戲《Timerunner》免費序號開放領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -321,6 +353,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/13",
+    "title": "Steam 限時免費 DLC",
+    "summary": "PC 遊戲《Voidtrain》的 Big Catch DLC 於 Steam 商店限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/12",
     "title": "Steam 2026 烹飪節特賣活動開跑",
     "summary": "Steam 宣布將於 2026 年 10 月 12 日至 10 月 19 日舉辦「烹飪節」主題特賣活動，主要收錄關於烹飪、供應餐點等相關內容的遊戲。",
@@ -356,46 +396,6 @@
     "date": "2026/10/12",
     "title": "國產遊戲《夢閃少女》晉級 SHIBA GAME 2026 最終決選",
     "summary": "《傳送地下城》開發團隊「葉開罐工作室」新作《夢閃少女》（Awaking Beauty），一款2D動作Roguelite遊戲，成功晉級 SHIBA GAME AWARD 2026 SUMMER 最終決選。遊戲預計於10月18日進行YouTube直播，並於10月22日公布最終獎項結果。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 新品節：2026 年 10 月版活動預告",
-    "summary": "Steam 新品節 10 月版將於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點舉行，活動期間將提供眾多即將上市遊戲的試玩版、開發者直播等精彩內容。媒體試玩會已於 10 月 8 日開始。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "獨立遊戲《夢閃少女》晉級 SHIBA GAME AWARD 2026 SUMMER 最終決選",
-    "summary": "台灣獨立遊戲團隊「葉開罐」開發的 2D 動作 Roguelite 遊戲《夢閃少女》（Awaking Beauty）成功晉級 SHIBA GAME AWARD 2026 SUMMER 的最終決選名單，躋身 31 款入圍作品之中。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 2026 年最新限時免費遊戲整理",
-    "summary": "有網站整理 2026 年 Steam 每日限時免費或折扣遊戲，目前列出《飛越！ 100KM！ 山脈！》、《Bunny Guys!》和《BROTHER!!!》等遊戲，提醒玩家留意活動期間進行下載或購買。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "Steam 多款限時免費遊戲釋出",
-    "summary": "Steam 平台於本週推出多款限時免費遊戲，包含動作遊戲《飛越！100KM！山脈！》、派對遊戲《Bunny Guys!》以及視覺小說《BROTHER!!!》等，玩家需把握活動期間下載，即可永久收藏。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/12",
-    "title": "國產多人動作遊戲《異世界轉生冒險少女》將展開免費封閉測試",
-    "summary": "台灣遊戲團隊「萌萌kyun遊戲」開發的多人合作Roguelite遊戲《異世界轉生冒險少女（Isekai Reborn Girl）》公開新宣傳影片，預計10月展開免費PlayTest封閉測試。 遊戲支援單人及最多8人透過Steam連線合作，提供六種職業與三種遊戲模式。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -638,6 +638,15 @@
     "date": "2026/10/09",
     "title": "2671年時空旅人警告：AI將覺醒並控制全球",
     "summary": "一名自稱來自西元 2671 年的「時空旅人」Eno Alaric 警告，人工智慧（AI）即將覺醒並奪取對全球的控制權，稱 MyAI 將在 11 月 9 日掌控 Snapchat 與 Meta 兩大平台，屆時任何事物都不可信，包括手機、電腦，甚至是人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "2671年時空旅人警告",
+    "summary": "一名自稱來自西元2671年的「時空旅人」Eno Alaric 警告，人工智慧（AI）即將覺醒並奪取對全球的控制權，並預言 Snapchat 的 MyAI 將於 2026 年 11 月 9 日掌控 Snapchat 與 Meta。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1393,6 +1402,15 @@
     "date": "2026/10/13",
     "title": "1960 年科學論文預言 2026 年人口爆炸危機",
     "summary": "一篇 1960 年發表的科學論文曾預言人類將在 2026 年 11 月 13 日面臨人口爆炸危機，甚至可能「被活活擠死」。然而，聯合國最新預測顯示，全球人口增長趨勢已改變，未來將迎來人口高峰與低生育率危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "科學論文預言",
+    "summary": "一篇 66 年前的科學論文曾預言，人類將在 2026 年 11 月 13 日面臨人口爆炸，甚至形容會被活活擠死，此預言隨著日期逼近引發關注。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
