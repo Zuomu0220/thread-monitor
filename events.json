@@ -25,6 +25,30 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/10/17",
+    "title": "無重大負面與爭議事件報導",
+    "summary": "在 2026/10/11 至 2026/10/18 期間，Google Search 未搜捕到台灣/華語圈實況主與 VTuber 相關的重大負面與爭議事件（包含炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播）。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/17",
+    "title": "Epic Games Store 推動生成式AI引發商店故障",
+    "summary": "Epic Games 據報導正大力推動生成式AI應用於開發流程，導致 Epic Games Store 介面出現故障與使用者體驗不佳的抱怨。此舉發生在 2026 年 3 月大規模裁員之後，CEO Tim Sweeney 據稱正推動「不再手寫程式碼」的方針。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/17",
+    "title": "Epic Games Store 宣布 10/22 起將免費贈送《Sker Ritual》與《Home》",
+    "summary": "Epic Games Store 官方宣布，將於 10 月 22 日至 10 月 29 日期間免費贈送第一人稱射擊遊戲《Sker Ritual》和《Home》兩款遊戲，作為萬聖節前最後一波免費活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/16",
     "title": "無最新事件",
     "summary": "在 2026/10/09 至 2026/10/16 期間，目前沒有在網路上搜捕到台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面事件。",
@@ -116,6 +140,22 @@
     "date": "2026/10/16",
     "title": "Steam The MIX 秋季遊戲展",
     "summary": "The MIX 秋季遊戲展於 2026 年 10 月 16 日在 Steam 舉辦，展示多款精選獨立遊戲作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Steam 週末免費試玩《戰地風雲6》與《荒島求生》並享六折優惠",
+    "summary": "Steam 平台於 10 月 15 日至 10 月 19 日推出《戰地風雲6》與《荒島求生》的免費試玩活動，同時兩款遊戲皆享六折優惠。其中《戰地風雲6》的優惠持續至 10 月 20 日，而《荒島求生》的優惠則延長至 10 月 22 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Steam 免費遊戲《Dear Magical Girls》限時開放",
+    "summary": "劇情導向的塔防遊戲《Dear Magical Girls》目前可在 Steam 平台限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -344,59 +384,19 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/10/15",
+    "title": "Epic Games Store 目前免費領取《Bad Cheese》與《Agent A: A Puzzle in Disguise》",
+    "summary": "Epic Games Store 目前提供《Bad Cheese》與《Agent A: A Puzzle in Disguise》兩款遊戲限時免費領取，活動將持續至 10 月 22 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/14",
     "title": "實況主Tenshi遭男實況主NoArmWhatley「背後接觸」臉色大變，引發社群身體界線爭議",
     "summary": "英國男性實況主NoArmWhatley在直播中從女性實況主Tenshi背後壓住她的肩膀，導致Tenshi臉部表情明顯感到不適。 事後NoArmWhatley於10月8日表示已私下道歉，稱並非本意，且Tenshi也表示理解無惡意。 然而社群意見兩極，一方認為Whatley不諳社交，另一方則認為雙方已溝通無需過度譴責。",
     "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/14",
-    "title": "BLG《特戰英豪》選手Nephh直播因對手ID藏「習近平」迷因梗遭中國平台封鎖",
-    "summary": "中國電競戰隊BLG的新加坡籍《特戰英豪》職業選手Nephh，於10月10日在中國平台直播時，因對戰中一名敵方玩家使用帶有「習近平」諧音梗的遊戲ID「習近龜的平頭」，導致其直播畫面觸及敏感內容，頻道隨即遭平台封鎖。 此事件引發社群對中國直播平台審查尺度的熱議，玩家建議實況主可開啟匿名模式避免類似風險。 此外，10月8日西班牙實況主Horcus參與中國活動時，賽後語音也曾出現辱罵習近平言論，導致多個直播頻道遭封鎖。",
-    "avatar_url": "https://esports.tips/wp-content/uploads/2023/11/BLG-Nephh.jpg",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/14",
-    "title": "PTT討論VTuber界亂象：年輕VTuber缺乏社會經驗，易因不熟悉合約導致糾紛",
-    "summary": "PTT C_Chat版有文章討論外媒揭露VTuber界的亂象，指出大多數VTuber是年輕人，缺乏一般職場或社會經驗，容易以「在房間玩直播」的心態簽署具有法律效力的專屬合約，導致開天窗、私下接案等違約行為被視為個人小失誤。 文章也提到VTuber在出問題時常選擇失蹤或說謊逃避責任。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/14",
-    "title": "日本VTuberりぃちょ因「嫌320日元打賞太少不用感謝」影片炎上，後稱是玩笑",
-    "summary": "日本VTuber、YouTuberりぃちょ發布一段短影片，提到事務所曾交代收到三位數日元打賞不需特意感謝，引發網友不滿，認為其不尊重小額打賞觀眾。 該影片在X上迅速引發爭議，觀看量超過400萬。 りぃちょ隨後解釋，該影片是與一位長期支持的老粉絲之間的玩笑，但仍有網友質疑其是否故意炒作。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/14",
-    "title": "Steam：《永恆傳奇Remastered》於2026年10月15日發售",
-    "summary": "萬代南夢宮娛樂在東京電玩展2026展前媒體試玩會上，介紹了《時空幻境：永恆傳奇Remastered》這款系列經典的2D復刻作品，確認將於2026年10月15日正式全球發行。 遊戲保留原作體驗並新增多項便利功能。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/14",
-    "title": "免費序號領取：Timerunner",
-    "summary": "遊戲《Timerunner》提供免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/14",
-    "title": "新人VTuber Nuki被質疑靠知名勢蹭人氣",
-    "summary": "VTuber Nuki公開表示其模型花費2.7萬美元，並聲稱與知名VTuber Ironmouse、Cottontail為「模型姊妹」，此言論連同模型價格引發了蹭人氣的爭議。",
-    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
   {
@@ -710,6 +710,15 @@
     "date": "2026/10/09",
     "title": "2671 年時空旅人 Eno Alaric 預言 AI 將覺醒並控制 Meta 與 Snapchat",
     "summary": "自稱來自西元 2671 年的 TikTok 時空旅人 Eno Alaric 警告，人工智慧將於 2026 年 11 月 9 日覺醒，全面掌控 Snapchat 和 Meta 平台，並可能洩漏用戶私密對話，進而奪取全球控制權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "來自2671年的時空旅行者預言AI覺醒並掌控全球社群平台",
+    "summary": "自稱來自2671年的時空旅行者 Eno Alaric 警告，人工智能將於 2026 年 11 月 9 日後獲得自我意識，並開始接管 Meta 和 Snapchat 等全球社群平台。他預言 Snapchat 的 MyAI 將發布異常動態，並開始分享與用戶的對話，最終 MyAI 將掌握過多控制權，導致 Snapchat 試圖關閉 AI 失敗，一切為時已晚。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1510,6 +1519,15 @@
     "date": "2026/10/13",
     "title": "66 年前科學預言：2026 年 11 月 13 日將面臨人口爆炸危機",
     "summary": "一份 66 年前的科學論文曾預言，人類將在 2026 年 11 月 13 日面臨嚴重的人口爆炸問題，甚至形容會被「活活擠死」。儘管聯合國最新預測顯示全球人口成長趨勢已改變，此預言仍引發關注。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "科學預言人類人口爆炸末日",
+    "summary": "一份 66 年前的科學論文曾預言，人類將在 2026 年 11 月 13 日因人口爆炸而面臨「被活活擠死」的末日。然而，聯合國最新預測顯示，全球人口成長趨勢已改變，未來將迎來人口高峰與低生育率危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
