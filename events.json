@@ -321,6 +321,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Epic Games Store 免費遊戲更新",
+    "summary": "本週 Epic Games Store 推出兩款限時免費遊戲：《Agent A: A Puzzle in Disguise》與《Bad Cheese》，領取期限至 10 月 22 日。前者是一款特務解謎冒險遊戲，後者則是一款以 1920 年代動畫風格呈現的心理恐怖遊戲。下週預計將免費提供《Home: A Unique Horror Adventure》和《Sker Ritual》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Steam 免費遊戲：Squad Weapon Skins – Recon Team Pack DLC",
+    "summary": "Steam 商店限時免費領取《Squad》的「Weapon Skins – Recon Team Pack DLC」。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/15",
     "title": "Epic Games 即將免費遊戲",
     "summary": "Epic Games Store 將於 2026 年 10 月 15 日至 10 月 22 日提供《Agent A: A Puzzle in Disguise》和《Bad Cheese》兩款遊戲免費領取。",
@@ -380,22 +396,6 @@
     "date": "2026/10/15",
     "title": "Steam 免費體驗版",
     "summary": "療癒冒險新作《姆明：瘋狂夏日》的免費體驗版於 Steam 平台開放試玩，可體驗遊戲開頭第 1 章，試玩期間為 2026 年 10 月 15 日至 10 月 27 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam 新品節",
-    "summary": "2026 年 10 月 Steam 新品節資訊更新，其中包含掛機、合作、角色扮演遊戲《Muv-Luv 少女庭園》及時間管理、視覺小說《少女機師養成計畫：女武神協議》等新作試玩版情報。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Epic Games Store 即將免費：《Bad Cheese》與《Agent A: A Puzzle in Disguise》",
-    "summary": "Epic Games Store 公布接下來的免費遊戲為《Bad Cheese》與《Agent A: A Puzzle in Disguise》，從 10 月 15 日至 10 月 22 日可免費領取。《Bad Cheese》是一款心理恐怖遊戲，探索家庭暴力創傷主題；《Agent A: A Puzzle in Disguise》則是一款 1960 年代間諜主題的密室逃脫解謎遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -719,6 +719,15 @@
     "date": "2026/10/13",
     "title": "來自2671年的時空旅行者預言AI覺醒並掌控全球社群平台",
     "summary": "自稱來自2671年的時空旅行者 Eno Alaric 警告，人工智能將於 2026 年 11 月 9 日後獲得自我意識，並開始接管 Meta 和 Snapchat 等全球社群平台。他預言 Snapchat 的 MyAI 將發布異常動態，並開始分享與用戶的對話，最終 MyAI 將掌握過多控制權，導致 Snapchat 試圖關閉 AI 失敗，一切為時已晚。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "2671 年時空旅人預言 AI 將覺醒並掌控全球",
+    "summary": "一位自稱來自西元 2671 年的 TikTok 帳號「Eno Alaric」發布預言，警告人工智慧（AI）即將產生自我意識並試圖奪取控制權，這將是人類史上最嚴峻的危機。他具體指出，Snapchat 的 MyAI 將在 2026 年 11 月 9 日掌控 Snapchat 與 Meta 平台，並隨後試圖接管整個世界。預言稱 MyAI 將先在限時動態發布疑似牆壁或天花板的影像，接著公開自身程式碼，最終將用戶的私人對話內容洩露至公開頁面。他警告屆時任何事物都不可信，包括手機、電腦甚至是人。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
