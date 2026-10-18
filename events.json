@@ -1,11 +1,19 @@
 [
   {
     "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 新品節：2026 年 10 月版",
+    "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日舉行，提供大量即將上市遊戲的免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
     "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 7
+    "days_left": 6
   },
   {
     "category": "GAME",
@@ -13,7 +21,7 @@
     "title": "Epic Games Store 最新免費遊戲與特價",
     "summary": "截至 10/17，Epic Games Store 仍提供《Creepy Scary》、《Fortnite《末世守衛》》和《Steam To Teach Chemistry 101》等遊戲免費遊玩。同時，《Backrooms Bodycam 3》享 75% 折扣（0.49 美元），《Windrose》享 10% 折扣（26.99 美元）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -21,7 +29,7 @@
     "title": "Epic Games Store限時免費領取《特務A：偽裝遊戲》與《爛奶酪》",
     "summary": "Epic Games Store正限時免費贈送好評復古解謎遊戲《特務A：偽裝遊戲》（Agent A: A Puzzle in Disguise），領取時間至2026年10月22日23:00。另有心理恐怖遊戲《爛奶酪》（Bad Cheese）亦可免費領取，但台灣地區可能需跨區操作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -29,7 +37,7 @@
     "title": "無重大負面與爭議事件報導",
     "summary": "在 2026/10/11 至 2026/10/18 期間，Google Search 未搜捕到台灣/華語圈實況主與 VTuber 相關的重大負面與爭議事件（包含炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播）。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -37,7 +45,7 @@
     "title": "Epic Games Store 推動生成式AI引發商店故障",
     "summary": "Epic Games 據報導正大力推動生成式AI應用於開發流程，導致 Epic Games Store 介面出現故障與使用者體驗不佳的抱怨。此舉發生在 2026 年 3 月大規模裁員之後，CEO Tim Sweeney 據稱正推動「不再手寫程式碼」的方針。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -45,7 +53,7 @@
     "title": "Epic Games Store 宣布 10/22 起將免費贈送《Sker Ritual》與《Home》",
     "summary": "Epic Games Store 官方宣布，將於 10 月 22 日至 10 月 29 日期間免費贈送第一人稱射擊遊戲《Sker Ritual》和《Home》兩款遊戲，作為萬聖節前最後一波免費活動。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "GAME",
@@ -53,7 +61,7 @@
     "title": "Epic Games 限時免費：《Agent A - 偽裝遊戲》與《爛奶酪》",
     "summary": "Epic Games Store 本週推出兩款限時免費遊戲：在Steam上獲得「極度好評」的復古風格解謎遊戲《Agent A – 偽裝遊戲》（Agent A：A Puzzle in Disguise），以及受1920年代動畫詭異魅力啟發的心理恐怖遊戲《爛奶酪》（Bad Cheese）。玩家可於2026年10月22日截止前免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
+    "days_left": 5
   },
   {
     "category": "STREAMER",
@@ -61,7 +69,7 @@
     "title": "無最新事件",
     "summary": "在 2026/10/09 至 2026/10/16 期間，目前沒有在網路上搜捕到台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -69,7 +77,7 @@
     "title": "Steam 新品節 10 月版公布參與遊戲",
     "summary": "2026 年 Steam 新品節（Steam Next Fest）10 月版將於 10 月 19 日至 10 月 26 日舉行，並於 10 月 16 日公布了部分報名遊戲清單，包含《Muv-Luv 少女庭園》和《出攤啦！我的壽司餐車》等作品提供試玩 Demo。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -77,7 +85,7 @@
     "title": "Steam 遊戲《繁星之海Beyond These Stars》發行",
     "summary": "策略、模擬與基地建設遊戲《繁星之海Beyond These Stars》於 2026 年 10 月 16 日在 Steam 發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -85,7 +93,7 @@
     "title": "Steam 遊戲《基機受難記(Flipping is Hard)》發行",
     "summary": "心理恐怖動作遊戲《基機受難記(Flipping is Hard)》於 2026 年 10 月 16 日在 Steam 發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -93,7 +101,7 @@
     "title": "Steam 遊戲《Five Nights with Maids》發行",
     "summary": "恐怖視覺小說遊戲《Five Nights with Maids》於 2026 年 10 月 16 日在 Steam 發行。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -101,7 +109,7 @@
     "title": "查無近期負面與爭議事件",
     "summary": "在 2026/10/09 至 2026/10/16 期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -109,7 +117,7 @@
     "title": "Steam 免費遊戲《Smile More》等上架",
     "summary": "Steam 平台於 10/16 陸續上架多款免費遊戲，包括《Smile More》、《Nazi Zombies》、《Dear Magical Girls》以及《公路餐廳大亨：序章版》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -117,7 +125,7 @@
     "title": "Steam 免費 DLC：《Squad》武器造型 – 偵察小隊包",
     "summary": "Steam 商店推出戰術射擊遊戲《Squad》的免費 DLC「武器造型 – 偵察小隊包」（Weapon Skins – Recon Team Pack DLC），玩家可限時領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "STREAMER",
@@ -125,7 +133,7 @@
     "title": "中國女主播揭露團播黑幕：金主索要裸照與繁重業績壓力",
     "summary": "多名中國女主播（包括林夕、李言、尹月）揭露團播公司內幕，指控她們除了直播外，還需承擔繁重業績任務、下播後回覆私訊，甚至有金主提出不當要求，如索要裸照。事件反映了部分團播公司在管理和主播保障上的爭議。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -133,7 +141,7 @@
     "title": "Steam周末免費試玩《戰地風雲6》與《荒島求生》並享六折優惠",
     "summary": "Steam平台於2026年10月15日至19日推出《戰地風雲6》與《荒島求生》兩款遊戲的免費試玩活動，同時提供六折特惠。 《戰地風雲6》原價69.99美元現為27.99美元，折扣持續至10月20日；《荒島求生》原價19.99美元現為7.99美元，折扣持續至10月22日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -141,7 +149,7 @@
     "title": "Steam 限時免費：《Squad》偵察小隊武器造型包",
     "summary": "戰術小隊 (Squad) 的「偵察小隊包」武器造型 DLC 在 Steam 商店開放限時免費領取，可永久加入遊戲庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -149,7 +157,7 @@
     "title": "Steam The MIX 秋季遊戲展",
     "summary": "The MIX 秋季遊戲展於 2026 年 10 月 16 日在 Steam 舉辦，展示多款精選獨立遊戲作品。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -157,7 +165,7 @@
     "title": "Steam 週末免費試玩《戰地風雲6》與《荒島求生》並享六折優惠",
     "summary": "Steam 平台於 10 月 15 日至 10 月 19 日推出《戰地風雲6》與《荒島求生》的免費試玩活動，同時兩款遊戲皆享六折優惠。其中《戰地風雲6》的優惠持續至 10 月 20 日，而《荒島求生》的優惠則延長至 10 月 22 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -165,7 +173,7 @@
     "title": "Steam 免費遊戲《Dear Magical Girls》限時開放",
     "summary": "劇情導向的塔防遊戲《Dear Magical Girls》目前可在 Steam 平台限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -173,7 +181,7 @@
     "title": "台V艾美麗隱私外洩與社群爭議",
     "summary": "台灣VTuber艾美麗（Aimi）的真實身分遭「衝塔」曝光，引發隱私權受侵害的爭議。同時，她被指控私下與某廠商保持不當聯繫，並在社群中號召同業聲援自己，試圖將核心的廠商失信與商業誠信問題模糊化，此舉引發圈內「抱團取暖」的批評，對台灣VTuber社群的整體形象造成衝擊。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -181,7 +189,7 @@
     "title": "Hololive EN Ouro Kronii 因早期直播雙關語失遊戲配音工作",
     "summary": "Hololive EN所屬VTuber Ouro Kronii近日捲入爭議，其參與《永恆輪迴》英文版角色配音的工作遭到撤換。事件起因是有人翻出她五年前直播中，對遊戲內的「野豬」（boar）開玩笑說「because it's such a bore」的英文雙關語。部分觀眾誤解為她是在批評遊戲無聊，導致爭議擴大。Kronii本人事後澄清當時僅是普通雙關語，並非意指遊戲無聊。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "VTUBER",
@@ -189,7 +197,7 @@
     "title": "芥川組旗下VTuber九十九真淵親簽周邊延遲與筆跡爭議",
     "summary": "芥川組旗下VTuber九十九真淵的粉絲周邊福利拖欠長達一年，引發粉絲不滿。儘管官方承認交付延遲，但對於粉絲質疑親簽周邊筆跡不一、可能涉嫌代簽的說法予以否認，表示九十九真淵會依不同的福利內容使用不同字體風格，然而官方並未提出能直接證明兩份簽名出自同一人的確鑿證據，導致爭議持續延燒。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -197,7 +205,7 @@
     "title": "Steam 免費遊戲：《Dear Magical Girls》、《Hex Reverse》等",
     "summary": "Steam平台近期推出多款免費遊戲供玩家限時領取。其中包括以劇情為核心的塔防遊戲《Dear Magical Girls》、Roguelike卡牌策略遊戲《Hex Reverse》、以及搶先體驗階段的《INVERTA》和即將下架的角鬥士動作遊戲《Arena of Trophies》，這些遊戲均可免費入庫永久保留。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -205,7 +213,7 @@
     "title": "Steam 多款遊戲史低與發行商特賣",
     "summary": "Steam平台近期展開多波優惠活動，包括「NipoBox發行商特賣」提供最高達90%的折扣，活動期間為10月10日至10月24日。此外，多款重量級大作如《電馭叛客2077》、《霍格華茲的傳承》等也達到史低價格，折扣低至1折，還有《Muv-Luv Alternative》、《LEGO蝙蝠俠：黑暗騎士傳奇》等遊戲也在特價中。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -213,7 +221,7 @@
     "title": "Epic Games Store 限時免費：《Agent A: A Puzzle in Disguise》與《Bad Cheese》",
     "summary": "Epic Games Store 正提供《Agent A: A Puzzle in Disguise》與《Bad Cheese》兩款遊戲限時免費領取，活動將持續至 2026 年 10 月 22 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -221,7 +229,7 @@
     "title": "Steam 限時免費：《Squad》Weapon Skins – Recon Team Pack DLC",
     "summary": "《Squad》的 Weapon Skins – Recon Team Pack DLC 目前在 Steam 商店開放限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -229,7 +237,7 @@
     "title": "Epic Games Store 限時免費遊戲：特工 A：偽裝遊戲 & 爛奶酪",
     "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《特工 A：偽裝遊戲 (Agent A: A Puzzle in Disguise)》和《爛奶酪 (Bad Cheese)》，玩家可在 10 月 22 日前免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -237,7 +245,23 @@
     "title": "Steam 史低特價促銷活動",
     "summary": "Steam 平台近期開啟了一輪史低促銷活動，多款熱門遊戲大幅降價，此波優惠活動將持續至 2026 年 10 月 16 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 5
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Steam 獨立遊戲《菲涅斯特拉：我的專注，她的未來》免費試玩版",
+    "summary": "獨立遊戲《菲涅斯特拉：我的專注，她的未來》於 2026 年 10 月 16 日在 Steam 平台釋出免費試玩版，並將參與 Steam 新品節。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Epic Games Store 免費遊戲《Agent A - 偽裝遊戲》與《爛奶酪》",
+    "summary": "Epic Games Store 本週免費贈送《Agent A - 偽裝遊戲》（Agent A：A Puzzle in Disguise）與心理恐怖遊戲《爛奶酪》（Bad Cheese），領取截止日期為 2026 年 10 月 22 日 23:00。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
   },
   {
     "category": "GAME",
@@ -245,15 +269,7 @@
     "title": "Epic Games 即將免費遊戲",
     "summary": "Epic Games Store 將於 2026 年 10 月 15 日至 10 月 22 日提供《Agent A: A Puzzle in Disguise》和《Bad Cheese》兩款遊戲免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam 新品節：2026 年 10 月版",
-    "summary": "Steam 平台將於 2026 年 10 月 19 日至 10 月 26 日期間舉辦「Steam 新品節：2026 年 10 月版」，屆時將有大量尚未發行的遊戲提供免費試玩版，玩家可探索各種遊戲類型並與開發者互動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -261,7 +277,7 @@
     "title": "目前無最新爭議事件",
     "summary": "在 2026/10/08 至 2026/10/15 期間，未搜尋到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新資訊。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -269,7 +285,7 @@
     "title": "Epic Games Store限時免費遊戲：Agent A: A Puzzle in Disguise 與 Bad Cheese",
     "summary": "Epic Games Store於2026年10月15日至10月22日提供《Agent A: A Puzzle in Disguise》和《Bad Cheese》限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "STREAMER",
@@ -277,7 +293,7 @@
     "title": "實況主PaymoneyWubby怒批Twitch訂閱抽成比例「根本在搶錢」",
     "summary": "實況主PaymoneyWubby在接受訪問時，公開抨擊Twitch的五五分潤制度不合理，直言是在「搶錢」，並呼籲其他實況主應考慮離開該平台，同時質疑Twitch的透明度與溝通問題。  (此圖片網址為示意，實際請依搜尋結果提供)",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -285,7 +301,7 @@
     "title": "Steam特價：Frosthaven",
     "summary": "桌遊改編遊戲《Frosthaven》享7折優惠，原價39.99美元，特價27.99美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -293,7 +309,7 @@
     "title": "Steam特價：Dupery: A Game of Solo Deduction",
     "summary": "遊戲《Dupery: A Game of Solo Deduction》享8折優惠，原價14.99美元，特價11.99美元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -301,7 +317,7 @@
     "title": "Epic Games 限時免費",
     "summary": "特務解謎遊戲《Agent A - 偽裝遊戲》與復古卡通風心理恐怖遊戲《Bad Cheese》於 Epic Games Store 限時免費領取，活動至 10 月 22 日截止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -309,7 +325,7 @@
     "title": "Steam 免費體驗版",
     "summary": "療癒冒險新作《姆明：瘋狂夏日》的免費體驗版於 Steam 平台開放試玩，可體驗遊戲開頭第 1 章，試玩期間為 2026 年 10 月 15 日至 10 月 27 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -317,7 +333,7 @@
     "title": "Steam 新品節",
     "summary": "2026 年 10 月 Steam 新品節資訊更新，其中包含掛機、合作、角色扮演遊戲《Muv-Luv 少女庭園》及時間管理、視覺小說《少女機師養成計畫：女武神協議》等新作試玩版情報。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -325,7 +341,7 @@
     "title": "Epic Games Store 即將免費：《Bad Cheese》與《Agent A: A Puzzle in Disguise》",
     "summary": "Epic Games Store 公布接下來的免費遊戲為《Bad Cheese》與《Agent A: A Puzzle in Disguise》，從 10 月 15 日至 10 月 22 日可免費領取。《Bad Cheese》是一款心理恐怖遊戲，探索家庭暴力創傷主題；《Agent A: A Puzzle in Disguise》則是一款 1960 年代間諜主題的密室逃脫解謎遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -333,7 +349,7 @@
     "title": "Epic Games Store 限時免費《Agent A - 偽裝遊戲》與《Bad Cheese》",
     "summary": "Epic Games Store 本週推出兩款限時免費遊戲：《Agent A - 偽裝遊戲》（Agent A - A Puzzle in Disguise）與《Bad Cheese》，領取期限至 2026 年 10 月 22 日 23:00 截止，領取後可永久保存。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -341,7 +357,7 @@
     "title": "Steam 十月新品節高品質遊戲 Demo 推薦",
     "summary": "2026 年 Steam 十月新品節熱烈進行中，玩家可免費試玩多款高品質新遊戲 Demo，搶先體驗年度佳作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -349,7 +365,7 @@
     "title": "Epic Games Store 限時免費：《Out of Sight》與《TerraScape》",
     "summary": "城市建造與拼圖休閒遊戲《TerraScape》與第二人稱恐怖解謎遊戲《Out of Sight》在 Epic Games Store 限時免費領取，活動至 2026/10/15 止。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -357,7 +373,7 @@
     "title": "Steam 十月新品節 Demo 釋出",
     "summary": "2026 年 Steam 十月新品節正在進行中，大量高品質新遊戲提供免費試玩 Demo，讓玩家搶先體驗年度佳作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -365,7 +381,7 @@
     "title": "Steam 新品節開放《不朽之樹》多人連線 Demo 試玩",
     "summary": "開放世界生存建造動作 RPG《不朽之樹》（Never Wither）Demo 於 10/15 在 Steam 新品節期間開放免費遊玩，首次加入多人連線功能，玩家可與好友共同探索埃達大陸。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -373,7 +389,7 @@
     "title": "Epic Games Store 免費遊戲更新為《Agent A: A Puzzle in Disguise》與《Bad Cheese》",
     "summary": "繼《TerraScape》和《Out of Sight》後，Epic Games Store 於 10/15 起開放免費領取《Agent A: A Puzzle in Disguise》和《Bad Cheese》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "GAME",
@@ -381,23 +397,7 @@
     "title": "Epic Games Store 限時免費：《Agent A: 偽裝遊戲》與《Bad Cheese》",
     "summary": "Epic Games Store 宣布即日起至 10 月 22 日止，玩家可限時免費領取益智冒險遊戲《Agent A: 偽裝遊戲》（Agent A: A Puzzle in Disguise）與休閒遊戲《Bad Cheese》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam 2026 十月新品節資訊公開",
-    "summary": "Valve 宣布 Steam 2026 十月新品節（Steam Next Fest: October 2026 Edition）將於 10 月 19 日至 10 月 26 日舉行，屆時將有大量新遊戲 Demo 供玩家免費試玩。相關遊戲推薦已於 10 月 15 日釋出。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "免費遊戲序號：《Rencounter》、《Doomlander》",
-    "summary": "網站提供《Rencounter》及《Doomlander》的免費序號領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -5988,6 +5988,15 @@
     "date": "2026/10/18",
     "title": "盲眼龍婆預言：2026年氣候災害加劇、AI衝擊職場；2027年部分人類將獲超能力",
     "summary": "已故保加利亞預言家「盲眼龍婆」巴巴萬加的追隨者整理出其對2026年的預測，包括地緣政治衝突、極端氣候天災與科技威脅等議題，其中「氣候災害加劇」與「AI衝擊職場」已被部分支持者聲稱應驗。她更預言2027年可能因神秘疾病蔓延或基因實驗，使極少數人類出現「超人般」的生物特徵。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/05/24",
+    "title": "國分玲警告2026年底全球將爆發新傳染病，俄烏衝突停火",
+    "summary": "2058年的未來人國分玲預言，2026年底將有全新傳染病肆虐全球，並指出俄烏衝突的停火時間已定。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
