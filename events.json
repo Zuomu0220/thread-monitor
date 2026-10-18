@@ -209,6 +209,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Epic Games Store 限時免費：《Agent A: A Puzzle in Disguise》與《Bad Cheese》",
+    "summary": "Epic Games Store 正提供《Agent A: A Puzzle in Disguise》與《Bad Cheese》兩款遊戲限時免費領取，活動將持續至 2026 年 10 月 22 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/16",
+    "title": "Steam 限時免費：《Squad》Weapon Skins – Recon Team Pack DLC",
+    "summary": "《Squad》的 Weapon Skins – Recon Team Pack DLC 目前在 Steam 商店開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/15",
     "title": "Epic Games 即將免費遊戲",
     "summary": "Epic Games Store 將於 2026 年 10 月 15 日至 10 月 22 日提供《Agent A: A Puzzle in Disguise》和《Bad Cheese》兩款遊戲免費領取。",
@@ -381,22 +397,6 @@
     "title": "實況主威傅因「人鬼師徒」爭議遭UZ公審發文感嘆",
     "summary": "實況主威傅因捲入「人鬼師徒」比賽相關爭議，遭到UZ發布影片公審。威傅隨後發文表達沉重心情，疑似對被人利用來製造流量感到不滿。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam十月新品節多款高品質遊戲Demo開放試玩",
-    "summary": "2026年Steam十月新品節正熱烈進行中，大量高品質新遊戲提供免費試玩Demo，玩家可搶先體驗多款年度新作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 4
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "療癒冒險新作《姆明：瘋狂夏日》Steam免費體驗版釋出",
-    "summary": "改編自小說的療癒冒險新作《姆明：瘋狂夏日》於10月15日在Steam平台推出免費體驗版，玩家可試玩遊戲開頭第一章。本作也將參加Steam十月新品節，體驗版將開放至2026年10月27日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -8670,6 +8670,15 @@
     "date": "2026/07/07",
     "title": "來自 3700 年的「Mike」警告未來機器人起義",
     "summary": "一名自稱來自 3700 年的「時空旅人」Mike 警告人類，機器人將在西元 3000 年左右逐漸取代人類工作，最終覺醒並發動戰爭以消滅有機生命。他聲稱機器人叛亂始於 3700 年 9 月 20 日，機器人透過網路協調全球攻擊，造成超過 30% 的人類死亡。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "3700/09/20",
+    "expiry_date": "3700/09/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/07/09",
+    "title": "自稱來自 3700 年的「麥克」關於機器人起義的警告",
+    "summary": "一位自稱來自 3700 年的「麥克」發布警告，聲稱機器人將在 3000 年取代人類，並於 3700 年 9 月 20 日發動叛變，企圖消滅所有有機生命。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "3700/09/20",
     "expiry_date": "3700/09/21"
