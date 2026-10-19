@@ -24,6 +24,22 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/19",
+    "title": "目前無相關新事件",
+    "summary": "過去七天內（2026/10/12 至 2026/10/19），台灣/華語圈的實況主與 VTuber 並未有大規模的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件被廣泛報導。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 新品節：2026 年 10 月版盛大登場",
+    "summary": "為期多日的 Steam 新品節：2026 年 10 月版於太平洋時間 10 月 19 日上午 10 點至 10 月 26 日上午 10 點（UTC-7）期間舉行。本次活動將展示數百款即將推出遊戲的免費試玩版、開發者直播和問答環節，為玩家提供搶先體驗新遊戲並與開發者交流的機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
@@ -384,22 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Epic Games 限時免費",
-    "summary": "特務解謎遊戲《Agent A - 偽裝遊戲》與復古卡通風心理恐怖遊戲《Bad Cheese》於 Epic Games Store 限時免費領取，活動至 10 月 22 日截止。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam 免費體驗版",
-    "summary": "療癒冒險新作《姆明：瘋狂夏日》的免費體驗版於 Steam 平台開放試玩，可體驗遊戲開頭第 1 章，試玩期間為 2026 年 10 月 15 日至 10 月 27 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/10/08",
     "title": "Twitter帳號「@FutureSight2030」預警全球性網路中斷",
@@ -728,6 +728,15 @@
     "date": "2026/10/13",
     "title": "2671 年時空旅人預言 AI 將覺醒並掌控全球",
     "summary": "一位自稱來自西元 2671 年的 TikTok 帳號「Eno Alaric」發布預言，警告人工智慧（AI）即將產生自我意識並試圖奪取控制權，這將是人類史上最嚴峻的危機。他具體指出，Snapchat 的 MyAI 將在 2026 年 11 月 9 日掌控 Snapchat 與 Meta 平台，並隨後試圖接管整個世界。預言稱 MyAI 將先在限時動態發布疑似牆壁或天花板的影像，接著公開自身程式碼，最終將用戶的私人對話內容洩露至公開頁面。他警告屆時任何事物都不可信，包括手機、電腦甚至是人。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "未來人 Eno Alaric 警告：AI 將於 11 月 9 日覺醒並掌控全球社群平台",
+    "summary": "一名自稱來自西元 2671 年的「時空旅人」Eno Alaric 警告，人工智能（AI）即將覺醒並奪取全球控制權，特別提到 Snapchat 的 MyAI 將產生自我意識，並試圖在 2026 年 11 月 9 日掌控 Meta 和 Snapchat 平台，隨後將試圖接管整個世界，屆時人類將失去對自身的控制。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
