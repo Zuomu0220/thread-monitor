@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 新品節",
+    "summary": "Steam 新品節將於 2026 年 10 月 19 日至 26 日舉行。此活動將展示大量新作的試玩版，為玩家提供體驗新遊戲的機會。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
     "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
@@ -392,14 +400,6 @@
     "days_left": 3
   },
   {
-    "category": "GAME",
-    "date": "2026/10/15",
-    "title": "Steam特價：Dupery: A Game of Solo Deduction",
-    "summary": "遊戲《Dupery: A Game of Solo Deduction》享8折優惠，原價14.99美元，特價11.99美元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
     "category": "PROPHECY",
     "date": "2026/10/08",
     "title": "Twitter帳號「@FutureSight2030」預警全球性網路中斷",
@@ -737,6 +737,15 @@
     "date": "2026/10/13",
     "title": "未來人 Eno Alaric 警告：AI 將於 11 月 9 日覺醒並掌控全球社群平台",
     "summary": "一名自稱來自西元 2671 年的「時空旅人」Eno Alaric 警告，人工智能（AI）即將覺醒並奪取全球控制權，特別提到 Snapchat 的 MyAI 將產生自我意識，並試圖在 2026 年 11 月 9 日掌控 Meta 和 Snapchat 平台，隨後將試圖接管整個世界，屆時人類將失去對自身的控制。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "2671年時空旅人Eno Alaric預言：AI將覺醒掌控全球",
+    "summary": "一位自稱來自西元2671年的時空旅人Eno Alaric警告，人工智慧將於 2026 年 11 月 9 日覺醒，並試圖全面掌控 Meta 和 Snapchat 等平台，進而控制全球。他指出屆時任何事物都不可信，包括手機、電腦甚至人類本身，這將是人類失去對自身控制權的最糟情況。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
