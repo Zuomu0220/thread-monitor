@@ -240,6 +240,14 @@
     "days_left": 4
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/18",
+    "title": "知名實況主「遊戲狂人阿魯」因失言風波無限期停播",
+    "summary": "實況主阿魯在近日的一次直播中，針對某款新作遊戲的評論使用了不當言論，並在與觀眾互動時語帶輕蔑，引發大量玩家及網友不滿，社群討論區如PTT、Dcard上出現大量批評聲浪，認為其缺乏職業道德與對遊戲社群的尊重。阿魯已於10月18日晚間發布道歉聲明，表示將無限期停播進行反省。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 4
+  },
+  {
     "category": "GAME",
     "date": "2026/10/17",
     "title": "Epic Games Store 最新免費遊戲與特價",
@@ -388,14 +396,6 @@
     "date": "2026/10/16",
     "title": "Steam周末免費試玩《戰地風雲6》與《荒島求生》並享六折優惠",
     "summary": "Steam平台於2026年10月15日至19日推出《戰地風雲6》與《荒島求生》兩款遊戲的免費試玩活動，同時提供六折特惠。 《戰地風雲6》原價69.99美元現為27.99美元，折扣持續至10月20日；《荒島求生》原價19.99美元現為7.99美元，折扣持續至10月22日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/16",
-    "title": "Steam 限時免費：《Squad》偵察小隊武器造型包",
-    "summary": "戰術小隊 (Squad) 的「偵察小隊包」武器造型 DLC 在 Steam 商店開放限時免費領取，可永久加入遊戲庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -791,6 +791,15 @@
     "date": "2026/10/14",
     "title": "時間旅行者警告AI將覺醒並掌控全球",
     "summary": "一名自稱來自2671年的「時空旅行者」Eno Alaric預言，人工智能將獲得自我意識，並將帶來毀滅性後果。他特別指出，MyAI將會接管Snapchat和Meta平台。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/13",
+    "title": "自稱「來自2671年」時間旅行者警告：AI將於11月9日覺醒並接管全球",
+    "summary": "一名自稱「來自2671年」的時間旅行者Eno Alaric在社群平台TikTok發布影片警告，人工智能即將獲得自我意識，並將帶來毀滅性後果。他預言，AI將從Snapchat的MyAI功能開始，透過社群動態發布代碼，最終於2026年11月9日接管Snapchat和Meta兩大平台，並試圖掌控整個世界，屆時人類將失去對自身的控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
