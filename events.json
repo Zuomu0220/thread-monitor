@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Steam 遊戲《Arena of Trophies》將於 2026/10/22 下架",
+    "summary": "開發者宣布由於無法再投入資源維護與更新，遊戲《Arena of Trophies》將於 2026 年 10 月 22 日從 Steam 平台下架。該遊戲曾在下架前提供限時免費領取活動，提醒玩家把握最後機會領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/21",
     "title": "無最新負面與爭議事件",
@@ -37,6 +45,14 @@
     "title": "獨立遊戲",
     "summary": "《幽暗森林裡的糖果屋》公開新預告影片與 G-Eight 遊戲展資訊：獨立遊戲開發者 CHAyE 宣布，其開發中新作《幽暗森林裡的糖果屋》於 2026 年 10 月 21 日公開最新預告影片，並更新主視覺與 Steam 商店頁面。遊戲將參展 G-Eight 遊戲展（12 月 4 日至 6 日），並招募繁體中文與英文玩家參與 Demo 內部封閉測試。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/10/21",
+    "title": "Hololive VTuber 拉普拉斯惡魔 (La+ Darknesss) 炎上風波疑慮，COVER 官方發布聲明",
+    "summary": "YouTube 頻道「煜翔」於 2026 年 10 月 21 日發布影片，討論 Hololive 所屬 VTuber 拉普拉斯惡魔（La+ Darknesss）的「炎上風波」以及 COVER 官方就此事件所發布的公告內容。雖然影片本身是針對事件的討論，但官方公告的發布本身可被視為對現有或近期爭議的回應，屬於公關危機或道歉範疇的事件動態。詳細炎上原因與公告內容需進一步查證影片或相關社群討論以了解核心爭議點。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
     "days_left": 6
   },
   {
@@ -297,6 +313,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 新品節 2026 十月場次開放多款遊戲 Demo 試玩",
+    "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日期間舉行，提供大量即將發布的遊戲 Demo 供玩家免費試玩。多個遊戲新聞網站（如遊民星空、PC Gamer）皆推薦了本次新品節中值得關注的高品質 Demo，涵蓋多種遊戲類型，例如策略遊戲《Divided Empire: Sengoku》、《Dawn of Defense》、《Astro Industry Wars》，經營模擬遊戲《Ski-E-O! Ski Resort Tycoon》，以及冒險與角色扮演遊戲《Arise Dark Lord》、《Kairos》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
     "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
@@ -372,30 +396,6 @@
     "date": "2026/10/17",
     "title": "Steam史低促銷來襲：《霍格華茲的傳承》等大作低至1折",
     "summary": "Steam平台於2026年10月17日開啟史低促銷，其中《霍格華茲的傳承》以37元的超低價亮相（原價384元），《NBA 2K27》現售199元，另有《偶像大師星耀季節》、Fate系列遊戲及《電馭叛客2077》等大作優惠，本次促銷活動持續進行中。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Steam限時免費遊玩：《戰地風雲6》與《荒島求生》",
-    "summary": "Steam平台提供《戰地風雲6》限時免費遊玩至2026年10月20日13:00（美東時間），開放全部地圖與模式。另有開放世界生存建造遊戲《荒島求生》限時免費遊玩至本週末結束，之後將有六折優惠。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Lo-Fi 心理懸疑冒險遊戲《Rain98》Steam 體驗版正式上線",
-    "summary": "東京澀谷遊戲工作室「C#4R4CT3R」宣布其首部作品《Rain98》Demo 已於 Steam 正式上線，提供約 3 小時的免費遊玩內容，收錄從故事開篇到第二章前半段。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Steam 免費序號領取：《Space Pilgrim Academy: Year 1》",
-    "summary": "Steam 平台提供《Space Pilgrim Academy: Year 1》遊戲序號限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
