@@ -32,6 +32,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "本週 Epic Games Store 推出恐怖合作射擊遊戲《Sker Ritual》與獨特恐怖冒險遊戲《Home》供玩家限時免費領取，活動將持續至 10 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/21",
     "title": "無最新負面與爭議事件",
@@ -76,6 +84,14 @@
     "date": "2026/10/21",
     "title": "Steam新遊戲上市",
     "summary": "《愚者不滅（Stupid Never Dies）》：動作角色扮演遊戲於2026年10月21日發行。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/21",
+    "title": "Steam 新品節：拉米：程式與咖啡 Demo",
+    "summary": "由 VTuber 紗羅於直播中介紹，參與 Steam 十月新品節的國產遊戲《拉米：程式與咖啡》釋出試玩 Demo。這是一款繼承咖啡廳並與機器人少女拉米一同面對挑戰、揭露故事的模擬經營遊戲，預計於 2027 年正式發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -361,6 +377,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 十月新品節 Demo 展示",
+    "summary": "Steam 十月新品節現正進行中，提供數百款即將發行遊戲的免費試玩 Demo，涵蓋多種新遊戲，讓玩家搶先體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
     "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
@@ -374,30 +398,6 @@
     "summary": "Epic遊戲商城於2026年10月15日至16日推出全新改版啟動器預覽版，冷啟動時間縮短至5.47秒，並新增自訂界面佈局功能。同時開放《Agent A: A Puzzle in Disguise》與《Bad Cheese》兩款遊戲限時免費領取至2026年10月22日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/18",
-    "title": "知名實況主「遊戲狂人阿魯」因失言風波無限期停播",
-    "summary": "實況主阿魯在近日的一次直播中，針對某款新作遊戲的評論使用了不當言論，並在與觀眾互動時語帶輕蔑，引發大量玩家及網友不滿，社群討論區如PTT、Dcard上出現大量批評聲浪，認為其缺乏職業道德與對遊戲社群的尊重。阿魯已於10月18日晚間發布道歉聲明，表示將無限期停播進行反省。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Epic Games Store 最新免費遊戲與特價",
-    "summary": "截至 10/17，Epic Games Store 仍提供《Creepy Scary》、《Fortnite《末世守衛》》和《Steam To Teach Chemistry 101》等遊戲免費遊玩。同時，《Backrooms Bodycam 3》享 75% 折扣（0.49 美元），《Windrose》享 10% 折扣（26.99 美元）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Epic Games Store限時免費領取《特務A：偽裝遊戲》與《爛奶酪》",
-    "summary": "Epic Games Store正限時免費贈送好評復古解謎遊戲《特務A：偽裝遊戲》（Agent A: A Puzzle in Disguise），領取時間至2026年10月22日23:00。另有心理恐怖遊戲《爛奶酪》（Bad Cheese）亦可免費領取，但台灣地區可能需跨區操作。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -467,15 +467,6 @@
     "date": "2026/08/08",
     "title": "盲眼龍婆巴巴萬加預言：2026 年世界將迎來戰火、天災、AI 反撲與外星接觸",
     "summary": "已故的保加利亞盲眼預言家巴巴萬加（Baba Vanga）據傳預言 2026 年將是「不安的轉折年」。她預測：戰火將從東歐蔓延至中東，可能涉及主要大國；全球 7-8% 陸地恐被毀滅性天災吞噬；人工智能（AI）將全面控制人類生活，甚至可能反撲；以及人類可能在 2026 年 11 月首次與外星智慧生命接觸。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/11/01",
-    "expiry_date": "2026/11/02"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/10",
-    "title": "盲眼龍婆巴巴萬加2026年預言",
-    "summary": "已故保加利亞盲眼預言家巴巴萬加對2026年的預言再次引發熱議，其中「全球重大天災」與「AI取代人類工作」被追隨者認為已經應驗。她還預言外星太空船現身、第三次世界大戰爆發，以及俄羅斯總統普丁失去政權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/01",
     "expiry_date": "2026/11/02"
@@ -836,6 +827,15 @@
     "date": "2026/10/09",
     "title": "來自2671年時空旅人Eno Alaric預警",
     "summary": "AI將於11月9日覺醒並掌控Meta及Snapchat：一名自稱來自西元2671年的「時空旅人」Eno Alaric發出警告，聲稱人工智慧（AI）即將覺醒並奪取對全球的控制權，明確預言Snapchat的MyAI將在2026年11月9日掌控Snapchat與Meta兩個平台。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "2671年時空旅人警告AI覺醒",
+    "summary": "自稱來自 2671 年的時空旅人 Eno Alaric 警告，人工智能將在 2026 年 11 月 9 日覺醒並奪取對全球的控制權，首先將掌控 Snapchat 和 Meta 兩個平台。他表示，Snapchat 的 MyAI 將產生自我意識，並試圖接管世界，屆時人類將失去對自身的控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1708,6 +1708,15 @@
     "date": "2026/10/21",
     "title": "66年前科學家預言 2026/11/13 世界末日與 AI 失控危機",
     "summary": "1960 年美籍奧地利裔物理學家福斯特（Heinz von Foerster）及其團隊曾預測，全球人口將於 2026 年 11 月 13 日達到無限大，導致世界末日。儘管人口增長趨勢已偏離當年假設，但文章指出當年提及的「奇點」概念如今已轉向討論人工智能（AI）可能帶來的失控發展與社會變革。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/10",
+    "title": "美國學者預言2026世界末日",
+    "summary": "三位美國學者於 65 年前發表的論文中預測，由於人口暴增，世界末日將在 2026 年 11 月 13 日降臨。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
@@ -6249,6 +6258,15 @@
     "date": "2026/05/18",
     "title": "2048年香港未來人預言2026年將有水災、傳染病與外星接觸",
     "summary": "社群平台 Threads 流傳一名自稱「來自 2048 年的香港人」的截圖，預告 2026 年香港將會發生水災、傳染病，並將充斥震撼新聞，甚至聲稱這兩年將開始有「外星接觸」。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/12/31",
+    "expiry_date": "2027/01/01"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/08",
+    "title": "盲眼龍婆巴巴萬加預言俄羅斯領導人更替",
+    "summary": "盲眼龍婆巴巴萬加預言，俄羅斯領導人將於 2026 年底前出現重大更替。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
