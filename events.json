@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Steam 遊戲《Arena of Trophies》將下架並限時免費領取",
+    "summary": "開發者宣布因無法再投入資源維護與更新，遊戲《Arena of Trophies》將於 2026 年 10 月 22 日從 Steam 平台下架，並在此之前提供限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/21",
     "title": "無最新負面與爭議事件",
@@ -321,6 +329,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/19",
+    "title": "Steam 新品節 (Steam Next Fest)",
+    "summary": "Steam 新品節於 2026 年 10 月 19 日至 26 日舉行，預計將釋出大量新作遊戲的試玩版，讓玩家有機會搶先體驗未上市的遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/18",
     "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
     "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
@@ -380,22 +396,6 @@
     "date": "2026/10/17",
     "title": "Epic Games Store 宣布 10/22 起將免費贈送《Sker Ritual》與《Home》",
     "summary": "Epic Games Store 官方宣布，將於 10 月 22 日至 10 月 29 日期間免費贈送第一人稱射擊遊戲《Sker Ritual》和《Home》兩款遊戲，作為萬聖節前最後一波免費活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Epic Games 限時免費：《Agent A - 偽裝遊戲》與《爛奶酪》",
-    "summary": "Epic Games Store 本週推出兩款限時免費遊戲：在Steam上獲得「極度好評」的復古風格解謎遊戲《Agent A – 偽裝遊戲》（Agent A：A Puzzle in Disguise），以及受1920年代動畫詭異魅力啟發的心理恐怖遊戲《爛奶酪》（Bad Cheese）。玩家可於2026年10月22日截止前免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Steam史低促銷來襲：《霍格華茲的傳承》等大作低至1折",
-    "summary": "Steam平台於2026年10月17日開啟史低促銷，其中《霍格華茲的傳承》以37元的超低價亮相（原價384元），《NBA 2K27》現售199元，另有《偶像大師星耀季節》、Fate系列遊戲及《電馭叛客2077》等大作優惠，本次促銷活動持續進行中。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
