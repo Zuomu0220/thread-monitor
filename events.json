@@ -1,6 +1,14 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/10/22",
+    "title": "目前無符合條件的事件",
+    "summary": "在 2026/10/15 至 2026/10/22 期間，Google Search 未搜捕到台灣/華語圈實況主發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的最新動態。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/21",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/10/14 至 2026/10/21 期間，Google Search 未搜捕到台灣/華語圈實況主相關的炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播等負面與爭議事件。",
@@ -388,14 +396,6 @@
     "date": "2026/10/17",
     "title": "Steam 免費序號領取：《Space Pilgrim Academy: Year 1》",
     "summary": "Steam 平台提供《Space Pilgrim Academy: Year 1》遊戲序號限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/17",
-    "title": "Steam 10月免費遊戲更新：《Break Even: The Grind》、《BOX PUSH MASTER》、《ChessXpanse》",
-    "summary": "Steam平台於10月17日更新了3款免費遊戲名單，包括像素風格模擬遊戲《Break Even: The Grind》、3D推箱子解謎遊戲《BOX PUSH MASTER》以及國際象棋策略遊戲《ChessXpanse》。其中《BOX PUSH MASTER》已於9月28日推出並免費提供，其他兩款部分語言頁面推出狀態不一致或顯示即將推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -1690,6 +1690,15 @@
     "date": "2026/10/21",
     "title": "物理學家預言",
     "summary": "2026 年 11 月 13 日世界末日論再引關注：物理學家馮．佛斯特（Heinz von Foerster）在 1960 年《科學》期刊上發表的預測，指地球可能在 2026 年 11 月 13 日因人口無限增長而走向終結，該預言在 2026 年 10 月 21 日再度引起討論。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/21",
+    "title": "66年前科學家預言 2026/11/13 世界末日與 AI 失控危機",
+    "summary": "1960 年美籍奧地利裔物理學家福斯特（Heinz von Foerster）及其團隊曾預測，全球人口將於 2026 年 11 月 13 日達到無限大，導致世界末日。儘管人口增長趨勢已偏離當年假設，但文章指出當年提及的「奇點」概念如今已轉向討論人工智能（AI）可能帶來的失控發展與社會變革。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
