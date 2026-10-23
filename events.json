@@ -120,6 +120,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/10/21",
+    "title": "Steam 免費序號領取",
+    "summary": "遊戲《MEMOLOGY: GOYDA》提供免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/20",
     "title": "目前無重大負面與爭議事件",
@@ -388,14 +396,6 @@
     "date": "2026/10/19",
     "title": "Epic Games",
     "summary": "萬聖節特賣活動開跑：Epic Games Store 於 2026 年 10 月 19 日至 11 月 2 日舉行萬聖節特賣活動，頂級恐怖遊戲和 3A 大作最高可享 80% 折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Steam 新品節 2026 十月場次開放多款遊戲 Demo 試玩",
-    "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日期間舉行，提供大量即將發布的遊戲 Demo 供玩家免費試玩。多個遊戲新聞網站（如遊民星空、PC Gamer）皆推薦了本次新品節中值得關注的高品質 Demo，涵蓋多種遊戲類型，例如策略遊戲《Divided Empire: Sengoku》、《Dawn of Defense》、《Astro Industry Wars》，經營模擬遊戲《Ski-E-O! Ski Resort Tycoon》，以及冒險與角色扮演遊戲《Arise Dark Lord》、《Kairos》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
