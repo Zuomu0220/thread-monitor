@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Steam 免費 DLC",
+    "summary": "《極速俱樂部無限3 (Gear.Club Unlimited 3)》的「簽名禮包 (Gear.Club Signature Pack)」DLC 於 2026 年 10 月 8 日至 10 月 23 日限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -36,6 +44,22 @@
     "date": "2026/10/22",
     "title": "Epic Games Store 限時免費遊戲",
     "summary": "本週 Epic Games Store 推出恐怖合作射擊遊戲《Sker Ritual》與獨特恐怖冒險遊戲《Home》供玩家限時免費領取，活動將持續至 10 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Epic Games 限時免費",
+    "summary": "Epic Games Store 本週推出兩款免費遊戲：《Home》與《Sker Ritual》，玩家可限時領取並永久保留至 10 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Steam 限時免費",
+    "summary": "遊戲《Arena of Trophies》因開發者停止維護，將於 2026 年 10 月 22 日從 Steam 平台下架，在此之前可免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -241,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/20",
+    "title": "Steam 獨立遊戲特賣",
+    "summary": "IndieArk 發行商特賣活動自北京時間 10 月 20 日持續至 11 月 3 日，旗下多款獨立遊戲提供限時優惠，最高折扣低至二折。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/19",
     "title": "Steam 新品節：2026 年 10 月版",
     "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日舉行，提供大量即將上市遊戲的免費試玩版。",
@@ -366,38 +398,6 @@
     "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日期間舉行，提供大量即將發布的遊戲 Demo 供玩家免費試玩。多個遊戲新聞網站（如遊民星空、PC Gamer）皆推薦了本次新品節中值得關注的高品質 Demo，涵蓋多種遊戲類型，例如策略遊戲《Divided Empire: Sengoku》、《Dawn of Defense》、《Astro Industry Wars》，經營模擬遊戲《Ski-E-O! Ski Resort Tycoon》，以及冒險與角色扮演遊戲《Arise Dark Lord》、《Kairos》等。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Steam 新品節 (Steam Next Fest)",
-    "summary": "Steam 新品節於 2026 年 10 月 19 日至 26 日舉行，預計將釋出大量新作遊戲的試玩版，讓玩家有機會搶先體驗未上市的遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Steam 十月新品節 Demo 展示",
-    "summary": "Steam 十月新品節現正進行中，提供數百款即將發行遊戲的免費試玩 Demo，涵蓋多種新遊戲，讓玩家搶先體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/18",
-    "title": "Steam 數十款獨立遊戲 Demo 今日釋出",
-    "summary": "包含《Galactic Kebab Demo》、《Eccentric Wander Demo》、《Nodebreak Demo》、《群雄戰歌：妖火紀元Demo》等多款獨立遊戲試玩版於 2026 年 10 月 18 日在 Steam 上線，供玩家免費體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/18",
-    "title": "Epic遊戲商城新版啟動器預覽版上線",
-    "summary": "Epic遊戲商城於2026年10月15日至16日推出全新改版啟動器預覽版，冷啟動時間縮短至5.47秒，並新增自訂界面佈局功能。同時開放《Agent A: A Puzzle in Disguise》與《Bad Cheese》兩款遊戲限時免費領取至2026年10月22日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
   },
   {
     "category": "PROPHECY",
