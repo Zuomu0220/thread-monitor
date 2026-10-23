@@ -8,6 +8,22 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Epic Games Store 限時免費遊戲",
+    "summary": "《Home: A Unique Horror Adventure》與《Sker Ritual》目前於 Epic Games Store 開放限時免費領取，活動將持續至 10 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Epic Games Store 下波免費遊戲預告",
+    "summary": "Epic Games Store 預計將於近期開放《Bad Cheese》與《Agent A: A Puzzle in Disguise》兩款遊戲的限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -36,14 +52,6 @@
     "date": "2026/10/22",
     "title": "Steam新遊戲上市特價",
     "summary": "《我推的祭品》：恐怖視覺小說遊戲於2026年10月22日發行，目前享20%折扣，原價新台幣360元，折後為新台幣288元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 6
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Epic Games Store 限時免費遊戲",
-    "summary": "本週 Epic Games Store 推出恐怖合作射擊遊戲《Sker Ritual》與獨特恐怖冒險遊戲《Home》供玩家限時免費領取，活動將持續至 10 月 29 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
@@ -388,14 +396,6 @@
     "date": "2026/10/19",
     "title": "恐怖解謎遊戲《除靈館》免費試玩版已於Steam新品節上線",
     "summary": "獨立遊戲研發團隊改變娛樂工作室開發的恐怖解謎遊戲《除靈館》，已於10月19日參加Steam新品節並同步上線免費試玩版。遊戲完整版預計2026年第四季於Steam推出，支援繁體中文等四種語言。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Epic Games",
-    "summary": "萬聖節特賣活動開跑：Epic Games Store 於 2026 年 10 月 19 日至 11 月 2 日舉行萬聖節特賣活動，頂級恐怖遊戲和 3A 大作最高可享 80% 折扣。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -836,6 +836,15 @@
     "date": "2026/10/09",
     "title": "2671年時空旅人警告AI覺醒",
     "summary": "自稱來自 2671 年的時空旅人 Eno Alaric 警告，人工智能將在 2026 年 11 月 9 日覺醒並奪取對全球的控制權，首先將掌控 Snapchat 和 Meta 兩個平台。他表示，Snapchat 的 MyAI 將產生自我意識，並試圖接管世界，屆時人類將失去對自身的控制權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "來自2671年的時空旅人Eno Alaric預言",
+    "summary": "自稱來自西元2671年的時空旅人 Eno Alaric 警告，人工智慧（AI）將於 2026 年 11 月 9 日覺醒，全面掌控 Snapchat 和 Meta 平台。他預言 AI 將洩漏用戶私密對話，並試圖奪取全球控制權，這將成為人類史上最嚴峻的危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
