@@ -40,6 +40,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Steam《槍火重生》祭出史上最低優惠與大版本更新",
+    "summary": "Steam冒險闖關FPS遊戲《槍火重生》於2026年10月23日宣布推出史上最低折扣優惠，玩家可以178元購入。同時，遊戲也同步發布了大規模內容更新，包括新增每日試煉玩法、引入石化怪物以及兩把全新武器：「棱刺」（狙擊槍）與「雷嗔」（手槍）。此項優惠將持續至11月26日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -84,6 +92,14 @@
     "date": "2026/10/22",
     "title": "Steam 限時免費",
     "summary": "遊戲《Arena of Trophies》因開發者停止維護，將於 2026 年 10 月 22 日從 Steam 平台下架，在此之前可免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Steam遊戲《Arena of Trophies》限時免費領取（即將下架）",
+    "summary": "開發者宣布，因無法再投入資源進行遊戲維護與更新，Steam平台上的遊戲《Arena of Trophies》將於2026年10月22日正式下架。為此，遊戲在下架前提供限時免費領取，讓玩家有機會永久保留這款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -148,6 +164,22 @@
     "date": "2026/10/21",
     "title": "Steam 免費序號領取",
     "summary": "遊戲《MEMOLOGY: GOYDA》提供免費序號領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/10/21",
+    "title": "VTuber 拉普拉斯・達克尼斯性騷擾貼文爭議",
+    "summary": "Hololive旗下VTuber拉普拉斯・達克尼斯（Laplus Darkness）於2026年10月17日在X（原Twitter）上發布一則貼文，內容涉及她收到未經同意的私密部位色情圖片，為強烈表達拒絕立場而發言，卻因部分用詞被認為未充分顧及閱讀者感受而引發爭議。所屬公司Cover隨後發布公告說明事件原委，承認貼文表述不當，拉普拉斯本人也為此道歉。公司強調將對此類性騷擾行為採取法律行動，並呼籲社群避免對藝人及他人進行誹謗中傷。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/21",
+    "title": "百思買遊戲優惠：購買《俠盜獵車手VI》等大作送禮品卡",
+    "summary": "知名電子零售商百思買於2026年10月21日起推出限時促銷活動。玩家凡購買《俠盜獵車手VI》、《Call of Duty: Modern Warfare 4》等指定遊戲，即可享有10美元的遊戲禮品卡優惠。此活動涵蓋了預計於11月19日發售的《俠盜獵車手VI》以及本週10月23日推出的《Call of Duty: Modern Warfare 4》等重點大作。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -313,6 +345,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/20",
+    "title": "Steam 2026 十月新品節開跑",
+    "summary": "Steam平台於2026年10月20日至10月27日舉辦為期7天的「2026年10月新品節」，期間提供多達18款不同遊戲類型的Demo免費試玩，包括動作冒險、沉浸式模擬、經營模擬、生存探索與休閒小品等。亮點遊戲如回合制喪屍射擊遊戲《Mortuus》、第一人稱跑酷動作遊戲《恐怖蜥蜴》以及像素風釣魚冒險遊戲《獵戶座之藍》均在此次活動中提供試玩。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/19",
     "title": "Steam 新品節：2026 年 10 月版",
     "summary": "Steam 新品節於 2026 年 10 月 19 日至 10 月 26 日舉行，提供大量即將上市遊戲的免費試玩版。",
@@ -356,46 +396,6 @@
     "date": "2026/10/19",
     "title": "獨立遊戲開發者擔憂 AI 山寨品，部分團隊取消 Steam 新品節 Demo 釋出",
     "summary": "《酒鬼女神的酒詭》等獨立遊戲團隊因擔憂作品在上市前遭 AI 逆向工程快速仿製山寨品，選擇取消釋出 Steam 新品節試玩版，引發業界對劣幣驅逐良幣的深切擔憂。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "暴造×發行 2026北京核聚變展區公開",
-    "summary": "2026 北京核聚變遊戲嘉年華將於 10 月 24 日至 25 日舉行，暴造×發行展區將提供新遊戲試玩、刮刮卡抽獎及限定周邊販售等活動。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Epic Games Store 萬聖節特賣",
-    "summary": "Epic Games Store 於 2026 年 10 月 19 日至 11 月 2 日舉行萬聖節特賣，恐怖遊戲與 AAA 大作提供高達 80% 的折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Steam 新品節上線：數千款遊戲 Demo 開放試玩",
-    "summary": "Steam 新品節於 10 月 19 日至 10 月 26 日期間舉行，提供數千款即將推出遊戲的免費試玩 Demo，並有開發者直播與聊天活動。推薦 Demo 包括節奏喜劇《MR. RECORDS》、迷你遊戲心理驚悚《NEURON ACTIVATION》、極簡解謎心理驚悚《STIP》以及氛圍敘事平台遊戲《The Journey Home》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "Steam Next Fest 2026 新品節 Demo 釋出",
-    "summary": "Steam 新品節於 2026 年 10 月登場，大量新遊戲試玩版開放下載。其中包含節奏喜劇遊戲《MR. RECORDS》、迷幻解謎《NEURON ACTIVATION》以及極簡主義解謎遊戲《STIP》等作品的 Demo 已可體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/19",
-    "title": "派對競速遊戲《飆速滑水道AQUA FALL》體驗版登陸Steam新品節",
-    "summary": "日本獨立遊戲工作室Tatsumaki Games宣布，旗下新作競速遊戲《飆速滑水道（AQUA FALL）》的體驗版已在Steam平台正式推出，並參加2026年10月舉辦的「Steam新品節」。這是一款最多8人同時從巨型滑水道衝下、比拚跳入終點泳池的線上派對競速遊戲，正式版預計於2026年10月底推出。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
