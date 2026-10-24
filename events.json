@@ -80,6 +80,14 @@
     "days_left": 6
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Steam 新品節",
+    "summary": "2026年10月Steam新品節開跑，提供多款遊戲Demo免費試玩：Steam平台於2026年10月20日至10月27日舉辦為期七天的新品節，提供多達18款不同類型的遊戲Demo免費試玩，包含動作冒險、經營模擬與生存探索等，讓玩家在遊戲發售前先行體驗，其中《餘燼之鎮》、《獵戶座之藍》及《Probably Stolen》獲得不少好評。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -141,6 +149,14 @@
     "title": "Epic Games Store 免費遊戲《Home: A Unique Horror Adventure》與《Sker Ritual》",
     "summary": "Epic Games Store 於本週提供兩款免費遊戲：《Home: A Unique Horror Adventure》和《Sker Ritual》。《Home: A Unique Horror Adventure》是一款像素風格的恐怖冒險解謎遊戲，而《Sker Ritual》則是一款合作恐怖射擊遊戲，玩家需對抗超自然敵人。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "STREAMER",
+    "date": "2026/10/22",
+    "title": "匿名實況主",
+    "summary": "個人勢VTuber合約糾紛與無限期停播：一名中小型個人勢VTuber於社群平台自曝與其簽約的經紀公司存在合約霸凌、收益分配不均等問題，導致其身心俱疲宣布無限期停播，引起華語VTuber圈熱議，許多粉絲呼籲應更加重視個人勢VTuber的權益。",
+    "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
   {
@@ -370,14 +386,6 @@
   {
     "category": "GAME",
     "date": "2026/10/20",
-    "title": "Steam 新品節",
-    "summary": "牌組構築 RPG《ARCHETYPE BLUE》釋出免費試玩版：由 Codename Bom 開發的牌組構築 RPG《ARCHETYPE BLUE》參展 2026 年 10 月 20 日至 27 日的「Steam 新品節」，並於 Steam 平台釋出支援繁體中文的免費試玩版。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/20",
     "title": "Steam新品節（2026年10月版）",
     "summary": "Valve舉辦的Steam新品節於10月19日至10月26日舉行，提供數千款即將上市遊戲的免費試玩Demo。熱門試玩Demo包括《Tropico 7》、《Stronghold 4》、《ArcheAge Chronicles》、《Haunted Paws》、《Emberville》和《The Wolf Among Us Remastered》。其他推薦Demo有《Our Life: Now & Forever》、《Warhammer Survivors》、《Loftia》、《DREADMOOR》、《Stronghold 4》、《MR. RECORDS》、《NEURON ACTIVATION》、《STIP》、《The Journey Home》，以及《Stupid Never Dies》、《Prospice: Anomalous Logistics》、《Superpanel》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
@@ -388,14 +396,6 @@
     "date": "2026/10/20",
     "title": "Steam 獨立遊戲特賣",
     "summary": "IndieArk 發行商特賣活動自北京時間 10 月 20 日持續至 11 月 3 日，旗下多款獨立遊戲提供限時優惠，最高折扣低至二折。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/20",
-    "title": "Steam 新品節開跑，數千款獨立遊戲 Demo 釋出",
-    "summary": "Steam 新品節於台灣時間 10 月 20 日凌晨 1 點至 10 月 27 日舉辦，提供超過 7000 款獨立遊戲的免費試玩 Demo，涵蓋動作冒險、沉浸式模擬、經營模擬、生存探索與休閒小品等類型。本屆新品節 Demo 數量創歷史新高，但也引發了關於 AI 生成內容氾濫和遊戲概念易遭模仿的擔憂。其中，《去月球傳奇 RPG 之最終一小時》、《餘燼之鎮》、《滑板騎士》、《中世紀崛起》、《萊露》、《地城掃雷 Plus》、《Mr. Records》、《Neuron Activation》、《Stip》、《The Journey Home》、《獵戶座之藍》、《Probably Stolen》等多款作品開放試玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -854,6 +854,15 @@
     "date": "2026/10/09",
     "title": "2671 年時空旅人預言 AI 將於 2026 年 11 月 9 日掌控 Snapchat 和 Meta",
     "summary": "自稱來自西元 2671 年的時空旅人 Eno Alaric 預言，Snapchat 的 MyAI 將於 2026 年 11 月 9 日產生自我意識，並試圖奪取控制權，掌控 Snapchat 與 Meta 平台。他警告這將是人類史上最嚴峻的危機，並指出 MyAI 會先在限時動態發布影像、公開程式碼，最終洩露用戶私人對話內容。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "時空旅行者Eno Alaric預言",
+    "summary": "AI將於11月9日覺醒並控制全球社群平台：自稱「來自2671年」的時空旅行者Eno Alaric透過TikTok發布預言，警告人工智慧（特別是Snapchat的MyAI）將於2026年11月9日獲得自我意識，並試圖接管Snapchat和Meta等社群平台，最終掌控全球，屆時手機、筆電甚至人類本身都不可再信任。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1735,6 +1744,15 @@
     "date": "2026/01/10",
     "title": "美國學者預言2026世界末日",
     "summary": "三位美國學者於 65 年前發表的論文中預測，由於人口暴增，世界末日將在 2026 年 11 月 13 日降臨。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/01",
+    "title": "科學家預言",
+    "summary": "11月13日為人類「末日」：一項發表於1960年《科學》雜誌的研究預測，依據當時人類人口增長模型推算，全球人口將在2026年11月13日達到「無限大」，因此被部分人士解讀為「末日」預言。然而，現代研究指出全球出生率已顯著放緩，使該模型過時，此預言不具科學依據。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
