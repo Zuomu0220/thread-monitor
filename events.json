@@ -25,6 +25,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/24",
+    "title": "Epic Games Store 下週免費遊戲預告《Sorry We're Closed》",
+    "summary": "Epic Games Store 已揭曉其 2026 年 10 月份最後一款免費遊戲為廣受好評的生存恐怖遊戲《Sorry We're Closed》，該遊戲將於下週開放限時免費領取。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/23",
     "title": "Steam 免費 DLC",
     "summary": "《極速俱樂部無限3 (Gear.Club Unlimited 3)》的「簽名禮包 (Gear.Club Signature Pack)」DLC 於 2026 年 10 月 8 日至 10 月 23 日限時免費領取。",
@@ -196,6 +204,14 @@
     "date": "2026/10/22",
     "title": "Epic Games Store 本週免費遊戲：《Home: A Unique Horror Adventure》與《Sker Ritual》",
     "summary": "Epic Games Store本週（至10月29日）提供兩款遊戲免費領取，分別是獨特的像素風格恐怖冒險遊戲《Home: A Unique Horror Adventure》以及合作恐怖生存射擊遊戲《Sker Ritual》。下週將免費贈送2024年發行的恐怖遊戲《Sorry We're Closed》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Epic Games Store 限時免費遊戲《Home: A Unique Horror Adventure》與《Sker Ritual》",
+    "summary": "Epic Games Store 於本週提供兩款遊戲《Home: A Unique Horror Adventure》和《Sker Ritual》限時免費領取，活動將持續至 10 月 29 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -381,22 +397,6 @@
     "title": "FANTASTICS男團「中國台北」致謝引發公關危機",
     "summary": "日本人氣男團FANTASTICS在台灣舉辦海外專場演出後，成員在微博帳號發文感謝「中國台北」，引發台灣粉絲強烈不滿。隨後貼文遭刪除，經紀公司LDH JAPAN也發布聲明致歉，但此舉又引發中國粉絲反彈，認為公司「選邊站」。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/20",
-    "title": "《桌面煙火大會》Steam免費試玩",
-    "summary": "由《Holo-Strike!》作者開發的放置型遊戲新作《桌面煙火大會》（Desktop Fireworks Festival）在Steam新品節上開放免費試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/20",
-    "title": "Steam多款黃遊新品開放試玩",
-    "summary": "Steam新品節期間，多款成人遊戲開放試玩，其中包括人氣系列作《怪獸公主：集結》和《辦公室的窺視》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
