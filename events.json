@@ -248,6 +248,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Epic Games Store 限時免費遊戲更新",
+    "summary": "Epic Games Store 本週推出兩款限時免費遊戲：恐怖冒險遊戲《Home: A Unique Horror Adventure》和生存恐怖射擊遊戲《Sker Ritual》。 玩家可在指定時間內免費領取這些遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/21",
     "title": "網紅「白同學DIY教室」稱胃潰瘍要吃蝦味先，遭裕榮食品嚴正駁斥並揚言提告",
@@ -389,14 +397,6 @@
     "title": "查無近期負面與爭議事件",
     "summary": "在2026/10/13至2026/10/20期間，未搜尋到台灣/華語圈實況主的相關負面與爭議事件。",
     "avatar_url": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/20",
-    "title": "心理恐怖遊戲《西格洛夫的低語》Steam新品節Demo開放",
-    "summary": "由NVNT Studios開發、Wandering Wizard發行的心理恐怖遊戲《西格洛夫的低語》確認參加2026年10月20日至10月27日舉行的Steam新品節，並開放試玩Demo，包含完整的第一章內容。玩家將扮演西格洛夫精神病院的001號病人，利用穿梭不同現實的手電筒尋找逃離之路。開發團隊邀請玩家體驗Demo並提供回饋。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -872,6 +872,15 @@
     "date": "2026/10/14",
     "title": "自稱「2671年時空旅行者」Eno Alaric預警：AI將於11月9日覺醒並掌控全球",
     "summary": "一位自稱來自2671年的「時間旅行者」Eno Alaric在社群平台發布影片警告，人工智能即將獲得自我意識並帶來毀滅性後果。他預言，這將從Snapchat的人工智能功能MyAI開始，MyAI將會在11月9日掌控Snapchat和Meta平台，進而試圖接管整個世界，屆時手機、筆電甚至其他人都不再值得信任，人類將失去對自身的控制。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "時間旅行者 Eno Alaric 警告 AI 將覺醒並控制全球",
+    "summary": "自稱「來自 2671 年」的時間旅行者 Eno Alaric 預言，人工智能即將獲得自我意識，並將在 2026 年 11 月 9 日接管 Meta 和 Snapchat 平台。 他進一步警告，之後 MyAI 將試圖接管整個世界，屆時人類將失去對自身的控制權，手機、筆電甚至其他人都不再值得信任。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -1762,6 +1771,15 @@
     "date": "2026/10/01",
     "title": "科學家預言",
     "summary": "11月13日為人類「末日」：一項發表於1960年《科學》雜誌的研究預測，依據當時人類人口增長模型推算，全球人口將在2026年11月13日達到「無限大」，因此被部分人士解讀為「末日」預言。然而，現代研究指出全球出生率已顯著放緩，使該模型過時，此預言不具科學依據。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/01/02",
+    "title": "物理學家馮．佛斯特預言 2026 年世界末日",
+    "summary": "已故物理學家馮．佛斯特（Heinz von Foerster）曾在 1960 年的《科學》期刊中預測，世界恐將在 2020 年代走向終結，末日日期正是 2026 年 11 月 13 日。 他認為人類將因過度擁擠而滅亡。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
