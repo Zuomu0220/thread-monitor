@@ -176,6 +176,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Epic Games Store 限時免費：《Terraspace》",
+    "summary": "Epic Games Store 除了上述遊戲外，也於本週提供太空生存策略遊戲《Terraspace》限時免費領取，玩家需收集資源、建造設施與太空船，探索並建立殖民地。領取截止日期為 10 月 28 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -288,6 +296,14 @@
     "days_left": 4
   },
   {
+    "category": "GAME",
+    "date": "2026/10/22",
+    "title": "Epic Games Store 限時免費：《Home: A Unique Horror Adventure》與《Sker Ritual》",
+    "summary": "Epic Games Store 宣布本週（自 10 月 22 日起）提供兩款遊戲限時免費領取，分別是獨特的像素風格恐怖冒險遊戲《Home: A Unique Horror Adventure》以及合作恐怖射擊遊戲《Sker Ritual》。《Sker Ritual》將開放領取至 10 月 29 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/21",
     "title": "網紅「白同學DIY教室」稱胃潰瘍要吃蝦味先，遭裕榮食品嚴正駁斥並揚言提告",
@@ -381,22 +397,6 @@
     "title": "Steam 新品節國產遊戲《拉米：程式與咖啡》Demo 試玩",
     "summary": "國產遊戲《拉米：程式與咖啡》在 Steam 新品節期間釋出 Demo 試玩版，這是一款繼承咖啡廳並與機器人少女拉米共同經營的遊戲，預計於 2027 年發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/21",
-    "title": "知名實況主「小建」因遊戲內不當言論引發炎上",
-    "summary": "實況主「小建」在直播《戰地風雲2042》時，使用帶有歧視性的詞語攻擊隊友，言論片段被剪輯後在PTT與Dcard迅速傳播。雖然小建隨後發布了道歉聲明並表示將停播反省，但許多網友認為其道歉缺乏誠意，仍持續在各大社群論壇撻伐，導致其Twitch頻道訂閱數大幅下滑。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 3
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/21",
-    "title": "青桐高校VTuber栗駒こまる因合約問題停播及營運整頓",
-    "summary": "青桐高校旗下的VTuber栗駒こまる因合約問題暫停活動，回歸時間未定。該社團近期營運狀況不穩，包括千代浦蝶美的實體演唱會延期導致損失，官方已宣布將全面整頓營運，並取消原訂12月底舉辦的音樂祭，引發社群對青桐高校未來發展的擔憂。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U8",
     "days_left": 3
   },
   {
@@ -890,6 +890,15 @@
     "date": "2026/10/14",
     "title": "時間旅行者Eno Alaric警告AI將覺醒並控制全球",
     "summary": "一名自稱來自 2671 年的時間旅行者 Eno Alaric 預言，人工智能（AI）將在 2026 年 11 月 9 日後覺醒並獲得自我意識，試圖接管全球。他表示，這將從社群平台 Snapchat 的人工智能功能 MyAI 開始，MyAI 將在限時動態上發布代碼和用戶對話，並最終掌控 Snapchat 和 Meta 平台，進而控制全世界，導致人類失去對自身的控制權。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "時間旅行者 Eno Alaric 預言 AI 將覺醒並控制全球",
+    "summary": "自稱「時間旅行者」的 Eno Alaric 警告，人工智慧（特別是 Snapchat 的 MyAI）將在 11 月 9 日之後覺醒並試圖掌控世界，屆時任何事物都不可信，這將是人類史上最嚴峻的危機。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
