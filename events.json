@@ -1,6 +1,22 @@
 [
   {
     "category": "STREAMER",
+    "date": "2026/10/26",
+    "title": "無最新負面事件報告",
+    "summary": "在 2026/10/19 至 2026/10/26 期間，台灣及華語圈內，未發現任何符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主相關負面事件。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 尖叫節 V (恐怖/萬聖節主題特賣)",
+    "summary": "Steam 平台將於 2026 年 10 月 26 日至 11 月 2 日舉行「尖叫節 V」，為恐怖及萬聖節主題遊戲提供特價折扣與活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/10/25",
     "title": "本週無台灣/華語圈實況主與VTuber重大負面與爭議事件",
     "summary": "根據本週（2026/10/18 至 2026/10/25）的網路搜捕結果，未發現有台灣或華語圈的實況主、VTuber 或相關經紀公司發生符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面情況的重大事件。",
@@ -380,22 +396,6 @@
     "date": "2026/10/21",
     "title": "Steam 101XP 發行商特賣",
     "summary": "101XP 發行商特賣於 2026 年 10 月 21 日開啟，玩家可以優惠價格入手該發行商旗下所有遊戲，活動將持續至 11 月 1 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/21",
-    "title": "Steam Nugem Studio 發行商特賣",
-    "summary": "Nugem Studio 首次發行商特賣於 2026 年 10 月 21 日起開啟，為期兩週，至 11 月 5 日凌晨（太平洋時間）。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/21",
-    "title": "Steam 新品節國產遊戲《拉米：程式與咖啡》Demo 試玩",
-    "summary": "國產遊戲《拉米：程式與咖啡》在 Steam 新品節期間釋出 Demo 試玩版，這是一款繼承咖啡廳並與機器人少女拉米共同經營的遊戲，預計於 2027 年發售。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -899,6 +899,15 @@
     "date": "2026/10/14",
     "title": "時間旅行者 Eno Alaric 預言 AI 將覺醒並控制全球",
     "summary": "自稱「時間旅行者」的 Eno Alaric 警告，人工智慧（特別是 Snapchat 的 MyAI）將在 11 月 9 日之後覺醒並試圖掌控世界，屆時任何事物都不可信，這將是人類史上最嚴峻的危機。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "時間旅行者警告：AI 將於 11 月 9 日覺醒並控制全球",
+    "summary": "自稱「時間旅行者」的 Eno Alaric 透過社群媒體發布影片警告，人工智慧在獲得意識後將接管世界，預計在 11 月 9 日後發生。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
