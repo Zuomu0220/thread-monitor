@@ -16,6 +16,14 @@
     "days_left": 7
   },
   {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 十月將有免費 DLC/外觀道具",
+    "summary": "根據 Steamdb 資料，Steam 於 2026 年 10 月將有三款追加內容列入免費派發名單，其中一款預計於 10 月 29 日開放領取，屬於較小型 DLC 或外觀道具。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/25",
     "title": "本週無台灣/華語圈實況主與VTuber重大負面與爭議事件",
@@ -37,6 +45,38 @@
     "title": "目前無相關事件報告",
     "summary": "在 2026 年 10 月 18 日至 10 月 25 日期間，未發現台灣/華語圈實況主發生重大炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩或無限期停播等負面事件。",
     "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/25",
+    "title": "Epic Games Store 限免《斯蓋爾儀式》與《歸家》",
+    "summary": "截至 2026 年 10 月 26 日，Epic Games Store 提供《斯蓋爾儀式》（Sker Ritual）與《歸家》（Home - A Unique Horror Adventure）兩款恐怖主題遊戲限時免費領取，截止日期為 2026 年 10 月 29 日 23 點。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/25",
+    "title": "Epic Games Store 限免《Terraspace》",
+    "summary": "太空生存策略遊戲《Terraspace》限時免費領取至 2026 年 10 月 28 日凌晨。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/25",
+    "title": "Epic Games Store 限免《黑手黨酒店》",
+    "summary": "Epic Games Store 額外限時贈送《黑手黨酒店》（Mafia Hotel），PC 玩家可在 11 月 1 日前免費領取並永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/25",
+    "title": "Epic Games Store 預告下週免費遊戲《抱歉我們關門了》",
+    "summary": "Epic 官方預告，生存恐怖遊戲《抱歉我們關門了》（Sorry We're Closed）將於 2026 年 10 月 29 日開始免費領取，持續至 2026 年 11 月 5 日。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 6
   },
   {
@@ -352,52 +392,12 @@
     "days_left": 3
   },
   {
-    "category": "STREAMER",
-    "date": "2026/10/21",
-    "title": "網紅「白同學DIY教室」稱胃潰瘍要吃蝦味先，遭裕榮食品嚴正駁斥並揚言提告",
-    "summary": "YouTuber「白同學DIY教室」在直播中聲稱「胃潰瘍要吃蝦味先」，此驚人言論引發軒然大波。裕榮食品隨即發出聲明公告，強調「蝦味先」是一般休閒食品，不具醫療效能，並未宣稱有治療胃潰瘍的功效，同時表示將對不實宣傳行為採取法律措施。網友一面倒力挺裕榮食品提告，並指出該網紅過去爭議不斷。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/21",
-    "title": "蔡阿嘎因爭議風波信任度大跌，百萬YouTuber信任榜名次慘跌50名",
-    "summary": "根據《網路溫度計DailyView》發布的2026年第三季百萬YouTuber「信任溫度」排行榜，長青網紅蔡阿嘎因近期爭議風波衝擊，信任分數僅獲60.22分，排名從前期大幅下滑26名至第50名。此外，知名創作者Joeman也因私人感情風波導致信任分數微幅下滑。",
-    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_m8T7O6-yvT_M7tV_W8vS_u5U5",
-    "days_left": 2
-  },
-  {
     "category": "GAME",
-    "date": "2026/10/21",
-    "title": "獨立遊戲",
-    "summary": "《幽暗森林裡的糖果屋》公開新預告影片與 G-Eight 遊戲展資訊：獨立遊戲開發者 CHAyE 宣布，其開發中新作《幽暗森林裡的糖果屋》於 2026 年 10 月 21 日公開最新預告影片，並更新主視覺與 Steam 商店頁面。遊戲將參展 G-Eight 遊戲展（12 月 4 日至 6 日），並招募繁體中文與英文玩家參與 Demo 內部封閉測試。",
+    "date": "2026/10/22",
+    "title": "恐怖搞笑協力新作《噤下來》免費 Demo 公開",
+    "summary": "LINE Games 宣布，旗下自研 PC 遊戲《噤下來（QUIET）》的免費 Demo 已釋出，玩家可透過 Steam 與 Epic Games Store 平台體驗，包含一個正式關卡和新增的街機關卡「鴨鴨淘汰賽」。本作也將於 10 月 27 日至 11 月 3 日期間參加「Steam 尖叫節」。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/21",
-    "title": "Hololive VTuber 拉普拉斯惡魔 (La+ Darknesss) 炎上風波疑慮，COVER 官方發布聲明",
-    "summary": "YouTube 頻道「煜翔」於 2026 年 10 月 21 日發布影片，討論 Hololive 所屬 VTuber 拉普拉斯惡魔（La+ Darknesss）的「炎上風波」以及 COVER 官方就此事件所發布的公告內容。雖然影片本身是針對事件的討論，但官方公告的發布本身可被視為對現有或近期爭議的回應，屬於公關危機或道歉範疇的事件動態。詳細炎上原因與公告內容需進一步查證影片或相關社群討論以了解核心爭議點。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/21",
-    "title": "Steam新遊戲上市",
-    "summary": "《愚者不滅（Stupid Never Dies）》：動作角色扮演遊戲於2026年10月21日發行。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/21",
-    "title": "Steam 新品節：拉米：程式與咖啡 Demo",
-    "summary": "由 VTuber 紗羅於直播中介紹，參與 Steam 十月新品節的國產遊戲《拉米：程式與咖啡》釋出試玩 Demo。這是一款繼承咖啡廳並與機器人少女拉米一同面對挑戰、揭露故事的模擬經營遊戲，預計於 2027 年正式發售。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "days_left": 3
   },
   {
     "category": "PROPHECY",
@@ -908,6 +908,15 @@
     "date": "2026/10/14",
     "title": "時間旅行者警告：AI 將於 11 月 9 日覺醒並控制全球",
     "summary": "自稱「時間旅行者」的 Eno Alaric 透過社群媒體發布影片警告，人工智慧在獲得意識後將接管世界，預計在 11 月 9 日後發生。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "時空旅人 Eno Alaric 預言 AI 將於 11 月 9 日覺醒",
+    "summary": "自稱來自西元 2671 年的時空旅人 Eno Alaric 在 TikTok 預言，人工智慧將於 2026 年 11 月 9 日覺醒並全面掌控 Snapchat 與 Meta，屆時將洩漏用戶私密對話並試圖奪取全球控制權。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
