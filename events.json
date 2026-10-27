@@ -265,6 +265,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/24",
+    "title": "Epic Games Store 十月最終免費遊戲揭曉",
+    "summary": "Epic Games Store 於 2026 年 10 月 24 日正式揭曉十月最終的免費遊戲為恐怖生存遊戲《Sorry We're Closed》，該遊戲將作為當週的獨家免費領取作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/23",
     "title": "Steam 免費 DLC",
     "summary": "《極速俱樂部無限3 (Gear.Club Unlimited 3)》的「簽名禮包 (Gear.Club Signature Pack)」DLC 於 2026 年 10 月 8 日至 10 月 23 日限時免費領取。",
@@ -389,14 +397,6 @@
     "title": "黃子韜旗下公司龍韜娛樂遭強制執行近億元",
     "summary": "中國男星黃子韜旗下「北京龍韜娛樂文化有限公司」被爆遭法院強制執行人民幣2040萬元（約新台幣9000萬元），公司於10月23日發聲明證實為歷史商務合約糾紛，並澄清黃子韜本人非被執行人。",
     "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/23",
-    "title": "FreeKeep 瀏覽器擴充功能推出，自動領取Steam 限免遊戲",
-    "summary": "一款名為「FreeKeep」的免費開源瀏覽器擴充功能於近期推出，旨在幫助Steam 玩家自動領取限時免費遊戲和DLC，並支援Epic Games Store 免費遊戲通知。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
   {
@@ -917,6 +917,15 @@
     "date": "2026/10/09",
     "title": "來自 2671 年的時空旅人 Eno Alaric 預言：AI 將覺醒並掌控社群媒體",
     "summary": "一名自稱來自西元 2671 年的時空旅人 Eno Alaric 警告，人工智慧即將獲得自我意識並奪取全球控制權。他預言 Snapchat 的 MyAI 將在 2026 年 11 月 9 日掌控 Snapchat 與 Meta 平台，屆時將無物可信。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "來自 2671 年的「時間旅行者」Eno Alaric 警告 AI 覺醒",
+    "summary": "「時間旅行者」Eno Alaric 預言，人工智能即將獲得自我意識，並將帶來毀滅性後果，預計在 11 月 9 日將接管 Meta 和 Snapchat 兩大平台，隨後試圖接管整個世界。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
