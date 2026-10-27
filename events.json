@@ -217,6 +217,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/24",
+    "title": "Epic Games Store 免費遊戲《Sorry We're Closed》",
+    "summary": "Epic Games Store 於 10 月 24 日宣布，生存恐怖遊戲《Sorry We're Closed》將作為 10 月份的最後一款免費遊戲，於 10 月 29 日起開放領取至 11 月 5 日。目前仍可領取《Home: A Unique Horror Adventure》和《Sker Ritual》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/23",
     "title": "Steam 免費 DLC",
     "summary": "《極速俱樂部無限3 (Gear.Club Unlimited 3)》的「簽名禮包 (Gear.Club Signature Pack)」DLC 於 2026 年 10 月 8 日至 10 月 23 日限時免費領取。",
@@ -368,6 +376,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Steam 2026 年 10 月新品節免費試玩",
+    "summary": "Steam 平台於台灣時間 10 月 20 日凌晨 1 點至 10 月 27 日舉辦為期 7 天的 2026 年 10 月新品節，提供 18 款不同類型遊戲的免費試玩，包含動作冒險、經營模擬、生存探索等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -380,22 +396,6 @@
     "date": "2026/10/22",
     "title": "Steam 遊戲《Arena of Trophies》將於 2026/10/22 下架",
     "summary": "開發者宣布由於無法再投入資源維護與更新，遊戲《Arena of Trophies》將於 2026 年 10 月 22 日從 Steam 平台下架。該遊戲曾在下架前提供限時免費領取活動，提醒玩家把握最後機會領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Steam 遊戲《Arena of Trophies》將下架並限時免費領取",
-    "summary": "開發者宣布因無法再投入資源維護與更新，遊戲《Arena of Trophies》將於 2026 年 10 月 22 日從 Steam 平台下架，並在此之前提供限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Steam新遊戲上市特價",
-    "summary": "《我推的祭品》：恐怖視覺小說遊戲於2026年10月22日發行，目前享20%折扣，原價新台幣360元，折後為新台幣288元。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -1282,9 +1282,9 @@
   },
   {
     "category": "PROPHECY",
-    "date": "2026/01/02",
+    "date": "2026/10/21",
     "title": "物理學家預言 2026 年 11 月 13 日世界末日",
-    "summary": "已故物理學家海因茲（Heinz von Foerster）早在 1960 年便預言，人類文明可能在 2026 年 11 月 13 日走向終結，原因並非戰爭或天災，而是無限人口成長導致的失控與自我毀滅。",
+    "summary": "物理學家馮．佛斯特（Heinz von Foerster）於 1960 年在《科學》期刊發表的預測再次引起關注。他指出，世界可能在 2020 年代走向終結，具體日期為 2026 年 11 月 13 日，原因歸結於人口暴增。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
