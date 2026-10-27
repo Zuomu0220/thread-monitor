@@ -201,6 +201,22 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/24",
+    "title": "Epic Games Store 預告下一款免費遊戲：《Sorry We're Closed》",
+    "summary": "Epic Games Store 預計將於 2026 年 10 月 29 日起，限時免費提供生存恐怖遊戲《Sorry We're Closed》，領取活動將持續至 11 月 5 日。這將是 Epic Games 近兩個月來首次僅贈送一款免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/24",
+    "title": "Triple-i Initiative 2026 獨立遊戲展",
+    "summary": "Triple-i Initiative 於 2026 年再次舉行，展示多款即將登陸 Epic Games Store 的獨立遊戲。其中《Astral Ascent》推出更新，《Brotato: Primal Dread》預計於 11 月 2 日發售，而《Hela: of Mice & Magic》則已釋出試玩版，預計於 12 月 1 日正式推出。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/23",
     "title": "Steam 免費 DLC",
     "summary": "《極速俱樂部無限3 (Gear.Club Unlimited 3)》的「簽名禮包 (Gear.Club Signature Pack)」DLC 於 2026 年 10 月 8 日至 10 月 23 日限時免費領取。",
@@ -344,6 +360,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/10/23",
+    "title": "Epic Games 宣布 2026 AI MegaJam",
+    "summary": "Epic Games 宣布 2026 AI MegaJam 將於 11 月 12 日至 15 日舉行，提供最高 5 萬美元的開發資助，但賽事引發開發者社群對 AI 應用在遊戲中的爭議。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/22",
     "title": "目前無符合條件的事件",
@@ -372,30 +396,6 @@
     "date": "2026/10/22",
     "title": "Steam新遊戲上市特價",
     "summary": "《我推的祭品》：恐怖視覺小說遊戲於2026年10月22日發行，目前享20%折扣，原價新台幣360元，折後為新台幣288元。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Epic Games 限時免費",
-    "summary": "Epic Games Store 本週推出兩款免費遊戲：《Home》與《Sker Ritual》，玩家可限時領取並永久保留至 10 月 29 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Steam 限時免費",
-    "summary": "遊戲《Arena of Trophies》因開發者停止維護，將於 2026 年 10 月 22 日從 Steam 平台下架，在此之前可免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/22",
-    "title": "Steam遊戲《Arena of Trophies》限時免費領取（即將下架）",
-    "summary": "開發者宣布，因無法再投入資源進行遊戲維護與更新，Steam平台上的遊戲《Arena of Trophies》將於2026年10月22日正式下架。為此，遊戲在下架前提供限時免費領取，讓玩家有機會永久保留這款遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
