@@ -8,6 +8,14 @@
     "days_left": 7
   },
   {
+    "category": "STREAMER",
+    "date": "2026/10/28",
+    "title": "目前無重大負面與爭議事件報導",
+    "summary": "在 2026/10/21 至 2026/10/28 期間，Google Search 未搜捕到台灣/華語圈實況主相關的「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等具體負面事件或最新動態。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
+    "days_left": 7
+  },
+  {
     "category": "GAME",
     "date": "2026/10/27",
     "title": "Steam 2026年10月新品節「最多人遊玩的50款遊戲」公布",
@@ -52,6 +60,22 @@
     "date": "2026/10/26",
     "title": "Steam 2026年秋季免費遊玩遊戲推薦",
     "summary": "YouTube頻道於2026年10月26日推薦了25款2026年秋季最佳免費遊玩PC遊戲，類型包含動漫開放世界動作、工廠自動化、英雄射擊、大逃殺、MMO、卡牌對戰、合作生存與混亂多人遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Epic Games 商城限免《抱歉，我們關門了》",
+    "summary": "Epic Games 商城公布 2026 年 10 月最後一輪週免內容，生存恐怖遊戲《抱歉，我們關門了》（Sorry, We're Closed）將於 10 月 29 日起開放限時免費領取，活動持續至 11 月 5 日。在 10 月 29 日前，玩家仍可領取《斯蓋爾儀式》（Sker Ritual）和《歸家》（Home – A Unique Horror Adventure），這三款遊戲皆呼應萬聖節期間的恐怖主題。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 免費遊戲序號領取",
+    "summary": "Steam 平台於 2026 年 10 月 26 日開放免費序號領取《Lovely Archeologists》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -376,28 +400,13 @@
     "days_left": 2
   },
   {
-    "category": "GAME",
+    "category": "PROPHECY",
     "date": "2026/10/23",
-    "title": "Steam與Epic遊戲平台限時免費與特價情報更新",
-    "summary": "各大遊戲情報網站（如PinoGamer）於10月23日更新了Steam與Epic Games平台的限時免費遊戲和折扣資訊。其中Steam在十月除了新品節Demo外，也持續有DLC限免活動，例如《MXGP 26 - Scrubdesignz Liveries》等。Epic Games則保持每週免費遊戲的傳統。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/23",
-    "title": "Steam 2026 年 10 月新品節開跑",
-    "summary": "Steam 平台於台灣時間 2026 年 10 月 19 日凌晨 1 點至 10 月 26 日舉辦為期 7 天的「新品節」，提供多款遊戲免費試玩。活動精選了約 18 款不同遊戲類型，包含動作冒險、沉浸式模擬、經營模擬、生存探索與休閒小品等作品，供玩家搶先體驗。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/23",
-    "title": "Epic Games Store 限時免費：《Terraspace》",
-    "summary": "Epic Games Store 除了上述遊戲外，也於本週提供太空生存策略遊戲《Terraspace》限時免費領取，玩家需收集資源、建造設施與太空船，探索並建立殖民地。領取截止日期為 10 月 28 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
+    "title": "「能預測未來的人」預警 2026 年 10 月 29 日「黑色星期二」",
+    "summary": "一個名為「The Man Who Can Predict the Future」的預言帳號，在 2026 年 10 月 23 日的「Conspiracy Daily Update」中被提及，預言 2026 年 10 月 29 日將發生「黑色星期二」，暗示歷史將重演，美國的財富將被竊取。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/10/29",
+    "expiry_date": "2026/10/30"
   },
   {
     "category": "PROPHECY",
