@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/10/28",
+    "title": "Steam Fallout Day 2026 系列作品特賣",
+    "summary": "Steam 平台正舉辦 Fallout Day 2026 系列作品特賣，多款遊戲提供最高達80%的折扣，例如《電馭叛客2077》折扣70%至$17.99，《異塵餘生76》折扣80%至$7.99，《異塵餘生4》折扣75%至$4.99。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/27",
     "title": "Steam 2026年10月新品節「最多人遊玩的50款遊戲」公布",
     "summary": "Steam 10月新品節於10月20日開始，提供為期7天的免費試玩，並於10月27日公布了「最多人遊玩的50款遊戲」榜單。其中非對稱搞笑派對遊戲《我帶過的最差一屆》奪下榜首，賽博龐克當鋪模擬《Probably Stolen》、多人放屁划船合作《Fart Together》及韓國知名IP《上古世紀編年史》等遊戲皆受到大量玩家關注。",
@@ -36,6 +44,14 @@
     "date": "2026/10/26",
     "title": "Epic Games Store 將限時免費提供生存恐怖遊戲《Sorry We're Closed》",
     "summary": "Epic Games Store 公布2026年10月最後一輪週免內容，生存恐怖遊戲《Sorry We're Closed》將於10月29日起免費領取，活動持續至11月5日。在此之前，玩家仍可領取《Sker Ritual》和《Home: A Unique Horror Adventure》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 2026年秋季免費遊玩遊戲推薦",
+    "summary": "YouTube頻道於2026年10月26日推薦了25款2026年秋季最佳免費遊玩PC遊戲，類型包含動漫開放世界動作、工廠自動化、英雄射擊、大逃殺、MMO、卡牌對戰、合作生存與混亂多人遊戲。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -381,22 +397,6 @@
     "title": "Epic Games Store 限時免費：《Terraspace》",
     "summary": "Epic Games Store 除了上述遊戲外，也於本週提供太空生存策略遊戲《Terraspace》限時免費領取，玩家需收集資源、建造設施與太空船，探索並建立殖民地。領取截止日期為 10 月 28 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/23",
-    "title": "Steam 2026年10月新品節多款遊戲Demo開放試玩",
-    "summary": "Steam平台於台灣時間10月20日凌晨1點至10月27日舉辦為期7天的「Steam 2026年10月新品節」，數千款未發售遊戲的免費試玩Demo開放給玩家體驗，涵蓋動作冒險、經營模擬、生存探索等類型。本屆新品節Demo數量創歷史新高，達到7000至8000款之間，引發了對AI生成內容和低成本仿作的擔憂。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/23",
-    "title": "黃子韜旗下公司龍韜娛樂遭強制執行近億元",
-    "summary": "中國男星黃子韜旗下「北京龍韜娛樂文化有限公司」被爆遭法院強制執行人民幣2040萬元（約新台幣9000萬元），公司於10月23日發聲明證實為歷史商務合約糾紛，並澄清黃子韜本人非被執行人。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 2
   },
   {
