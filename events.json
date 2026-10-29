@@ -208,6 +208,14 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 新品節獨立遊戲 Demo 推薦",
+    "summary": "有媒體推薦了 Steam 10 月新品節中值得嘗試的獨立遊戲 Demo，例如《MR. RECORDS》、《NEURON ACTIVATION》和《STIP》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/25",
     "title": "本週無台灣/華語圈實況主與VTuber重大負面與爭議事件",
@@ -336,6 +344,14 @@
     "days_left": 2
   },
   {
+    "category": "GAME",
+    "date": "2026/10/25",
+    "title": "Steam「Games That Ace It」遊戲節",
+    "summary": "「Games That Ace It」遊戲節於 10 月 25 日至 11 月 1 日舉行，旨在慶祝 Asexual Awareness Week (無性戀意識週)，並推出多款相關遊戲折扣。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 2
+  },
+  {
     "category": "VTUBER",
     "date": "2026/10/24",
     "title": "新興VTuber經紀公司「幻月社」遭旗下VTuber集體指控合約不公",
@@ -380,22 +396,6 @@
     "date": "2026/10/24",
     "title": "Epic Games Store公布10月最後一款免費遊戲《Sorry We're Closed》",
     "summary": "Epic Games Store揭曉了2026年10月的最後一款免費遊戲，為由英國 à la mode games 工作室開發的生存恐怖遊戲《Sorry We're Closed》。該遊戲以復古的畫面和視角轉換機制為特色，並獲得了好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/24",
-    "title": "蔡阿嘎妻子二伯品牌HAHABABY新品再陷抄襲爭議",
-    "summary": "百萬YouTuber蔡阿嘎的妻子二伯經營的親子服飾品牌「HAHABABY」重啟僅一個月，其10月新品被網友發現與日本品牌設計高度雷同，涉嫌抄襲。爭議商品目前已從官網下架。",
-    "avatar_url": "https://img.udn.com/image/upload/f_jpg,w_600,h_450,c_fill,q_auto:best/f_auto,q_auto/WEB_NEWS/202610/24/20888915_1.jpg",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/24",
-    "title": "Steam 限時免費暢玩《DeadPoly》",
-    "summary": "低多邊形殭屍生存遊戲《DeadPoly》開放限時免費暢玩至美西時間10月26日上午10點（北京時間10月27日凌晨1點）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -6798,6 +6798,15 @@
     "date": "2026/07/07",
     "title": "Reddit討論預測2027年AI不再需要人類",
     "summary": "在Reddit上關於時空旅行的討論中提到，有預測認為人工智慧將在2027年決定不再需要人類。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2027/01/01",
+    "expiry_date": "2027/01/02"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/28",
+    "title": "布蘭登 2026 年 10 月 28 日最新預言",
+    "summary": "預言家布蘭登（Brandon Biggs）發布了關於 2026 年 10 月 28 日的最新預言，暗示 2027 年至 2030 年將迎來重大轉變。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2027/01/01",
     "expiry_date": "2027/01/02"
