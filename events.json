@@ -33,6 +33,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/10/29",
+    "title": "Steam 尖叫節 V 登場",
+    "summary": "Steam 尖叫節 V 將於 10 月 29 日至 11 月 1 日舉行，預計提供多款符合主題的遊戲折扣、未發行遊戲試玩版及免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/10/28",
     "title": "Steam Fallout Day 2026 系列作品特賣",
     "summary": "Steam 平台正舉辦 Fallout Day 2026 系列作品特賣，多款遊戲提供最高達80%的折扣，例如《電馭叛客2077》折扣70%至$17.99，《異塵餘生76》折扣80%至$7.99，《異塵餘生4》折扣75%至$4.99。",
@@ -68,6 +76,22 @@
     "date": "2026/10/28",
     "title": "Steam",
     "summary": "新增兩款永久免費遊戲：Steam 官方確認在2026年10月新增兩款可永久擁有的免費遊戲。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/28",
+    "title": "Steam 最新免費遊玩遊戲",
+    "summary": "Steam 平台於 2026 年 10 月推出多款新免費遊玩遊戲，包含《Ceto-7》、《SPAM》、《Neighbors: Suburban Warfare》、《LOST & FOUND》、《Stella Sora》、《Car Parking Multiplayer 2 (CPM 2)》、《Duckoleon》、《Intravenous 3: Borderline》、《Arknights: Endfield》及《AION 2》等。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/28",
+    "title": "Steam 兩款限時免費領取遊戲",
+    "summary": "Steam 官方確認 2026 年 10 月有兩款新的遊戲可以限時免費領取並永久保存，讓玩家擴充遊戲庫。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -216,6 +240,22 @@
     "days_left": 3
   },
   {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Epic Games Store 限時免費《抱歉，我們關門了》",
+    "summary": "Epic Games Store 宣布，生存恐怖遊戲《抱歉，我們關門了》（Sorry, We're Open）將於 10 月 29 日起開放限時免費領取一周，活動持續至 11 月 5 日。在此之前，玩家可領取《斯蓋爾之儀式》（Ritual of the Sker）和《家：獨特的恐怖冒險》（Home: A Unique Horror Adventure），這兩款遊戲的領取期限至 10 月 29 日止，皆呼應萬聖節主題。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/26",
+    "title": "Steam 新品節 10 月 26 日至 11 月 2 日",
+    "summary": "Steam 2026 年 10 月新品節登場，提供大量新遊戲免費試玩 Demo，讓玩家搶先體驗。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 3
+  },
+  {
     "category": "STREAMER",
     "date": "2026/10/25",
     "title": "本週無台灣/華語圈實況主與VTuber重大負面與爭議事件",
@@ -357,46 +397,6 @@
     "title": "新興VTuber經紀公司「幻月社」遭旗下VTuber集體指控合約不公",
     "summary": "數名「幻月社」旗下的中小型VTuber在匿名論壇（PTT VTuber板）聯合發文，揭露公司合約中存在多項不合理條款，包括過高的抽成比例、限制個人自由活動以及對收益分配模糊不清等問題。事件引發業界關注，許多網友呼籲文化部介入調查，幻月社則發布聲明稱爆料內容不實，將保留法律追訴權，但其官方X帳號留言區已遭大量負面評論洗版。",
     "avatar_url": "https://yt3.googleusercontent.com/a8t_XfP2pWnO9R0e8B2z_O7fV78vS_u5U9",
-    "days_left": 1
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/24",
-    "title": "Toyz（劉偉健）假釋獲准，面臨是否驅逐出境爭議",
-    "summary": "前《英雄聯盟》世界冠軍實況主Toyz（劉偉健）因販毒案於2024年5月入獄，法務部已於10月19日核准其假釋申請。此消息引發網友熱議，同時也延伸出他身為香港籍人士，傳聞在服刑期間與女友篠崎泫登記結婚，是否能藉此避免遭到驅逐出境的討論。",
-    "avatar_url": "https://yt3.googleusercontent.com/b8t_ZfP2pWnO9R0e8B2z_O7fV78vS_u5U0",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/24",
-    "title": "Epic Games Store 下週免費遊戲預告《Sorry We're Closed》",
-    "summary": "Epic Games Store 已揭曉其 2026 年 10 月份最後一款免費遊戲為廣受好評的生存恐怖遊戲《Sorry We're Closed》，該遊戲將於下週開放限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/24",
-    "title": "Epic Games Store 即將推出限時免費遊戲：Sorry We're Closed",
-    "summary": "Epic Games Store 宣布，由英國工作室 à la mode games 開發的生存恐怖遊戲《Sorry We're Closed》將作為 2026 年 10 月的最後一款限時免費遊戲。這款遊戲以復古圖像和視角轉換為特色。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/24",
-    "title": "《Pokémon Trading Card Game Pocket》「伊布花園」主題擴充包將登場",
-    "summary": "株式會社寶可夢宣布，《Pokémon Trading Card Game Pocket》將於 2026 年 6 月 26 日追加新主題擴充包「伊布花園」，收錄伊布及其朋友們的可愛插畫卡牌。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/24",
-    "title": "Epic Games Store公布10月最後一款免費遊戲《Sorry We're Closed》",
-    "summary": "Epic Games Store揭曉了2026年10月的最後一款免費遊戲，為由英國 à la mode games 工作室開發的生存恐怖遊戲《Sorry We're Closed》。該遊戲以復古的畫面和視角轉換機制為特色，並獲得了好評。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
   {
