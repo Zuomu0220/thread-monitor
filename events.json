@@ -96,6 +96,22 @@
     "days_left": 5
   },
   {
+    "category": "VTUBER",
+    "date": "2026/10/30",
+    "title": "Ado生日演唱會引爭議：兩小時演出僅一小時歌唱",
+    "summary": "日本知名歌手Ado在10月24、25日舉辦的粉絲俱樂部限定生日演唱會「Adoのドキドキ秘密基地」引發粉絲不滿。儘管票價為新台幣3千元且吸引眾多日本及海外粉絲參與，但有觀眾反映整場兩小時半的活動中，實際歌唱時間僅約一小時，其餘多為訪談和過往直播精華片段。許多粉絲認為訪談和直播內容在免費平台上即可觀看，對花錢進場卻體驗到「水時間」的活動內容感到失望，甚至有日本網友表示將不再支持Ado的現場演出。",
+    "avatar_url": "https://img.league-funny.com/imgur/1669460021-u2G2L.jpeg",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/30",
+    "title": "Steam商店限時免費領取《Asleep: Act 1》",
+    "summary": "Steam商店於2026年10月30日開放限時免費領取遊戲《Asleep: Act 1》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "GAME",
     "date": "2026/10/29",
     "title": "Epic Games Store下週限時免費：《抱歉，我們關門了》",
@@ -188,6 +204,22 @@
     "date": "2026/10/29",
     "title": "Epic Games 限時免費：生存恐怖遊戲《Sorry We're Closed》",
     "summary": "Epic Games Store 本週推出限時免費遊戲，玩家可在 2026 年 11 月 5 日前領取生存恐怖遊戲《Sorry We're Closed》，一旦領取將永久保存於帳號中。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/29",
+    "title": "Epic Games商城《抱歉，我們關門了》限時免費",
+    "summary": "Epic Games商城宣布，生存恐怖遊戲《抱歉，我們關門了》（Sorry We're Closed）將於10月29日起開放限時免費領取，活動持續至11月5日。這款遊戲由英國à la mode games工作室開發，特色為復古視覺風格以及第一人稱與早期《生化危機》式固定鏡頭的視角切換。此為Epic Games 2026年10月最後一輪周免內容，也是近兩個月首次僅贈送一款遊戲的周免活動。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/10/29",
+    "title": "Steam商店限時免費領取《Hexologic》",
+    "summary": "Steam商店於2026年10月29日開放限時免費領取遊戲《Hexologic》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
@@ -366,38 +398,6 @@
     "summary": "YouTube 頻道於 2026 年 10 月 27 日發布 Steam 超級優惠，推薦多款目前正在特價的遊戲，包括《No Man's Sky》（六折）、《Inscryption》（六折）、《The Medium》（二五折）、《KARMA: The Dark World》（五二折）、《REPLACED》（七五折）、《Tchia》（一折）、《Marvel's Midnight Suns》（一五折）、《Goodnight Universe》（六折）、《Europa》（七折）和《GYLT》（四折）。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/27",
-    "title": "Steam Next Fest 獨立遊戲 Demo 推薦",
-    "summary": "Mobalytics 和 Cosmic Circus 於 2026 年 10 月 24 日和 27 日報導，Steam Next Fest（10 月 19 日至 10 月 26 日）期間提供了大量獨立遊戲試玩版。其中包括《Warhammer Survivors》、《Probably Stolen - Cyberpunk Shopkeeper Sim》、《Loftia》、以及《Lelu》、《Detained: Too Good for School》、《Gobble Inn》、《Night Hazard》、《Waltz and Jam》等。這些 Demo 讓玩家有機會搶先體驗即將推出的 PC 遊戲。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/27",
-    "title": "Steam 2026年10月新品節試玩版",
-    "summary": "Steam 2026年10月新品節於10月20日至27日舉行，提供上百款遊戲的免費試玩Demo，包括第一人稱跑酷動作遊戲《恐怖蜥蜴》、物品修復模擬遊戲《Reshine》、經營模擬遊戲《地淵珠寶匠》、禪意整理模擬遊戲《永不按顏色分揀》、賽博神話砍殺動作遊戲《螻蟻之城》、雙人合作動作冒險遊戲《鬧鬼爪子》、像素風釣魚冒險遊戲《獵戶座之藍》、賽博龐克店經營模擬遊戲《Probably Stolen》、回合制喪屍射擊遊戲《Mortuus》及物理破壞沙盒遊戲《火山英雄》等。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/27",
-    "title": "Steam/Epic 限免好評射擊遊戲",
-    "summary": "《Radiant Exodus》與《斯凱爾儀式》兩款好評射擊遊戲於 Steam 及 Epic Games 平台限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "STREAMER",
-    "date": "2026/10/26",
-    "title": "無最新負面事件報告",
-    "summary": "在 2026/10/19 至 2026/10/26 期間，台灣及華語圈內，未發現任何符合「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等條件的實況主相關負面事件。",
-    "avatar_url": "https://ui-avatars.com/api/?name=🔥&background=b91c1c&color=fff&size=128",
-    "days_left": 1
   },
   {
     "category": "PROPHECY",
@@ -1825,6 +1825,15 @@
     "date": "2026/10/21",
     "title": "物理學家Heinz von Foerster",
     "summary": "世界末日預言：物理學家馮．佛斯特（Heinz von Foerster）於1960年在《科學》期刊預測，世界可能在2026年11月13日因人口過剩而走向終結。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/13",
+    "expiry_date": "2026/11/14"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/01",
+    "title": "科學家預測2026年11月13日為「世界末日」",
+    "summary": "一則關於「科學家預測2026年11月13日星期五將是『世界末日』」的說法在網路上流傳。此說法源於物理學家海因茨·馮·福斯特（Heinz von Foerster）及其團隊在1960年發表的一篇論文。他們透過建模歷史人類人口增長，計算出人口理論上將在該確切日期達到無限。然而，該論文並非預言末日，且目前全球出生率已大幅減緩，使1960年的模型過時，因此沒有科學依據擔心地球將在2026年終結。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/13",
     "expiry_date": "2026/11/14"
