@@ -9,6 +9,22 @@
   },
   {
     "category": "STREAMER",
+    "date": "2026/11/02",
+    "title": "美知名實況主Lacy在日本用餐直播誤曝QR Code，遭觀眾惡作劇狂點33萬日圓餐點",
+    "summary": "美國Twitch實況主Lacy（本名Nicholas Fosco）於10月28日在日本一家餐廳用餐時進行直播，不慎將桌上的點餐QR Code拍入畫面。部分觀眾利用遠端點餐系統大量下單，導致餐廳收到高達160萬日圓（約新台幣33萬元）的異常訂單。Lacy當場氣憤指責觀眾惡作劇，並一度以為須支付所有費用。餐廳事後澄清並未要求他支付全款，Lacy也於10月30日在社群平台X上公開道歉，坦承因語言隔閡誤解情況，並正嘗試聯繫店家彌補困擾。",
+    "avatar_url": "https://ui-avatars.com/api/?name=🙇&background=000000&color=fff&size=128",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
+    "date": "2026/11/02",
+    "title": "Steam新增限時免費遊戲：《飛越！100KM！山脈！》等",
+    "summary": "根據最新消息，Steam於11月2日陸續推出限時免費遊戲，包括《飛越！100KM！山脈！》、《Bunny Guys!》和《BROTHER!!!》等。玩家應把握時間在活動期間內下載以永久保留。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "STREAMER",
     "date": "2026/11/01",
     "title": "無最新負面與爭議事件",
     "summary": "在 2026/10/25 至 2026/11/01 期間，未發現台灣/華語圈實況主或 VTuber 發生「炎上、公關危機、道歉、失言、合約糾紛、社群吵架、隱私外洩、無限期停播」等負面事件的報導。",
@@ -29,6 +45,14 @@
     "title": "Epic Games 限時免費領取《Epic World – Hunt For Quest》",
     "summary": "Epic Games 平台提供限時免費領取遊戲《Epic World – Hunt For Quest》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/11/01",
+    "title": "VTuber天神子兎音「中之人」畢業10個月後才公布，引發換魂爭議",
+    "summary": "VTuber天神子兎音的營運公司SPIRAL STAIRS STUDIO於11月1日突發公告，其負責角色聲音與演出的原「中之人」（表演者）已於2025年底因合約到期離職，但公司延遲10個月才公布此消息。在此期間，天神子兎音的社群更新、新曲發布及周邊商品販售仍持續進行。此舉引發粉絲對「換魂」操作及資訊不透明的強烈批評，新表演者預計於11月11日接棒。",
+    "avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_k8T7O6-yvT_M7tV_W8vS_u5U6",
     "days_left": 5
   },
   {
@@ -372,30 +396,6 @@
     "date": "2026/10/29",
     "title": "Epic 限時免費",
     "summary": "Epic Games Store 宣布恐怖遊戲《抱歉我們關門了》（Sorry We're Closed）開放限時免費領取，活動持續至 2026 年 11 月 5 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/29",
-    "title": "Epic 限時免費試玩",
-    "summary": "Epic Games Store 推出《足球經理27》（Football Manager 27）限時免費試玩活動，可從 2026 年 10 月 29 日免費遊玩至 11 月 3 日。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/29",
-    "title": "Steam DLC 限時免費",
-    "summary": "Steam 商店開放《Hunting Simulator 3》經典美國獵人包（Classic American Hunter Pack）DLC 限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/29",
-    "title": "Epic Games Store 推出限時免費恐怖遊戲《抱歉我們關門了》",
-    "summary": "Epic Games Store 自 2026 年 10 月 29 日起，接檔贈送生存恐怖遊戲《抱歉我們關門了》（Sorry We're Closed），玩家可限時免費領取，活動將持續至 11 月 5 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
