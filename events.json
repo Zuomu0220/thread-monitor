@@ -1,6 +1,14 @@
 [
   {
     "category": "GAME",
+    "date": "2026/11/03",
+    "title": "Steam",
+    "summary": "《全境封鎖2 - 中央公園的迴響》擴充內容豪華版發行：此為《全境封鎖2》的擴充內容，遊戲類型為刷寶射擊、開放世界、多人、第三人稱射擊。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
+    "category": "GAME",
     "date": "2026/11/02",
     "title": "G-EIGHT 2026 獨立遊戲展《活俠傳》聯名套票今日開搶",
     "summary": "2026 G-EIGHT 獨立遊戲展（將於 12 月 4 日在花博爭豔館登場）與遊戲《活俠傳》合作推出的聯名套票，於 2026 年 11 月 2 日開放搶購。",
@@ -76,6 +84,14 @@
     "date": "2026/11/01",
     "title": "Epic Games Store 限時免費領取《Epic World – Hunt For Quest》",
     "summary": "Epic Games Store 於 2026 年 11 月 1 日開放限時免費領取遊戲《Epic World – Hunt For Quest》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/11/01",
+    "title": "Epic Games",
+    "summary": "限時免費領取《Epic World – Hunt For Quest》與《Gladiator: Blades of Fury》：Epic Games 商店於此期間推出兩款遊戲供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -220,14 +236,6 @@
     "date": "2026/10/30",
     "title": "第五屆G-EIGHT獨立遊戲展售票資訊公布，攜手《活俠傳》推聯名套票",
     "summary": "台灣獨立遊戲展 G-EIGHT 公布第五屆活動售票資訊，將於 2026 年 12 月 4 日至 6 日在台北花博爭艷館登場。門票於 2026 年 11 月 2 日中午 12 時起開賣，並與人氣武俠遊戲《活俠傳》合作推出限量聯名 T-shirt 套票。本次展覽集結 9 國 172 組單位共 263 款遊戲，並首度規劃商務媒合專區。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "Steam",
-    "summary": "Adult Games Week 2026 特賣活動開跑：Steam平台於2026年10月30日推出成人遊戲週折扣活動，提供各類成人遊戲特惠。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
@@ -388,14 +396,6 @@
     "date": "2026/10/29",
     "title": "gamescom asia x Thailand Game Show 2026",
     "summary": "gamescom asia與Thailand Game Show合作，於2026年10月29日至11月1日期間共同展示亞洲最佳遊戲，並提供令人期待的新作Demo試玩。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 2
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/29",
-    "title": "Epic Games Store《足球經理27》限時免費",
-    "summary": "Epic Games Store 於 10 月 29 日至 11 月 3 日提供《足球經理27》限時免費遊玩。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 2
   },
@@ -5196,15 +5196,6 @@
     "date": "2026/08/22",
     "title": "Reddit未來人預測：2026年AI將大幅進步但社會無改善",
     "summary": "有 Reddit 用戶預測 2026 年底 AI 將大幅進步，但社會不會有實質改善，人們將更懶惰、學習更少，產品服務品質下降且價格不變。",
-    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
-    "target_date": "2026/12/31",
-    "expiry_date": "2027/01/01"
-  },
-  {
-    "category": "PROPHECY",
-    "date": "2026/08/22",
-    "title": "匿名時間旅行者預言",
-    "summary": "一位不願透露姓名的時間旅行者聲稱，人類將面臨未來的災難，傳統貨幣制度將很快消失，社會將迎來崩潰，後代將目睹巨大的災難。他還聲稱其活動受到名為「時間管理局」的秘密組織監控，以維持時間流的平衡。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/12/31",
     "expiry_date": "2027/01/01"
