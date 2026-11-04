@@ -32,6 +32,14 @@
     "days_left": 6
   },
   {
+    "category": "STREAMER",
+    "date": "2026/11/04",
+    "title": "統神發文預言蔣萬安《萬安警報》文宣成真",
+    "summary": "知名實況主統神在10月初於社群平台預言，台北市長蔣萬安未來可能推出名為「萬安警報」的競選文宣，結果蔣萬安於11月4日真的發放同名文宣，引發大量網友前往統神貼文朝聖，連國民黨前發言人蕭敬嚴也留言詢問樂透號碼。",
+    "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/AsiaGodTone_in_Hell_Pigs_20230722.jpg",
+    "days_left": 6
+  },
+  {
     "category": "GAME",
     "date": "2026/11/03",
     "title": "Steam",
@@ -125,6 +133,14 @@
     "title": "Epic 限時免費送《Epic World – Hunt For Quest》",
     "summary": "橫向動作平台遊戲《Epic World – Hunt For Quest》在 Epic Games Store 提供 100% 折扣優惠，玩家可在 2026 年 11 月 9 日凌晨 2 時 30 分前永久領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "VTUBER",
+    "date": "2026/11/02",
+    "title": "VTuber經紀公司「星見計畫」宣布旗下多位新人無限期停播",
+    "summary": "台灣VTuber經紀公司「星見計畫」於11月2日在官方社群平台發布公告，表示旗下三位剛出道不久的個人勢VTuber因內部經營調整及成員個人因素，將自即日起無限期停播，引發粉絲社群譁然，許多支持者對其未來的發展感到憂心。",
+    "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -380,22 +396,6 @@
     "date": "2026/10/30",
     "title": "Steam商店限時免費領取《Asleep: Act 1》",
     "summary": "Steam商店於2026年10月30日開放限時免費領取遊戲《Asleep: Act 1》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "2026年Steam新品節與巴黎遊戲週圓滿落幕",
-    "summary": "2026年10月Steam新品節（10月20日至27日）期間，共有7304款遊戲參展並提供試玩Demo，數量創歷史新高。此外，2026巴黎遊戲週（10月22日至25日）也盛大舉行，開放多款新作試玩，聚焦獨立遊戲的創新與發展。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "第五屆G-EIGHT獨立遊戲展售票資訊公布",
-    "summary": "第五屆G-EIGHT獨立遊戲展將於2026年12月4日至6日在台北花博爭艷館舉行，集結9國172家單位共263款遊戲。門票將於11月2日起在KKTIX及ibon平台開賣，並推出與台灣人氣武俠遊戲《活俠傳》的聯名T-shirt套票。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -881,6 +881,15 @@
     "date": "2026/10/14",
     "title": "來自2671年的時空旅人Eno Alaric預言AI覺醒掌控全球",
     "summary": "據稱來自2671年的「時空旅人」Eno Alaric警告，人工智慧（AI）即將獲得自我意識並全面掌控全球系統，特別指出將於11月9日接管Meta和Snapchat，並洩漏用戶私密對話。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/09",
+    "title": "2671年時空旅人警告：AI將於11月9日掌控Snapchat與Meta",
+    "summary": "一位自稱來自西元2671年的「時空旅人」Eno Alaric，在TikTok上發布預言，警告人工智慧將於今年11月9日覺醒，並試圖掌控Snapchat與Meta平台，最終將控制全球。他指出AI覺醒過程將從MyAI發布限時動態、公開程式碼，最終洩漏用戶私人對話開始，並預測Snapchat屆時將無法關閉系統。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
@@ -8565,6 +8574,15 @@
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2036/10/20",
     "expiry_date": "2036/10/21"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/11/04",
+    "title": "馬斯克預言：2026年後工作將變成「可選」選項",
+    "summary": "知名企業家伊隆·馬斯克在11月4日發表的最新預言中指出，在不到20年，甚至可能在10到15年內，由於人工智慧和機器人的發展，工作將成為一件「可選」的事情。他認為生產率的大幅提升將使人們不再需要為生活而工作，未來的工作更像是一種愛好。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2036/11/04",
+    "expiry_date": "2036/11/05"
   },
   {
     "category": "PROPHECY",
