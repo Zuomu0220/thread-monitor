@@ -56,6 +56,14 @@
     "days_left": 5
   },
   {
+    "category": "GAME",
+    "date": "2026/11/02",
+    "title": "Steam 2026 最新限時優惠免費遊戲",
+    "summary": "PinoGamer 皮諾電玩網站整理了 2026 年 Steam 每日限時免費或折扣的遊戲，鼓勵玩家在活動期間內下載或購買。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
     "category": "STREAMER",
     "date": "2026/11/01",
     "title": "無最新負面與爭議事件",
@@ -389,14 +397,6 @@
     "title": "Epic Games Store 限時免費《抱歉，我們關門了》",
     "summary": "《抱歉，我們關門了》（Sorry We're Closed）於 Epic Games Store 開放限時免費領取，活動將持續至 11 月 5 日。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/29",
-    "title": "Hololive 處理未成年侵權案例",
-    "summary": "COVER 公司發布最新聲明，表示將嚴肅處理旗下藝人權利侵害行為，即使加害者為未成年，藝人受到的傷害事實不變，將比照其他案件妥善處理。公告中指出，有網友偽造藝人個人資料，已侵害藝人隱私權。此舉旨在維護藝人權益，並重申公司對於侵權行為零容忍的態度。",
-    "avatar_url": "https://ui-avatars.com/api/?name=📝&background=475569&color=fff&size=128",
     "days_left": 1
   },
   {
