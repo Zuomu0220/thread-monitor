@@ -41,6 +41,14 @@
   },
   {
     "category": "GAME",
+    "date": "2026/11/04",
+    "title": "Steam 新遊戲上市",
+    "summary": "結合老虎機與增量機制遊戲《宇宙拉霸（Space Lot）》正式登陸 Steam 平台，並提供 85 折的上市優惠與免費試玩版。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 6
+  },
+  {
+    "category": "GAME",
     "date": "2026/11/03",
     "title": "Steam",
     "summary": "《全境封鎖2 - 中央公園的迴響》擴充內容豪華版發行：此為《全境封鎖2》的擴充內容，遊戲類型為刷寶射擊、開放世界、多人、第三人稱射擊。",
@@ -68,6 +76,22 @@
     "date": "2026/11/03",
     "title": "Epic Games Store限時免費遊戲：《Dark Mystery》橫向闖關解謎",
     "summary": "由Yash Future Tech Solutions發行的《Dark Mystery》目前於Epic Games平台限時免費，活動截止時間為11月8日。這是一款結合解謎與平台跳躍的橫向闖關作品。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/11/03",
+    "title": "Steam 遊戲特價",
+    "summary": "《Survival: Fountain of Youth》在 Steam 平台推出 65% 折扣優惠。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 5
+  },
+  {
+    "category": "GAME",
+    "date": "2026/11/03",
+    "title": "Steam 免費試玩版",
+    "summary": "陪伴系遊戲《Muv-Luv 少女庭園Mellow Days》將於 2026 年 11 月 19 日發售，目前已在 Steam 平台提供免費體驗版下載。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 5
   },
@@ -141,6 +165,14 @@
     "title": "VTuber經紀公司「星見計畫」宣布旗下多位新人無限期停播",
     "summary": "台灣VTuber經紀公司「星見計畫」於11月2日在官方社群平台發布公告，表示旗下三位剛出道不久的個人勢VTuber因內部經營調整及成員個人因素，將自即日起無限期停播，引發粉絲社群譁然，許多支持者對其未來的發展感到憂心。",
     "avatar_url": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=150&auto=format&fit=crop&q=80",
+    "days_left": 4
+  },
+  {
+    "category": "GAME",
+    "date": "2026/11/02",
+    "title": "Epic Games 限時免費",
+    "summary": "橫版動作冒險遊戲《Epic World - Hunt For Quest》開放限時免費領取，玩家可在北京時間 2026 年 11 月 9 日前免費入庫。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 4
   },
   {
@@ -364,38 +396,6 @@
     "date": "2026/10/30",
     "title": "Steam 限時免費遊戲釋出",
     "summary": "據報導，Steam 於 2026 年 10 月 30 日更新了限時免費遊戲資訊，其中包含《飛越！100KM！山脈！》、《Bunny Guys!》和《BROTHER!!!》等遊戲可供玩家限時免費領取。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "Steam 特賣：成人遊戲週與「爆乳博覽會」活動開跑",
-    "summary": "Steam 平台於 2026 年 10 月 30 日推出「成人遊戲週」折扣活動。此外，由「紳手牌HGamer.tw」主辦的「爆乳博覽會」特賣也已展開，活動期間至台灣時間 2026 年 11 月 13 日凌晨 1:00 止，提供多款巨乳主題成人遊戲折扣。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "第五屆G-EIGHT獨立遊戲展售票資訊公布，攜手《活俠傳》推聯名套票",
-    "summary": "台灣獨立遊戲展 G-EIGHT 公布第五屆活動售票資訊，將於 2026 年 12 月 4 日至 6 日在台北花博爭艷館登場。門票於 2026 年 11 月 2 日中午 12 時起開賣，並與人氣武俠遊戲《活俠傳》合作推出限量聯名 T-shirt 套票。本次展覽集結 9 國 172 組單位共 263 款遊戲，並首度規劃商務媒合專區。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 1
-  },
-  {
-    "category": "VTUBER",
-    "date": "2026/10/30",
-    "title": "Ado生日演唱會引爭議：兩小時演出僅一小時歌唱",
-    "summary": "日本知名歌手Ado在10月24、25日舉辦的粉絲俱樂部限定生日演唱會「Adoのドキドキ秘密基地」引發粉絲不滿。儘管票價為新台幣3千元且吸引眾多日本及海外粉絲參與，但有觀眾反映整場兩小時半的活動中，實際歌唱時間僅約一小時，其餘多為訪談和過往直播精華片段。許多粉絲認為訪談和直播內容在免費平台上即可觀看，對花錢進場卻體驗到「水時間」的活動內容感到失望，甚至有日本網友表示將不再支持Ado的現場演出。",
-    "avatar_url": "https://img.league-funny.com/imgur/1669460021-u2G2L.jpeg",
-    "days_left": 1
-  },
-  {
-    "category": "GAME",
-    "date": "2026/10/30",
-    "title": "Steam商店限時免費領取《Asleep: Act 1》",
-    "summary": "Steam商店於2026年10月30日開放限時免費領取遊戲《Asleep: Act 1》。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 1
   },
@@ -890,6 +890,15 @@
     "date": "2026/10/09",
     "title": "2671年時空旅人警告：AI將於11月9日掌控Snapchat與Meta",
     "summary": "一位自稱來自西元2671年的「時空旅人」Eno Alaric，在TikTok上發布預言，警告人工智慧將於今年11月9日覺醒，並試圖掌控Snapchat與Meta平台，最終將控制全球。他指出AI覺醒過程將從MyAI發布限時動態、公開程式碼，最終洩漏用戶私人對話開始，並預測Snapchat屆時將無法關閉系統。",
+    "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
+    "target_date": "2026/11/09",
+    "expiry_date": "2026/11/10"
+  },
+  {
+    "category": "PROPHECY",
+    "date": "2026/10/14",
+    "title": "來自2671年的時間旅行者預言AI覺醒",
+    "summary": "一名自稱來自 2671 年的時間旅行者警告，人工智能將在 2026 年 11 月 9 日後覺醒自我意識並試圖控制全球，接管 Meta 和 Snapchat 等平台。",
     "avatar_url": "https://images.unsplash.com/photo-1519666250349-6b43344f3291?w=150&auto=format&fit=crop&q=80",
     "target_date": "2026/11/09",
     "expiry_date": "2026/11/10"
