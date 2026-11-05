@@ -1,5 +1,13 @@
 [
   {
+    "category": "GAME",
+    "date": "2026/11/05",
+    "title": "Epic Games",
+    "summary": "即將限時免費領取《Flotsam》與《Idle Champions of the Forgotten Realms》：Epic Games Store 宣布將於 11 月 5 日至 11 月 12 日開放限時免費領取模擬遊戲《Flotsam》以及《Idle Champions of the Forgotten Realms》。",
+    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "days_left": 7
+  },
+  {
     "category": "STREAMER",
     "date": "2026/11/04",
     "title": "實況主TheBurntPeanut獲遊戲特權引發《黎明死線》社群炎上",
@@ -228,14 +236,6 @@
     "date": "2026/11/01",
     "title": "Epic Games Store 限時免費領取《Epic World – Hunt For Quest》",
     "summary": "Epic Games Store 於 2026 年 11 月 1 日開放限時免費領取遊戲《Epic World – Hunt For Quest》。",
-    "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
-    "days_left": 3
-  },
-  {
-    "category": "GAME",
-    "date": "2026/11/01",
-    "title": "Epic Games",
-    "summary": "限時免費領取《Epic World – Hunt For Quest》與《Gladiator: Blades of Fury》：Epic Games 商店於此期間推出兩款遊戲供玩家限時免費領取。",
     "avatar_url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
     "days_left": 3
   },
